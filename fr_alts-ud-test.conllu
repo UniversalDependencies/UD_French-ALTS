@@ -11185,3 +11185,4 @@
 55	vetures	voiture	NOUN	_	Number=Plur	52	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 56	!	!	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 57	»	»	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
