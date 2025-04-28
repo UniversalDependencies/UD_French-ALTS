@@ -68,6 +68,7 @@
 64	est	être	AUX	_	VerbForm=Fin	65	aux	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 65	submynse	soumettre	VERB	_	VerbForm=Part	31	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 66	,	,	PUNCT	_	_	31	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_1_1_2
 # text = et y est touchant son comporte et gouverne et de ce que elle est suspectionnee d'avoir usé de sort et art de sorcherie.
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -95,6 +96,7 @@
 23	de	de	ADP	_	_	24	case	_	gold_pos=ADP|prpos=S|uppos=P
 24	sorcherie	sorcerie	NOUN	_	_	20	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 25	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_2_1_1
 # text = Johan Etur, deubment jurey et sermentey sur sainctes Evangelles de Dieu, ainsy qu'yl apartient, dict et raporte que le .xxe. jour du moes de juillet desrain passey il achapta deulx payns de la fame de Collas Bryart, dedens lesquelz il y avoet des verms, et qu'yl les monstra a Collas Andry, lequell prynt ung des payns et le couppa et adoncque trouva parellement des verms.
 1	Johan	Jehan	PROPN	_	Number=Plur	19	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -175,6 +177,7 @@
 74	des	un	DET	_	Definite=Ind	75	det	_	gold_pos=DET|prpos=Dn|uppos=D
 75	verms	ver	NOUN	_	Number=Plur	72	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 76	.	.	PUNCT	_	_	19	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_3_1_1
 # text = Jehannette la Constancheze, de l'aage de .lx. ans ou vyron, dit et raporte que il y a vyron troys ans que Johan Cabot luy dyst que il avoet retenu certayns biens meubles de la fame Collas du Port juscque a ce que il fust poyé pour certain louage que elle luy debvoet et que fame dudit du Port estoet venue pour demander lesditz biens, a laquelle choze ledit Cabot ne luy voulut point rendre.
 1	Jehannette	Jehannette	PROPN	_	Number=Plur	14	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -258,6 +261,7 @@
 78	point	point	ADV	_	_	77	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADVNEG
 79	rendre	rendre	VERB	_	VerbForm=Inf	77	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 80	.	.	PUNCT	_	_	14	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_3_1_2
 # text = Et sur ce et incontynent l'enffant dudit Cabot fut pryntz de maladie et fut en grant langueur par l'espasse de six sepmainnes.
 1	Et	et	CCONJ	_	_	12	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -287,6 +291,7 @@
 24	six	six	NUM	_	NumType=Card	25	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 25	sepmainnes	semaine	NOUN	_	Number=Plur	22	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 26	.	.	PUNCT	_	_	12	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_3_1_3
 # text = Et, voyant ledit Cabot que il n'amendoet nullement a sondit enffant, il rendyt et delyvra lesditz biens a la fame dudit du Port, aprés laquelle rendition incontynent ledit enffant vynt en amendement et en bonne santé.
 1	Et	et	CCONJ	_	_	16	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -332,6 +337,7 @@
 40	bonne	bon	ADJ	_	_	41	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 41	santé	santé	NOUN	_	_	37	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 42	.	.	PUNCT	_	_	16	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_3_1_4
 # text = Et d'habondant raporte de cuyder et de croire que la fame dudit du Port use de sort et art de sorcherie.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -359,6 +365,7 @@
 22	de	de	ADP	_	_	23	case	_	gold_pos=ADP|prpos=S|uppos=P
 23	sorcherie	sorcerie	NOUN	_	_	19	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 24	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_4_1_1
 # text = Thomas le Petyt, deubment jurey et sermentey ainsy que il apartient, dict et raporte que il y a viron chinq ans que le filz a la fame de Collas du Port vynt en son gardin, la ou il luy desroba des pommes et des prunes.
 1	Thomas	Thomas	PROPN	_	Number=Plur	14	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -410,6 +417,7 @@
 47	des	un	DET	_	Definite=Ind	48	det	_	gold_pos=DET|prpos=Dn|uppos=D
 48	prunes	prune	NOUN	_	Number=Plur	45	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 49	.	.	PUNCT	_	_	14	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_4_1_2
 # text = Et ung peu aprés cela il trouva ledit filz et luy dyst: « Pourquoy m'as tu prynz de mes pommes et de mes prunes?
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -439,6 +447,7 @@
 25	mes	mon	DET	_	_	26	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 26	prunes	prune	NOUN	_	Number=Plur	22	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 27	?	?	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_4_1_3
 # text = Je suys ung paupvre louagier,
 1	Je	je	PRON	_	PronType=Prs	5	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -447,6 +456,7 @@
 4	paupvre	pauvre	ADJ	_	_	5	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 5	louagier	louagier	NOUN	_	_	0	root	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 6	,	,	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_4_1_4
 # text = il te fauldera copper les oreilles! »
 1	il	il	PRON	_	PronType=Prs	3	expl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -457,6 +467,7 @@
 6	oreilles	oreille	NOUN	_	Number=Plur	4	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 7	!	!	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 8	»	»	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_4_1_5
 # text = Et a six ou sept jours de la, il fut pryntz de mall en grant langueur et est encoure a present.
 1	Et	et	CCONJ	_	_	12	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -482,6 +493,7 @@
 21	a	à	ADP	_	_	22	case	_	gold_pos=ADP|prpos=S|uppos=P
 22	present	présent	NOUN	_	_	19	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 23	.	.	PUNCT	_	_	12	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_5_1_1
 # text = Collas Denys dit et raporte que il a ouy dire a la servante de sa fille, fame de Collasle Mestre, que, alhors que sadite fille estoet en couche, vynt Collas du Port et sa fame en la maison de sadite fille, et aporterent du poysson et la le mengerent.
 1	Collas	[Col]las	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|in_version=[Col]las|prpos=Np|uppos=NPRS
@@ -539,6 +551,7 @@
 53	le	il	PRON	_	PronType=Prs	54	obj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 54	mengerent	manger	VERB	_	VerbForm=Fin	33	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 55	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_5_1_2
 # text = Et, quant ilz vyndrent a conter, il y avoet .vi. estelincs d'argent de bire, lesquelz on leur fyst poyer,
 1	Et	et	CCONJ	_	_	11	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -565,6 +578,7 @@
 22	fyst	faire	AUX	_	VerbForm=Fin	23	aux	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 23	poyer	payer	VERB	_	VerbForm=Inf	13	acl:relcl	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 24	,	,	PUNCT	_	_	11	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_5_1_3
 # text = et, a cause de cela, la fame dudit du Port luy dyst que on s'en repentiroet,
 1	et	et	CCONJ	_	_	15	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -589,6 +603,7 @@
 19	en	en	PRON	_	PronType=Prs	20	obl	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
 20	repentiroet	repentir	VERB	_	VerbForm=Fin	15	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 21	,	,	PUNCT	_	_	15	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_5_1_4
 # text = et incontinent aprés sadite fille fut prynse de mall et mynse hors de son sens.
 1	et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -607,6 +622,7 @@
 14	son	son	DET	_	_	15	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 15	sens	sens	NOUN	_	_	11	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_5_1_5
 # text = Et raporte de cuyder et de croire que la fame dudit du Port use de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -632,6 +648,7 @@
 20	de	de	ADP	_	_	21	case	_	gold_pos=ADP|prpos=S|uppos=P
 21	sorcherie	sorcerie	NOUN	_	_	17	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 22	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_6_1_1
 # text = Guillome Hamon dit et raporte que il y a viron deulx ans que la fame dudit du Port vynt demander du layct a sa fame et que on l'en esconduyt, et dempuys cela sadite fame n'a point eu de santé et de ce il avoet grande suspection sur la fame dudit du Port.
 1	Guillome	Guillaume	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -695,6 +712,7 @@
 57	du	du	PROPN	_	Number=Plur	54	nmod	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 58	Port	Port	PROPN	_	Number=Plur	57	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 59	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_6_1_2
 # text = Item dict que hyer matin Gracyenne Gousset vynt demander du layct en sa mayson et que elle en fut esconduytte, et que dempuys cela une de ses vaches n'a donné nul laict en ung de ses trangs ne ne donne a present fors que une choze qui est noire.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -749,6 +767,7 @@
 50	est	être	AUX	_	VerbForm=Fin	51	cop	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 51	noire	noir	ADJ	_	_	48	acl:relcl	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 52	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_6_1_3
 # text = Aprés lequell raport ledit Hamon s'en allyt queryr dudit laict et l'apporta par devant justice.
 1	Aprés	après	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -771,6 +790,7 @@
 17	devant	devant	ADP	_	_	18	case	_	gold_pos=ADP|prpos=S|uppos=P
 18	justice	justice	NOUN	_	_	15	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_6_1_4
 # text = Et d'habondant raporte de cuyder et de croire que la fame dudit du Port use de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -798,6 +818,7 @@
 22	de	de	ADP	_	_	23	case	_	gold_pos=ADP|prpos=S|uppos=P
 23	sorcherie	sorcerie	NOUN	_	_	19	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 24	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_7_1_2
 # text = Et raporte de cuyder et de croire que ladite fame use de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -818,6 +839,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_8_1_1
 # text = Marie, fame dudit Collas Osouet, dict et raporte en tout et partout come sondit mary a depozey.
 1	Marie	Marie	PROPN	_	Number=Plur	9	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -842,6 +864,7 @@
 19	a	avoir	AUX	_	VerbForm=Fin	20	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 20	depozey	déposer	VERB	_	VerbForm=Part	9	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 21	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_8_1_2
 # text = Et dict que elle garda le veau l'espasse de troys sepmainnes, sans que il peust boire nullement.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -864,6 +887,7 @@
 18	boire	boire	VERB	_	VerbForm=Inf	17	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
 19	nullement	nullement	ADV	_	_	17	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 20	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_8_1_4
 # text = Et raporte de cuyder et de voir que ledit du Port use de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -881,6 +905,7 @@
 13	de	de	ADP	_	_	14	case	_	gold_pos=ADP|prpos=S|uppos=P
 14	sorcherie	sorcerie	NOUN	_	_	12	obl	_	gold_pos=NOUN|in_version=s[orcherie]|prpos=Nc|SpaceAfter=No|uppos=NCS
 15	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_9_1_2
 # text = Et aprés vyt la fame dudit du Port, laquelle estoet en une corniere, qui escoutoet lesdites fames, a laquelle ledit Martin luy dyst: « Que faictes vous?
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -917,6 +942,7 @@
 31	faictes	faire	VERB	_	VerbForm=Part	27	ccomp	_	gold_pos=VERB|prpos=Ge|uppos=VPP
 32	vous	vous	PRON	_	PronType=Prs	31	nsubj	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
 33	?	?	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_9_1_3
 # text = La venés ouyr ce que lesdites fames dient de vous,
 1	La	là	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -930,6 +956,7 @@
 9	de	de	ADP	_	_	10	case	_	gold_pos=ADP|prpos=S|uppos=P
 10	vous	vous	PRON	_	PronType=Prs	8	obl	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
 11	,	,	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_9_1_4
 # text = il vous suspectent grandement pour la mort de leurs marys. »
 1	il	il	PRON	_	PronType=Prs	3	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -944,6 +971,7 @@
 10	marys	mari	NOUN	_	Number=Plur	7	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 11	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 12	»	»	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_9_1_5
 # text = Et elle vint la et dyst que Dieu leur veulle pardonner de ce que elles disoient d'elle.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -965,6 +993,7 @@
 17	d'	de	ADP	_	_	18	case	_	gold_pos=ADP|prpos=S|SpaceAfter=No|uppos=P
 18	elle	il	PRON	_	PronType=Prs	16	obl	_	gold_pos=PRON|join=left|prpos=Pp|SpaceAfter=No|uppos=PRO
 19	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_9_1_6
 # text = Et disoient lesdites fames que leur marys estoient noyés et que ilz avoient grande suspection de la fame dudit du Port a cause de troys roussetz que Jammes le Mestre luy avoet vendu.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1003,6 +1032,7 @@
 33	avoet	avoir	AUX	_	VerbForm=Fin	34	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 34	vendu	vendre	VERB	_	VerbForm=Part	27	acl:relcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 35	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_9_1_7
 # text = Et d'habondant raporte de cuyder et de croire que ladite fame use de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1025,6 +1055,7 @@
 18	de	de	ADP	_	_	19	case	_	gold_pos=ADP|prpos=S|uppos=P
 19	sorcherie	sorcerie	NOUN	_	_	15	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 20	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_10_1_1
 # text = Thomas Blondell dict et raporte en tout et partout come ledit Nicollas Martin a depozé.
 1	Thomas	Thomas	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -1043,6 +1074,7 @@
 14	a	avoir	AUX	_	VerbForm=Fin	15	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 15	depozé	déposer	VERB	_	VerbForm=Part	3	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 16	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_11_1_1
 # text = Collette, delessyé de Collas Levesque, dit et raporte que il y eult mercredy desrain passey troys sepmainnes que Louys Copin et ses gentz vyndrent de la meir et, estantz arryvés, vynt la fame de Collas du Port leur demander du poysson, et luy fut vendu par Jammes le Mestre troys roussetz par troys mailles d'argent.
 1	Collette	Collette	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -1107,6 +1139,7 @@
 60	d'	de	ADP	_	_	61	case	_	gold_pos=ADP|prpos=S|SpaceAfter=No|uppos=P
 61	argent	argent	NOUN	_	_	59	nmod	_	gold_pos=NOUN|join=left|prpos=Nc|SpaceAfter=No|uppos=NCS
 62	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_11_1_2
 # text = Et aprés cela ouyt dire a la fame dudit du Port en disant: « Par mon Dieu, ilz s'en repentyront!
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1135,6 +1168,7 @@
 23	en	en	PRON	_	PronType=Prs	24	obl	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
 24	repentyront	repentir	VERB	_	VerbForm=Fin	14	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 25	!	!	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_11_1_3
 # text = Il y a deulx ans que je n'en n*avoes auttant achapté. »
 1	Il	il	PRON	_	PronType=Prs	3	expl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -1151,6 +1185,7 @@
 12	achapté	acheter	VERB	_	VerbForm=Part	3	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 13	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 14	»	»	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_11_1_4
 # text = Et raporte de cuyder et de croire que ladite fame use d'art de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1169,6 +1204,7 @@
 14	de	de	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P
 15	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_12_1_1
 # text = Guillemyne Grochin dit et raporte que il y a plus de deulx ans passés que la fame de Collas du Port venoet de Saint-Sansson en se plaignant que de plusieurs elle n'avoet pas peu avoir ne trouver une escullee de layt, et en demanda a la mere a ladite deposante pour donner a son filz, laquelle luy respongnyt que elle n'en n*avoet point.
 1	Guillemyne	Guillemine	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -1239,6 +1275,7 @@
 66	n*avoet	avoir	VERB	_	VerbForm=Fin	61	ccomp	_	gold_pos=VERB|join=left|prpos=Vuc|uppos=AJ
 67	point	point	ADV	_	_	66	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADVNEG
 68	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_12_1_2
 # text = Et sur ce ung peu aprés la vache de sadite mere ne donnoet point de layct qui cremast.
 1	Et	et	CCONJ	_	_	13	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1260,6 +1297,7 @@
 17	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
 18	cremast	crémer	VERB	_	VerbForm=Fin	16	acl:relcl	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 19	.	.	PUNCT	_	_	13	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_12_1_3
 # text = Et aprés on luy donna a conseill de flater ladite fame et de luy dire que elle viensyst queryr du layct, ce que elle fyst,
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1289,6 +1327,7 @@
 25	elle	il	PRON	_	PronType=Prs	26	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 26	fyst	faire	VERB	_	VerbForm=Fin	23	acl:relcl	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 27	,	,	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_12_1_4
 # text = et adoncque ladite vache commencha a prosperer, donnant son layct comme auparavant.
 1	et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1305,6 +1344,7 @@
 12	comme	comme	ADP	_	_	13	case	_	gold_pos=ADP|prpos=S|uppos=P
 13	auparavant	auparavant	ADV	_	_	9	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 14	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_12_1_5
 # text = Et dit que ledit Collas du Port luy a recommandé sa fame dempuys que elle a estey mynse au Chateau, quant elle viendroet devant justice.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1336,6 +1376,7 @@
 26	devant	devant	ADP	_	_	27	case	_	gold_pos=ADP|prpos=S|uppos=P
 27	justice	justice	NOUN	_	_	25	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 28	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_12_1_6
 # text = Et raporte de cuyder et de croire que ladite fame use d'art de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1354,6 +1395,7 @@
 14	de	de	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P
 15	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_13_1_1
 # text = Nicollas le Mestre dit et raporte que, alhors que sa fame estoet en couche, vynt la fame dudit du Port et son mary en sa maison et la beurent et mengerent et despencerent .vi. denirs d'argent en bire, lesquelz ilz poyerent mainty par maynty.
 1	Nicollas	Nicolas	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -1407,6 +1449,7 @@
 48	par	par	ADP	_	_	49	case	_	gold_pos=ADP|prpos=S|uppos=P
 49	maynty	moitié	NOUN	_	_	47	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 50	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_14_1_1
 # text = Et sur ce dyst ledit deposant a la fame dudit Port que elle s'en allyst, ce que elle fyst.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1433,6 +1476,7 @@
 21	elle	il	PRON	_	PronType=Prs	22	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 22	fyst	faire	VERB	_	VerbForm=Fin	19	acl:relcl	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 23	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_14_1_2
 # text = Et, en sortissant par l'huys de ladite maison, il ouyt luy dire que on s'en repentiroet de ce que on leur avoet faict trop poyer.
 1	Et	et	CCONJ	_	_	13	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -1465,6 +1509,7 @@
 28	trop	trop	ADV	_	_	29	advmod	_	gold_pos=ADV|prpos=Rg|uppos=Q
 29	poyer	payer	VERB	_	VerbForm=Inf	22	acl	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 30	.	.	PUNCT	_	_	13	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_14_1_3
 # text = Et a celle mesme heure sadite fame fut prynse de mall en sort que elle perdyt son sens.
 1	Et	et	CCONJ	_	_	9	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1486,6 +1531,7 @@
 17	son	son	DET	_	_	18	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 18	sens	sens	NOUN	_	_	16	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_14_1_4
 # text = Et .iii. sepmainnes aprés la fame dudit du Port vint en sadite maison, pour sçaver que la fame dudit deposant reffesoet, et entra et fyst son oevpbre aprés elle, et luy fyst ung potage, lequelle elle luy fyst menger.
 1	Et	et	CCONJ	_	_	11	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1536,6 +1582,7 @@
 44	fyst	faire	AUX	_	VerbForm=Fin	45	aux	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 45	menger	manger	VERB	_	VerbForm=Inf	39	acl:relcl	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 46	.	.	PUNCT	_	_	11	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_14_1_5
 # text = Et aprés prynt son eupvre, et estoet pour lhors en santé en sa presence.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1554,6 +1601,7 @@
 14	sa	son	DET	_	_	15	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 15	presence	présence	NOUN	_	_	8	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_14_1_6
 # text = Et puys aprés que la fame dudit du Port fut departie, sadite fame fut reprynse pyrs que devant.
 1	Et	et	CCONJ	_	_	17	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1578,6 +1626,7 @@
 19	que	que	SCONJ	_	_	20	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
 20	devant	devant	ADV	_	_	17	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 21	.	.	PUNCT	_	_	17	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_14_1_7
 # text = Aprés lesquelles choses furent advertys de regarder dedens son luyct, ce qu'ylz fyrent, et trouverent chinq vougz audit luyct et deulx aultres dedens ung orillier.
 1	Aprés	après	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -1611,6 +1660,7 @@
 28	ung	un	DET	_	Definite=Ind	29	det	_	gold_pos=DET|prpos=Di|uppos=D
 29	orillier	oreiller	NOUN	_	_	26	orphan	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 30	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_14_1_8
 # text = Et, cela hors, il amendoet tousjours a sadite fame.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -1625,6 +1675,7 @@
 10	sadite	sondit	DET	_	_	11	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 11	fame	femme	NOUN	_	_	7	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 12	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_14_1_9
 # text = Et d'habondant dit que ilz gardoient a la fame dudit du Port du layct pour luy baillier, et ce faisoient bien souvent, mays, quant on l'en esconduysset, ilz ne pouvoient jouyr de leur vachez et que le layct ne se trouvoet point bon ne competent.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1681,6 +1732,7 @@
 51	ne	ni	CCONJ	_	_	52	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 52	competent	compétent	ADJ	_	_	50	conj	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 53	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_14_1_10
 # text = Et dit de cuyder et de croire que la fame dudit du Port est une maulvaize fame et de ung maulvais bruyt, et que elle use de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1719,6 +1771,7 @@
 33	de	de	ADP	_	_	34	case	_	gold_pos=ADP|prpos=S|uppos=P
 34	sorcherie	sorcerie	NOUN	_	_	30	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 35	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_15_1_1
 # text = Johan Cabot dit et raporte que Collas du Port et sa fame furent logés en sa maison par l'espasse de chinq quartiers d'an, et que ilz retynt aulcuns de leurs biens pour son louage.
 1	Johan	Jehan	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -1759,6 +1812,7 @@
 36	son	son	DET	_	_	37	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 37	louage	louage	NOUN	_	_	30	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 38	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_15_1_2
 # text = Et aprés lesditz biens retenus, son enffant fut pryntz de mall ung peu aprés et fut malade bien l'espasse de sept sepmainnes sans parler ny boire ne menger.
 1	Et	et	CCONJ	_	_	10	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1792,6 +1846,7 @@
 29	ne	ni	CCONJ	_	_	30	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 30	menger	manger	VERB	_	VerbForm=Inf	26	conj	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 31	.	.	PUNCT	_	_	10	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_15_1_3
 # text = Et sur ce il y eult de ses voyssins qui luy dyst que sondit enffant estoet detenu de quelque sorchier,
 1	Et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1815,6 +1870,7 @@
 19	quelque	quelque	DET	_	Definite=Ind	20	det	_	gold_pos=DET|prpos=Di|uppos=D
 20	sorchier	sorcier	NOUN	_	_	17	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 21	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_15_1_4
 # text = et, ayant la fame dudit du Port en suspection, s'adrecha a elle en luy disant que elle detenoet sondit enffant et qu'yl la feroet mettre au Chateau et que elle vyensyst querir ses biens. laquelle y vynt.
 1	et	et	CCONJ	_	_	14	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -1864,6 +1920,7 @@
 43	y	y	PRON	_	PronType=Prs	44	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 44	vynt	vynt	VERB	_	VerbForm=Fin	36	acl:relcl	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 45	.	.	PUNCT	_	_	14	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_15_1_5
 # text = Et, a la rendition d'yceulx, ladite fame luy crya mercy sur le chieff de son huys,
 1	Et	et	CCONJ	_	_	12	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -1886,6 +1943,7 @@
 18	son	son	DET	_	_	19	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 19	huys	huis	NOUN	_	_	16	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 20	,	,	PUNCT	_	_	12	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_15_1_6
 # text = et incontynent il amenda a sondit enffant,
 1	et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1896,6 +1954,7 @@
 6	sondit	sondit	DET	_	_	7	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 7	enffant	enfant	NOUN	_	_	4	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 8	,	,	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_15_1_7
 # text = et fut tout sain et guery dedens troys jours.
 1	et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1908,6 +1967,7 @@
 8	troys	trois	NUM	_	NumType=Card	9	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 9	jours	jour	NOUN	_	Number=Plur	4	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 10	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_15_1_8
 # text = Et d'habondant raporte que ladite fame use de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1925,6 +1985,7 @@
 13	de	de	ADP	_	_	14	case	_	gold_pos=ADP|prpos=S|uppos=P
 14	sorcherie	sorcerie	NOUN	_	_	10	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 15	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_16_1_1
 # text = Thonmasse, fame dudit Cabot, dit et raporte en tout et partout come sondit mary a depozé, reservé que elle n'estoet point presente quant la fame dudit du Port crya mercy a sondit mary.
 1	Thonmasse	Thomasse	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -1969,6 +2030,7 @@
 38	sondit	sondit	DET	_	_	39	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 39	mary	mari	NOUN	_	_	35	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 40	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_16_1_2
 # text = Et dit que le matin que lesditz biens furent rendus et delyvrés a ladite fame, son enffant commencha a parler la relevee au mesme jour.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2000,6 +2062,7 @@
 26	mesme	même	ADJ	_	_	27	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 27	jour	jour	NOUN	_	_	23	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 28	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_16_1_3
 # text = Et dit de cuyder et de croire que ladite fame use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2020,6 +2083,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_17_1_1
 # text = Maryn Mahy dit et raporte que la fame de Collas du Port vint a sa maison il y a vyron ung an, laquelle luy demanda et a sa fame pourquoy estoet ce que Collas Jehan et son filz avoient halley les oreilles de son garson.
 1	Maryn	Marin	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -2069,6 +2133,7 @@
 45	son	son	DET	_	_	46	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 46	garson	garçon	NOUN	_	_	43	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 47	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_17_1_2
 # text = A laquelle choze il luy respongnyt que ilz n'en sçavoient rien,
 1	A	à	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -2084,6 +2149,7 @@
 11	sçavoient	savoir	VERB	_	VerbForm=Fin	6	ccomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 12	rien	rien	PRON	_	PronType=Ind	11	obj	_	gold_pos=PRON|prpos=Pi|SpaceAfter=No|uppos=Q
 13	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_17_1_3
 # text = et sur ce ladite fame luy dyst que ledit Jehan et son filz s'en repentyroient.
 1	et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2103,6 +2169,7 @@
 15	en	en	PRON	_	PronType=Prs	16	obl	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
 16	repentyroient	repentir	VERB	_	VerbForm=Fin	7	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 17	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_17_1_4
 # text = Et raporte de cuyder et de croire que ladite fame use de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2123,6 +2190,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_18_1_1
 # text = Regnaulde, fame dudit Maryn, dit et raporte en tout et partout come sondit mary a depozey.
 1	Regnaulde	Regnaulde	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -2146,6 +2214,7 @@
 18	a	avoir	AUX	_	VerbForm=Fin	19	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 19	depozey	déposer	VERB	_	VerbForm=Part	8	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 20	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_19_1_1
 # text = Nicollas de la Court le Mersier dit et raporte que il a ouy dire a Collas du Port que sa fame est une meschante sorchiere et que il n'en seroet plus endurer, et qu'yll l'accuseroet.
 1	Nicollas	Nicolas	PROPN	_	Number=Plur	7	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -2188,6 +2257,7 @@
 38	l'	il	PRON	_	PronType=Prs	39	obj	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
 39	accuseroet	accuser	VERB	_	VerbForm=Fin	13	conj	_	gold_pos=VERB|join=left|prpos=Vvc|SpaceAfter=No|uppos=VJ
 40	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_19_1_2
 # text = Et dit que il estoet present quant Johan Cabot et la fame dudit du Port accorderent pour ung louage et, l'accord faict de biens rendus, elle dyst audit Cabot qu'yll amenderoet bientost a son enffant, et au mesme jour ledit enffant parla.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2244,6 +2314,7 @@
 49	enffant	enfant	NOUN	_	_	50	nsubj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 50	parla	parler	VERB	_	VerbForm=Fin	6	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 51	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_19_1_3
 # text = Et d'habondant dict que ladite fame use de art et de sort de sorcherie.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2262,6 +2333,7 @@
 14	de	de	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P
 15	sorcherie	sorcerie	NOUN	_	_	10	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_20_1_1
 # text = Guillome le Menuell dit et raporte qu'yl estoet present quant Jammes le Mestre vendyt troys rousettz a la fame de Collas du Port par le prys de ung barbu que ledit le Mestre recheut de ladite fame, et aprés luy ouyt dire que ledit Jammes le Mestre et toute son esquipage en mauldiroient l'heure, et que elle les menaschoet.
 1	Guillome	Guillaume	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -2328,6 +2400,7 @@
 62	les	il	PRON	_	PronType=Prs	63	obj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 63	menaschoet	menacer	VERB	_	VerbForm=Fin	55	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 64	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_20_1_2
 # text = Et raporte de cuyder et de croire que ladite fame use d'art de sorcherye.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2346,6 +2419,7 @@
 14	de	de	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P
 15	sorcherye	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_21_1_1
 # text = Marguitte Bryart dit et raporte que ung jour passey il y a viron deulx ans, la fame dudit du Port vynt a elle et luy demanda que elle luy donnast du vinaigre, laquelle luy dyst que elle en achaptast et que elle n'en n*avoet point a donner.
 1	Marguitte	Marguitte	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -2401,6 +2475,7 @@
 50	a	à	ADP	_	_	51	mark	_	gold_pos=ADP|prpos=S|uppos=P
 51	donner	donner	VERB	_	VerbForm=Inf	48	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 52	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_21_1_2
 # text = Et puys aprés s'en vint regarder au fosset de son vinaigre et le trouva doulx sans force come d'aue.
 1	Et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2427,6 +2502,7 @@
 21	d'	du	DET	_	_	22	det	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
 22	aue	eau	NOUN	_	_	16	obl	_	gold_pos=NOUN|join=left|prpos=Nc|SpaceAfter=No|uppos=NCS
 23	.	.	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_21_1_3
 # text = Item dit que il y eult lundy .viii. jours que la fame de son filz faisoet sa patte en sa maison et, estante faicte et couverte, survynt la fame de Collas du Port en sadite maison en luy demandant du feu, et que elle prynt elle mesme et s'en alla.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -2484,6 +2560,7 @@
 53	en	en	PRON	_	PronType=Prs	54	obl	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
 54	alla	aller	VERB	_	VerbForm=Fin	16	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 55	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_21_1_4
 # text = Et aprés cela fut trouvey dedens ladite patte des verms tous mouvantz come verms de chair et poysson.
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2505,6 +2582,7 @@
 17	et	et	CCONJ	_	_	18	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 18	poysson	poisson	NOUN	_	_	16	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_21_1_5
 # text = Et dit que il n'y entra en ladite maison aultre personne que la fame dudit du Port.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2528,6 +2606,7 @@
 18	du	du	PROPN	_	Number=Plur	15	nmod	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 19	Port	Port	PROPN	_	Number=Plur	18	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 20	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_21_1_6
 # text = Et dit de cuyder et de croire que elle use de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2547,6 +2626,7 @@
 15	de	de	ADP	_	_	16	case	_	gold_pos=ADP|prpos=S|uppos=P
 16	sorcherie	sorcerie	NOUN	_	_	12	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 17	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_22_1_1
 # text = Guillemette Bryart dit et raporte touchant la patte et les verms tout et partout come ladite Marguitte Bryart a deposey, et raporte de cuyder et de croire que la fame dudit du Port use de art et sort de sorcherie.
 1	Guillemette	Guillemette	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -2593,6 +2673,7 @@
 41	de	de	ADP	_	_	42	case	_	gold_pos=ADP|prpos=S|uppos=P
 42	sorcherie	sorcerie	NOUN	_	_	38	nmod	_	gold_pos=NOUN|in_version=[sorche]rie|prpos=Nc|SpaceAfter=No|uppos=NCS
 43	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_23_1_1
 # text = Guillome Vibert dit et raporte que il a ouy appeller a Collas du Port sa fame mainteffoys meschante sorchiere, en luy disant: « Tu as bien jecté ton venin! »
 1	Guillome	Guillaume	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -2628,6 +2709,7 @@
 31	venin	venin	NOUN	_	_	29	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 32	!	!	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 33	»	»	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_23_1_2
 # text = Et raporte de cuyder et de croire que ladite fame use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2648,6 +2730,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_24_1_1
 # text = Francoys le Rossinoll dit et raporte que ung jour passey, la fame dudit du Port dyst a sa servante et a sa fille que ilz dyssent a sa fame que elle eust a mettre ung morceau de lart au pot, et que elle yroet la voer.
 1	Francoys	François	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -2703,6 +2786,7 @@
 49	la	il	PRON	_	PronType=Prs	50	obj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 50	voer	voir	VERB	_	VerbForm=Inf	48	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 51	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_24_1_2
 # text = Et sur ce vyndrent le dire a sadite fame, laquelle leur dyst: « Je me passeroy bien d'elle. »
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2728,6 +2812,7 @@
 21	elle	il	PRON	_	PronType=Prs	18	obl	_	gold_pos=PRON|join=left|prpos=Pp|SpaceAfter=No|uppos=PRO
 22	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 23	»	»	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_24_1_3
 # text = Et incontinent sadite fame fut prynse de mall et a estey malade bien l'espasse de .xiiii. sepmainnes.
 1	Et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2749,6 +2834,7 @@
 17	.xiiii.	quatorze	NUM	_	NumType=Card	18	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 18	sepmainnes	semaine	NOUN	_	Number=Plur	15	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 19	.	.	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_24_1_4
 # text = Item dit que dempuys .iii. sepmainnes ou vyron, il y avoet des Yroes qui prenoient du layct en sa maison, et ung jour ilz n'en peurent avoir, a cause que ilz n'en navoientavoient point, et Collas du Port leur en bailla et vendyt.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -2801,6 +2887,7 @@
 48	et	et	CCONJ	_	_	49	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 49	vendyt	vendre	VERB	_	VerbForm=Fin	47	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 50	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_24_1_5
 # text = Et sur ce dyst sadite fame: « Collas du Port a bien du layct a vendre. »
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2822,6 +2909,7 @@
 17	vendre	vendre	VERB	_	VerbForm=Inf	12	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 18	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 19	»	»	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_24_1_6
 # text = Sur laquelle parolle il aperceult que ses vaches furent merchees a la mesme heure, et ne donnoient point de layct par l'espasse de troys jours, de quoy il peussent en faire aulcun de leur proffyt.
 1	Sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -2863,6 +2951,7 @@
 37	leur	leur	DET	_	_	38	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 38	proffyt	profit	NOUN	_	_	35	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 39	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_24_1_7
 # text = Item dit que ung jour sa fille fut a queryr des dolleures a Glateny, la ou la fame de Collas du Port estoet, qui luy dist que elle n'en nayroetayroet point.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -2900,6 +2989,7 @@
 33	nayroetayroet	avoir	VERB	_	VerbForm=Fin	28	ccomp	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
 34	point	point	ADV	_	_	33	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADVNEG
 35	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_24_1_8
 # text = Et sur ce ladite fille luy dyst que sy airoet et que les carpentiers luy en avoient donney.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2921,6 +3011,7 @@
 17	avoient	avoir	AUX	_	VerbForm=Fin	18	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 18	donney	donner	VERB	_	VerbForm=Part	10	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 19	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_24_1_9
 # text = Et, elle s'en venant a sa maison, elle fut prynse come toute arragie en rompant ses vestementz.
 1	Et	et	CCONJ	_	_	13	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -2944,6 +3035,7 @@
 19	ses	son	DET	_	_	20	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 20	vestementz	vêtement	NOUN	_	Number=Plur	18	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 21	.	.	PUNCT	_	_	13	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_24_1_10
 # text = Et d'habondant dit et raporte de cuyder et de croire que ladite fame use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -2968,6 +3060,7 @@
 20	de	de	ADP	_	_	21	case	_	gold_pos=ADP|prpos=S|uppos=P
 21	sorcherie	sorcerie	NOUN	_	_	17	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 22	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_25_1_1
 # text = Thommasse, fame dudit Francoys, dit et raporte en tout et partout comme sondit mary a deposé, et dit que il a ouy dire audit Collas du Port que sa fame est une meschante sorchiere et plusieurs foys luy a ouy appeller.
 1	Thommasse	Thomasse	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -3019,6 +3112,7 @@
 45	ouy	ouïr	VERB	_	VerbForm=Part	26	conj	_	gold_pos=VERB|prpos=Ge|uppos=VPP
 46	appeller	appeler	VERB	_	VerbForm=Inf	45	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 47	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_26_1_1
 # text = Collas Bryart dit et raporte que il a ouy dire maynte foys a Collas du Port que sa fame est une meschante sorchiere et que, quant il faisoet quelque broullas, il luy disoet: « Va, meschante, tu as bien jecté ten venin! »
 1	Collas	Collas	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -3070,6 +3164,7 @@
 47	venin	venin	NOUN	_	_	45	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 48	!	!	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 49	»	»	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_26_1_2
 # text = Et d'habondant dit de cuyder et de croire que ladite fame use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3092,6 +3187,7 @@
 18	de	de	ADP	_	_	19	case	_	gold_pos=ADP|prpos=S|uppos=P
 19	sorcherie	sorcerie	NOUN	_	_	15	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 20	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_27_1_1
 # text = Charlotte le Gros dit et raporte que ung jour la fame dudit du Port vynt a sa maison en la pryant de luy mettre une poignie d'allyenne a son four et que elle envoya son filz a la queryr, lequell dempuys a estey noyé, et, ayant aporté ladite allyenne, la mynt en son four, elle ne sçayt pas pourquoy c'estoet, et que elle ne la vint point queryr aprés.
 1	Charlotte	Charlotte	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -3174,6 +3270,7 @@
 77	queryr	quérir	VERB	_	VerbForm=Inf	75	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
 78	aprés	après	ADV	_	_	75	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 79	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_27_1_2
 # text = Et dit que elle luy donnoet l'osmone plus par craynte que aultrement, a cause de maulvaize intention qu'elle avoet tousjours sur elle.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3202,6 +3299,7 @@
 24	sur	sur	ADP	_	_	25	case	_	gold_pos=ADP|prpos=S|uppos=P
 25	elle	il	PRON	_	PronType=Prs	22	obl	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
 26	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_27_1_3
 # text = Et dit de cuyder et de croire que ladite fame use d'art et sort de sorcherye.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3222,6 +3320,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherye	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_28_1_1
 # text = Collette Copin dit et raporte que il y eult ung an ce Caresme desrain passey que vynt son mary et son esquipage de la meir et, eulx venus, vynt la fame de Collas du Port, laquelle leur demanda l'osmone, et sur cela sondit mary luy dyst que l'osmone ne luy estoet point bien deube.
 1	Collette	Collette	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -3285,6 +3384,7 @@
 59	bien	bien	ADV	_	_	60	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 60	deube	devoir	VERB	_	VerbForm=Part	51	ccomp	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=MDPP
 61	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_28_1_3
 # text = Item dit que aprés que leurs gentz furent noyés, ilz aperceurent ung batteau au bec a la chiepvre don elles furent joyeuses, disant: « Dieu mercy, voecy noz gentz venir! »
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -3325,6 +3425,7 @@
 35	venir	venir	VERB	_	VerbForm=Inf	32	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 36	!	!	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 37	»	»	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_28_1_4
 # text = Et ce disant la estoet la fame dudit du Port, laquelle s'en moquett en tyrant la langue hors de sa bouche.
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3353,6 +3454,7 @@
 23	sa	son	DET	_	_	24	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 24	bouche	bouche	NOUN	_	_	18	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 25	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_28_1_5
 # text = Et d'habondant raporte de cuyder et de croire que ladite fame use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3375,6 +3477,7 @@
 18	de	de	ADP	_	_	19	case	_	gold_pos=ADP|prpos=S|uppos=P
 19	sorcherie	sorcerie	NOUN	_	_	15	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 20	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_29_1_1
 # text = Collas Artur dit et raporte que il y a viron quatre ans que la fame dudit du Port vynt en sa chope et luy demanda que il luy eulst a donner quelque choze,
 1	Collas	Collas	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -3413,6 +3516,7 @@
 33	quelque	quelque	DET	_	Definite=Ind	34	det	_	gold_pos=DET|prpos=Di|uppos=D
 34	choze	chose	NOUN	_	_	32	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 35	,	,	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_29_1_2
 # text = lequell Artur luy dyst que il n'avoet rien a luy donner, en luy disant: « Veulx tu avoir ce genest pour aller a Bordeaulx? »
 1	lequell	lequel	DET	_	_	2	det	_	gold_pos=DET|prpos=Dr|uppos=WD
@@ -3444,6 +3548,7 @@
 27	Bordeaulx	Bordeaux	PROPN	_	Number=Plur	25	obl	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 28	?	?	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 29	»	»	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_29_1_3
 # text = Sur laquelle choze ladite fame luy dyst: « Veulx tu dire que je soes sorchiere? »
 1	Sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -3464,6 +3569,7 @@
 16	sorchiere	sorcier	NOUN	_	_	12	ccomp	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 17	?	?	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 18	»	»	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_29_1_4
 # text = Et luy dyst en jurant que il s'en repentiroet.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3477,6 +3583,7 @@
 9	en	en	PRON	_	PronType=Prs	10	obl	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
 10	repentiroet	repentir	VERB	_	VerbForm=Fin	3	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 11	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_29_1_5
 # text = Et a sept jours de la, il fut pryntz es ouyes en teille sorte que il fut bien troys ans que il n'en vouet point.
 1	Et	et	CCONJ	_	_	10	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3509,6 +3616,7 @@
 27	vouet	voir	VERB	_	VerbForm=Fin	10	advcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 28	point	point	ADV	_	_	27	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADVNEG
 29	.	.	PUNCT	_	_	10	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_29_1_6
 # text = Et dit de cuyder et de croire que ladite fame use d'art et de sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3530,6 +3638,7 @@
 17	de	de	ADP	_	_	18	case	_	gold_pos=ADP|prpos=S|uppos=P
 18	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_30_1_1
 # text = Lorenche Vibert dit et raporte que il y a viron chinq ans passés que la fame de Collas du Port luy demanda une pieche de pain, laquelle luy refusa, et sur ce luy dyst que elle s'en repentiroet, et ung peu aprés elle fut prynse de maladie et que dempuys elle n'a point estey bien dispozee.
 1	Lorenche	Lorence	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -3594,6 +3703,7 @@
 60	bien	bien	ADV	_	_	61	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 61	dispozee	disposer	VERB	_	VerbForm=Part	22	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 62	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_30_1_2
 # text = Et dit de cuyder et de croire que ladite fame use de sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3612,6 +3722,7 @@
 14	de	de	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P
 15	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_31_1_1
 # text = Lucas Byschart dit et raporte que la fame de Collas du Port il y a vyron ung an luy aporta une faucille par deulx foys, luy disant que ladite faucille n'estoet point bien amendee, et ung peu aprés il fut pryntz de mall et de felon, et que encoure de present il n'en n*est pas bien, et que il en a ladite fame en grande suspection.
 1	Lucas	Lucas	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -3687,6 +3798,7 @@
 71	grande	grand	ADJ	_	_	72	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 72	suspection	suspection	NOUN	_	_	67	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 73	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_31_1_2
 # text = D'habondant raporte de cuyder et de croire que la fame dudit du Port use d'art et sort de sorcherie.
 1	D'	de	ADP	_	_	2	case	_	gold_pos=ADP|prpos=S|SpaceAfter=No|uppos=P
@@ -3713,6 +3825,7 @@
 21	de	de	ADP	_	_	22	case	_	gold_pos=ADP|prpos=S|uppos=P
 22	sorcherie	sorcerie	NOUN	_	_	18	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 23	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_32_1_1
 # text = Ysabell, fame de Johan du Mareesc, dit et raporte que a Noell desrain passey la fame de Collas du Port luy avoet abilly ung ventre de bestes, et que elle luy vint en demander son argent, laquelle luy envoya come on avoet accoustumey de bailler,
 1	Ysabell	Isabelle	PROPN	_	Number=Plur	9	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -3765,6 +3878,7 @@
 48	de	de	ADP	_	_	49	mark	_	gold_pos=ADP|prpos=S|uppos=P
 49	bailler	bailler	VERB	_	VerbForm=Inf	47	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 50	,	,	PUNCT	_	_	43	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_32_1_2
 # text = lequell argent elle refusa, disant que elle airoet la some que elle luy demandoet.
 1	lequell	lequel	DET	_	_	2	det	_	gold_pos=DET|prpos=Dr|uppos=WD
@@ -3783,6 +3897,7 @@
 14	luy	il	PRON	_	PronType=Prs	15	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 15	demandoet	demander	VERB	_	VerbForm=Fin	11	acl:relcl	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 16	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_32_1_3
 # text = Et sur cela elle dyst a sa servante: « Tient!
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3797,6 +3912,7 @@
 10	«	«	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 11	Tient	tenir	VERB	_	VerbForm=Fin	5	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 12	!	!	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_32_1_4
 # text = Porte luy son argent, ses fiebvres quartainnes! »
 1	Porte	porter	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -3809,6 +3925,7 @@
 8	quartainnes	quartain	ADJ	_	_	7	amod	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 9	!	!	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 10	»	»	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_32_1_5
 # text = Et aprés deulx ou troys jours passés, son enffant fut pryntz de mall,
 1	Et	et	CCONJ	_	_	12	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3826,6 +3943,7 @@
 13	de	de	ADP	_	_	14	case	_	gold_pos=ADP|prpos=S|uppos=P
 14	mall	mall	NOUN	_	_	12	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 15	,	,	PUNCT	_	_	12	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_32_1_6
 # text = et longtemps luy a continué.
 1	et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3834,6 +3952,7 @@
 4	a	avoir	AUX	_	VerbForm=Fin	5	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 5	continué	continuer	VERB	_	VerbForm=Part	0	root	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 6	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_32_1_7
 # text = Et dit que il y a viron deulx moes que elle vint a la fame dudit du Port pour congnoistre d'elle se elle tenoet son enffant ainsy mallade. et sur cela luy dyst que sa chambellyere l'avoet apellee sorchiere, et que elle detenoet ledit enffant en langeur, laquelle choze elle mesme luy dyst que elle avoet suspection d'elle qu'yll estoet ainsy. et sur cela ladite fame luy dyst que elle priroet pour son enffant et que Dieu oudroet sa priere plustost que ung aultre, et que par aprés il amendyt incontinent a son enffant.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3942,6 +4061,7 @@
 103	son	son	DET	_	_	104	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 104	enffant	enfant	NOUN	_	_	100	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 105	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_32_1_8
 # text = Et disoet que jamais n'avoet estey tentee que une foys en Angleterre et que, en allant par ung chemin, elle ouyt une voix qui luy dyst: « Arreste la! »
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -3979,6 +4099,7 @@
 33	la	là	ADV	_	_	32	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 34	!	!	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 35	»	»	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_32_1_9
 # text = Et elle s'arresta, mettant ses deulx mayns a terre en sorte que yl ne luy demeura aulcuns de ses ongles.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4004,6 +4125,7 @@
 21	ses	son	DET	_	_	22	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 22	ongles	ongle	NOUN	_	Number=Plur	19	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 23	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_32_1_10
 # text = Et d'habondant raporte de cuyder et de croire que la fame dudit du Port use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4031,6 +4153,7 @@
 22	de	de	ADP	_	_	23	case	_	gold_pos=ADP|prpos=S|uppos=P
 23	sorcherie	sorcerie	NOUN	_	_	19	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 24	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_1
 # text = Allés Martin, servante de Johan du Mareesc, dit et raporte que ung jour, la fame de Collas du Port estant en sa maison, vynt ladite Allés, ayant ledit enffant entre ses bras.
 1	Allés	Allés	PROPN	_	Number=Plur	10	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -4071,6 +4194,7 @@
 36	ses	son	DET	_	_	37	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 37	bras	bras	NOUN	_	Number=Plur	32	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 38	.	.	PUNCT	_	_	10	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_2
 # text = Et, quant elle le vyt, soy esmervilla disant: « Le Pere et le Filz et le Saint Esprytt, qu'a cest enffant? »
 1	Et	et	CCONJ	_	_	9	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -4101,6 +4225,7 @@
 26	enffant	enfant	NOUN	_	_	24	nsubj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 27	?	?	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 28	»	»	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_3
 # text = Et sur ce ladite deposante luy dyst que c'estoet son faict,
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4116,6 +4241,7 @@
 11	son	son	DET	_	_	12	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 12	faict	fait	NOUN	_	_	7	ccomp	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 13	,	,	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_33_1_4
 # text = a laquelle choze ne responnoet fors que: « Je croy en Dieu » par plusieurs foys.
 1	a	à	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -4136,6 +4262,7 @@
 16	plusieurs	plusieurs	DET	_	Definite=Ind	17	det	_	gold_pos=DET|prpos=Di|uppos=Q
 17	foys	fois	NOUN	_	Number=Plur	5	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 18	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_5
 # text = Et luy disoet ladite Allés: « Sy tu ne l'as point faict, denye le et le renye et dit que tu ne l'az point faict! »
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4169,6 +4296,7 @@
 29	faict	faire	VERB	_	VerbForm=Part	22	ccomp	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 30	!	!	PUNCT	_	_	16	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 31	»	»	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_6
 # text = Mais n'avoet aultre responce que synon: « Je croy en Dieu et a la bonne Vierge Marie. »
 1	Mais	mais	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4192,6 +4320,7 @@
 19	Marie	Marie	PROPN	_	Number=Plur	18	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 20	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 21	»	»	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_7
 # text = Et, ne pouvant avoir aultre choze d'elle, soy departyt et vint cieulx sa mestresse.
 1	Et	et	CCONJ	_	_	12	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -4212,6 +4341,7 @@
 16	sa	son	DET	_	_	17	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 17	mestresse	maîtresse	NOUN	_	_	14	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	12	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_8
 # text = Et quelques jours aprés sadite mestresse fut parler a elle.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4225,6 +4355,7 @@
 9	a	à	ADP	_	_	10	case	_	gold_pos=ADP|prpos=S|uppos=P
 10	elle	il	PRON	_	PronType=Prs	8	obl	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
 11	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_9
 # text = Quel propos ilz tyndrent, elle ne sçayt, fors que ung peu aprés, ladite fame vynt a la maison dudit du Mareesc pour voir ledit enffant et luy dyst que il feroet bien, mays ladite Allés luy dyst que ledit enffant ne cessoet de boire la nuyct, et que il avoet l'alainne sy courte que ilz n'attendoient vye en luy.
 1	Quel	quel	DET	_	_	2	det	_	gold_pos=DET|prpos=Dr|uppos=WD
@@ -4296,6 +4427,7 @@
 66	en	en	ADP	_	_	67	case	_	gold_pos=ADP|prpos=S|uppos=P
 67	luy	il	PRON	_	PronType=Prs	64	obl	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
 68	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_10
 # text = Et ainsy ladite fame luy dyst: « Je te diroy que tu feras.
 1	Et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4313,6 +4445,7 @@
 13	tu	tu	PRON	_	PronType=Prs	14	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 14	feras	faire	VERB	_	VerbForm=Fin	11	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 15	.	.	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_11
 # text = Couche le en une aultre chambre, et luy change son linge et sa vesteure,
 1	Couche	coucher	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -4331,6 +4464,7 @@
 14	sa	son	DET	_	_	15	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 15	vesteure	vêture	NOUN	_	_	12	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_33_1_12
 # text = et tu voyra que il luy amendera,
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4341,6 +4475,7 @@
 6	luy	il	PRON	_	PronType=Prs	7	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 7	amendera	amendera	VERB	_	VerbForm=Fin	3	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 8	,	,	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_33_1_13
 # text = et tu le voiras encor ung viell home. »
 1	et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4353,6 +4488,7 @@
 8	home	homme	NOUN	_	_	4	xcomp	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 9	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 10	»	»	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_14
 # text = Ce que ladite Allés fyst, sans le faire a sçaver a sadite mestresse.
 1	Ce	ce	PRON	_	PronType=Dem	0	root	_	gold_pos=PRON|prpos=Pd|uppos=PRO
@@ -4370,6 +4506,7 @@
 13	sadite	sondit	DET	_	_	14	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 14	mestresse	maîtresse	NOUN	_	_	11	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 15	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_15
 # text = Et dit ladite Allés que dempuys il a tousjours amendé audit enffant, et la mesme nuyct ledit enffant ne demanda nullement a boire, et ainsy est a present guery.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4406,6 +4543,7 @@
 31	present	présent	NOUN	_	_	32	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 32	guery	guérir	VERB	_	VerbForm=Part	10	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 33	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_33_1_16
 # text = Et raporte de cuyder et de croire que la fame dudit du Port use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4431,6 +4569,7 @@
 20	de	de	ADP	_	_	21	case	_	gold_pos=ADP|prpos=S|uppos=P
 21	sorcherie	sorcerie	NOUN	_	_	17	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 22	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_34_1_1
 # text = Collas Jehan, deubment jurey et sermentey sur saintez Evangelles de Dieu, dit et raporte que il ne congnoest point aultrement que la malladie et langueur en laquelle son filz estoet cy devant que la fame de Collas du Port en a estey l'occasion.
 1	Collas	Collas	PROPN	_	Number=Plur	14	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -4480,6 +4619,7 @@
 45	l'	le	DET	_	Definite=Def	46	det	_	gold_pos=DET|prpos=Da|SpaceAfter=No|uppos=D
 46	occasion	occasion	NOUN	_	_	20	ccomp	_	gold_pos=NOUN|join=left|prpos=Nc|SpaceAfter=No|uppos=NCS
 47	.	.	PUNCT	_	_	14	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_34_1_2
 # text = Et aussy dit que, dempuys qu'yl vynt faire sa plaincte au baillyf touchant ladite fame et que ledit baillyff luy dyst que il l'envoiroet a querir, a .xv. jours de la sondit filz commencha a s'amender et luy sembloet que on luy avoet ostey une meulle de dessus le corps.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4540,6 +4680,7 @@
 55	le	le	DET	_	Definite=Def	56	det	_	gold_pos=DET|prpos=Da|uppos=D
 56	corps	corps	NOUN	_	_	54	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 57	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_34_1_3
 # text = Et dit que dempuys cela, il a estey trouvé dedens le luyct ou sondit filz couchoet juscque a .xxvii. voug.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4564,6 +4705,7 @@
 20	.xxvii.	vingt-sept	NUM	_	NumType=Card	21	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 21	voug	voug	NOUN	_	Number=Plur	10	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 22	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_34_1_4
 # text = Et raporte de cuyder et de croire que ladite fame use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4584,6 +4726,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_35_1_1
 # text = La fame dudit Collas Jehan dit et raporte en tout et partout comme sondit mary a depozé.
 1	La	le	DET	_	Definite=Def	2	det	_	gold_pos=DET|prpos=Da|uppos=D
@@ -4606,6 +4749,7 @@
 17	a	avoir	AUX	_	VerbForm=Fin	18	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 18	depozé	déposer	VERB	_	VerbForm=Part	7	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 19	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_36_1_1
 # text = Richard Lyhow dit et raporte que il y a viron ung an passey que il ouyt dire a sa fame que la fame de Collas du Port vynt en sa maison et luy demanda du beure, fust fraes ou salley, et que il ouyt cela demander a ladite fame, et que de ce elle en fut esconduytte.
 1	Richard	Richard	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -4669,6 +4813,7 @@
 59	fut	être	AUX	_	VerbForm=Fin	60	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 60	esconduytte	éconduire	VERB	_	VerbForm=Part	16	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 61	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_36_1_2
 # text = Et incontinent la nuyct venante son enffant fut pryntz de mal et en grant langueur, en sorte que en la fin il en est mort.
 1	Et	et	CCONJ	_	_	9	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4698,6 +4843,7 @@
 25	est	être	AUX	_	VerbForm=Fin	26	aux	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 26	mort	mourir	VERB	_	VerbForm=Part	9	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 27	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_36_1_3
 # text = Et de cuyder et de croire il dit que elle use de sort.
 1	Et	et	CCONJ	_	_	8	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4714,6 +4860,7 @@
 12	de	de	ADP	_	_	13	case	_	gold_pos=ADP|prpos=S|uppos=P
 13	sort	sort	NOUN	_	_	11	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 14	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_37_1_1
 # text = Jenette, fame de Bertrem Machon, dit et raporte que il y a viron .vi. ans que Collas du Port et sa fame estoient logés en sa maison, et que ladite fame avoet caché .iiii. denerelz d'orge don elle n'avoet point donné congnoissance a son mary.
 1	Jenette	Jehannette	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -4767,6 +4914,7 @@
 49	son	son	DET	_	_	50	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 50	mary	mari	NOUN	_	_	46	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 51	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_37_1_2
 # text = Et ung jour ilz avoient necessyté de pain,
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4778,6 +4926,7 @@
 7	de	de	ADP	_	_	8	case	_	gold_pos=ADP|prpos=S|uppos=P
 8	pain	pain	NOUN	_	_	6	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 9	,	,	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_37_1_3
 # text = et le mary a ladite Jenette, sçaver est Collas Hallouvrys, dyst audit Collas du Port: « Va, ta fame a myns quatre denerelz d'orge en ta maison! »
 1	et	et	CCONJ	_	_	13	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4816,6 +4965,7 @@
 33	maison	maison	NOUN	_	_	26	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 34	!	!	PUNCT	_	_	13	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 35	»	»	PUNCT	_	_	13	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_37_1_4
 # text = Et sur cela il les prynt,
 1	Et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4825,6 +4975,7 @@
 5	les	il	PRON	_	PronType=Prs	6	obj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 6	prynt	prendre	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 7	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_37_1_5
 # text = et pour ceste cause la vynt la fame dudit du Port qui tença ledit Halouvrys d'avoir ensseigny ledit orge en luy disant: « Tu t'en repentiras de toutez les vainnes de ton cueur! »
 1	et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4867,6 +5018,7 @@
 37	cueur	coeur	NOUN	_	_	34	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 38	!	!	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 39	»	»	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_37_1_6
 # text = Et incontinent, sondit mary Collas Hallourys fut pryntz de maladie beaucoup plus que il n'estoet auparavant.
 1	Et	et	CCONJ	_	_	9	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4888,6 +5040,7 @@
 17	estoet	être	VERB	_	VerbForm=Fin	9	advcl	_	gold_pos=VERB|join=left|prpos=Vuc|uppos=EJ
 18	auparavant	auparavant	ADV	_	_	17	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 19	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_37_1_7
 # text = Et ung mercredy ladite fame passoet par sa maison et dyst a ladite deposante: « Va, ton mary ne vivera plus gueres! »
 1	Et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4916,6 +5069,7 @@
 24	gueres	guère	ADV	_	_	22	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 25	!	!	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 26	»	»	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_37_1_8
 # text = Et le lundy enssuyvant sondit mary mouryt.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4926,6 +5080,7 @@
 6	mary	mari	NOUN	_	_	7	nsubj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 7	mouryt	mourir	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 8	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_37_1_9
 # text = Et dit de cuyder et de croire que ladite fame use d'art de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4944,6 +5099,7 @@
 14	de	de	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P
 15	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_38_1_1
 # text = Robin Roberge dit et raporte que il y a viron chinq ans passés que il ouyt dire a Collas du Port que sa fame estoet une sorchiere, et que ilz vivoient une malle vie enssemble.
 1	Robin	Robin	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -4983,6 +5139,7 @@
 35	vie	vie	NOUN	_	_	32	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 36	enssemble	ensemble	ADV	_	_	32	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 37	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_38_1_2
 # text = Et raporte de cuyder et de croire que ladite fame use de sort.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -4999,6 +5156,7 @@
 12	de	de	ADP	_	_	13	case	_	gold_pos=ADP|prpos=S|uppos=P
 13	sort	sort	NOUN	_	_	11	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 14	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_39_1_1
 # text = Marguitte, fame dudit Roberge, dit et raporte que il y a viron chinq ans que elle ouyt dire a Collas du Port que sa fame est une sorchiere, et que ledit du Port luy a dit aultrefoys que elle ne se fyast point a sa fame et que il y a sept ans que elle debveroet estre bruslee.
 1	Marguitte	Marguitte	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -5065,6 +5223,7 @@
 61	estre	être	AUX	_	VerbForm=Inf	62	aux:pass	_	gold_pos=AUX|prpos=Vun|uppos=EX
 62	bruslee	brûler	VERB	_	VerbForm=Part	60	xcomp	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 63	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_39_1_2
 # text = Et dit de cuyder et de croire que ladite fame use de sort et art de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -5085,6 +5244,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_40_1_1
 # text = Le .xxviie. jour du moes de auguste l'an mille .vcclxiii. par devant Thomas Comptum, baillyff, presentz ad ce Nicollas de la Court, Richard Devic et Thomas Effart, jurés, Catheryne Fezart dit et raporte que la fame de Collas du Port la vynt voer quant elle estoet en couche, laquelle luy dyst que, sy elle l'eust mandee, que elle eust eu enffant plus tost qu'elle ne eult.
 1	Le	le	DET	_	Definite=Def	3	det	_	gold_pos=DET|prpos=Da|uppos=D
@@ -5167,6 +5327,7 @@
 77	ne	ne	ADV	_	Polarity=Neg	78	advmod	_	gold_pos=ADV|prpos=Rp|uppos=NEG
 78	eult	avoir	VERB	_	VerbForm=Fin	74	acl:relcl	_	gold_pos=VERB|prpos=Vuc|SpaceAfter=No|uppos=AJ
 79	.	.	PUNCT	_	_	38	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_40_1_2
 # text = Et dit que elle fut prynse de mal aussytost que ladite fame fut partie, laquelle fut malade par l'espasse de dix sepmainnes, juscque attant que sa seur dyst a la fame dudit du Port qu'elle detenoet sadite seur, et ce le denya par troys foys, et a l'heure presente elle fut guerye.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -5231,6 +5392,7 @@
 59	fut	être	AUX	_	VerbForm=Fin	60	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 60	guerye	guérir	VERB	_	VerbForm=Part	6	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 61	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_40_1_3
 # text = Et dit de cuyder et de croire que la fame dudit du Port est une sorchiere.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -5252,6 +5414,7 @@
 16	une	un	DET	_	Definite=Ind	17	det	_	gold_pos=DET|prpos=Dn|uppos=D
 17	sorchiere	sorcier	NOUN	_	_	2	ccomp	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_41_1_1
 # text = Collette delessyé de James le Mestre dit et raporte que elle congnoest bien que la fame de Collas du Port est de maulvaize vye.
 1	Collette	Collette	PROPN	_	Number=Plur	7	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -5279,6 +5442,7 @@
 23	maulvaize	mauvais	ADJ	_	_	24	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 24	vye	vie	NOUN	_	_	21	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 25	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_41_1_2
 # text = Et dit que elle use, de cuyder et de croire, d'art diabolique.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -5297,6 +5461,7 @@
 14	art	art	NOUN	_	_	5	obl	_	gold_pos=NOUN|join=left|prpos=Nc|uppos=NCS
 15	diabolique	diabolique	ADJ	_	_	14	amod	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 16	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_42_1_1
 # text = Le .xxviiie. jour du moes de auguste l'an mille .vcclxiii. par devant ledit baillyff, presentz ad ce Johan Blondel, Richard Devic et Johan Blondell, fils Collas, jurés, Price Dure dit et raporte que, quant elle estoet servante cieulx Collas le Mestre et que sa mestresse estoet en couche bien disposee de son corps, vynt Collas du Port et sa famme en la maison et que, quant ladite fame sortyt, elle disoet: « Nous m'a faict poyer .vi. deniers d'argent pour la bire,
 1	Le	le	DET	_	Definite=Def	3	det	_	gold_pos=DET|prpos=Da|uppos=D
@@ -5397,6 +5562,7 @@
 95	la	le	DET	_	Definite=Def	96	det	_	gold_pos=DET|prpos=Da|uppos=D
 96	bire	bière	NOUN	_	_	89	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 97	,	,	PUNCT	_	_	37	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_42_1_2
 # text = mais de ce on s'en repentira.
 1	mais	mais	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -5407,6 +5573,7 @@
 6	en	en	PRON	_	PronType=Prs	7	obl	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
 7	repentira	repentir	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 8	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_42_1_3
 # text = Et aprés cela et a la mesme heure sadite mestresse fut prynse de mall et hors de son sens.
 1	Et	et	CCONJ	_	_	12	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -5429,6 +5596,7 @@
 18	son	son	DET	_	_	19	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 19	sens	sens	NOUN	_	_	14	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 20	.	.	PUNCT	_	_	12	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_43_1_1
 # text = Collas Noell, de l'aage de .xxviii. ans ou vyron, dit et raporte que de la premiere gesynne de sa fame et a sa relevee, venant a l'esglize estant a chevall et sadite fame venante a pyeds, passant par Glateny, survynt la fame de Collas du Port, laquelle prynt sadite fame et la leva dessus ledit chevall desriere ledit deposant.
 1	Collas	Collas	PROPN	_	Number=Plur	13	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -5499,6 +5667,7 @@
 66	ledit	ledit	DET	_	Definite=Ind	67	det	_	gold_pos=DET|prpos=Di|uppos=D
 67	deposant	déposant	NOUN	_	_	61	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 68	.	.	PUNCT	_	_	13	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_43_1_2
 # text = Sur laquelle choze sadite fame soy plaingnoet fort de ce que la fame dudit du Port l'avoet ainsy levee,
 1	Sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -5524,6 +5693,7 @@
 20	ainsy	ainsi	ADV	_	_	21	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 21	levee	lever	VERB	_	VerbForm=Part	10	acl:relcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 22	,	,	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_43_1_3
 # text = et dempuys cela il a ouy dire a sa fame que la fame dudit du Port luy avoet faict ung grant mal,
 1	et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -5551,6 +5721,7 @@
 22	grant	grand	ADJ	_	_	23	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 23	mal	mal	NOUN	_	_	20	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 24	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_43_1_4
 # text = et a cause de ce elle disoet que elle estoet tousjours malade et en grant langueur juscque a sa mort.
 1	et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -5574,6 +5745,7 @@
 19	sa	son	DET	_	_	20	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 20	mort	mort	NOUN	_	_	12	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 21	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_44_1_1
 # text = Marthe, fame de Collas Vauldin, dit et raporte que il y a viron .iii. ans que la fame de Collas du Port vynt en sa maison et luy demanda ung morceau de son lart, a laquelle choze elle luy dyst que elle n'en n*avoet point.
 1	Marthe	Marthe	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -5626,6 +5798,7 @@
 48	n*avoet	avoir	VERB	_	VerbForm=Fin	43	ccomp	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
 49	point	point	ADV	_	_	48	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADVNEG
 50	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_44_1_2
 # text = Et sur cela la fame dudit du Port luy dyst que sy avoet et que elle en avoet ung costé et demy, .v. equynees, .iiii. gaubons et ung ouynct et que elle luy en donast et que il n'apeticheroet point.
 1	Et	et	CCONJ	_	_	11	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -5674,6 +5847,7 @@
 43	apeticheroet	apetisser	VERB	_	VerbForm=Fin	14	conj	_	gold_pos=VERB|join=left|prpos=Vvc|uppos=VJ
 44	point	point	ADV	_	_	43	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADVNEG
 45	.	.	PUNCT	_	_	11	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_44_1_3
 # text = Sur laquelle choze ladite deposante s'en allyt luy en queryr et luy en donna ung morceau, et dit que son lart estoet dedens ung carell frumant a la clayff.
 1	Sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -5708,6 +5882,7 @@
 30	la	le	DET	_	Definite=Def	31	det	_	gold_pos=DET|prpos=Da|uppos=D
 31	clayff	clé	NOUN	_	_	28	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 32	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_45_1_1
 # text = Pierres Agenor dit et raporte que il soy trouva a Glateny, la ou il luy fut monstrey du pain, auquell il y avoet des verms.
 1	Pierres	Pierre	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -5740,6 +5915,7 @@
 27	des	un	DET	_	Definite=Ind	28	det	_	gold_pos=DET|prpos=Dn|uppos=D
 28	verms	ver	NOUN	_	Number=Plur	26	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 29	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_45_1_2
 # text = Et disoet la contree que ce avoet estey la fame de Collas du Port, et que elle estoet de cela suspectee a cause que elle avoet estey queryr du feu cieulx Collas Bryart la matynee.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -5779,6 +5955,7 @@
 35	la	le	DET	_	Definite=Def	36	det	_	gold_pos=DET|prpos=Da|uppos=D
 36	matynee	matinée	NOUN	_	_	28	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 37	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_46_1_1
 # text = Collas Audry dit et raporte que il soy trouva ung jour a Glateny, la ou il trouva du pain cieulx Collas Briart, auquell il y avoet des verms.
 1	Collas	Collas	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -5814,6 +5991,7 @@
 30	des	un	DET	_	Definite=Ind	31	det	_	gold_pos=DET|prpos=Dn|uppos=D
 31	verms	ver	NOUN	_	Number=Plur	29	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 32	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_46_1_2
 # text = Et disoet la contree que la fame de Collas du Port avoet estey queryr du feu la matynee cieulx ledit Bryart, et que de ce elle estoet suspectionnee que elle avoet estey la cause lesditz verms.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -5854,6 +6032,7 @@
 36	lesditz	ledit	DET	_	Definite=Ind	37	det	_	gold_pos=DET|prpos=Di|uppos=D
 37	verms	ver	NOUN	_	Number=Plur	35	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 38	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_47_1_1
 # text = Barbe Meslyn dit et raporte que la fame dudit du Port et elle estoient ung jour passey enssemble au jonct, et que ladite fame luy dyst que, elle estante en Angleterre, elle sçavoet bien que son mary Collas du Port avoet portey ses batteresses de lyn a Saint-Sanson.
 1	Barbe	Barbe	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -5912,6 +6091,7 @@
 52	a	à	ADP	_	_	53	case	_	gold_pos=ADP|prpos=S|uppos=P
 53	Saint-Sanson	Saint-Sampson	PROPN	_	Number=Plur	47	obl	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 54	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_48_1_1
 # text = Johan du Port dit et raporte que il a ouy dire a Collas du Port que sa fame estoet une sorchiere et que par plusieurs foys il luy a ouy appeller.
 1	Johan	Jehan	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -5946,6 +6126,7 @@
 30	ouy	ouïr	VERB	_	VerbForm=Part	10	conj	_	gold_pos=VERB|prpos=Ge|uppos=VPP
 31	appeller	appeler	VERB	_	VerbForm=Inf	30	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 32	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_49_1_1
 # text = Collette, fame de Johan du Port, dit et raporte en tout et partout come sondit mary a deposey.
 1	Collette	Collette	PROPN	_	Number=Plur	9	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -5969,6 +6150,7 @@
 19	a	avoir	AUX	_	VerbForm=Fin	20	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 20	deposey	déposer	VERB	_	VerbForm=Part	9	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 21	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_50_1_1
 # text = Marguitte Vibert dit et raporte que, alhors que Collas du Port et sa fame eurent par louage une chambre en sa maison, elle ouyt dire audit du Port quant il fesoet des brimmes disant a sa fame: « Va, meschante sorchiere, tu as bien jecté ta sorcherie et ton venin! »
 1	Marguitte	Marguitte	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -6030,6 +6212,7 @@
 56	venin	venin	NOUN	_	_	53	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 57	!	!	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 58	»	»	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_50_1_2
 # text = Et dit que ledit du Port leur disoet que ilz ne feissent point marir sa fame et qu'yllz s'en pourroient repentir sy la faisoient maryr.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6060,6 +6243,7 @@
 26	faisoient	faire	AUX	_	VerbForm=Fin	27	aux	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 27	maryr	marrir	VERB	_	VerbForm=Inf	22	advcl	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 28	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_51_1_1
 # text = Collas Brouart dit et raporte que il a ouy dire a Collas du Port en plain careffour, parlant a sa fame, en luy disant: « Tu es une meschante putain sorchiere! »
 1	Collas	Collas	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -6098,6 +6282,7 @@
 34	sorchiere	sorcier	NOUN	_	_	33	appos	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 35	!	!	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 36	»	»	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_52_1_1
 # text = Symeon le Four dit et raporte que il a ouy Collas du Port, lequell reprochoet a sa fame que c'estoet une meschante sorchiere.
 1	Symeon	Simon	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -6126,6 +6311,7 @@
 24	meschante	méchant	ADJ	_	_	25	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 25	sorchiere	sorcier	NOUN	_	_	16	ccomp	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 26	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_53_1_1
 # text = Jehan Hubert dit et raporte que il a ouy come Collas du Port appelloet sa fame sorchiere.
 1	Jehan	Jehan	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -6146,6 +6332,7 @@
 16	fame	femme	NOUN	_	_	14	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 17	sorchiere	sorcier	NOUN	_	_	14	xcomp	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_54_1_1
 # text = Marie Cabequet dit et raporte que elle a ouy come Collas du Port apelloet sa fame meschante sorchiere.
 1	Marie	Marie	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -6167,6 +6354,7 @@
 17	meschante	méchant	ADJ	_	_	18	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 18	sorchiere	sorcier	NOUN	_	_	14	xcomp	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_55_1_1
 # text = Le .xxixe. jour du moes de auguste l'an mille .vcclxiii. par devant Thomas Comptum, baillyff, presentz ad ce Johan le Feyvre et Nicoll Martin, jurés. Johan Luce dit et raporte qu'yl y a viron .v. ans que sa fame logea la fame de Collas du Port en sa maison, et aprés l'avoir congneu, tença sa fame et la battyt, luy disant: « Pourquoy as tu logé ceste fame? »
 1	Le	le	DET	_	Definite=Def	3	det	_	gold_pos=DET|prpos=Da|uppos=D
@@ -6252,6 +6440,7 @@
 80	fame	femme	NOUN	_	_	78	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 81	?	?	PUNCT	_	_	34	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 82	»	»	PUNCT	_	_	34	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_56_1_1
 # text = Et sur cela, la fame dudit du Port luy dyst: « Vas tu battre ta fame pour m'avoer logee?
 1	Et	et	CCONJ	_	_	12	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6279,6 +6468,7 @@
 22	avoer	avoir	AUX	_	VerbForm=Inf	23	aux	_	gold_pos=AUX|join=left|prpos=Vun|uppos=AX
 23	logee	loger	VERB	_	VerbForm=Part	17	xcomp	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 24	?	?	PUNCT	_	_	12	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_56_1_2
 # text = Tu t'en repentiras! »
 1	Tu	tu	PRON	_	PronType=Prs	4	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -6287,6 +6477,7 @@
 4	repentiras	repentir	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 5	!	!	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 6	»	»	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_56_1_3
 # text = Et .iii. jours aprés, son enffant fut pryntz de maladie en teille sorte que il en mouryt.
 1	Et	et	CCONJ	_	_	9	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6308,6 +6499,7 @@
 17	en	en	PRON	_	PronType=Prs	18	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 18	mouryt	mourir	VERB	_	VerbForm=Fin	14	acl	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 19	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_56_1_4
 # text = Et raporte de cuyder et de croire que ladite fame use de sort et art de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6328,6 +6520,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_57_1_1
 # text = Coliche, fame de Collas de Fosse, dit et raporte que il y a viron deulx ans que Thommasse Prayes fut logee en sa maison.
 1	Coliche	Coliche	PROPN	_	Number=Plur	9	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -6357,6 +6550,7 @@
 25	sa	son	DET	_	_	26	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 26	maison	maison	NOUN	_	_	23	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 27	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_57_1_2
 # text = Et ung jour luy dyst que elle eust a mettre ses bestes a saye dehors sa coste disant que ses bestes ne coucheroient point dehors et que les syennes couchassent dedens.
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6391,6 +6585,7 @@
 30	couchassent	coucher	VERB	_	VerbForm=Fin	23	conj	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 31	dedens	dedans	ADV	_	_	30	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 32	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_57_1_3
 # text = Et la nuyctié enssuivant elle fut prynse de mal, et parellement son enffant, et en grand langueur de une de ses mammelles en sorte que elle perdyt son layct et sadite mammelle creva.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6429,6 +6624,7 @@
 34	mammelle	mamelle	NOUN	_	_	35	nsubj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 35	creva	crever	VERB	_	VerbForm=Fin	29	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 36	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_57_1_4
 # text = Et luy contynua ladite maladie bien l'espasse de demy an,
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6443,6 +6639,7 @@
 10	demy	demi	ADJ	_	_	11	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 11	an	an	NOUN	_	_	8	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 12	,	,	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_57_1_5
 # text = et aprés que ladite Thomasse eult achevey son louage, son mary luy dyst que elle s'en allast hors de sadite maison.
 1	et	et	CCONJ	_	_	14	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6469,6 +6666,7 @@
 22	sadite	sondit	DET	_	_	23	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 23	maison	maison	NOUN	_	_	19	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 24	.	.	PUNCT	_	_	14	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_57_1_6
 # text = Et dit ladite deposante: « Quant ladite Thomasse s'en alloet, elle disoet que sondit mary estoet home de bien,
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6494,6 +6692,7 @@
 21	de	de	ADP	_	_	22	case	_	gold_pos=ADP|prpos=S|uppos=P
 22	bien	bien	NOUN	_	_	20	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 23	,	,	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_57_1_7
 # text = mais pour sa fame je avoes bien faict ma priere, pour que il y pyeryst sur elle et sur ledit enfant. »
 1	mais	mais	CCONJ	_	_	8	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6520,6 +6719,7 @@
 22	enfant	enfant	NOUN	_	_	18	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 23	.	.	PUNCT	_	_	18	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PONFP
 24	»	»	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_58_1_1
 # text = Collas de Fosse dit et raporte en tout et partout come sadite fame touchant la malladie et langueur de sadite fame et de son enffant.
 1	Collas	Collas	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -6548,6 +6748,7 @@
 24	son	son	DET	_	_	25	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 25	enffant	enfant	NOUN	_	_	21	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 26	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_59_1_1
 # text = Guillemyne, fame de Thomas Dorey, dit et raporte que en ceste annee est venue Catherine Prays en sa maison en luy demandant du layct, laquelle en fut esconduytte.
 1	Guillemyne	Guillemine	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -6582,6 +6783,7 @@
 30	fut	être	AUX	_	VerbForm=Fin	31	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 31	esconduytte	éconduire	VERB	_	VerbForm=Part	17	acl:relcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 32	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_59_1_2
 # text = Et incontynent aprés elle aperceupt que ses vaches ne donnoient point de layct, come ilz soulloient, et encoure de present n'en donnent.
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6610,6 +6812,7 @@
 24	en	en	PRON	_	PronType=Prs	25	obl	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
 25	donnent	donner	VERB	_	VerbForm=Fin	10	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 26	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_60_1_1
 # text = Le .ve. jour du moes de auguste l'an mille .vcclxiii. par devant Thomas Comptum, baillyf, presentz ad ce Johan le Feyvre et Nicollas Martin, jurés. enqueste fut faicte a la suytte et requeste des officiers de la majesté de la roigne a l'encontre de Françoize Regnouff et Martin Tulouff, son filz, aprés que ilz s'y sont submyns,
 1	Le	le	DET	_	Definite=Def	3	det	_	gold_pos=DET|prpos=Da|uppos=D
@@ -6683,6 +6886,7 @@
 67	sont	être	AUX	_	VerbForm=Fin	68	aux	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 68	submyns	soumettre	VERB	_	VerbForm=Part	34	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 69	,	,	PUNCT	_	_	34	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_60_1_2
 # text = et y est touchant leur comport et governe, et de ce que ilz sont suspectés d'avoir usé de art et sort de sorcherie.
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6711,6 +6915,7 @@
 24	de	de	ADP	_	_	25	case	_	gold_pos=ADP|prpos=S|uppos=P
 25	sorcherie	sorcerie	NOUN	_	_	21	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 26	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_60_1_3
 # text = Enqueste fut faicte a la suytte et requeste des officiers de la majesté de la roigne a l'encontre de Françoize Regnouff et Martin Tulouff, son filz, aprés que ilz s'y sont submyns, et y est touchant leur comport et governe, et de ce que ilz sont suspectés d'avoir usé de art et sort de sorcherie.
 1	Enqueste	enquête	NOUN	_	_	3	nsubj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
@@ -6778,6 +6983,7 @@
 62	de	de	ADP	_	_	63	case	_	gold_pos=ADP|prpos=S|uppos=P
 63	sorcherie	sorcerie	NOUN	_	_	61	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 64	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_61_1_1
 # text = Richart le Feyvre dit et raporte que il y a viron troys ans passés que Françoize Regnouff vynt en sa maison, laquelle demanda a sa fame une beste chevallyne par prest pour ercher.
 1	Richart	Richard	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -6815,6 +7021,7 @@
 33	pour	pour	ADP	_	_	34	mark	_	gold_pos=ADP|prpos=S|uppos=P
 34	ercher	herser	VERB	_	VerbForm=Inf	24	advcl	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 35	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_61_1_2
 # text = Et sur ce sa fame luy dyst que ilz en avoient a faire et que elle ne la sçairoet prester, et en fut esconduyte, et incontynent aprés sadite beste fut prynse de mall et en grant langueur par l'espasse de ung quartier d'an, et que aprés elle vynt toute seiche et mouryt.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6875,6 +7082,7 @@
 56	et	et	CCONJ	_	_	57	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 57	mouryt	mourir	VERB	_	VerbForm=Fin	55	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 58	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_61_1_3
 # text = Item dit que il avoet ladite Françoize en suspection que elle detenoet sa bruc et luy mesme en maladie, et que ung jour il se transporta vers ladite fame en sa maison, luy demandant et disant se elle le feroet mourir et sadite bruc par son sort, laquelle luy dyst que el ne lez detenoet point et que elle renonchoet au diable.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -6945,6 +7153,7 @@
 65	le	le	DET	_	Definite=Def	66	det	_	gold_pos=DET|prpos=Da|uppos=D
 66	diable	diable	NOUN	_	_	63	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 67	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_61_1_4
 # text = Et aprés ce il aperceult que il luy amendoet et a sadite bruc.
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6961,6 +7170,7 @@
 12	sadite	sondit	DET	_	_	13	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 13	bruc	bru	NOUN	_	_	9	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 14	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_61_1_5
 # text = Et d'habondant raporte de cuyder et de croire que ladite Françoize use de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -6983,6 +7193,7 @@
 18	de	de	ADP	_	_	19	case	_	gold_pos=ADP|prpos=S|uppos=P
 19	sorcherie	sorcerie	NOUN	_	_	15	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 20	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_62_1_1
 # text = Pierres Freulle dit et raporte que il y a viron .viii. ou .ix. ans que ladite Françoize vynt en sa maison par ung dymenche demandant du layct, et que elle en fut esconduyte, et que incontinent aprés il aperceult que le laict de ses vaches venoet en callebottes.
 1	Pierres	Pierre	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -7036,6 +7247,7 @@
 49	en	en	ADP	_	_	50	case	_	gold_pos=ADP|prpos=S|uppos=P
 50	callebottes	caillebotte	NOUN	_	Number=Plur	48	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 51	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_62_1_2
 # text = Et aussy par plusieurs aultre foys que elle estoet esconduytte de layct, ses bestes n'en donnoient point et le perdoient,
 1	Et	et	CCONJ	_	_	18	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7061,6 +7273,7 @@
 21	le	il	PRON	_	PronType=Prs	22	obj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 22	perdoient	perdre	VERB	_	VerbForm=Fin	18	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 23	,	,	PUNCT	_	_	18	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_62_1_3
 # text = et aulcune foys sesditez bestes rendoient par leurs trancs du sang pour du layct.
 1	et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7078,6 +7291,7 @@
 13	du	du	DET	_	_	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
 14	layct	lait	NOUN	_	_	6	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 15	.	.	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_62_1_4
 # text = Et dit que de cuyder et de croire que elle detient Jehan Vasse en langueur et maladie, a cause que il y a viron .x. ans que ledit Vasse vyt la fille a ladite Françoize qui tyroet ses vachez, et que pour le bruyt que il en faisoet, ladite fame l'en avoet blasmey.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7138,6 +7352,7 @@
 56	avoet	avoir	AUX	_	VerbForm=Fin	57	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 57	blasmey	blâmer	VERB	_	VerbForm=Part	31	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 58	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_62_1_5
 # text = Et d'habondant raporte de cuyder et de croire que, ladite fame, par sort et art de sorcherie elle l'a tenu et piquy tant luy, sa fame que ses enffantz.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7175,6 +7390,7 @@
 33	ses	son	DET	_	_	34	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 34	enffantz	enfant	NOUN	_	Number=Plur	28	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 35	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_62_1_6
 # text = Et dit que ledit Martin Tulouff parellement en use.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7187,6 +7403,7 @@
 8	en	en	PRON	_	PronType=Prs	9	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 9	use	user	VERB	_	VerbForm=Fin	2	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 10	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_63_1_1
 # text = Ysepell, fame de Pierres Freulle dit et raporte en tout et partout come sondit mary a deposey, reservey pour le tyrement des vaches de Jehan Vasse, don elle ne congnoest rien.
 1	Ysepell	Isabelle	PROPN	_	Number=Plur	7	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -7226,6 +7443,7 @@
 34	congnoest	connaître	VERB	_	VerbForm=Fin	23	acl:relcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 35	rien	rien	PRON	_	PronType=Ind	34	obj	_	gold_pos=PRON|prpos=Pi|SpaceAfter=No|uppos=Q
 36	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_64_1_1
 # text = Johan Moulin dit et raporte que il y a .x. ans ou vyron que Martin Tulouff vynt en sa maison de nuyct et, estant couchy, ledit Martin luy demanda l'osmone pour l'hamour de Dieu.
 1	Johan	Jehan	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -7267,6 +7485,7 @@
 37	de	de	ADP	_	_	38	case	_	gold_pos=ADP|prpos=S|uppos=P
 38	Dieu	Dieu	PROPN	_	Number=Plur	36	nmod	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 39	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_64_1_2
 # text = Sur laquelle choze il luy dyst que il n'estoet pas heure de demander l'osmone ainsy tart, et que il s'en allast reconser en sa maison.
 1	Sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -7299,6 +7518,7 @@
 28	sa	son	DET	_	_	29	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 29	maison	maison	NOUN	_	_	26	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 30	.	.	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_64_1_3
 # text = Et sur ce ledit Martin s'en alloet grongnant,
 1	Et	et	CCONJ	_	_	8	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7311,6 +7531,7 @@
 8	alloet	aller	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 9	grongnant	grogner	VERB	_	_	8	xcomp	_	gold_pos=VERB|prpos=Ga|SpaceAfter=No|uppos=VG
 10	,	,	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_64_1_4
 # text = et aprés .iii. jours passés une de ses vaches eult ung veau, laquelle incontinent perdyt son layct,
 1	et	et	CCONJ	_	_	10	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7332,6 +7553,7 @@
 17	son	son	DET	_	_	18	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 18	layct	lait	NOUN	_	_	16	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	,	,	PUNCT	_	_	10	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_64_1_5
 # text = et le mesme jour il avoet ung bouvet qui se rompyt le coll.
 1	et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7348,6 +7570,7 @@
 12	le	le	DET	_	Definite=Def	13	det	_	gold_pos=DET|prpos=Da|uppos=D
 13	coll	col	NOUN	_	_	11	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 14	.	.	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_64_1_6
 # text = Et dit que, touchant lé vaches de Jehan Vasse, il raporte come ledit PierresFreulle.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7368,6 +7591,7 @@
 16	Pierres	Pierre	PROPN	_	Number=Plur	13	obl	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 17	Freulle	Freulle	PROPN	_	Number=Plur	16	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_64_1_7
 # text = Et raporte de cuyder et de croire que ladite Françoize et sondit filz Martin usent d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7392,6 +7616,7 @@
 20	de	de	ADP	_	_	21	case	_	gold_pos=ADP|prpos=S|uppos=P
 21	sorcherie	sorcerie	NOUN	_	_	17	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 22	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_65_1_1
 # text = Collette, fame de Johan Moulin, dit et raport que, quant ledit Martin venoet en sa maison et que il estoet esconduyt de quelque choze, elle apercevoet incontynent que ses vaches ne donnoent que du sang.
 1	Collette	Collette	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -7434,6 +7659,7 @@
 38	du	du	DET	_	_	39	det	_	gold_pos=DET|prpos=Dp|uppos=D
 39	sang	sang	NOUN	_	_	36	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 40	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_65_1_2
 # text = Et dit que ung jour elle mena Françoize, mere dudit Martin, en la maison de Pierres Marin a sa fame qui estoet malade.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7464,6 +7690,7 @@
 25	estoet	être	AUX	_	VerbForm=Fin	26	cop	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 26	malade	malade	ADJ	_	_	23	acl:relcl	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 27	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_65_1_3
 # text = Et, en allant par le chemin communiquant de ladite maladie, ladite Françoize luy dyst que il luy amenderoet.
 1	Et	et	CCONJ	_	_	16	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -7487,6 +7714,7 @@
 19	luy	il	PRON	_	PronType=Prs	20	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 20	amenderoet	amender	VERB	_	VerbForm=Fin	16	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 21	.	.	PUNCT	_	_	16	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_65_1_4
 # text = Et, eulx venus, il luy fut donney du lart, et .viii. jours aprés la fame dudit Maryn estoet sainne et guerie.
 1	Et	et	CCONJ	_	_	9	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -7516,6 +7744,7 @@
 24	et	et	CCONJ	_	_	25	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 25	guerie	guérir	VERB	_	VerbForm=Part	23	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 26	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_65_1_5
 # text = Et aussy raporte ainsy que sondit mary touchant la vache qui eult ung veau, et touchant le bouvet.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7538,6 +7767,7 @@
 18	le	le	DET	_	Definite=Def	19	det	_	gold_pos=DET|prpos=Da|uppos=D
 19	bouvet	bouvet	NOUN	_	_	10	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 20	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_65_1_6
 # text = Item dit que elle fut vers ladite Françoize en sa maison en la flattant et luy donnant aulcune choze, et incontynent aprés ses vaches donnoent leur laict bon et sain come auparavant.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -7574,6 +7804,7 @@
 32	come	comme	ADP	_	_	33	case	_	gold_pos=ADP|prpos=S|uppos=WH
 33	auparavant	auparavant	ADV	_	_	26	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 34	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_65_1_7
 # text = Et de cuyder et de croire raporte que ladite Françoize et son filz usent de sort de sorcherie.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7595,6 +7826,7 @@
 17	de	de	ADP	_	_	18	case	_	gold_pos=ADP|prpos=S|uppos=P
 18	sorcherie	sorcerie	NOUN	_	_	16	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_66_1_1
 # text = Anne Boesart dit et raporte que il y a viron .vi. ans que ledit Martin vynt en sa maison pour avoir du layct, et en fut esconduyt a cause que sa vache avoet nouvellement velley, et a .iii. jours de la sadite vache fut prynse de maladie et languyt .xv. jours et aprés mourut.
 1	Anne	Anne	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -7654,6 +7886,7 @@
 55	aprés	après	ADV	_	_	56	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 56	mourut	mourir	VERB	_	VerbForm=Fin	47	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 57	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_66_1_2
 # text = Et de cuyder et de croire raporte que ledit Martin en a estey la cause par son sort.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7675,6 +7908,7 @@
 17	son	son	DET	_	_	18	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 18	sort	sort	NOUN	_	_	15	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_67_1_1
 # text = Robin Moulin dit et raporte que il y a .ii. ans ou vyron que, quant ladite Françoize et son filz venoient en sa maison et que ilz estoient esconduytz de leur demande, ilz apercevoient incontinent que adversité venoet a leurs bestes et que aulcunes en sechoient et en mouroient.
 1	Robin	Robin	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -7729,6 +7963,7 @@
 50	en	en	PRON	_	PronType=Prs	51	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 51	mouroient	mourir	VERB	_	VerbForm=Fin	40	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 52	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_67_1_2
 # text = Et dit que une de ses vaches fut bien l'espasse de quinse jours qui ne donnoet que du sang.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7752,6 +7987,7 @@
 19	du	du	DET	_	_	20	det	_	gold_pos=DET|prpos=Dp|uppos=D
 20	sang	sang	NOUN	_	_	17	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 21	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_67_1_3
 # text = Et raporte de cuyder et de croire que ladite fame et son filz Martin usent de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7776,6 +8012,7 @@
 20	de	de	ADP	_	_	21	case	_	gold_pos=ADP|prpos=S|uppos=P
 21	sorcherie	sorcerie	NOUN	_	_	17	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 22	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_68_1_1
 # text = Richarde, fame de Robin Moulin, dit et raporte que il y a .iiii. ou .v. ans ou vyron que Martin Tulouff frotoet de ses mayns une des vaches a ladite Richarde, et que elle le vyt ainsy faire, et le jour enssuyvant sadite vache advorta.
 1	Richarde	Richarde	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -7830,6 +8067,7 @@
 49	vache	vache	NOUN	_	_	50	nsubj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 50	advorta	avorter	VERB	_	VerbForm=Fin	24	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 51	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_68_1_2
 # text = Item dit quant il venoet en leur maison estant esconduyt de sa demande, il survenoet incontynent adversité a ses bestes, et le plus souvent ne donnoient point de layct.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -7864,6 +8102,7 @@
 30	de	de	DET	_	Definite=Ind	31	det	_	gold_pos=DET|prpos=Dn|uppos=D
 31	layct	lait	NOUN	_	_	28	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 32	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_68_1_3
 # text = Et raporte de cuyder et de croire que ledit Martin et sa mere Françoize usent d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7888,6 +8127,7 @@
 20	de	de	ADP	_	_	21	case	_	gold_pos=ADP|prpos=S|uppos=P
 21	sorcherie	sorcerie	NOUN	_	_	17	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 22	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_69_1_1
 # text = Pierre Godefroy dit et raporte que il y a viron .v. ou .vi. ans que ladite Françoize vynt en la maison de sa mere et, elle estante esconduytte de layct, sadite mere ne pouvoet faire du beure du laict de ses vaches.
 1	Pierre	Pierre	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -7937,6 +8177,7 @@
 44	ses	son	DET	_	_	45	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 45	vaches	vache	NOUN	_	Number=Plur	42	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 46	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_69_1_2
 # text = Et de cuyder et de croire raporte que ladite Françoize use de sorcherie.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7953,6 +8194,7 @@
 12	de	de	ADP	_	_	13	case	_	gold_pos=ADP|prpos=S|uppos=P
 13	sorcherie	sorcerie	NOUN	_	_	11	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 14	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_70_1_1
 # text = Jammes Collenette dit et raporte que il y a viron .vi. ou .vii. ans que il estoient cyeulx Pierres Freulle pour machonner, et la survynt Martin Tulouff et, estant venu, fut myns parmy le mortier.
 1	Jammes	Jammes	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -7994,6 +8236,7 @@
 37	le	le	DET	_	Definite=Def	38	det	_	gold_pos=DET|prpos=Da|uppos=D
 38	mortier	mortier	NOUN	_	_	35	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 39	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_70_1_2
 # text = Et aprés cela il leur dyst que on s'en repentyroet,
 1	Et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8008,6 +8251,7 @@
 10	en	en	PRON	_	PronType=Prs	11	obl	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
 11	repentyroet	repentir	VERB	_	VerbForm=Fin	6	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 12	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_70_1_3
 # text = et vint aussy sa mere, laquelle leur en dyst auttant,
 1	et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8022,6 +8266,7 @@
 10	dyst	dire	VERB	_	VerbForm=Fin	5	acl:relcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 11	auttant	autant	ADV	_	_	10	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=Q
 12	,	,	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_70_1_4
 # text = et yncontinent survynt une grande achie de vent et de pluye en sorte que ilz furent contrainctz de laissier leur besongne.
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8046,6 +8291,7 @@
 20	leur	leur	DET	_	_	21	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 21	besongne	besogne	NOUN	_	_	19	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 22	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_70_1_5
 # text = Et dit de cuyder et de croire que ilz usent d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8065,6 +8311,7 @@
 15	de	de	ADP	_	_	16	case	_	gold_pos=ADP|prpos=S|uppos=P
 16	sorcherie	sorcerie	NOUN	_	_	12	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 17	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_71_1_1
 # text = Barnabey le Gersiés dit et raporte que entour Noell desrain passey vyndrent ladite Françoize et son filz en sa maison, et la eurent quelque parolles enssemble don ilz n'estoient contentz, et incontynent aprés il fut pryntz de mal et en grant langueur par l'espasse de .v. moes, et sur ce vynt ledit filz, lequell luy aporta .ii. angulles, desquelles il mengea et aussytost il fut guery, en oultre que ung jour de serveille commandee il passa par devant la maison a ladite Françoize, laquelle filloet, et luy dyst que elle se pouvoet bien passer de filler a raeson que il estoet serveille.
 1	Barnabey	Barnabey	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -8182,6 +8429,7 @@
 112	estoet	être	AUX	_	VerbForm=Fin	113	cop	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 113	serveille	surveille	NOUN	_	_	109	acl:relcl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 114	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_71_1_2
 # text = Et le landemain aprés, quant sa fame fut a tyrer ses vaches, elle trouva que ilz ne rendoient que du sang en lyeu de layct,
 1	Et	et	CCONJ	_	_	16	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8212,6 +8460,7 @@
 26	de	de	ADP	_	_	27	case	_	gold_pos=ADP|prpos=S|uppos=P
 27	layct	lait	NOUN	_	_	25	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 28	,	,	PUNCT	_	_	16	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_71_1_3
 # text = et furent en l'estat par l'espasse de troys sepmainnes.
 1	et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8226,6 +8475,7 @@
 10	troys	trois	NUM	_	NumType=Card	11	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 11	sepmainnes	semaine	NOUN	_	Number=Plur	8	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 12	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_71_1_4
 # text = Et raporte de cuyder et de croire que ladite Françoize et ledit Martin, son filz, usent de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8253,6 +8503,7 @@
 23	de	de	ADP	_	_	24	case	_	gold_pos=ADP|prpos=S|uppos=P
 24	sorcherie	sorcerie	NOUN	_	_	20	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 25	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_72_1_1
 # text = Johan le Gersiés dit et raporte que il y a viron troys ans que il soy trouva auprés de la maison au Grant Osanne en la compaignie de Martin Tulouff, et la y avoet une vache.
 1	Johan	Jehan	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -8295,6 +8546,7 @@
 37	une	un	DET	_	Definite=Ind	38	det	_	gold_pos=DET|prpos=Dn|uppos=D
 38	vache	vache	NOUN	_	_	36	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 39	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_72_1_2
 # text = Lequell Martin luy dyst: « Vela une belle vache!
 1	Lequell	lequel	DET	_	_	2	det	_	gold_pos=DET|prpos=Dr|uppos=WD
@@ -8308,6 +8560,7 @@
 9	belle	beau	ADJ	_	_	10	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 10	vache	vache	NOUN	_	_	7	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 11	!	!	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_72_1_3
 # text = Sy je voulloes, elle ne donneroet point de layct. »
 1	Sy	si	SCONJ	_	_	3	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
@@ -8322,6 +8575,7 @@
 10	layct	lait	NOUN	_	_	7	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 11	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 12	»	»	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_72_1_4
 # text = Et dit de cuyder et de croire que ledit Martin use de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8338,6 +8592,7 @@
 12	de	de	ADP	_	_	13	case	_	gold_pos=ADP|prpos=S|uppos=P
 13	sorcherie	sorcerie	NOUN	_	_	11	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 14	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_73_1_1
 # text = Marie, fame de Richard le Feyvre, dit et raporte en tout et partout come sondit mary a depozey cy devant.
 1	Marie	Marie	PROPN	_	Number=Plur	9	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -8363,6 +8618,7 @@
 21	cy	ci	ADV	_	_	22	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 22	devant	devant	ADV	_	_	20	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 23	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_73_1_2
 # text = Et dit en oultre que puys peu de temps elle a envoyé sa fille a tyrer ses vaches et elle mesme y a estey par plusieurs foys.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8393,6 +8649,7 @@
 26	plusieurs	plusieurs	DET	_	Definite=Ind	27	det	_	gold_pos=DET|prpos=Di|uppos=Q
 27	foys	fois	NOUN	_	Number=Plur	24	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 28	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_73_1_3
 # text = Et, estantz venus en leur maison, mettant le layct au lyeu que ilz avoient accoustumé, ledit layct venoet en nuees et muet en callebottes, et n'en faisoet point leur proffyt, a cause que il n'avoet nul bon goust.
 1	Et	et	CCONJ	_	_	22	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -8443,6 +8700,7 @@
 45	bon	bon	ADJ	_	_	46	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 46	goust	goût	NOUN	_	_	43	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 47	.	.	PUNCT	_	_	22	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_73_1_4
 # text = Et dit que aprés que elle soy playngnyt et que ladite Françoize en ouyt parler, incontynent sesditez vaches donnoient leur layct sain et bon come auparavant.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8473,6 +8731,7 @@
 26	come	comme	ADP	_	_	27	case	_	gold_pos=ADP|prpos=S|uppos=CONJS
 27	auparavant	auparavant	ADV	_	_	20	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 28	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_73_1_5
 # text = Et raporte de cuyder et de croire que ilz usent d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8492,6 +8751,7 @@
 15	de	de	ADP	_	_	16	case	_	gold_pos=ADP|prpos=S|uppos=P
 16	sorcherie	sorcerie	NOUN	_	_	12	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 17	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_74_1_1
 # text = Guillome Osanne dit et raporte que ung jour il fut cyeulx GuillomeGirart, lequell luy dyst que il luy avoet faict ung maulvais tort de luy avoir donney charge come conestable de faire mettre en servage Martin Tulouff, disant ledit Girart que dempuys cela il n'a eu null bien ne santé.
 1	Guillome	Guillaume	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -8549,6 +8809,7 @@
 53	ne	ni	CCONJ	_	_	54	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 54	santé	santé	NOUN	_	_	52	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 55	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_75_1_1
 # text = Blaize Chivret dit et raporte que il y a vyron .vii. ou .viii. jours que ladite Françoize vynt demander a sa fame sy leur vache donnoet point de beau layct, et il luy dyst que elle n'en donnoet point encoure.
 1	Blaize	Blaise	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -8594,6 +8855,7 @@
 41	point	point	ADV	_	_	40	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADVNEG
 42	encoure	encore	ADV	_	_	40	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 43	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_75_1_2
 # text = Et incontynent sadite vache donna bien une quarte ou .iii. pintes de layct.
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8610,6 +8872,7 @@
 12	de	de	ADP	_	_	13	case	_	gold_pos=ADP|prpos=S|uppos=P
 13	layct	lait	NOUN	_	_	8	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 14	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_75_1_3
 # text = Et dit que auparavant sadite vache avoet assequyé et ne donna point de layct bien l'espasse de .vii. jours.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8633,6 +8896,7 @@
 19	.vii.	sept	NUM	_	NumType=Card	20	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 20	jours	jour	NOUN	_	Number=Plur	17	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 21	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_75_1_4
 # text = Item que dempuys .vii. ou .viii. ans sa fame estoet en la maison de Jammes Osanne ayant son enffant, et la estoet ladite Françoize, laquelle dyst a sadite fame: « Garde bien ton enffant, car il ayra beaucoup de mall! »
 1	Item	item	ADV	_	_	10	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -8681,6 +8945,7 @@
 44	mall	mal	NOUN	_	_	42	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 45	!	!	PUNCT	_	_	10	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
 46	»	»	PUNCT	_	_	10	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_75_1_5
 # text = Et sur ce ledit enffant fut pryntz de mall,
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8693,6 +8958,7 @@
 8	de	de	ADP	_	_	9	case	_	gold_pos=ADP|prpos=S|uppos=P
 9	mall	mal	NOUN	_	_	7	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 10	,	,	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_75_1_6
 # text = et le garderent bien l'espasse de .iii. ans en maladie,
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8707,6 +8973,7 @@
 10	en	en	ADP	_	_	11	case	_	gold_pos=ADP|prpos=S|uppos=P
 11	maladie	maladie	NOUN	_	_	3	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 12	,	,	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_75_1_7
 # text = et a la fin il mouryt.
 1	et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8716,6 +8983,7 @@
 5	il	il	PRON	_	PronType=Prs	6	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 6	mouryt	mourir	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 7	.	.	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_75_1_8
 # text = Et d'habondant raporte de cuyder et de croire que ladite Françoize use de art de sort de sorcherye.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8738,6 +9006,7 @@
 18	de	de	ADP	_	_	19	case	_	gold_pos=ADP|prpos=S|uppos=P
 19	sorcherye	sorcerie	NOUN	_	_	15	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 20	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_76_1_1
 # text = Thomas Tyault dit et raporte que il y a viron .v. ou .vi. ans que il estoet conestable en la paroesse du Catell, et avoet charge de mettre les fames aparellés a louer.
 1	Thomas	Thomas	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -8777,6 +9046,7 @@
 34	a	à	ADP	_	_	35	mark	_	gold_pos=ADP|prpos=S|uppos=P
 35	louer	louer	VERB	_	VerbForm=Inf	30	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 36	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_76_1_2
 # text = Et dit que alhors il fut pryntz de mal, en sorte que il ne se pouvoet ainder et ung jour ne le conseilla de parler et mesnacher ladite Françoize, laquelle choze il fyst, et incontynent aprés il fut guery et en santé.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8825,6 +9095,7 @@
 44	en	en	ADP	_	_	45	case	_	gold_pos=ADP|prpos=S|uppos=P
 45	santé	santé	NOUN	_	_	42	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 46	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_76_1_3
 # text = Et raporte de cuyder et de croire que ladite fame use d'art de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8843,6 +9114,7 @@
 14	de	de	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P
 15	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_77_1_1
 # text = Collas de Garys dit et raporte que il y a viron .ii. ans et demi que il esconduyt Martin Tulouff de ung morceau de lart que il luy avoet demandé.
 1	Collas	Collas	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -8876,6 +9148,7 @@
 29	avoet	avoir	AUX	_	VerbForm=Fin	30	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 30	demandé	demander	VERB	_	VerbForm=Part	23	acl:relcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 31	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_77_1_2
 # text = Et aprés cela il fut printz de maladie,
 1	Et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8887,6 +9160,7 @@
 7	de	de	ADP	_	_	8	case	_	gold_pos=ADP|prpos=S|uppos=P
 8	maladie	maladie	NOUN	_	_	6	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 9	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_77_1_3
 # text = et luy dura .iii. sepmainnes dedens le luyct et longtemps aprés.
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8901,6 +9175,7 @@
 10	longtemps	longtemps	ADV	_	_	8	conj	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 11	aprés	après	ADV	_	_	10	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 12	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_77_1_4
 # text = Et ung jour ledit Martin vynt en la maison de Denys Martin, lequell Denys luy dyst que il detenoet ledit de Garys, et adoncq luy fyst renyer son art et sort, don il le detenoet, en le menachant, et au mesme jour il fut guery et en santé.
 1	Et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8959,6 +9234,7 @@
 53	en	en	ADP	_	_	54	case	_	gold_pos=ADP|prpos=S|uppos=P
 54	santé	santé	NOUN	_	_	51	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 55	.	.	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_77_1_5
 # text = Et dit de cuyder et de croire que ledit Martin use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -8979,6 +9255,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_78_1_1
 # text = Denys Martin dit et raporte que ung jour Martin Tulouff vynt en sa maison le jour que il espouza, et la le mesnacha en luy disant que il detenoet son gendre Collas de Garys.
 1	Denys	Denis	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -9017,6 +9294,7 @@
 34	de	de	PROPN	_	Number=Plur	33	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 35	Garys	Garys	PROPN	_	Number=Plur	33	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 36	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_78_1_2
 # text = Et luy fyst renoncher a tout sort et art de sorcherie,
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9031,6 +9309,7 @@
 10	de	de	ADP	_	_	11	case	_	gold_pos=ADP|prpos=S|uppos=P
 11	sorcherie	sorcerie	NOUN	_	_	9	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 12	,	,	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_78_1_3
 # text = et incontinent sondit gendre fut guery et en santé.
 1	et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9043,6 +9322,7 @@
 8	en	en	ADP	_	_	9	case	_	gold_pos=ADP|prpos=S|uppos=P
 9	santé	santé	NOUN	_	_	6	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 10	.	.	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_78_1_4
 # text = Et raporte de cuyder et de croire que ledit Martin use de sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9061,6 +9341,7 @@
 14	de	de	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P
 15	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_79_1_1
 # text = Lorenche Canu dit et raport que il y a vyron deulx ans que ladite Françoize vynt en la maison de son mary Anthoine Pluquet, et la se suyvyt sur ung coffre.
 1	Lorenche	Lorence	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -9096,6 +9377,7 @@
 31	ung	un	DET	_	Definite=Ind	32	det	_	gold_pos=DET|prpos=Di|uppos=D
 32	coffre	coffre	NOUN	_	_	29	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 33	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_79_1_2
 # text = Et au jour propre sondit mary fut pryntz de maladie et a estey longtemps en sorte que il en est mort.
 1	Et	et	CCONJ	_	_	9	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9122,6 +9404,7 @@
 21	est	être	AUX	_	VerbForm=Fin	22	aux	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 22	mort	mourir	VERB	_	VerbForm=Part	14	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 23	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_79_1_3
 # text = Et nous l'advertyt une foys de regarder au luyct de sondit mary,
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9140,6 +9423,7 @@
 13	sondit	sondit	DET	_	_	14	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 14	mary	mari	NOUN	_	_	11	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 15	,	,	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_79_1_4
 # text = laquelle choze elle fyst et la trouva ung voug lequell estoet come ung lymachon.
 1	laquelle	lequel	DET	_	_	2	det	_	gold_pos=DET|prpos=Dr|uppos=WD
@@ -9157,6 +9441,7 @@
 13	ung	un	DET	_	Definite=Ind	14	det	_	gold_pos=DET|prpos=Di|uppos=D
 14	lymachon	limaçon	NOUN	_	_	11	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 15	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_79_1_5
 # text = Et, aussytost que elle le mynt au feu, sondit mary mouryt le landemain.
 1	Et	et	CCONJ	_	_	14	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
@@ -9177,6 +9462,7 @@
 15	le	le	DET	_	Definite=Def	16	det	_	gold_pos=DET|prpos=Da|uppos=D
 16	landemain	lendemain	NOUN	_	_	14	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 17	.	.	PUNCT	_	_	14	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_79_1_6
 # text = Et dit de cuyder et de croire par suspection que ladite Françoize a estey la cause que sondit mary est mort par son sort.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9204,6 +9490,7 @@
 23	son	son	DET	_	_	24	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 24	sort	sort	NOUN	_	_	21	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 25	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_80_1_1
 # text = Collas Cohu dit et raporte que il a ouy dire a Martin Toulouff en venant a la ville, voyant ung camp de faibves, que, s'yll voulloet, il trouveroet et feroet bien venir le feu sur ledit camp de faibves.
 1	Collas	Collas	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -9251,6 +9538,7 @@
 43	de	de	ADP	_	_	44	case	_	gold_pos=ADP|prpos=S|uppos=P
 44	faibves	fève	NOUN	_	Number=Plur	42	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 45	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_80_1_2
 # text = Et dit de cuyder et de croire que ledit Martin use de sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9269,6 +9557,7 @@
 14	de	de	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P
 15	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_81_1_1
 # text = Jenette, fame de Collas de Garys, dit et raporte que sondit mary fut longuement malade, et disoet que Martin Tulouff le detenoet.
 1	Jenette	Jehannette	PROPN	_	Number=Plur	9	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -9297,6 +9586,7 @@
 24	le	il	PRON	_	PronType=Prs	25	obj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 25	detenoet	détenir	VERB	_	VerbForm=Fin	20	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 26	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_81_1_2
 # text = Et dit que, aprés que elle eult donney audit Martin ung denerell de bley, sondit mary fut incontynent sain et guery.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9325,6 +9615,7 @@
 23	et	et	CCONJ	_	_	24	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 24	guery	guérir	VERB	_	VerbForm=Part	22	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 25	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_81_1_3
 # text = Et de cuyder et de croire raporte que ledit Martin use de sort.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9341,6 +9632,7 @@
 12	de	de	ADP	_	_	13	case	_	gold_pos=ADP|prpos=S|uppos=P
 13	sort	sort	NOUN	_	_	11	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 14	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_82_1_1
 # text = Gyffre Noell dit et raporte que il y a viron deulx ans que ledit Martin vynt en sa maison demandant des pannees, lequell en fut esconduyt.
 1	Gyffre	Gyffre	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -9371,6 +9663,7 @@
 26	fut	être	AUX	_	VerbForm=Fin	27	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 27	esconduyt	éconduire	VERB	_	VerbForm=Part	15	acl:relcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 28	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_82_1_2
 # text = Et incontynent aprés, son enffant fut pryntz de maladie et le fut bien l'espasse de .iii. quartier d'an.
 1	Et	et	CCONJ	_	_	8	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9395,6 +9688,7 @@
 20	d'	de	ADP	_	_	21	case	_	gold_pos=ADP|prpos=S|SpaceAfter=No|uppos=P
 21	an	an	NOUN	_	_	19	nmod	_	gold_pos=NOUN|join=left|prpos=Nc|SpaceAfter=No|uppos=NCS
 22	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_82_1_3
 # text = Et ung jour il dyst audit Martin et a sa mere que il les airoet et les batteroet en les mesnachant,
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9421,6 +9715,7 @@
 21	les	il	PRON	_	PronType=Prs	22	obj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 22	mesnachant	menacer	VERB	_	_	5	advcl	_	gold_pos=VERB|prpos=Ga|SpaceAfter=No|uppos=VG
 23	,	,	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_82_1_4
 # text = et aussytost il aperceult que sa fille fut guerie et sainne.
 1	et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9435,6 +9730,7 @@
 10	et	et	CCONJ	_	_	11	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 11	sainne	sain	ADJ	_	_	9	conj	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 12	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_82_1_5
 # text = Et raporte de cuyder et de croire que ladite Françoize et son filz usent de art et sort de sorcherye.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9458,6 +9754,7 @@
 19	de	de	ADP	_	_	20	case	_	gold_pos=ADP|prpos=S|uppos=P
 20	sorcherye	sorcerie	NOUN	_	_	16	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 21	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_83_1_1
 # text = Pierres des Gardins dit et raporte que il y a viron ung an que il estoet en la maison de Pierres le Roy avuecque ledit Martin, lequell avoet ung espy d'orge en sa main, et estoet brusley.
 1	Pierres	Pierre	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -9501,6 +9798,7 @@
 39	estoet	être	AUX	_	VerbForm=Fin	40	aux	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 40	brusley	brûler	VERB	_	VerbForm=Part	16	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 41	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_83_1_2
 # text = Et luy dist que, s'yl voulloet, que il feroet bien venir ung camp de bley come ledit espy et aussy ung camp de faibves, que il feroet bien brusler toute la fleur qui ne porteroient point de fruyct.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9546,6 +9844,7 @@
 41	de	de	DET	_	Definite=Ind	42	det	_	gold_pos=DET|prpos=Dn|uppos=D
 42	fruyct	fruit	NOUN	_	_	39	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 43	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_83_1_3
 # text = Et aussy luy dyst que il y avoet une petite saille en la maison, laquelle, s'yl voulloet, il feroet bien que le plus fort home de Gernesey ne la sçairoet lever.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9584,6 +9883,7 @@
 34	sçairoet	savoir	VERB	_	VerbForm=Fin	23	ccomp	_	gold_pos=AUX|prpos=Vvc|uppos=VJ
 35	lever	lever	VERB	_	VerbForm=Inf	34	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 36	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_83_1_4
 # text = Et raporte de cuyder et de croire que ledit Martin use de sort et art de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9604,6 +9904,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_84_1_1
 # text = Johan de Beaucamp dit et raporte que il y a viron deulx ans que Martin Tulouff et ses enffantz avoient eu aulcunes parolles enssemble, et aussytost aprés une de ses vaches perdyt la plus grant part de son layct.
 1	Johan	Jehan	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -9647,6 +9948,7 @@
 39	son	son	DET	_	_	40	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 40	layct	lait	NOUN	_	_	37	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 41	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_84_1_2
 # text = Plus oultre dit que ladite Françoize, mere dudit Martin, vynt a sa fame .v. ou .vi. sepmainnez aprés, laquelle luy dyst: « Tu dys, toy et ton mary, que je suys sorchiere. »
 1	Plus	plus	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -9691,6 +9993,7 @@
 39	sorchiere	sorcier	ADJ	_	_	29	ccomp	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 40	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 41	»	»	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_84_1_3
 # text = A laquelle choze sadite fame luy dyst que elle la congnoissoet de viell et que elle ne congnoissoet point que elle le fust,
 1	A	à	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -9717,6 +10020,7 @@
 22	le	il	PRON	_	PronType=Prs	18	ccomp	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 23	fust	être	AUX	_	VerbForm=Fin	22	cop	_	gold_pos=AUX|prpos=Vuc|SpaceAfter=No|uppos=EJ
 24	,	,	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_84_1_4
 # text = et dedens deulx ou troys jours, sadite vache mouryt.
 1	et	et	CCONJ	_	_	10	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9730,6 +10034,7 @@
 9	vache	vache	NOUN	_	_	10	nsubj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 10	mouryt	mourir	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 11	.	.	PUNCT	_	_	10	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_84_1_5
 # text = Et dit de cuyder et de croire que ilz usent d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9749,6 +10054,7 @@
 15	de	de	ADP	_	_	16	case	_	gold_pos=ADP|prpos=S|uppos=P
 16	sorcherie	sorcerie	NOUN	_	_	12	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 17	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_85_1_1
 # text = La fame dudit Johan de Beaucamp dit et raporte en tout et partout come sondit mary a deposey.
 1	La	le	DET	_	Definite=Def	2	det	_	gold_pos=DET|prpos=Da|uppos=D
@@ -9772,6 +10078,7 @@
 18	a	avoir	AUX	_	VerbForm=Fin	19	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 19	deposey	déposer	VERB	_	VerbForm=Part	8	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 20	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_86_1_1
 # text = Guillemyne, fame de Gyffre Noell, dit et raporte que il y a viron .iii. ou .iiii. ans que elle estoet en la maison de Bastien Jehan, et que ladite Françoize estoet avuecque elle cuyllant de cambre, et que alhors la fame de Pierres du Fro avoet eu enffant nouvellement.
 1	Guillemyne	Guillemine	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -9828,6 +10135,7 @@
 52	enffant	enfant	NOUN	_	_	51	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 53	nouvellement	nouvellement	ADV	_	_	51	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 54	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_86_1_2
 # text = de laquelle choze ladite Françoize se moquet du travaill de la fame dudit du Fro,
 1	de	de	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -9850,6 +10158,7 @@
 16	du	du	PROPN	_	Number=Plur	13	nmod	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 17	Fro	Fro	PROPN	_	Number=Plur	16	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 18	,	,	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_86_1_3
 # text = Et sur ce ladite deposante la reprynt, luy disant que elle ne se moquyst point de personne et que elle avoet tort d'en parler.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9879,6 +10188,7 @@
 25	en	en	PRON	_	PronType=Prs	26	obl	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
 26	parler	parler	VERB	_	VerbForm=Inf	22	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 27	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_86_1_4
 # text = Sur laquelle choze ladite Françoize luy dyst que elle airoet elle mesme du travaill assés pour touttes les aultres.
 1	Sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -9901,6 +10211,7 @@
 18	les	le	DET	_	Definite=Def	19	det	_	gold_pos=DET|prpos=Da|uppos=D
 19	aultres	autre	PRON	_	PronType=Ind	15	obl	_	gold_pos=PRON|prpos=Pi|SpaceAfter=No|uppos=PRO
 20	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_86_1_5
 # text = Et de l'heure elle fut prynse de travaill, en sorte que elle fut portee en sa maison et que elle se eleuct de son fruyct dedens .iii. jours.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9934,6 +10245,7 @@
 29	.iii.	trois	NUM	_	NumType=Card	30	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 30	jours	jour	NOUN	_	Number=Plur	24	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 31	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_86_1_6
 # text = Et raporte de cuyder et de croire que ladite Françoize use de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -9954,6 +10266,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_87_1_1
 # text = Bastien Jehan dit et raporte que il y a viron .iii. ou .iiii. ans que il avoet ladite Françoize en sa journee et la fame de Gyffre Noell, lesquelles cuylloient pour luy.
 1	Bastien	Bastien	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -9990,6 +10303,7 @@
 32	pour	pour	ADP	_	_	33	case	_	gold_pos=ADP|prpos=S|uppos=P
 33	luy	il	PRON	_	PronType=Prs	31	obl	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
 34	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_87_1_2
 # text = Et estoient lesditez fames en parolles enssemble pour le travaill de la fame Pierres du Fro,
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10009,6 +10323,7 @@
 15	du	du	PROPN	_	Number=Plur	14	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 16	Fro	Fro	PROPN	_	Number=Plur	14	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 17	,	,	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_87_1_3
 # text = et sur teilles parolles la fame dudit Gyffre luy dyst que elle n'avoet point eu grant travaill a ses enffantz,
 1	et	et	CCONJ	_	_	11	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10035,6 +10350,7 @@
 21	ses	son	DET	_	_	22	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 22	enffantz	enfant	NOUN	_	Number=Plur	17	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 23	,	,	PUNCT	_	_	11	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_87_1_4
 # text = laquelle Françoize luy dyst que elle en airoet assés pour toutes les aultres.
 1	laquelle	lequel	DET	_	_	2	det	_	gold_pos=DET|prpos=Dr|uppos=WD
@@ -10051,6 +10367,7 @@
 12	les	le	DET	_	Definite=Def	13	det	_	gold_pos=DET|prpos=Da|uppos=D
 13	aultres	autre	PRON	_	PronType=Ind	8	obl	_	gold_pos=PRON|prpos=Pi|SpaceAfter=No|uppos=PRO
 14	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_87_1_5
 # text = Et le jour propre elle fut prynse de mall d'enffant, laquelle au but de .iii. jours ou vyron elle se esleuct de sondit enffant.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10082,6 +10399,7 @@
 26	sondit	sondit	DET	_	_	27	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 27	enffant	enfant	NOUN	_	_	24	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 28	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_87_1_6
 # text = Et raporte de cuyder et de croire que ladite Françoize use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10102,6 +10420,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_88_1_1
 # text = Pierres du Fro dit et raporte que cest estey passey sa fame mesnacha Martin Tulouff, et aprés ladite mesnache incontinent il fut pryntz de mall et a estey longtemps.
 1	Pierres	Pierre	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -10135,6 +10454,7 @@
 29	estey	être	VERB	_	VerbForm=Part	24	conj	_	gold_pos=VERB|prpos=Ge|uppos=EPP
 30	longtemps	longtemps	ADV	_	_	29	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 31	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_88_1_2
 # text = Et dempuys, aprés que sadite fame eult menachy ledit Martin, il luy est amendey.
 1	Et	et	CCONJ	_	_	16	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10154,6 +10474,7 @@
 15	est	être	AUX	_	VerbForm=Fin	16	aux	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 16	amendey	amender	VERB	_	VerbForm=Part	0	root	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 17	.	.	PUNCT	_	_	16	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_88_1_3
 # text = Et raporte de cuider et de croire que ledit Martin use de sort et art de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10174,6 +10495,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_89_1_1
 # text = Marguitte, fame dudit du Fro, dit et raporte que aultrefoys elle a menachy ledit Martin pour quelque tort que il luy avoet faict et que, a cause de cela, elle a estey prynse de mall.
 1	Marguitte	Marguitte	PROPN	_	Number=Plur	9	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -10218,6 +10540,7 @@
 39	de	de	ADP	_	_	40	case	_	gold_pos=ADP|prpos=S|uppos=P
 40	mall	mal	NOUN	_	_	38	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 41	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_89_1_2
 # text = et dempuys qu'yll a estey myns au Chateau, il luy est amendey.
 1	et	et	CCONJ	_	_	15	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10237,6 +10560,7 @@
 14	est	être	AUX	_	VerbForm=Fin	15	aux	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 15	amendey	amender	VERB	_	VerbForm=Part	0	root	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 16	.	.	PUNCT	_	_	15	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_89_1_3
 # text = Et de cuyder et de croire elle dit que ledit Martin use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	8	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10258,6 +10582,7 @@
 17	de	de	ADP	_	_	18	case	_	gold_pos=ADP|prpos=S|uppos=P
 18	sorcherie	sorcerie	NOUN	_	_	14	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_90_1_1
 # text = Collette, fame de Jammes le Feyvre, dit et raporte que il y a chinq ans desrayns passés ou vyron que Martin Tulouff vynt ung jour en sa maison en luy demandant ung morceau de lart,
 1	Collette	Collette	PROPN	_	Number=Plur	9	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -10298,6 +10623,7 @@
 36	de	de	ADP	_	_	37	case	_	gold_pos=ADP|prpos=S|uppos=P
 37	lart	lard	NOUN	_	_	35	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 38	,	,	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_90_1_2
 # text = de laquelle choze il fut esconduyt,
 1	de	de	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -10307,6 +10633,7 @@
 5	fut	être	AUX	_	VerbForm=Fin	6	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 6	esconduyt	éconduire	VERB	_	VerbForm=Part	0	root	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 7	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_90_1_3
 # text = et en s'en allant, il luy dyst que elle s'en repentiroet.
 1	et	et	CCONJ	_	_	9	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10324,6 +10651,7 @@
 13	en	en	PRON	_	PronType=Prs	14	obl	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
 14	repentiroet	repentir	VERB	_	VerbForm=Fin	9	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 15	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_90_1_4
 # text = Et incontynent la nuyct enssuyvant elle fut prynse de mall,
 1	Et	et	CCONJ	_	_	8	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10337,6 +10665,7 @@
 9	de	de	ADP	_	_	10	case	_	gold_pos=ADP|prpos=S|uppos=P
 10	mall	mal	NOUN	_	_	8	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 11	,	,	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_90_1_5
 # text = et luy contynua bien l'espasse de .v. ou .vi. sepmainnes, tant que elle ne se pouvoet aynder.
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10359,6 +10688,7 @@
 18	pouvoet	pouvoir	VERB	_	VerbForm=Fin	3	advcl	_	gold_pos=AUX|prpos=Vvc|uppos=MDJ
 19	aynder	aider	VERB	_	VerbForm=Inf	18	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 20	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_90_1_6
 # text = Et aprés cela trouverent dedens leur luyct deulx liachies de plume faictz en maniere de voug.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10378,6 +10708,7 @@
 15	de	de	ADP	_	_	16	case	_	gold_pos=ADP|prpos=S|uppos=P
 16	voug	voug	NOUN	_	_	14	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 17	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_90_1_7
 # text = Et dit que son mary alhors prynt ledit Martin et le batyt, en le menachant de le brusler en sa grange,
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10403,6 +10734,7 @@
 21	sa	son	DET	_	_	22	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 22	grange	grange	NOUN	_	_	19	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 23	,	,	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_90_1_8
 # text = et le jour mesme il luy amenda.
 1	et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10413,6 +10745,7 @@
 6	luy	il	PRON	_	PronType=Prs	7	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 7	amenda	amender	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 8	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_90_1_9
 # text = et fut sainne et guerie.
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10421,6 +10754,7 @@
 4	et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 5	guerie	guérir	VERB	_	VerbForm=Part	3	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 6	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_90_1_10
 # text = Et raporte de cuyder et de croire que ledit Martin use de art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10441,6 +10775,7 @@
 16	de	de	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_91_1_1
 # text = Le .xxxe. jour du moes d'auguste l'an mille .vcclxiii. par devant Thomas Comptum, baillyff, presentz ad ce Thomas Effart, Jammes Guille et Johan Blondell, fils Collas, jurés. Thomasse, fame de Pierres Maryn, dit et raporte que il y a troys ans passés que Martin Tulouff vynt en sa maison, lequell luy demanda du beure aprés que son mary luy avoet donné l'osmone, duquell beure il en fut esconduyt, et dedens .xxiiii. heures aprés elle fut prynse de mall et en grant langueur, et que se esleuct de ung enffant.
 1	Le	le	DET	_	Definite=Def	3	det	_	gold_pos=DET|prpos=Da|uppos=D
@@ -10552,6 +10887,7 @@
 105	ung	un	DET	_	Definite=Ind	106	det	_	gold_pos=DET|prpos=Di|uppos=D
 106	enffant	enfant	NOUN	_	_	103	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 107	.	.	PUNCT	_	_	44	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_92_1_1
 # text = Et aprés ces chozes fyst venir par une de ses parentes la mere dudit Martin pour la voer et, elle venue, faisoet des signes de croix et se esmevilloet de la voer a l'estat,
 1	Et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10594,6 +10930,7 @@
 37	l'	le	DET	_	Definite=Def	38	det	_	gold_pos=DET|prpos=Da|SpaceAfter=No|uppos=D
 38	estat	état	NOUN	_	_	35	obl	_	gold_pos=NOUN|join=left|prpos=Nc|SpaceAfter=No|uppos=NCS
 39	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_92_1_2
 # text = et dedens .xxiiii. heures il luy amenda,
 1	et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10604,6 +10941,7 @@
 6	luy	il	PRON	_	PronType=Prs	7	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 7	amenda	amender	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 8	,	,	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_92_1_3
 # text = et vint sainne et guerie.
 1	et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10612,6 +10950,7 @@
 4	et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 5	guerie	guérir	VERB	_	VerbForm=Part	3	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 6	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_92_1_4
 # text = Et dit de cuyder et de croire que ledit Martin use de art de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10630,6 +10969,7 @@
 14	de	de	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P
 15	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_93_1_1
 # text = Collette Maryn dit et raporte en tout et partout come ladite Thomasse a depossé, ainsy que devant est dit.
 1	Collette	Collette	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -10653,6 +10993,7 @@
 19	est	être	AUX	_	VerbForm=Fin	20	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 20	dit	dire	VERB	_	VerbForm=Part	3	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 21	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_94_1_1
 # text = Collette Effart, fame de Johan Effart, dit et raporte que il y a vyron ung an que Martin Tulouff vynt en sa maison en luy demandant ung morceau de lart, duquel il fut esconduyt.
 1	Collette	Collette	PROPN	_	Number=Plur	9	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -10695,6 +11036,7 @@
 37	fut	être	AUX	_	VerbForm=Fin	38	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 38	esconduyt	éconduire	VERB	_	VerbForm=Part	30	acl:relcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 39	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_94_1_2
 # text = Et aprés cela elle fut bien l'espasse de .xiiii. sepmainnes malade,
 1	Et	et	CCONJ	_	_	12	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10710,6 +11052,7 @@
 11	sepmainnes	semaine	NOUN	_	Number=Plur	8	nmod	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
 12	malade	malade	ADJ	_	_	0	root	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 13	,	,	PUNCT	_	_	12	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
 # sent_id = 1_1_94_1_3
 # text = et durant sa maladie ledit Martin vynt en sa maison et luy dyst que elle luy donnast une potee de panees et que elle seroet guerie, laquelle choze elle fyst.
 1	et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10744,6 +11087,7 @@
 30	elle	il	PRON	_	PronType=Prs	31	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 31	fyst	faire	VERB	_	VerbForm=Fin	17	parataxis	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 32	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_94_1_4
 # text = Et aprés cela dedens .xxiiii. heures elle fut sainne et guerie.
 1	Et	et	CCONJ	_	_	9	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10758,6 +11102,7 @@
 10	et	et	CCONJ	_	_	11	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 11	guerie	guérir	VERB	_	VerbForm=Part	9	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 12	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
 # sent_id = 1_1_94_1_5
 # text = Et dit de cuyder et de croire que il use de sort et art de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10777,3 +11122,4 @@
 15	de	de	ADP	_	_	16	case	_	gold_pos=ADP|prpos=S|uppos=P
 16	sorcherie	sorcerie	NOUN	_	_	12	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 17	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+
