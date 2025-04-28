@@ -525,10 +525,10 @@
 230	Flamen	Flamand	PROPN	_	Number=Plur	227	obj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 231	cannonnier	canonnier	NOUN	_	_	230	appos	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 232	avuecque	avec	ADP	_	_	234	case	_	gold_pos=ADP|prpos=S|uppos=P
-233	du	du	DET	_	_	234	det	_	gold_pos=DET|prpos=Dp|uppos=D
+233	du	du	DET	_	Definite=Ind	234	det	_	gold_pos=DET|prpos=Dp|uppos=D
 234	pain	pain	NOUN	_	_	230	nmod	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 235	et	et	CCONJ	_	_	238	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-236	de	du	DET	_	ExtPos=DET	238	det	_	gold_pos=DET|prpos=Dp|uppos=D
+236	de	du	DET	_	Definite=Ind|ExtPos=DET	238	det	_	gold_pos=DET|prpos=Dp|uppos=D
 237	la	le	DET	_	Definite=Def	236	fixed	_	gold_pos=DET|prpos=Da|uppos=D
 238	bire	bière	NOUN	_	_	234	conj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 239	sans	sans	ADP	_	_	240	mark	_	gold_pos=ADP|prpos=S|uppos=P
@@ -576,7 +576,7 @@
 14	eurent	avoir	VERB	_	VerbForm=Fin	7	conj	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
 15	de	de	ADP	_	_	16	case	_	gold_pos=ADP|prpos=S|uppos=P
 16	luy	il	PRON	_	PronType=Prs	14	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-17	de	du	DET	_	ExtPos=DET	19	det	_	gold_pos=DET|prpos=Dp|uppos=D
+17	de	du	DET	_	Definite=Ind|ExtPos=DET	19	det	_	gold_pos=DET|prpos=Dp|uppos=D
 18	l'	le	DET	_	Definite=Def	17	fixed	_	gold_pos=DET|prpos=Da|SpaceAfter=No|uppos=D
 19	artillerie	artillerie	NOUN	_	_	14	obj	_	gold_pos=NOUN|join=left|prpos=Nc|uppos=NCS
 20-21	au	_	_	_	_	_	_	_	_
@@ -587,7 +587,7 @@
 24	.viii.	huit	NUM	_	NumType=Card	25	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 25	selyngnes	sling	NOUN	_	Number=Plur	22	nmod	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
 26	et	et	CCONJ	_	_	28	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-27	du	du	DET	_	_	28	det	_	gold_pos=DET|prpos=Dp|uppos=D
+27	du	du	DET	_	Definite=Ind	28	det	_	gold_pos=DET|prpos=Dp|uppos=D
 28	poysson	poisson	NOUN	_	_	19	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 29	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
@@ -895,23 +895,23 @@
 89	eurent	avoir	VERB	_	VerbForm=Fin	8	conj	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
 90	en	en	ADP	_	_	91	case	_	gold_pos=ADP|prpos=S|uppos=P
 91	poyment	paiement	NOUN	_	_	89	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-92	du	du	DET	_	_	93	det	_	gold_pos=DET|prpos=Dp|uppos=D
+92	du	du	DET	_	Definite=Ind	93	det	_	gold_pos=DET|prpos=Dp|uppos=D
 93	poysson	poisson	NOUN	_	_	89	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 94	,	,	PUNCT	_	_	93	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
-95	de	du	DET	_	_	97	det	_	gold_pos=DET|prpos=Dp|uppos=D
-96	l'	du	DET	_	_	97	det	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
+95	de	du	DET	_	Definite=Ind	97	det	_	gold_pos=DET|prpos=Dp|uppos=D
+96	l'	du	DET	_	Definite=Ind	97	det	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
 97	artillerie	artillerie	NOUN	_	_	101	nmod	_	gold_pos=NOUN|join=left|prpos=Nc|uppos=NCS
 98	.xiiii.	quatorze	NUM	_	NumType=Card	101	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 99	ou	ou	CCONJ	_	_	100	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 100	.xv.	vingt	NUM	_	NumType=Card	98	conj	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 101	pieches	pièce	NOUN	_	Number=Plur	93	conj	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
 102	et	et	CCONJ	_	_	105	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-103	de	du	DET	_	ExtPos=DET	105	det	_	gold_pos=DET|prpos=Dp|uppos=D
-104	l'	du	DET	_	_	103	fixed	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
+103	de	du	DET	_	Definite=Ind|ExtPos=DET	105	det	_	gold_pos=DET|prpos=Dp|uppos=D
+104	l'	du	DET	_	Definite=Ind	103	fixed	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
 105	argent	argent	NOUN	_	_	93	conj	_	gold_pos=NOUN|join=left|prpos=Nc|uppos=NCS
 106	et	et	CCONJ	_	_	109	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-107	de	du	DET	_	ExtPos=DET	109	det	_	gold_pos=DET|prpos=Dp|uppos=D
-108	la	du	DET	_	_	107	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
+107	de	du	DET	_	Definite=Ind|ExtPos=DET	109	det	_	gold_pos=DET|prpos=Dp|uppos=D
+108	la	du	DET	_	Definite=Ind	107	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
 109	toille	toile	NOUN	_	_	93	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 110	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
@@ -1698,11 +1698,11 @@
 57	yceulx	icelui	PRON	_	PronType=Dem	55	obl	_	gold_pos=PRON|join=left|prpos=Pd|uppos=PRO
 58	en	en	ADP	_	_	59	case	_	gold_pos=ADP|prpos=S|uppos=P
 59	rescompence	récompense	NOUN	_	_	55	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-60	du	du	DET	_	_	61	det	_	gold_pos=DET|prpos=Dp|uppos=D
+60	du	du	DET	_	Definite=Ind	61	det	_	gold_pos=DET|prpos=Dp|uppos=D
 61	poysson	poisson	NOUN	_	_	55	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 62	et	et	CCONJ	_	_	65	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-63	de	du	DET	_	ExtPos=DET	65	det	_	gold_pos=DET|prpos=Dp|uppos=D
-64	l'	du	DET	_	_	63	fixed	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
+63	de	du	DET	_	Definite=Ind|ExtPos=DET	65	det	_	gold_pos=DET|prpos=Dp|uppos=D
+64	l'	du	DET	_	Definite=Ind	63	fixed	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
 65	artillerie	artillerie	NOUN	_	_	61	conj	_	gold_pos=NOUN|join=left|prpos=Nc|SpaceAfter=No|uppos=NCS
 66	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
@@ -2268,8 +2268,8 @@
 21	des	un	DET	_	Definite=Ind	22	det	_	gold_pos=DET|prpos=Dn|uppos=D
 22	faibves	fève	NOUN	_	Number=Plur	19	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
 23	et	et	CCONJ	_	_	26	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-24	de	du	DET	_	_	26	det	_	gold_pos=DET|prpos=Dp|uppos=D
-25	l'	du	DET	_	_	26	det	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
+24	de	du	DET	_	Definite=Ind	26	det	_	gold_pos=DET|prpos=Dp|uppos=D
+25	l'	du	DET	_	Definite=Ind	26	det	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
 26	eaue	eau	NOUN	_	_	22	conj	_	gold_pos=NOUN|join=left|prpos=Nc|uppos=NCS
 27	quant	quand	SCONJ	_	_	30	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
 28	ledit	ledit	DET	_	Definite=Ind	29	det	_	gold_pos=DET|prpos=Di|uppos=D
@@ -6578,7 +6578,7 @@
 45	et	et	CCONJ	_	_	46	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 46	jurés	juré	NOUN	_	Number=Plur	44	conj	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
 47	de	de	ADP	_	_	49	case	_	gold_pos=ADP|prpos=S|uppos=P
-48	vostredite	votredit	DET	_	_	49	det	_	gold_pos=DET|prpos=Dp|uppos=D
+48	vostredite	votredit	DET	_	Definite=Ind	49	det	_	gold_pos=DET|prpos=Dp|uppos=D
 49	isle	île	NOUN	_	_	44	nmod	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 50	de	de	ADP	_	_	51	case	_	gold_pos=ADP|prpos=S|uppos=P
 51	Guernesey	Guernesey	PROPN	_	Number=Plur	49	nmod	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -9545,7 +9545,7 @@
 21	,	,	PUNCT	_	_	18	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 22	a	à	ADP	_	_	23	mark	_	gold_pos=ADP|prpos=S|uppos=P
 23	syer	scier	VERB	_	VerbForm=Fin	8	xcomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-24	du	du	DET	_	_	25	det	_	gold_pos=DET|prpos=Dp|uppos=D
+24	du	du	DET	_	Definite=Ind	25	det	_	gold_pos=DET|prpos=Dp|uppos=D
 25	boes	bois	NOUN	_	_	23	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 26	sur	sur	ADP	_	_	28	case	_	gold_pos=ADP|prpos=S|uppos=P
 27	l'	le	DET	_	Definite=Def	28	det	_	gold_pos=DET|prpos=Da|SpaceAfter=No|uppos=D
@@ -10781,7 +10781,7 @@
 47	estoet	être	VERB	_	VerbForm=Fin	8	conj	_	gold_pos=VERB|prpos=Vuc|uppos=EJ
 48	a	à	ADP	_	_	49	mark	_	gold_pos=ADP|prpos=S|uppos=P
 49	syer	scier	VERB	_	VerbForm=Fin	47	xcomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-50	du	du	DET	_	_	51	det	_	gold_pos=DET|prpos=Dp|uppos=D
+50	du	du	DET	_	Definite=Ind	51	det	_	gold_pos=DET|prpos=Dp|uppos=D
 51	boes	bois	NOUN	_	_	49	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 52	cieulx	chez	ADP	_	_	53	case	_	gold_pos=ADP|prpos=S|uppos=P
 53	Thomas	Thomas	PROPN	_	Number=Plur	47	obl	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -11230,7 +11230,7 @@
 30	ayndoet	aider	VERB	_	VerbForm=Fin	14	conj	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 31	a	à	ADP	_	_	32	mark	_	gold_pos=ADP|prpos=S|uppos=P
 32	scyer	scier	VERB	_	VerbForm=Inf	30	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-33	du	du	DET	_	_	34	det	_	gold_pos=DET|prpos=Dp|uppos=D
+33	du	du	DET	_	Definite=Ind	34	det	_	gold_pos=DET|prpos=Dp|uppos=D
 34	boes	bois	NOUN	_	_	32	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 35	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
@@ -13001,8 +13001,8 @@
 49	,	,	PUNCT	_	_	46	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 50	lesquelz	lequel	PRON	_	PronType=Rel	51	nsubj	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
 51	beuvoient	boire	VERB	_	VerbForm=Fin	46	acl:relcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-52	de	du	DET	_	ExtPos=DET	54	det	_	gold_pos=DET|prpos=Dp|uppos=D
-53	la	du	DET	_	_	52	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
+52	de	du	DET	_	Definite=Ind|ExtPos=DET	54	det	_	gold_pos=DET|prpos=Dp|uppos=D
+53	la	du	DET	_	Definite=Ind	52	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
 54	byre	bière	NOUN	_	_	51	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 55	et	et	CCONJ	_	_	56	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 56	avoient	avoir	VERB	_	VerbForm=Fin	51	conj	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
@@ -13625,8 +13625,8 @@
 10	mesnage	ménage	NOUN	_	_	6	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 11	pour	pour	ADP	_	_	12	mark	_	gold_pos=ADP|prpos=S|uppos=P
 12	gatter	gâter	VERB	_	VerbForm=Inf	6	advcl	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-13	de	du	DET	_	ExtPos=DET	15	det	_	gold_pos=DET|prpos=Dp|uppos=D
-14	l'	du	DET	_	_	13	fixed	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
+13	de	du	DET	_	Definite=Ind|ExtPos=DET	15	det	_	gold_pos=DET|prpos=Dp|uppos=D
+14	l'	du	DET	_	Definite=Ind	13	fixed	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
 15	eaue	eau	NOUN	_	_	12	obj	_	gold_pos=NOUN|join=left|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	,	,	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
@@ -13945,7 +13945,7 @@
 15	le	le	DET	_	Definite=Def	16	det	_	gold_pos=DET|prpos=Da|uppos=D
 16	jeune	jeune	ADJ	_	_	14	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 17	desroba	dérober	VERB	_	VerbForm=Fin	7	ccomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-18	du	du	DET	_	_	19	det	_	gold_pos=DET|prpos=Dp|uppos=D
+18	du	du	DET	_	Definite=Ind	19	det	_	gold_pos=DET|prpos=Dp|uppos=D
 19	bley	blé	NOUN	_	_	17	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 20-21	audit	_	_	_	_	_	_	_	_
 20	a	à	ADP	_	_	22	case	_	gold_pos=ADP|prpos=S|uppos=P|wordform=à
@@ -16283,7 +16283,7 @@
 6	veilly	veiller	VERB	_	VerbForm=Part	0	root	_	gold_pos=VERB|prpos=Ge|uppos=VPP
 7	a	à	ADP	_	_	8	mark	_	gold_pos=ADP|prpos=S|uppos=P
 8	battre	battre	VERB	_	VerbForm=Inf	6	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-9	du	du	DET	_	_	10	det	_	gold_pos=DET|prpos=Dp|uppos=D
+9	du	du	DET	_	Definite=Ind	10	det	_	gold_pos=DET|prpos=Dp|uppos=D
 10	bley	blé	NOUN	_	_	8	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 11	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
@@ -16882,7 +16882,7 @@
 16	luy	il	PRON	_	PronType=Prs	18	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 17	avoet	avoir	AUX	_	VerbForm=Fin	18	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 18	desrobey	dérober	VERB	_	VerbForm=Part	13	ccomp	_	gold_pos=VERB|prpos=Ge|uppos=VPP
-19	du	du	DET	_	_	20	det	_	gold_pos=DET|prpos=Dp|uppos=D
+19	du	du	DET	_	Definite=Ind	20	det	_	gold_pos=DET|prpos=Dp|uppos=D
 20	bley	blé	NOUN	_	_	18	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 21	en	en	ADP	_	_	22	case	_	gold_pos=ADP|prpos=S|uppos=P
 22	gerbe	gerbe	NOUN	_	_	20	nmod	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
@@ -17027,8 +17027,8 @@
 9	,	,	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 10	lequell	lequel	PRON	_	PronType=Rel	11	nsubj	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
 11	avoet	avoir	VERB	_	VerbForm=Fin	8	acl:relcl	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
-12	de	du	DET	_	ExtPos=DET	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
-13	la	du	DET	_	_	12	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
+12	de	du	DET	_	Definite=Ind|ExtPos=DET	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
+13	la	du	DET	_	Definite=Ind	12	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
 14	pouree	pouree	NOUN	_	_	11	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 15	qu'	que	PRON	_	PronType=Rel	18	obj	_	gold_pos=PRON|prpos=Pr|SpaceAfter=No|uppos=WPRO
 16	yl	il	PRON	_	PronType=Prs	18	nsubj	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
@@ -17123,7 +17123,7 @@
 14	,	,	PUNCT	_	_	12	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 15	lequell	lequel	PRON	_	PronType=Rel	16	nsubj	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
 16	coupoet	couper	VERB	_	VerbForm=Fin	12	acl:relcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-17	du	du	DET	_	_	18	det	_	gold_pos=DET|prpos=Dp|uppos=D
+17	du	du	DET	_	Definite=Ind	18	det	_	gold_pos=DET|prpos=Dp|uppos=D
 18	saulx	saule	NOUN	_	_	16	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	,	,	PUNCT	_	_	16	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 20	et	et	CCONJ	_	_	22	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -17193,8 +17193,8 @@
 9	luy	il	PRON	_	PronType=Prs	11	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 10	a	avoir	AUX	_	VerbForm=Fin	11	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 11	desrobey	dérober	VERB	_	VerbForm=Part	3	ccomp	_	gold_pos=VERB|prpos=Ge|uppos=VPP
-12	de	du	DET	_	ExtPos=DET	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
-13	la	du	DET	_	_	12	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
+12	de	du	DET	_	Definite=Ind|ExtPos=DET	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
+13	la	du	DET	_	Definite=Ind	12	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
 14	semence	semence	NOUN	_	_	11	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 15	de	de	ADP	_	_	16	case	_	gold_pos=ADP|prpos=S|uppos=P
 16	paunee	panais	NOUN	_	_	14	nmod	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
@@ -17449,7 +17449,7 @@
 28	prenoet	prendre	VERB	_	VerbForm=Fin	26	acl:relcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 29	et	et	CCONJ	_	_	30	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 30	transportoet	transporter	VERB	_	VerbForm=Fin	28	conj	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-31	du	du	DET	_	_	32	det	_	gold_pos=DET|prpos=Dp|uppos=D
+31	du	du	DET	_	Definite=Ind	32	det	_	gold_pos=DET|prpos=Dp|uppos=D
 32	bley	blé	NOUN	_	_	28	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 33	en	en	ADP	_	_	34	case	_	gold_pos=ADP|prpos=S|uppos=P
 34	gavelle	javelle	NOUN	_	_	28	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
@@ -20574,11 +20574,11 @@
 98	ensanglantee	ensanglanter	VERB	_	VerbForm=Part	92	acl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 99	,	,	PUNCT	_	_	92	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 100	et	et	CCONJ	_	_	102	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-101	du	du	DET	_	_	102	det	_	gold_pos=DET|prpos=Dp|uppos=D
+101	du	du	DET	_	Definite=Ind	102	det	_	gold_pos=DET|prpos=Dp|uppos=D
 102	sang	sang	NOUN	_	_	92	conj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 103	parmy	parmi	ADP	_	_	106	case	_	gold_pos=ADP|prpos=S|uppos=P
-104	de	du	DET	_	_	106	det	_	gold_pos=DET|prpos=Dp|uppos=D
-105	l'	du	DET	_	_	106	det	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
+104	de	du	DET	_	Definite=Ind	106	det	_	gold_pos=DET|prpos=Dp|uppos=D
+105	l'	du	DET	_	Definite=Ind	106	det	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
 106	estrain	estrain	NOUN	_	_	102	nmod	_	gold_pos=NOUN|join=left|prpos=Nc|SpaceAfter=No|uppos=NCS
 107	,	,	PUNCT	_	_	30	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
@@ -21455,7 +21455,7 @@
 9	fut	être	VERB	_	VerbForm=Fin	3	ccomp	_	gold_pos=VERB|prpos=Vuc|uppos=EJ
 10	a	à	ADP	_	_	11	mark	_	gold_pos=ADP|prpos=S|uppos=P
 11	queryr	quérir	VERB	_	VerbForm=Inf	9	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-12	du	du	DET	_	_	13	det	_	gold_pos=DET|prpos=Dp|uppos=D
+12	du	du	DET	_	Definite=Ind	13	det	_	gold_pos=DET|prpos=Dp|uppos=D
 13	feu	feu	NOUN	_	_	11	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 14	en	en	ADP	_	_	16	case	_	gold_pos=ADP|prpos=S|uppos=P
 15	la	le	DET	_	Definite=Def	16	det	_	gold_pos=DET|prpos=Da|uppos=D
@@ -21823,7 +21823,7 @@
 31	estain	étain	NOUN	_	_	29	nmod	_	gold_pos=NOUN|join=left|prpos=Nc|uppos=NCS
 32	pour	pour	ADP	_	_	33	mark	_	gold_pos=ADP|prpos=S|uppos=P
 33	avoir	avoir	VERB	_	VerbForm=Inf	27	advcl	_	gold_pos=VERB|prpos=Vun|uppos=AX
-34	du	du	DET	_	_	35	det	_	gold_pos=DET|prpos=Dp|uppos=D
+34	du	du	DET	_	Definite=Ind	35	det	_	gold_pos=DET|prpos=Dp|uppos=D
 35	vin	vin	NOUN	_	_	33	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 36	a	à	ADP	_	_	38	case	_	gold_pos=ADP|prpos=S|uppos=P
 37	sadite	sondit	DET	_	_	38	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
@@ -22241,7 +22241,7 @@
 9	se	si	SCONJ	_	_	11	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
 10	vous	vous	PRON	_	PronType=Prs	11	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 11	allumeryés	allumer	VERB	_	VerbForm=Fin	2	advcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-12	du	du	DET	_	_	13	det	_	gold_pos=DET|prpos=Dp|uppos=D
+12	du	du	DET	_	Definite=Ind	13	det	_	gold_pos=DET|prpos=Dp|uppos=D
 13	feu	feu	NOUN	_	_	11	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 14	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 15	»	»	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|prpos=Fw|uppos=PON
@@ -22757,10 +22757,10 @@
 23	estain	étain	NOUN	_	_	21	nmod	_	gold_pos=NOUN|join=left|prpos=Nc|uppos=NCS
 24	pour	pour	ADP	_	_	25	mark	_	gold_pos=ADP|prpos=S|uppos=P
 25	avoir	avoir	VERB	_	VerbForm=Inf	12	advcl	_	gold_pos=VERB|prpos=Vun|uppos=AX
-26	du	du	DET	_	_	27	det	_	gold_pos=DET|prpos=Dp|uppos=D
+26	du	du	DET	_	Definite=Ind	27	det	_	gold_pos=DET|prpos=Dp|uppos=D
 27	pain	pain	NOUN	_	_	25	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 28	et	et	CCONJ	_	_	30	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-29	du	du	DET	_	_	30	det	_	gold_pos=DET|prpos=Dp|uppos=D
+29	du	du	DET	_	Definite=Ind	30	det	_	gold_pos=DET|prpos=Dp|uppos=D
 30	vin	vin	NOUN	_	_	27	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 31	,	,	PUNCT	_	_	25	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 32	ce	ce	PRON	_	PronType=Dem	25	parataxis	_	gold_pos=PRON|prpos=Pd|uppos=PRO
@@ -22985,10 +22985,10 @@
 50	Bertrem	Bertrem	PROPN	_	Number=Plur	49	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 51	pour	pour	ADP	_	_	52	mark	_	gold_pos=ADP|prpos=S|uppos=P
 52	querir	quérir	VERB	_	VerbForm=Inf	47	advcl	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-53	du	du	DET	_	_	54	det	_	gold_pos=DET|prpos=Dp|uppos=D
+53	du	du	DET	_	Definite=Ind	54	det	_	gold_pos=DET|prpos=Dp|uppos=D
 54	pain	pain	NOUN	_	_	52	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 55	et	et	CCONJ	_	_	57	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-56	du	du	DET	_	_	57	det	_	gold_pos=DET|prpos=Dp|uppos=D
+56	du	du	DET	_	Definite=Ind	57	det	_	gold_pos=DET|prpos=Dp|uppos=D
 57	vin	vin	NOUN	_	_	54	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 58	,	,	PUNCT	_	_	22	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 59	et	et	CCONJ	_	_	65	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -23013,15 +23013,15 @@
 4	sondit	sondit	DET	_	_	5	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 5	pere	père	NOUN	_	_	6	nsubj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 6	aporta	apporter	VERB	_	VerbForm=Fin	2	ccomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-7	de	du	DET	_	ExtPos=DET	9	det	_	gold_pos=DET|prpos=Dp|uppos=D
+7	de	du	DET	_	Definite=Ind|ExtPos=DET	9	det	_	gold_pos=DET|prpos=Dp|uppos=D
 8	la	le	DET	_	Definite=Def	7	fixed	_	gold_pos=DET|prpos=Da|uppos=D
 9	ronche	ronce	NOUN	_	_	6	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 10	et	et	CCONJ	_	_	12	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-11	du	du	DET	_	_	12	det	_	gold_pos=DET|prpos=Dp|uppos=D
+11	du	du	DET	_	Definite=Ind	12	det	_	gold_pos=DET|prpos=Dp|uppos=D
 12	saulx	saule	NOUN	_	_	9	conj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 13	pour	pour	ADP	_	_	14	mark	_	gold_pos=ADP|prpos=S|uppos=P
 14	faire	faire	VERB	_	VerbForm=Inf	6	advcl	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-15	du	du	DET	_	_	16	det	_	gold_pos=DET|prpos=Dp|uppos=D
+15	du	du	DET	_	Definite=Ind	16	det	_	gold_pos=DET|prpos=Dp|uppos=D
 16	feu	feu	NOUN	_	_	14	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 17	que	que	PRON	_	PronType=Rel	20	obj	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
 18	il	il	PRON	_	PronType=Prs	20	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -24155,7 +24155,7 @@
 7	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	gold_pos=ADV|prpos=Rp|SpaceAfter=No|uppos=NEG
 8	estoet	être	VERB	_	VerbForm=Fin	4	ccomp	_	gold_pos=VERB|join=left|prpos=Vuc|uppos=EJ
 9	point	point	ADV	_	_	8	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADVNEG
-10	du	du	DET	_	_	11	det	_	gold_pos=DET|prpos=Dp|uppos=D
+10	du	du	DET	_	Definite=Ind	11	det	_	gold_pos=DET|prpos=Dp|uppos=D
 11	sien	sien	PRON	_	PronType=Prs	8	obl	_	gold_pos=PRON|prpos=Ps|SpaceAfter=No|uppos=PRO
 12	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
@@ -24382,7 +24382,7 @@
 50	,	,	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 51	et	et	CCONJ	_	_	52	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 52	emportoet	emporter	VERB	_	VerbForm=Fin	9	conj	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-53	du	du	DET	_	_	54	det	_	gold_pos=DET|prpos=Dp|uppos=D
+53	du	du	DET	_	Definite=Ind	54	det	_	gold_pos=DET|prpos=Dp|uppos=D
 54	saulx	saule	NOUN	_	_	52	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 55	par	par	ADP	_	_	57	case	_	gold_pos=ADP|prpos=S|uppos=P
 56	plusieurz	plusieurs	DET	_	Definite=Ind	57	det	_	gold_pos=DET|prpos=Di|uppos=Q
@@ -24523,7 +24523,7 @@
 20	sur	sur	ADP	_	_	22	case	_	gold_pos=ADP|prpos=S|uppos=P
 21	son	son	DET	_	_	22	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 22	fossey	fossé	NOUN	_	_	14	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-23	du	du	DET	_	_	24	det	_	gold_pos=DET|prpos=Dp|uppos=D
+23	du	du	DET	_	Definite=Ind	24	det	_	gold_pos=DET|prpos=Dp|uppos=D
 24	saulx	saule	NOUN	_	_	14	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 25	et	et	CCONJ	_	_	27	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 26	l'	il	PRON	_	PronType=Prs	27	obj	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
@@ -24549,7 +24549,7 @@
 15	dernier	dernier	ADV	_	_	16	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 16	passey	passer	VERB	_	VerbForm=Part	13	acl	_	gold_pos=VERB|prpos=Ge|uppos=VPP
 17	couper	couper	VERB	_	VerbForm=Inf	8	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-18	du	du	DET	_	_	19	det	_	gold_pos=DET|prpos=Dp|uppos=D
+18	du	du	DET	_	Definite=Ind	19	det	_	gold_pos=DET|prpos=Dp|uppos=D
 19	saulx	saule	NOUN	_	_	17	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 20	de	de	ADP	_	_	23	case	_	gold_pos=ADP|prpos=S|uppos=P
 21	dessus	dessus	ADP	_	_	23	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -24696,8 +24696,8 @@
 9	plaignoient	plaindre	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 10	avoir	avoir	AUX	_	VerbForm=Inf	11	aux	_	gold_pos=AUX|prpos=Vun|uppos=AX
 11	perdu	perdre	VERB	_	VerbForm=Part	9	xcomp	_	gold_pos=VERB|prpos=Ge|uppos=VPP
-12	de	du	DET	_	ExtPos=DET	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
-13	la	du	DET	_	_	12	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
+12	de	du	DET	_	Definite=Ind|ExtPos=DET	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
+13	la	du	DET	_	Definite=Ind	12	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
 14	poullaille	poulaille	NOUN	_	_	11	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 15	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
@@ -24757,7 +24757,7 @@
 15	par	par	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
 16	.ii.	deux	NUM	_	NumType=Card	17	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 17	foys	fois	NOUN	_	Number=Plur	14	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
-18	du	du	DET	_	_	19	det	_	gold_pos=DET|prpos=Dp|uppos=D
+18	du	du	DET	_	Definite=Ind	19	det	_	gold_pos=DET|prpos=Dp|uppos=D
 19	saulx	saule	NOUN	_	_	14	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 20-21	au	_	_	_	_	_	_	_	_
 20	a	à	ADP	_	_	22	case	_	gold_pos=ADP|prpos=S|uppos=P|wordform=à
@@ -24790,7 +24790,7 @@
 10	a	à	ADP	_	_	12	case	_	gold_pos=ADP|prpos=S|uppos=P
 11	la	le	DET	_	Definite=Def	12	det	_	gold_pos=DET|prpos=Da|uppos=D
 12	fourest	forêt	NOUN	_	_	6	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-13	du	du	DET	_	_	15	det	_	gold_pos=DET|prpos=Dp|uppos=D
+13	du	du	DET	_	Definite=Ind	15	det	_	gold_pos=DET|prpos=Dp|uppos=D
 14	jeune	jeune	ADJ	_	_	15	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 15	saulx	saule	NOUN	_	_	6	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -24871,7 +24871,7 @@
 4	avoir	avoir	AUX	_	VerbForm=Inf	5	aux	_	gold_pos=AUX|join=left|prpos=Vun|uppos=AX
 5	veu	voir	VERB	_	VerbForm=Part	2	ccomp	_	gold_pos=VERB|prpos=Ge|uppos=VPP
 6	porter	porter	VERB	_	VerbForm=Inf	5	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-7	du	du	DET	_	_	8	det	_	gold_pos=DET|prpos=Dp|uppos=D
+7	du	du	DET	_	Definite=Ind	8	det	_	gold_pos=DET|prpos=Dp|uppos=D
 8	saulx	saule	NOUN	_	_	6	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 9	vers	vers	ADP	_	_	11	case	_	gold_pos=ADP|prpos=S|uppos=P
 10	la	le	DET	_	Definite=Def	11	det	_	gold_pos=DET|prpos=Da|uppos=D
@@ -25035,8 +25035,8 @@
 20	couper	couper	VERB	_	VerbForm=Inf	11	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
 21	et	et	CCONJ	_	_	22	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 22	emporter	emporter	VERB	_	VerbForm=Inf	20	conj	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-23	de	du	DET	_	ExtPos=DET	25	det	_	gold_pos=DET|prpos=Dp|uppos=D
-24	la	du	DET	_	_	23	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
+23	de	du	DET	_	Definite=Ind|ExtPos=DET	25	det	_	gold_pos=DET|prpos=Dp|uppos=D
+24	la	du	DET	_	Definite=Ind	23	fixed	_	gold_pos=DET|prpos=Dp|uppos=D
 25	fouaille	fouaille	NOUN	_	_	20	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 26	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
@@ -25058,7 +25058,7 @@
 13	a	à	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P|wordform=à
 14	ledit	ledit	DET	_	Definite=Ind	15	det	_	gold_pos=DET|prpos=Di|uppos=D
 15	Bequet	Bequet	PROPN	_	Number=Plur	5	obl	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-16	du	du	DET	_	_	17	det	_	gold_pos=DET|prpos=Dp|uppos=D
+16	du	du	DET	_	Definite=Ind	17	det	_	gold_pos=DET|prpos=Dp|uppos=D
 17	saulx	saule	NOUN	_	_	6	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	,	,	PUNCT	_	_	17	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 19	jaon	jonc	NOUN	_	_	17	conj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
@@ -25082,7 +25082,7 @@
 6	ledit	ledit	DET	_	Definite=Ind	7	det	_	gold_pos=DET|prpos=Di|uppos=D
 7	Bequet	Bequet	PROPN	_	Number=Plur	5	obj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 8	couper	couper	VERB	_	VerbForm=Inf	5	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-9	du	du	DET	_	_	10	det	_	gold_pos=DET|prpos=Dp|uppos=D
+9	du	du	DET	_	Definite=Ind	10	det	_	gold_pos=DET|prpos=Dp|uppos=D
 10	saulx	saule	NOUN	_	_	8	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 11-12	au	_	_	_	_	_	_	_	_
 11	a	à	ADP	_	_	13	case	_	gold_pos=ADP|prpos=S|uppos=P|wordform=à
@@ -25116,7 +25116,7 @@
 7	ledit	ledit	DET	_	Definite=Ind	8	det	_	gold_pos=DET|prpos=Di|uppos=D
 8	Bequet	Bequet	PROPN	_	Number=Plur	6	obj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 9	couper	couper	VERB	_	VerbForm=Inf	6	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-10	du	du	DET	_	_	11	det	_	gold_pos=DET|prpos=Dp|uppos=D
+10	du	du	DET	_	Definite=Ind	11	det	_	gold_pos=DET|prpos=Dp|uppos=D
 11	saulx	saule	NOUN	_	_	9	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 12-13	au	_	_	_	_	_	_	_	_
 12	a	à	ADP	_	_	14	case	_	gold_pos=ADP|prpos=S|uppos=P|wordform=à
@@ -25212,7 +25212,7 @@
 14	demi	demi	ADJ	_	_	15	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
 15	an	an	NOUN	_	_	10	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 16	couper	couper	VERB	_	VerbForm=Inf	10	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-17	du	du	DET	_	_	18	det	_	gold_pos=DET|prpos=Dp|uppos=D
+17	du	du	DET	_	Definite=Ind	18	det	_	gold_pos=DET|prpos=Dp|uppos=D
 18	saulx	saule	NOUN	_	_	16	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 19-20	au	_	_	_	_	_	_	_	_
 19	a	à	ADP	_	_	21	case	_	gold_pos=ADP|prpos=S|uppos=P|wordform=à
@@ -29972,8 +29972,8 @@
 71	il	il	PRON	_	PronType=Prs	73	expl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 72	y	y	PRON	_	PronType=Prs	73	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 73	avoet	avoir	VERB	_	VerbForm=Fin	67	acl:relcl	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
-74	de	du	DET	_	ExtPos=DET	76	det	_	gold_pos=DET|prpos=Dp|uppos=D
-75	l'	du	DET	_	_	74	fixed	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
+74	de	du	DET	_	Definite=Ind|ExtPos=DET	76	det	_	gold_pos=DET|prpos=Dp|uppos=D
+75	l'	du	DET	_	Definite=Ind	74	fixed	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
 76	argent	argent	NOUN	_	_	73	obj	_	gold_pos=NOUN|join=left|prpos=Nc|uppos=NCS
 77	deu	devoir	VERB	_	VerbForm=Part	76	acl	_	gold_pos=VERB|in_version=de[u]|prpos=Ge|SpaceAfter=No|uppos=MDPP
 78	.	.	PUNCT	_	_	31	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -30093,8 +30093,8 @@
 47	il	il	PRON	_	PronType=Prs	49	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 48	y	y	PRON	_	PronType=Prs	49	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 49	avoet	avoir	VERB	_	VerbForm=Fin	43	acl:relcl	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
-50	de	du	DET	_	ExtPos=DET	52	det	_	gold_pos=DET|prpos=Dp|uppos=D
-51	l'	du	DET	_	_	50	fixed	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
+50	de	du	DET	_	Definite=Ind|ExtPos=DET	52	det	_	gold_pos=DET|prpos=Dp|uppos=D
+51	l'	du	DET	_	Definite=Ind	50	fixed	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
 52	argent	argent	NOUN	_	_	49	obj	_	gold_pos=NOUN|join=left|prpos=Nc|SpaceAfter=No|uppos=NCS
 53	,	,	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PRO
 
@@ -31407,7 +31407,7 @@
 32	Cucuell	Cucuel	PROPN	_	Number=Plur	29	nmod	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 33	pour	pour	ADP	_	_	34	mark	_	gold_pos=ADP|prpos=S|uppos=P
 34	cerchier	chercher	VERB	_	VerbForm=Inf	26	advcl	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-35	du	du	DET	_	_	36	det	_	gold_pos=DET|prpos=Dp|uppos=D
+35	du	du	DET	_	Definite=Ind	36	det	_	gold_pos=DET|prpos=Dp|uppos=D
 36	pain	pain	NOUN	_	_	34	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 37	,	,	PUNCT	_	_	26	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 38	et	et	CCONJ	_	_	40	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO

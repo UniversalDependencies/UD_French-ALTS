@@ -544,7 +544,7 @@
 46	,	,	PUNCT	_	_	33	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 47	et	et	CCONJ	_	_	48	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 48	aporterent	apporter	VERB	_	VerbForm=Fin	33	conj	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-49	du	du	DET	_	_	50	det	_	gold_pos=DET|prpos=Dp|uppos=D
+49	du	du	DET	_	Definite=Ind	50	det	_	gold_pos=DET|prpos=Dp|uppos=D
 50	poysson	poisson	NOUN	_	_	48	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 51	et	et	CCONJ	_	_	54	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 52	la	là	ADV	_	_	54	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -673,7 +673,7 @@
 19	Port	Port	PROPN	_	Number=Plur	18	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 20	vynt	venir	VERB	_	VerbForm=Fin	3	ccomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 21	demander	demander	VERB	_	VerbForm=Inf	20	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-22	du	du	DET	_	_	23	det	_	gold_pos=DET|prpos=Dp|uppos=D
+22	du	du	DET	_	Definite=Ind	23	det	_	gold_pos=DET|prpos=Dp|uppos=D
 23	layct	lait	NOUN	_	_	21	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 24	a	à	ADP	_	_	26	case	_	gold_pos=ADP|prpos=S|uppos=P
 25	sa	son	DET	_	_	26	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
@@ -724,7 +724,7 @@
 7	Gousset	Gousset	PROPN	_	Number=Plur	6	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 8	vynt	venir	VERB	_	VerbForm=Fin	2	ccomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 9	demander	demander	VERB	_	VerbForm=Inf	8	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-10	du	du	DET	_	_	11	det	_	gold_pos=DET|prpos=Dp|uppos=D
+10	du	du	DET	_	Definite=Ind	11	det	_	gold_pos=DET|prpos=Dp|uppos=D
 11	layct	lait	NOUN	_	_	9	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 12	en	en	ADP	_	_	14	case	_	gold_pos=ADP|prpos=S|uppos=P
 13	sa	son	DET	_	_	14	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
@@ -1120,7 +1120,7 @@
 41	Port	Port	PROPN	_	Number=Plur	39	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 42	leur	il	PRON	_	PronType=Prs	43	iobj	_	gold_pos=PRON|prpos=Ps|uppos=PRO
 43	demander	demander	VERB	_	VerbForm=Inf	35	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-44	du	du	DET	_	_	45	det	_	gold_pos=DET|prpos=Dp|uppos=D
+44	du	du	DET	_	Definite=Ind	45	det	_	gold_pos=DET|prpos=Dp|uppos=D
 45	poysson	poisson	NOUN	_	_	43	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 46	,	,	PUNCT	_	_	26	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 47	et	et	CCONJ	_	_	50	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -1319,7 +1319,7 @@
 17	elle	il	PRON	_	PronType=Prs	18	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 18	viensyst	venir	VERB	_	VerbForm=Fin	15	ccomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 19	queryr	quérir	VERB	_	VerbForm=Inf	18	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-20	du	du	DET	_	_	21	det	_	gold_pos=DET|prpos=Dp|uppos=D
+20	du	du	DET	_	Definite=Ind	21	det	_	gold_pos=DET|prpos=Dp|uppos=D
 21	layct	lait	NOUN	_	_	19	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 22	,	,	PUNCT	_	_	18	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 23	ce	ce	PRON	_	PronType=Dem	18	parataxis	_	gold_pos=PRON|prpos=Pd|uppos=PRO
@@ -1693,7 +1693,7 @@
 12	ledit	ledit	DET	_	Definite=Def	13	det	_	gold_pos=DET|prpos=Da|uppos=D
 13	du	du	PROPN	_	Number=Plur	10	nmod	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 14	Port	Port	PROPN	_	Number=Plur	13	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-15	du	du	DET	_	_	16	det	_	gold_pos=DET|prpos=Dp|uppos=D
+15	du	du	DET	_	Definite=Ind	16	det	_	gold_pos=DET|prpos=Dp|uppos=D
 16	layct	lait	NOUN	_	_	7	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 17	pour	pour	ADP	_	_	19	mark	_	gold_pos=ADP|prpos=S|uppos=P
 18	luy	il	PRON	_	PronType=Prs	19	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -2455,7 +2455,7 @@
 30	elle	il	PRON	_	PronType=Prs	32	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 31	luy	il	PRON	_	PronType=Prs	32	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 32	donnast	donner	VERB	_	VerbForm=Fin	28	ccomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-33	du	du	DET	_	_	34	det	_	gold_pos=DET|prpos=Dp|uppos=D
+33	du	du	DET	_	Definite=Ind	34	det	_	gold_pos=DET|prpos=Dp|uppos=D
 34	vinaigre	vinaigre	NOUN	_	_	32	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 35	,	,	PUNCT	_	_	23	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 36	laquelle	lequel	PRON	_	PronType=Rel	38	nsubj	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
@@ -2499,7 +2499,7 @@
 18	sans	sans	ADP	_	_	19	case	_	gold_pos=ADP|prpos=S|uppos=P
 19	force	force	NOUN	_	_	16	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 20	come	comme	SCONJ	_	_	22	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
-21	d'	du	DET	_	_	22	det	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
+21	d'	du	DET	_	Definite=Ind	22	det	_	gold_pos=DET|prpos=Dp|SpaceAfter=No|uppos=D
 22	aue	eau	NOUN	_	_	16	obl	_	gold_pos=NOUN|join=left|prpos=Nc|SpaceAfter=No|uppos=NCS
 23	.	.	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
@@ -2546,7 +2546,7 @@
 39	en	en	ADP	_	_	41	mark	_	gold_pos=ADP|prpos=S|uppos=P
 40	luy	il	PRON	_	PronType=Prs	41	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 41	demandant	demander	VERB	_	_	29	advcl	_	gold_pos=VERB|prpos=Ga|uppos=VG
-42	du	du	DET	_	_	43	det	_	gold_pos=DET|prpos=Dp|uppos=D
+42	du	du	DET	_	Definite=Ind	43	det	_	gold_pos=DET|prpos=Dp|uppos=D
 43	feu	feu	NOUN	_	_	41	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 44	,	,	PUNCT	_	_	16	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 45	et	et	CCONJ	_	_	48	cc	_	gold_pos=CCONJ|in_version=e[t]|prpos=Cc|uppos=CONJO
@@ -2853,7 +2853,7 @@
 14	Yroes	Irlandais	PROPN	_	Number=Plur	12	obj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 15	qui	qui	PRON	_	PronType=Rel	16	nsubj	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
 16	prenoient	prendre	VERB	_	VerbForm=Fin	14	acl:relcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-17	du	du	DET	_	_	18	det	_	gold_pos=DET|prpos=Dp|uppos=D
+17	du	du	DET	_	Definite=Ind	18	det	_	gold_pos=DET|prpos=Dp|uppos=D
 18	layct	lait	NOUN	_	_	16	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 19	en	en	ADP	_	_	21	case	_	gold_pos=ADP|prpos=S|uppos=P
 20	sa	son	DET	_	_	21	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
@@ -2903,7 +2903,7 @@
 11	Port	Port	PROPN	_	Number=Plur	9	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 12	a	avoir	VERB	_	VerbForm=Fin	4	ccomp	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
 13	bien	bien	ADV	_	_	12	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
-14	du	du	DET	_	_	15	det	_	gold_pos=DET|prpos=Dp|uppos=D
+14	du	du	DET	_	Definite=Ind	15	det	_	gold_pos=DET|prpos=Dp|uppos=D
 15	layct	lait	NOUN	_	_	12	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 16	a	à	ADP	_	_	17	mark	_	gold_pos=ADP|prpos=S|uppos=P
 17	vendre	vendre	VERB	_	VerbForm=Inf	12	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
@@ -4786,7 +4786,7 @@
 32	et	et	CCONJ	_	_	34	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 33	luy	il	PRON	_	PronType=Prs	34	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 34	demanda	demander	VERB	_	VerbForm=Fin	28	conj	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-35	du	du	DET	_	_	36	det	_	gold_pos=DET|prpos=Dp|uppos=D
+35	du	du	DET	_	Definite=Ind	36	det	_	gold_pos=DET|prpos=Dp|uppos=D
 36	beure	beurre	NOUN	_	_	34	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 37	,	,	PUNCT	_	_	36	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 38	fust	être	AUX	_	VerbForm=Fin	39	cop	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
@@ -5903,7 +5903,7 @@
 16	luy	il	PRON	_	PronType=Prs	18	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 17	fut	être	AUX	_	VerbForm=Fin	18	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 18	monstrey	montrer	VERB	_	VerbForm=Part	13	acl:relcl	_	gold_pos=VERB|prpos=Ge|uppos=VPP
-19	du	du	DET	_	_	20	det	_	gold_pos=DET|prpos=Dp|uppos=D
+19	du	du	DET	_	Definite=Ind	20	det	_	gold_pos=DET|prpos=Dp|uppos=D
 20	pain	pain	NOUN	_	_	18	nsubj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 21	,	,	PUNCT	_	_	20	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 22-23	auquell	_	_	_	_	_	_	_	_
@@ -5947,7 +5947,7 @@
 27	avoet	avoir	AUX	_	VerbForm=Fin	28	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 28	estey	être	VERB	_	VerbForm=Part	22	advcl	_	gold_pos=VERB|prpos=Ge|uppos=EPP
 29	queryr	quérir	VERB	_	VerbForm=Inf	28	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-30	du	du	DET	_	_	31	det	_	gold_pos=DET|prpos=Dp|uppos=D
+30	du	du	DET	_	Definite=Ind	31	det	_	gold_pos=DET|prpos=Dp|uppos=D
 31	feu	feu	NOUN	_	_	29	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 32	cieulx	chez	ADP	_	_	33	case	_	gold_pos=ADP|prpos=S|uppos=P
 33	Collas	Collas	PROPN	_	Number=Plur	29	obl	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -5976,7 +5976,7 @@
 16	ou	où	PRON	_	PronType=Rel	18	obl	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
 17	il	il	PRON	_	PronType=Prs	18	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 18	trouva	trouver	VERB	_	VerbForm=Fin	15	acl:relcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-19	du	du	DET	_	_	20	det	_	gold_pos=DET|prpos=Dp|uppos=D
+19	du	du	DET	_	Definite=Ind	20	det	_	gold_pos=DET|prpos=Dp|uppos=D
 20	pain	pain	NOUN	_	_	18	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 21	cieulx	chez	ADP	_	_	22	case	_	gold_pos=ADP|prpos=S|uppos=P
 22	Collas	Collas	PROPN	_	Number=Plur	18	obl	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -6008,7 +6008,7 @@
 12	avoet	avoir	AUX	_	VerbForm=Fin	13	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
 13	estey	être	VERB	_	VerbForm=Part	2	ccomp	_	gold_pos=VERB|prpos=Ge|uppos=EPP
 14	queryr	quérir	VERB	_	VerbForm=Inf	13	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-15	du	du	DET	_	_	16	det	_	gold_pos=DET|prpos=Dp|uppos=D
+15	du	du	DET	_	Definite=Ind	16	det	_	gold_pos=DET|prpos=Dp|uppos=D
 16	feu	feu	NOUN	_	_	14	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 17	la	le	DET	_	Definite=Def	18	det	_	gold_pos=DET|prpos=Da|uppos=D
 18	matynee	matinée	NOUN	_	_	14	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
@@ -6775,7 +6775,7 @@
 22	en	en	ADP	_	_	24	mark	_	gold_pos=ADP|prpos=S|uppos=P
 23	luy	il	PRON	_	PronType=Prs	24	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 24	demandant	demander	VERB	_	_	16	advcl	_	gold_pos=VERB|prpos=Ga|uppos=VG
-25	du	du	DET	_	_	26	det	_	gold_pos=DET|prpos=Dp|uppos=D
+25	du	du	DET	_	Definite=Ind	26	det	_	gold_pos=DET|prpos=Dp|uppos=D
 26	layct	lait	NOUN	_	_	24	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 27	,	,	PUNCT	_	_	24	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 28	laquelle	lequel	PRON	_	PronType=Rel	31	nsubj	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
@@ -7221,7 +7221,7 @@
 23	ung	un	DET	_	Definite=Ind	24	det	_	gold_pos=DET|prpos=Di|uppos=D
 24	dymenche	dimanche	NOUN	_	_	18	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 25	demandant	demander	VERB	_	_	18	advcl	_	gold_pos=VERB|prpos=Ga|uppos=VG
-26	du	du	DET	_	_	27	det	_	gold_pos=DET|prpos=Dp|uppos=D
+26	du	du	DET	_	Definite=Ind	27	det	_	gold_pos=DET|prpos=Dp|uppos=D
 27	layct	lait	NOUN	_	_	25	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 28	,	,	PUNCT	_	_	18	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 29	et	et	CCONJ	_	_	34	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7285,10 +7285,10 @@
 7	par	par	ADP	_	_	9	case	_	gold_pos=ADP|prpos=S|uppos=P
 8	leurs	leur	DET	_	_	9	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
 9	trancs	trayon	NOUN	_	Number=Plur	6	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
-10	du	du	DET	_	_	11	det	_	gold_pos=DET|prpos=Dp|uppos=D
+10	du	du	DET	_	Definite=Ind	11	det	_	gold_pos=DET|prpos=Dp|uppos=D
 11	sang	sang	NOUN	_	_	6	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 12	pour	pour	ADP	_	_	14	case	_	gold_pos=ADP|prpos=S|uppos=P
-13	du	du	DET	_	_	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
+13	du	du	DET	_	Definite=Ind	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
 14	layct	lait	NOUN	_	_	6	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 15	.	.	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
@@ -7656,7 +7656,7 @@
 35	ne	ne	ADV	_	Polarity=Neg	36	advmod	_	gold_pos=ADV|prpos=Rp|uppos=NEG
 36	donnoent	donner	VERB	_	VerbForm=Fin	30	ccomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 37	que	que	ADV	_	_	36	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
-38	du	du	DET	_	_	39	det	_	gold_pos=DET|prpos=Dp|uppos=D
+38	du	du	DET	_	Definite=Ind	39	det	_	gold_pos=DET|prpos=Dp|uppos=D
 39	sang	sang	NOUN	_	_	36	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 40	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
@@ -7726,7 +7726,7 @@
 7	luy	il	PRON	_	PronType=Prs	9	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 8	fut	être	AUX	_	VerbForm=Fin	9	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
 9	donney	donner	VERB	_	VerbForm=Part	0	root	_	gold_pos=VERB|prpos=Ge|uppos=VPP
-10	du	du	DET	_	_	11	det	_	gold_pos=DET|prpos=Dp|uppos=D
+10	du	du	DET	_	Definite=Ind	11	det	_	gold_pos=DET|prpos=Dp|uppos=D
 11	lart	lard	NOUN	_	_	9	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 12	,	,	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 13	et	et	CCONJ	_	_	23	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7850,7 +7850,7 @@
 19	maison	maison	NOUN	_	_	16	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 20	pour	pour	ADP	_	_	21	mark	_	gold_pos=ADP|prpos=S|uppos=P
 21	avoir	avoir	VERB	_	VerbForm=Inf	16	advcl	_	gold_pos=VERB|prpos=Vun|uppos=AX
-22	du	du	DET	_	_	23	det	_	gold_pos=DET|prpos=Dp|uppos=D
+22	du	du	DET	_	Definite=Ind	23	det	_	gold_pos=DET|prpos=Dp|uppos=D
 23	layct	lait	NOUN	_	_	21	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 24	,	,	PUNCT	_	_	16	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 25	et	et	CCONJ	_	_	28	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -7984,7 +7984,7 @@
 16	ne	ne	ADV	_	Polarity=Neg	17	advmod	_	gold_pos=ADV|prpos=Rp|uppos=NEG
 17	donnoet	donner	VERB	_	VerbForm=Fin	4	acl:relcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 18	que	que	ADV	_	_	17	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
-19	du	du	DET	_	_	20	det	_	gold_pos=DET|prpos=Dp|uppos=D
+19	du	du	DET	_	Definite=Ind	20	det	_	gold_pos=DET|prpos=Dp|uppos=D
 20	sang	sang	NOUN	_	_	17	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 21	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
@@ -8167,7 +8167,7 @@
 35	ne	ne	ADV	_	Polarity=Neg	36	advmod	_	gold_pos=ADV|prpos=Rp|uppos=NEG
 36	pouvoet	pouvoir	VERB	_	VerbForm=Fin	18	conj	_	gold_pos=AUX|prpos=Vvc|uppos=MDJ
 37	faire	faire	VERB	_	VerbForm=Inf	36	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-38	du	du	DET	_	_	39	det	_	gold_pos=DET|prpos=Dp|uppos=D
+38	du	du	DET	_	Definite=Ind	39	det	_	gold_pos=DET|prpos=Dp|uppos=D
 39	beure	beurre	NOUN	_	_	37	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 40-41	du	_	_	_	_	_	_	_	_
 40	de	de	ADP	_	_	42	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -8453,7 +8453,7 @@
 19	ne	ne	ADV	_	Polarity=Neg	20	advmod	_	gold_pos=ADV|prpos=Rp|uppos=NEG
 20	rendoient	rendre	VERB	_	VerbForm=Fin	16	ccomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 21	que	que	ADV	_	_	20	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
-22	du	du	DET	_	_	23	det	_	gold_pos=DET|prpos=Dp|uppos=D
+22	du	du	DET	_	Definite=Ind	23	det	_	gold_pos=DET|prpos=Dp|uppos=D
 23	sang	sang	NOUN	_	_	20	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 24	en	en	ADP	_	_	25	case	_	gold_pos=ADP|prpos=S|uppos=P
 25	lyeu	lieu	NOUN	_	_	20	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
@@ -10118,7 +10118,7 @@
 35	avuecque	avec	ADP	_	_	36	case	_	gold_pos=ADP|prpos=S|uppos=P
 36	elle	il	PRON	_	PronType=Prs	34	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 37	cuyllant	cueillir	VERB	_	_	34	advcl	_	gold_pos=VERB|prpos=Ga|uppos=VG
-38	de	du	DET	_	_	39	det	_	gold_pos=DET|prpos=Dp|uppos=D
+38	de	du	DET	_	Definite=Ind	39	det	_	gold_pos=DET|prpos=Dp|uppos=D
 39	cambre	chanvre	NOUN	_	_	37	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 40	,	,	PUNCT	_	_	22	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 41	et	et	CCONJ	_	_	51	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
@@ -10203,7 +10203,7 @@
 10	airoet	avoir	VERB	_	VerbForm=Fin	7	ccomp	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
 11	elle	il	PRON	_	PronType=Prs	10	dislocated	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 12	mesme	même	ADJ	_	_	11	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
-13	du	du	DET	_	_	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
+13	du	du	DET	_	Definite=Ind	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
 14	travaill	travail	NOUN	_	_	10	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 15	assés	assez	ADV	_	_	10	advmod	_	gold_pos=ADV|prpos=Rg|uppos=Q
 16	pour	pour	ADP	_	_	19	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -10843,7 +10843,7 @@
 62	lequell	lequel	PRON	_	PronType=Rel	64	nsubj	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
 63	luy	il	PRON	_	PronType=Prs	64	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 64	demanda	demander	VERB	_	VerbForm=Fin	55	acl:relcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-65	du	du	DET	_	_	66	det	_	gold_pos=DET|prpos=Dp|uppos=D
+65	du	du	DET	_	Definite=Ind	66	det	_	gold_pos=DET|prpos=Dp|uppos=D
 66	beure	beurre	NOUN	_	_	64	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 67	aprés	après	ADV	_	ExtPos=SCONJ	73	mark	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 68	que	que	SCONJ	_	_	67	fixed	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
