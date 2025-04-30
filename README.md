@@ -24,7 +24,7 @@ This work was made possible thanks to the generous support of the ANR-DFG Franco
 
 We would like to thank the staff at the Guernsey Greffe archives and the Guernsey Museum & Art Gallery for giving us acces to the manuscript and digital images in 2021 and 2023. We are also grateful to former island archivist Daryl Ogier for his assistance and advice when working with the original source. We are grateful to the team of student transcribers (Agathe Aubert, Lucie Marie-Leblanc, Marie Picart and Valentin Simenel) who helped with the transcription in 2022. We thank Patrice Lajoye and Stéphane Laîné for their assistance with lemmatisation and dialectal features of the text and to Mattis Le Scaer who helped elucidate the historical context of the document.
 
-Annotation was performed by Natasha Romanova, technical assistance by Rayan Ziane and Khensa Daoudi.
+Annotation was performed by Natasha Romanova and Rayan Ziane, technical assistance by Khensa Daoudi.
 
 ## References
 
