@@ -42,7 +42,7 @@ Annotation was performed by Natasha Romanova, technical assistance by Rayan Zian
 Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: legal:legal
+Genre: legal
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
