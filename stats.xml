@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>1269</sentences><tokens>43088</tokens><words>43832</words><fused>744</fused></total>
+    <train><sentences>811</sentences><tokens>28763</tokens><words>29329</words><fused>566</fused></train>
+    <dev><sentences>111</sentences><tokens>4394</tokens><words>4464</words><fused>70</fused></dev>
+    <test><sentences>347</sentences><tokens>9931</tokens><words>10039</words><fused>108</fused></test>
+  </size>
+  <lemmas unique="2006" /><!-- et, de, ,, il, le, que, ledit, ., avoir, à, dire, être, en, un, son -->
+  <forms unique="3395" /><!-- et, ,, de, que, a, le, ., la, en, il, ledit, dit, luy, l', raporte -->
+  <fusions unique="22" /><!-- dudit, du, au, audit, des, desditz, es, auquell, aulx, desditez, desquelz, aulxditz, dez, aulxquelz, aux -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">734</tag><!-- présent, autre, grand, jeune, même, mauvais, bon, nommé, gros, susdit -->
+    <tag name="ADP">5393</tag><!-- de, à, en, par, sur, pour, devant, avec, après, dedans -->
+    <tag name="ADV">1786</tag><!-- ne, là, après, point, viron, bien, ainsi, derrain, item, hors -->
+    <tag name="AUX">1269</tag><!-- être, avoir, faire -->
+    <tag name="CCONJ">2882</tag><!-- et, ou, mais, ni, car -->
+    <tag name="DET">4919</tag><!-- le, ledit, un, son, sondit, du, lequel, leur, tout, plusieurs -->
+    <tag name="INTJ">3</tag><!-- ah -->
+    <tag name="NOUN">5935</tag><!-- femme, maison, an, jour, navire, mois, enfant, fils, sorcerie, sort -->
+    <tag name="NUM">573</tag><!-- trois, deux, mille, cinq, six, quatre, huit, sept, quinze, vingt -->
+    <tag name="PRON">4178</tag><!-- il, ce, se, en, lequel, y, que, où, qui, nous -->
+    <tag name="PROPN">4823</tag><!-- Jehan, Collas, le, Thomas, de, Martin, Pierre, Nicolas, du, Port -->
+    <tag name="PUNCT">3733</tag><!-- ,, ., «, », :, !, ? -->
+    <tag name="SCONJ">1817</tag><!-- que, quand, comme, si -->
+    <tag name="VERB">5787</tag><!-- dire, rapporter, avoir, être, venir, prendre, faire, passer, voir, trouver -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="19">
+    <feat name="Definite" value="Def" upos="DET">1956</feat><!-- le, la, l', les, ledit, lez, ung, dé -->
+    <feat name="Definite" value="Ind" upos="DET">1929</feat><!-- ledit, ung, ladite, une, du, de, des, lesditz, lesditez, plusieurs -->
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV,PRON">144</feat><!-- il, hors, juscque, a, auprés, pres, quant, par, affin, ainsy -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV,DET,PRON,VERB">22</feat><!-- ung, scaver, sçavoir, c', sçaver, En, ainsy, fors -->
+    <feat name="ExtPos" value="DET" upos="DET">29</feat><!-- de, l', la -->
+    <feat name="ExtPos" value="PRON" upos="PRON">1</feat><!-- ce -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,SCONJ,VERB">132</feat><!-- aprés, dempuys, ainsy, en, alhors, juscque, a, devant, pour, aussytost -->
+    <feat name="Number" value="Plur" upos="NOUN,PROPN">5996</feat><!-- Collas, Johan, le, Thomas, de, Martin, Nicollas, du, Port, pierres -->
+    <feat name="NumType" value="Card" upos="NUM">573</feat><!-- deulx, mille, troys, .iii., .vi., chinq, .iiii., .viii., .ii., .v. -->
+    <feat name="NumType" value="Ord" upos="ADJ">81</feat><!-- premier, .ixe., .xxviiie., .viie., .xve., .xxixe., .xxxe., .ve., .vie., .xiie. -->
+    <feat name="Polarity" value="Neg" upos="ADV">287</feat><!-- ne, n', Non -->
+    <feat name="PronType" value="Dem" upos="PRON">329</feat><!-- ce, cela, c', ceulx, yceulx, ceux, ycelle, celluy, ycelluy, Se -->
+    <feat name="PronType" value="Ind" upos="PRON">146</feat><!-- tout, ung, aultre, une, rien, aultres, aultruy, aulcuns, personne, tous -->
+    <feat name="PronType" value="Int" upos="PRON">5</feat><!-- que, qu', qui, quy -->
+    <feat name="PronType" value="Prs" upos="PRON">3125</feat><!-- il, luy, elle, ilz, en, y, s', le, se, nous -->
+    <feat name="PronType" value="Rel" upos="PRON">573</feat><!-- que, ou, qui, lequell, laquelle, don, lesquelz, lequel, qu', lesquelles -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">4611</feat><!-- dit, raporte, a, avoet, estoet, fut, est, dyst, vynt, vyndrent -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">822</feat><!-- dire, croire, cuyder, avoir, faire, aller, estre, queryr, mettre, venir -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">1330</feat><!-- estey, ouy, passey, pryntz, veu, desrobey, eu, faict, prestey, confessé -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="33">
+    <dep name="acl">296</dep>
+    <dep name="acl:relcl">546</dep>
+    <dep name="advcl">738</dep>
+    <dep name="advmod">1557</dep>
+    <dep name="amod">521</dep>
+    <dep name="appos">308</dep>
+    <dep name="aux">744</dep>
+    <dep name="aux:pass">278</dep>
+    <dep name="case">5034</dep>
+    <dep name="cc">2882</dep>
+    <dep name="ccomp">1135</dep>
+    <dep name="conj">2477</dep>
+    <dep name="cop">233</dep>
+    <dep name="csubj">2</dep>
+    <dep name="det">4904</dep>
+    <dep name="discourse">11</dep>
+    <dep name="dislocated">41</dep>
+    <dep name="expl">282</dep>
+    <dep name="fixed">451</dep>
+    <dep name="flat">2239</dep>
+    <dep name="iobj">438</dep>
+    <dep name="mark">2181</dep>
+    <dep name="nmod">1979</dep>
+    <dep name="nsubj">3315</dep>
+    <dep name="nummod">459</dep>
+    <dep name="obj">1675</dep>
+    <dep name="obl">3560</dep>
+    <dep name="orphan">23</dep>
+    <dep name="parataxis">35</dep>
+    <dep name="punct">3733</dep>
+    <dep name="root">1269</dep>
+    <dep name="vocative">14</dep>
+    <dep name="xcomp">472</dep>
+  </deps>
+</treebank>
