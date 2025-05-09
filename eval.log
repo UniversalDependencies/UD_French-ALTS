@@ -1,0 +1,44 @@
+Running the following version of UD tools:
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 9 21:07:42 2025 +0200
+Evaluating the following revision of UD_French-ALTS:
+commit 9029ae404ad532fe60559668ffdffaaaac966c9b
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 9 22:00:07 2025 +0200
+Size: counted 43832 of 43832 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.56072828847223.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 14 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 21959 out of 43832 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 31 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Udapi:
+               TOTAL       9767
+Udapi: found 9767 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 43832 words.
+Genres: found 1 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang fr --max-err=10 UD_French-ALTS/fr_alts-ud-dev.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang fr --max-err=10 UD_French-ALTS/fr_alts-ud-test.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang fr --max-err=10 UD_French-ALTS/fr_alts-ud-train.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
+(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
+(weight=0.256410256410256) * (score{size}=0.547263762475551) = 0.140324041660398
+(weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
+(weight=0.0769230769230769) * (score{tags}=0.823529411764706) = 0.0633484162895928
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
+(TOTAL score=0.46367707795461) * (availability=1) * (validity=1) = 0.46367707795461
+STARS = 2.5
+UD_French-ALTS	0.46367707795461	2.5
