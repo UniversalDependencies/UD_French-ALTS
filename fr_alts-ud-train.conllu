@@ -11662,7 +11662,7 @@
 55	le	le	DET	_	Definite=Def	56	det	_	gold_pos=DET|prpos=Da|uppos=D
 56	jour	jour	NOUN	_	_	60	nmod	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
 57	d'	d'	ADP	_	_	58	case	_	gold_pos=ADP|prpos=S|SpaceAfter=No|uppos=P
-58	huys	hui	ADV	_	_	56	obl	_	gold_pos=ADV|join=left|prpos=Rg|uppos=ADV
+58	huys	hui	ADV	_	_	56	nmod	_	gold_pos=ADV|join=left|prpos=Rg|uppos=ADV
 59	troys	trois	NUM	_	NumType=Card	60	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
 60	sepmainnes	semaine	NOUN	_	Number=Plur	63	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
 61	que	que	SCONJ	_	_	63	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
@@ -32344,7 +32344,7 @@
 12	faict	faire	VERB	VPP	Tense=Past|VerbForm=Part	6	advcl	_	prpos=Ge
 13	restrainte	restreinte	NOUN	NCS	Number=Sing	12	obj	_	prpos=Nc
 14	par	par	ADP	P	_	15	case	_	prpos=S
-15	celuy	celui	PRON	PRO	PronType=Dem	13	obl	_	prpos=Pd
+15	celuy	celui	PRON	PRO	PronType=Dem	12	obl	_	prpos=Pd
 16	qui	qui	PRON	WPRO	PronType=Rel	18	nsubj	_	prpos=Pr
 17	les	il	PRON	PRO	PronType=Prs	18	obj	_	prpos=Pp
 18	produit	produire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	15	acl:relcl	_	prpos=Vvc|SpaceAfter=No
@@ -32770,7 +32770,7 @@
 13	en	en	ADP	P	_	15	case	_	prpos=S
 14	quatre	quatre	NUM	NUM	NumType=Card	15	nummod	_	prpos=Mc
 15	contes	conte	NOUN	NCPL	Number=Plur	7	obl	_	prpos=Nc
-16	vtpote	utpote	ADV	FW	_	18	advmod	_	Lang=lat|prpos=Xe
+16	vtpote	utpote	ADV	FW	_	18	advmod	_	Lang=la|prpos=Xe
 17	en	en	ADP	P	_	18	case	_	prpos=S
 18	propos	propos	NOUN	NCS	Number=Sing	15	appos	_	prpos=Nc|SpaceAfter=No
 19	,	,	PUNCT	PON	_	20	punct	_	join=left|prpos=Fw
@@ -33161,12 +33161,12 @@
 6	la	le	DET	D	Definite=Def|PronType=Art	7	det	_	prpos=Da
 7	loy	loi	NOUN	NCS	Number=Sing	4	obl	_	prpos=Nc|SpaceAfter=No
 8	,	,	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
-9	cum	cum	ADP	FW	_	10	case	_	Lang=lat|prpos=Xe
-10	quaeritur	quaero	VERB	FW	_	7	flat	_	Lang=lat|prpos=Xe
-11	ff.	fragmentum	NOUN	FW	_	7	nmod	_	Lang=lat|prpos=Xe
-12	de	de	ADP	FW	_	13	case	_	Lang=lat|prpos=Xe
-13	admini.	administratio	NOUN	FW	_	11	flat	_	Lang=lat|prpos=Xe
-14	tut.	tutor	NOUN	FW	_	13	nmod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+9	cum	cum	ADP	FW	_	10	case	_	Lang=la|prpos=Xe
+10	quaeritur	quaero	VERB	FW	_	7	flat	_	Lang=la|prpos=Xe
+11	ff.	fragmentum	NOUN	FW	_	7	nmod	_	Lang=la|prpos=Xe
+12	de	de	ADP	FW	_	13	case	_	Lang=la|prpos=Xe
+13	admini.	administratio	NOUN	FW	_	11	flat	_	Lang=la|prpos=Xe
+14	tut.	tutor	NOUN	FW	_	13	nmod	_	Lang=la|prpos=Xe|SpaceAfter=No
 15	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_27_10_1_1
@@ -33200,7 +33200,7 @@
 25	les	il	PRON	PRO	PronType=Prs	27	obj	_	prpos=Pp
 26	faisant	faire	AUX	VG	Tense=Pres|VerbForm=Part	27	aux	_	prpos=Ga
 27	collationner	collationner	VERB	VX	VerbForm=Inf	11	advcl	_	prpos=Vvn
-28	partie	partie	NOUN	NCS	Number=Sing	27	obj	_	prpos=Nc
+28	partie	partie	NOUN	NCS	Number=Sing	27	obl	_	prpos=Nc
 29	presente	présent	ADJ	ADJ	_	28	amod	_	prpos=Ag|SpaceAfter=No
 30	,	,	PUNCT	PON	_	32	punct	_	join=left|prpos=Fw
 31	ou	ou	CCONJ	CONJO	_	32	cc	_	prpos=Cc
@@ -33367,7 +33367,7 @@
 7	fait	faire	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
 8	me[n]tion	mention	NOUN	NCS	Number=Sing	7	nsubj	_	prpos=Nc
 9	de	de	ADP	P	_	10	case	_	prpos=S
-10	ce	ce	PRON	PRO	PronType=Dem	8	obl	_	prpos=Pd
+10	ce	ce	PRON	PRO	PronType=Dem	8	nmod	_	prpos=Pd
 11	que	que	PRON	WPRO	PronType=Rel	15	obj	_	prpos=Pr
 12	ladite	ledit	DET	D	Definite=Def|PronType=Art	13	det	_	prpos=Da
 13	partie	partie	NOUN	NCS	Number=Sing	15	nsubj	_	prpos=Nc
@@ -33675,14 +33675,14 @@
 5	raisonnable	raisonnable	ADJ	ADJ	_	0	root	_	prpos=Ag
 6	de	de	ADP	P	_	7	mark	_	prpos=S
 7	tirer	tirer	VERB	VX	VerbForm=Inf	5	acl	_	prpos=Vvn
-8	ex	ex	ADP	FW	_	9	case	_	Lang=lat|prpos=Xe
-9	officina	officina	NOUN	FW	_	7	obl	_	Lang=lat|prpos=Xe
-10	aduersarij	adversarius	NOUN	FW	_	9	nmod	_	Lang=lat|prpos=Xe
+8	ex	ex	ADP	FW	_	9	case	_	Lang=la|prpos=Xe
+9	officina	officina	NOUN	FW	_	7	obl	_	Lang=la|prpos=Xe
+10	aduersarij	adversarius	NOUN	FW	_	9	nmod	_	Lang=la|prpos=Xe
 11	instrumens	instrument	NOUN	NCPL	Number=Sing	7	obj	_	prpos=Nc
 12	[et]	et	CCONJ	CONJO	_	13	cc	_	prpos=Cc
 13	preuues	preuve	NOUN	NCPL	Number=Plur	11	conj	_	prpos=Nc
 14	contre	contre	ADP	P	_	15	case	_	prpos=S
-15	luy	il	PRON	PRO	PronType=Prs	11	obl	_	prpos=Pp|SpaceAfter=No
+15	luy	il	PRON	PRO	PronType=Prs	11	nmod	_	prpos=Pp|SpaceAfter=No
 16	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_27_10_2_4
@@ -33712,28 +33712,28 @@
 20	chambres	chambre	NOUN	NCPL	Number=Plur	16	obl	_	prpos=Nc
 21	assemblees	assembler	ADJ	VPP	Tense=Past|VerbForm=Part	20	amod	_	prpos=Ge
 22	le	le	DET	D	Definite=Def|PronType=Art	23	det	_	prpos=Da
-23	16.	seize	NUM	NUM	NumType=Card	20	obl	_	prpos=Mc
+23	16.	seize	NUM	NUM	NumType=Card	16	obl	_	prpos=Mc
 24	de	de	ADP	P	_	25	case	_	prpos=S
 25	May	mai	NOUN	NCS	Number=Sing	23	nmod	_	prpos=Nc
 26	1536.	1536	NUM	NUM	NumType=Card	25	nmod	_	prpos=Mc
 27	[et]	et	CCONJ	CONJO	_	29	cc	_	prpos=Cc
 28	lors	lors	ADV	ADV	_	29	advmod	_	prpos=Rg
 29	retenu	retenir	VERB	VPP	Tense=Past|VerbForm=Part	16	conj	_	prpos=Ge
-30	in	in	ADP	FW	_	31	case	_	Lang=lat|prpos=Xe
-31	mente	mens	NOUN	FW	_	29	obj	_	Lang=lat|prpos=Xe
-32	curiæ	curia	NOUN	FW	_	31	nmod	_	Lang=lat|prpos=Xe
+30	in	in	ADP	FW	_	31	case	_	Lang=la|prpos=Xe
+31	mente	mens	NOUN	FW	_	29	obj	_	Lang=la|prpos=Xe
+32	curiæ	curia	NOUN	FW	_	31	nmod	_	Lang=la|prpos=Xe
 33	qu'	que	SCONJ	CONJS	_	36	mark	_	prpos=Cs
 34	il	il	PRON	PRO	PronType=Prs	36	nsubj	_	join=left|prpos=Pp
 35	seroit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	36	aux:pass	_	prpos=Vuc
 36	obserué	observer	VERB	VPP	Tense=Past|VerbForm=Part	29	ccomp	_	prpos=Ge
-37	etiam	etiam	ADV	FW	_	36	advmod	_	Lang=lat|prpos=Xe
-38	inter	inter	ADP	FW	_	40	case	_	Lang=lat|prpos=Xe
-39	easdem	idem	DET	FW	_	40	det	_	Lang=lat|prpos=Xe
-40	partes	pars	NOUN	FW	_	36	obl	_	Lang=lat|prpos=Xe
-41	[et]	et	CCONJ	FW	_	44	cc	_	Lang=lat|prpos=Xe
-42	in	in	ADP	FW	_	44	case	_	Lang=lat|prpos=Xe
-43	eodem	idem	DET	FW	_	44	det	_	Lang=lat|prpos=Xe
-44	iudicio	iudicium	NOUN	FW	_	40	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+37	etiam	etiam	ADV	FW	_	36	advmod	_	Lang=la|prpos=Xe
+38	inter	inter	ADP	FW	_	40	case	_	Lang=la|prpos=Xe
+39	easdem	idem	DET	FW	_	40	det	_	Lang=la|prpos=Xe
+40	partes	pars	NOUN	FW	_	36	obl	_	Lang=la|prpos=Xe
+41	[et]	et	CCONJ	FW	_	44	cc	_	Lang=la|prpos=Xe
+42	in	in	ADP	FW	_	44	case	_	Lang=la|prpos=Xe
+43	eodem	idem	DET	FW	_	44	det	_	Lang=la|prpos=Xe
+44	iudicio	iudicium	NOUN	FW	_	40	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 45	:	:	PUNCT	PON	_	36	punct	_	join=left|prpos=Fw
 46	mais	mais	CCONJ	CONJO	_	51	cc	_	prpos=Cc
 47	qu'	que	SCONJ	CONJS	_	51	mark	_	prpos=Cs
@@ -33920,8 +33920,8 @@
 21	Cour	Cour	NOUN	NCS	Number=Sing	18	nmod	_	prpos=Nc|SpaceAfter=No
 22	)	)	PUNCT	NCS	_	18	punct	_	prpos=Fw|SpaceAfter=No
 23	,	,	PUNCT	PON	_	25	punct	_	join=left|prpos=Fw
-24	qua	qui	SCONJ	FW	_	25	mark	_	Lang=lat|prpos=Xe
-25	fronte	frons	NOUN	FW	_	6	dislocated	_	Lang=lat|prpos=Xe|SpaceAfter=No
+24	qua	qui	SCONJ	FW	_	25	mark	_	Lang=la|prpos=Xe
+25	fronte	frons	NOUN	FW	_	6	dislocated	_	Lang=la|prpos=Xe|SpaceAfter=No
 26	,	,	PUNCT	PON	_	25	punct	_	join=left|prpos=Fw
 27	la	là	ADV	ADV	_	28	advmod	_	prpos=Rg
 28	pourroit	pouvoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -34131,12 +34131,12 @@
 21	librement	librement	ADV	ADV	_	20	advmod	_	prpos=Rg
 22	[et]	et	CCONJ	CONJO	_	23	cc	_	prpos=Cc
 23	clerement	clairement	ADV	ADV	_	21	conj	_	prpos=Rg
-24	more	mos	NOUN	FW	_	20	obl	_	Lang=lat|prpos=Xe
-25	suo	suus	DET	FW	_	24	det	_	Lang=lat|prpos=Xe
+24	more	mos	NOUN	FW	_	20	obl	_	Lang=la|prpos=Xe
+25	suo	suus	DET	FW	_	24	det	_	Lang=la|prpos=Xe
 26	disant	dire	VERB	VG	Tense=Pres|VerbForm=Part	20	advcl	_	prpos=Ga
-27	in	in	ADP	FW	_	29	case	_	Lang=lat|prpos=Xe
-28	d.c.	dico	ADJ	FW	_	29	amod	_	Lang=lat|prpos=Xe
-29	causam	causa	NOUN	FW	_	26	ccomp	_	Lang=lat|prpos=Xe|SpaceAfter=No
+27	in	in	ADP	FW	_	29	case	_	Lang=la|prpos=Xe
+28	d.c.	dico	ADJ	FW	_	29	amod	_	Lang=la|prpos=Xe
+29	causam	causa	NOUN	FW	_	26	ccomp	_	Lang=la|prpos=Xe|SpaceAfter=No
 30	.	.	PUNCT	PON	_	20	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_27_11_1_9
@@ -34213,9 +34213,9 @@
 29	propos	propos	NOUN	NCPL	Number=Plur	26	obl	_	prpos=Nc
 30	de	de	ADP	P	_	31	mark	_	prpos=S
 31	tirer	tirer	VERB	VX	VerbForm=Inf	29	acl	_	prpos=Vvn
-32	ex	ex	ADP	FW	_	33	case	_	Lang=lat|prpos=Xe
-33	officina	officina	NOUN	FW	_	31	obl	_	Lang=lat|prpos=Xe
-34	aduersarii	adversarius	NOUN	FW	_	33	nmod	_	Lang=lat|prpos=Xe
+32	ex	ex	ADP	FW	_	33	case	_	Lang=la|prpos=Xe
+33	officina	officina	NOUN	FW	_	31	obl	_	Lang=la|prpos=Xe
+34	aduersarii	adversarius	NOUN	FW	_	33	nmod	_	Lang=la|prpos=Xe
 35	instrumens	instrument	NOUN	NCPL	Number=Plur	31	obj	_	prpos=Nc
 36	[et]	et	CCONJ	CONJO	_	37	cc	_	prpos=Cc
 37	preuues	preuve	NOUN	NCPL	Number=Plur	35	conj	_	prpos=Nc
@@ -34287,12 +34287,12 @@
 19	le	le	DET	D	Definite=Def|PronType=Art	20	det	_	prpos=Da
 20	Poëte	poète	NOUN	NCS	Number=Sing	17	obl	_	prpos=Nc|SpaceAfter=No
 21	,	,	PUNCT	PON	_	17	punct	_	join=left|prpos=Fw
-22	Heu	heu	INTJ	_	_	23	discourse	_	Lang=lat|prpos=Xe
-23	patior	patior	VERB	_	_	17	ccomp	_	Lang=lat|prpos=Xe
-24	teli	telum	NOUN	_	_	25	nmod	_	Lang=lat|prpos=Xe
-25	vulnera	vulnus	NOUN	_	_	23	obj	_	Lang=lat|prpos=Xe
-26	facta	facio	VERB	_	_	25	acl	_	Lang=lat|prpos=Xe
-27	meis	meus	PRON	_	_	26	obl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+22	Heu	heu	INTJ	_	_	23	discourse	_	Lang=la|prpos=Xe
+23	patior	patior	VERB	_	_	17	ccomp	_	Lang=la|prpos=Xe
+24	teli	telum	NOUN	_	_	25	nmod	_	Lang=la|prpos=Xe
+25	vulnera	vulnus	NOUN	_	_	23	obj	_	Lang=la|prpos=Xe
+26	facta	facio	VERB	_	_	25	acl	_	Lang=la|prpos=Xe
+27	meis	meus	PRON	_	_	26	obl	_	Lang=la|prpos=Xe|SpaceAfter=No
 28	.	.	PUNCT	PON	_	16	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_27_11_2_1
@@ -34311,9 +34311,9 @@
 10	assemblees	assembler	ADJ	VPP	Tense=Past|VerbForm=Part	9	amod	_	prpos=Ge
 11	a	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	12	aux	_	prpos=Vuc
 12	retenu	retenir	VERB	VPP	Tense=Past|VerbForm=Part	4	ccomp	_	prpos=Ge
-13	in	in	ADP	FW	_	15	case	_	Lang=lat|prpos=Xe
-14	sua	suus	DET	FW	_	15	det	_	Lang=lat|prpos=Xe
-15	mente	mens	NOUN	FW	_	12	obl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+13	in	in	ADP	FW	_	15	case	_	Lang=la|prpos=Xe
+14	sua	suus	DET	FW	_	15	det	_	Lang=la|prpos=Xe
+15	mente	mens	NOUN	FW	_	12	obl	_	Lang=la|prpos=Xe|SpaceAfter=No
 16	,	,	PUNCT	PON	_	22	punct	_	join=left|prpos=Fw
 17	que	que	SCONJ	CONJS	_	20	mark	_	prpos=Cs
 18	le	le	DET	D	Definite=Def|PronType=Art	19	det	_	prpos=Da
@@ -34321,13 +34321,13 @@
 20	arr.	arrêt	NOUN	NCS	Number=Sing	22	nsubj	_	prpos=Nc
 21	seroit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	22	aux:pass	_	prpos=Vuc
 22	obserué	observer	VERB	VPP	Tense=Past|VerbForm=Part	4	ccomp	_	prpos=Ge
-23	inter	inter	ADP	FW	_	25	case	_	Lang=lat|prpos=Xe
-24	easdem	idem	DET	FW	_	25	det	_	Lang=lat|prpos=Xe
-25	partes	pars	NOUN	FW	_	22	obl	_	Lang=lat|prpos=Xe
-26	[et]	et	CCONJ	FW	_	29	cc	_	Lang=lat|prpos=Xe
-27	in	in	ADP	FW	_	29	case	_	Lang=lat|prpos=Xe
-28	eodem	idem	DET	FW	_	29	det	_	Lang=lat|prpos=Xe
-29	iudicio	iudicium	NOUN	FW	_	25	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+23	inter	inter	ADP	FW	_	25	case	_	Lang=la|prpos=Xe
+24	easdem	idem	DET	FW	_	25	det	_	Lang=la|prpos=Xe
+25	partes	pars	NOUN	FW	_	22	obl	_	Lang=la|prpos=Xe
+26	[et]	et	CCONJ	FW	_	29	cc	_	Lang=la|prpos=Xe
+27	in	in	ADP	FW	_	29	case	_	Lang=la|prpos=Xe
+28	eodem	idem	DET	FW	_	29	det	_	Lang=la|prpos=Xe
+29	iudicio	iudicium	NOUN	FW	_	25	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 30	,	,	PUNCT	PON	_	22	punct	_	join=left|prpos=Fw
 31	mais	mais	CCONJ	CONJO	_	35	cc	_	prpos=Cc
 32	qu'	que	SCONJ	CONJS	_	35	mark	_	prpos=Cs
@@ -34363,53 +34363,53 @@
 3	certain	certain	DET	D	Definite=Ind|PronType=Ind	4	det	_	prpos=Di
 4	cas	cas	NOUN	NCS	Number=Sing	0	root	_	prpos=Nc
 5	special	spécial	ADJ	ADJ	_	4	amod	_	prpos=Ag
-6	vbi	ubi	SCONJ	FW	_	8	mark	_	Lang=lat|prpos=Xe
-7	fiscus	fiscus	NOUN	FW	_	8	nsubj	_	Lang=lat|prpos=Xe
-8	succedit	succedo	VERB	FW	_	4	acl	_	Lang=lat|prpos=Xe
-9	priuato	privato	ADV	FW	_	8	advmod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+6	vbi	ubi	SCONJ	FW	_	8	mark	_	Lang=la|prpos=Xe
+7	fiscus	fiscus	NOUN	FW	_	8	nsubj	_	Lang=la|prpos=Xe
+8	succedit	succedo	VERB	FW	_	4	acl	_	Lang=la|prpos=Xe
+9	priuato	privato	ADV	FW	_	8	advmod	_	Lang=la|prpos=Xe|SpaceAfter=No
 10	,	,	PUNCT	PON	_	8	punct	_	join=left|prpos=Fw
-11	vel	vel	CCONJ	FW	_	12	cc	_	Lang=lat|prpos=Xe
-12	litigauit	litigo	VERB	FW	_	8	conj	_	Lang=lat|prpos=Xe
-13	tanquam	tanquam	ADV	FW	_	12	advmod	_	Lang=lat|prpos=Xe
-14	quilibet	quilibet	PRON	FW	_	12	nsubj	_	Lang=lat|prpos=Xe
-15	priuatus	privatus	ADJ	FW	_	14	amod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+11	vel	vel	CCONJ	FW	_	12	cc	_	Lang=la|prpos=Xe
+12	litigauit	litigo	VERB	FW	_	8	conj	_	Lang=la|prpos=Xe
+13	tanquam	tanquam	ADV	FW	_	12	advmod	_	Lang=la|prpos=Xe
+14	quilibet	quilibet	PRON	FW	_	12	nsubj	_	Lang=la|prpos=Xe
+15	priuatus	privatus	ADJ	FW	_	14	amod	_	Lang=la|prpos=Xe|SpaceAfter=No
 16	,	,	PUNCT	PON	_	8	punct	_	join=left|prpos=Fw
-17	tunc	tunc	ADV	FW	_	22	advmod	_	Lang=lat|prpos=Xe
-18	acta	actum	NOUN	FW	_	20	obj	_	Lang=lat|prpos=Xe
-19	fiscus	fiscus	NOUN	FW	_	22	nsubj	_	Lang=lat|prpos=Xe
-20	edere	edo	VERB	FW	_	22	xcomp	_	Lang=lat|prpos=Xe
-21	non	non	ADV	FW	_	22	advmod	_	Lang=lat|prpos=Xe
-22	cogitur	cogo	VERB	FW	_	8	advcl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+17	tunc	tunc	ADV	FW	_	22	advmod	_	Lang=la|prpos=Xe
+18	acta	actum	NOUN	FW	_	20	obj	_	Lang=la|prpos=Xe
+19	fiscus	fiscus	NOUN	FW	_	22	nsubj	_	Lang=la|prpos=Xe
+20	edere	edo	VERB	FW	_	22	xcomp	_	Lang=la|prpos=Xe
+21	non	non	ADV	FW	_	22	advmod	_	Lang=la|prpos=Xe
+22	cogitur	cogo	VERB	FW	_	8	advcl	_	Lang=la|prpos=Xe|SpaceAfter=No
 23	:	:	PUNCT	PON	_	8	punct	_	join=left|prpos=Fw
-24	[et]	et	CCONJ	FW	_	37	cc	_	Lang=lat|prpos=Xe
-25	si	si	SCONJ	FW	_	26	mark	_	Lang=lat|prpos=Xe
-26	edit	edo	VERB	FW	_	37	advcl	_	Lang=lat|prpos=Xe
-27	actorum	actum	NOUN	FW	_	29	nmod	_	Lang=lat|prpos=Xe
-28	suorum	suus	DET	FW	_	27	det	_	Lang=lat|prpos=Xe
-29	exempla	exemplum	NOUN	FW	_	26	obj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+24	[et]	et	CCONJ	FW	_	37	cc	_	Lang=la|prpos=Xe
+25	si	si	SCONJ	FW	_	26	mark	_	Lang=la|prpos=Xe
+26	edit	edo	VERB	FW	_	37	advcl	_	Lang=la|prpos=Xe
+27	actorum	actum	NOUN	FW	_	29	nmod	_	Lang=la|prpos=Xe
+28	suorum	suus	DET	FW	_	27	det	_	Lang=la|prpos=Xe
+29	exempla	exemplum	NOUN	FW	_	26	obj	_	Lang=la|prpos=Xe|SpaceAfter=No
 30	,	,	PUNCT	PON	_	37	punct	_	join=left|prpos=Fw
-31	hac	hic	PRON	FW	_	37	nsubj	_	Lang=lat|prpos=Xe
-32	quidem	quidem	ADV	FW	_	37	advmod	_	Lang=lat|prpos=Xe
-33	conditione	conditio	NOUN	FW	_	36	obl	_	Lang=lat|prpos=Xe
-34	[et]	et	CCONJ	FW	_	35	cc	_	Lang=lat|prpos=Xe
-35	lege	lex	NOUN	FW	_	33	conj	_	Lang=lat|prpos=Xe
-36	cauere	caveo	VERB	FW	_	37	xcomp	_	Lang=lat|prpos=Xe
-37	potest	possum	VERB	FW	_	8	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+31	hac	hic	PRON	FW	_	37	nsubj	_	Lang=la|prpos=Xe
+32	quidem	quidem	ADV	FW	_	37	advmod	_	Lang=la|prpos=Xe
+33	conditione	conditio	NOUN	FW	_	36	obl	_	Lang=la|prpos=Xe
+34	[et]	et	CCONJ	FW	_	35	cc	_	Lang=la|prpos=Xe
+35	lege	lex	NOUN	FW	_	33	conj	_	Lang=la|prpos=Xe
+36	cauere	caveo	VERB	FW	_	37	xcomp	_	Lang=la|prpos=Xe
+37	potest	possum	VERB	FW	_	8	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 38	,	,	PUNCT	PON	_	37	punct	_	join=left|prpos=Fw
-39	ne	ne	SCONJ	FW	_	52	mark	_	Lang=lat|prpos=Xe
-40	is	is	PRON	FW	_	52	nsubj	_	Lang=lat|prpos=Xe
-41	cui	qui	SCONJ	FW	_	43	mark	_	Lang=lat|prpos=Xe
-42	describendi	describo	VERB	FW	_	44	nmod	_	Lang=lat|prpos=Xe
-43	fit	fio	VERB	FW	_	40	acl	_	Lang=lat|prpos=Xe
-44	potestas	potestas	NOUN	FW	_	43	nsubj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+39	ne	ne	SCONJ	FW	_	52	mark	_	Lang=la|prpos=Xe
+40	is	is	PRON	FW	_	52	nsubj	_	Lang=la|prpos=Xe
+41	cui	qui	SCONJ	FW	_	43	mark	_	Lang=la|prpos=Xe
+42	describendi	describo	VERB	FW	_	44	nmod	_	Lang=la|prpos=Xe
+43	fit	fio	VERB	FW	_	40	acl	_	Lang=la|prpos=Xe
+44	potestas	potestas	NOUN	FW	_	43	nsubj	_	Lang=la|prpos=Xe|SpaceAfter=No
 45	,	,	PUNCT	PON	_	52	punct	_	join=left|prpos=Fw
-46	aduersus	advesus	ADP	FW	_	47	case	_	Lang=lat|prpos=Xe
-47	se	se	PRON	FW	_	52	obl	_	Lang=lat|prpos=Xe
-48	vel	vel	CCONJ	FW	_	49	cc	_	Lang=lat|prpos=Xe
-49	rempublicam	respublica	NOUN	_	_	47	conj	_	Lang=lat|prpos=Xe
-50	his	is	DET	FW	_	51	det	_	Lang=lat|prpos=Xe
-51	actis	actum	NOUN	FW	_	52	obl	_	Lang=lat|prpos=Xe
-52	vtatur	utor	VERB	FW	_	37	advcl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+46	aduersus	advesus	ADP	FW	_	47	case	_	Lang=la|prpos=Xe
+47	se	se	PRON	FW	_	52	obl	_	Lang=la|prpos=Xe
+48	vel	vel	CCONJ	FW	_	49	cc	_	Lang=la|prpos=Xe
+49	rempublicam	respublica	NOUN	_	_	47	conj	_	Lang=la|prpos=Xe
+50	his	is	DET	FW	_	51	det	_	Lang=la|prpos=Xe
+51	actis	actum	NOUN	FW	_	52	obl	_	Lang=la|prpos=Xe
+52	vtatur	utor	VERB	FW	_	37	advcl	_	Lang=la|prpos=Xe|SpaceAfter=No
 53	.	.	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_27_11_2_3
@@ -34455,9 +34455,9 @@
 10	pourroit	pouvoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
 11	seruir	servir	VERB	VX	VerbForm=Inf	10	xcomp	_	prpos=Vvn|SpaceAfter=No
 12	,	,	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
-13	nisi	nisi	SCONJ	FW	_	15	mark	_	Lang=lat|prpos=Xe
-14	scombris	scomber	NOUN	FW	_	15	nsubj	_	Lang=lat|prpos=Xe
-15	inuoluendis	involvo	VERB	FW	_	11	advcl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+13	nisi	nisi	SCONJ	FW	_	15	mark	_	Lang=la|prpos=Xe
+14	scombris	scomber	NOUN	FW	_	15	nsubj	_	Lang=la|prpos=Xe
+15	inuoluendis	involvo	VERB	FW	_	11	advcl	_	Lang=la|prpos=Xe|SpaceAfter=No
 16	?	?	PUNCT	PON	_	10	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_27_12_1_1
@@ -34475,29 +34475,29 @@
 9	,	,	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
 10	qui	qui	PRON	WPRO	PronType=Rel	11	nsubj	_	prpos=Pr
 11	dit	dire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	7	acl:relcl	_	prpos=Vvc
-12	quòd	qui	SCONJ	FW	_	14	mark	_	Lang=lat|prpos=Xe
-13	editio	editio	NOUN	FW	_	14	nsubj	_	Lang=lat|prpos=Xe
-14	debet	debeo	VERB	FW	_	11	ccomp	_	Lang=lat|prpos=Xe
-15	fieri	fio	VERB	FW	_	14	xcomp	_	Lang=lat|prpos=Xe
-16	sine	sine	ADP	FW	_	17	case	_	Lang=lat|prpos=Xe
-17	die	dies	NOUN	FW	_	14	obl	_	Lang=lat|prpos=Xe
-18	[et]	et	CCONJ	FW	_	19	cc	_	Lang=lat|prpos=Xe
-19	consule	consul	NOUN	FW	_	17	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+12	quòd	qui	SCONJ	FW	_	14	mark	_	Lang=la|prpos=Xe
+13	editio	editio	NOUN	FW	_	14	nsubj	_	Lang=la|prpos=Xe
+14	debet	debeo	VERB	FW	_	11	ccomp	_	Lang=la|prpos=Xe
+15	fieri	fio	VERB	FW	_	14	xcomp	_	Lang=la|prpos=Xe
+16	sine	sine	ADP	FW	_	17	case	_	Lang=la|prpos=Xe
+17	die	dies	NOUN	FW	_	14	obl	_	Lang=la|prpos=Xe
+18	[et]	et	CCONJ	FW	_	19	cc	_	Lang=la|prpos=Xe
+19	consule	consul	NOUN	FW	_	17	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 20	:	:	PUNCT	PON	_	14	punct	_	join=left|prpos=Fw
-21	ne	ne	SCONJ	FW	_	24	mark	_	Lang=lat|prpos=Xe
-22	quid	quis	PRON	FW	_	24	nsubj	_	Lang=lat|prpos=Xe
-23	fraudis	fraus	NOUN	FW	_	22	nmod	_	Lang=lat|prpos=Xe
+21	ne	ne	SCONJ	FW	_	24	mark	_	Lang=la|prpos=Xe
+22	quid	quis	PRON	FW	_	24	nsubj	_	Lang=la|prpos=Xe
+23	fraudis	fraus	NOUN	FW	_	22	nmod	_	Lang=la|prpos=Xe
 24	excogitetur	excogito	VERB	_	_	14	advcl	_	SpaceAfter=No
 25	,	,	PUNCT	PON	_	26	punct	_	join=left|prpos=Fw
-26	edito	edo	ADJ	FW	_	27	amod	_	Lang=lat|prpos=Xe
-27	die	dies	NOUN	FW	_	24	advcl	_	Lang=lat|prpos=Xe
-28	[et]	et	CCONJ	FW	_	29	cc	_	Lang=lat|prpos=Xe
-29	consule.	consul	NOUN	FW	_	27	conj	_	Lang=lat|prpos=Xe
-30	l.	lex	NOUN	FW	_	11	obl	_	Lang=lat|prpos=Xe
-31	i.	1	NUM	FW	_	30	nummod	_	Lang=lat|prpos=Xe
-32	ff.	fragmentum	NOUN	FW	_	34	orphan	_	Lang=lat|prpos=Xe
-33	de	de	ADP	FW	_	34	case	_	Lang=lat|prpos=Xe
-34	eden	eden	NOUN	FW	_	30	nmod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+26	edito	edo	ADJ	FW	_	27	amod	_	Lang=la|prpos=Xe
+27	die	dies	NOUN	FW	_	24	advcl	_	Lang=la|prpos=Xe
+28	[et]	et	CCONJ	FW	_	29	cc	_	Lang=la|prpos=Xe
+29	consule.	consul	NOUN	FW	_	27	conj	_	Lang=la|prpos=Xe
+30	l.	lex	NOUN	FW	_	11	obl	_	Lang=la|prpos=Xe
+31	i.	1	NUM	FW	_	30	nummod	_	Lang=la|prpos=Xe
+32	ff.	fragmentum	NOUN	FW	_	34	orphan	_	Lang=la|prpos=Xe
+33	de	de	ADP	FW	_	34	case	_	Lang=la|prpos=Xe
+34	eden	eden	NOUN	FW	_	30	nmod	_	Lang=la|prpos=Xe|SpaceAfter=No
 35	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_27_13_1_1
@@ -34694,7 +34694,7 @@
 27	faire	faire	VERB	VX	VerbForm=Inf	14	conj	_	prpos=Vvn
 28	droict	droit	NOUN	NCS	Number=Sing	27	obj	_	prpos=Nc
 29	sur	sur	ADP	P	_	30	case	_	prpos=S
-30	icelles	cil	PRON	PRO	PronType=Dem	28	obl	_	prpos=Pd
+30	icelles	cil	PRON	PRO	PronType=Dem	28	nmod	_	prpos=Pd
 31-32	au	_	_	_	_	_	_	_	_
 31	à	à	ADP	P	_	33	case	_	prpos=S
 32	le	le	DET	P	Definite=Def|PronType=Art	33	det	_	prpos=Da
@@ -34737,7 +34737,7 @@
 26	[et]	et	CCONJ	CONJO	_	27	cc	_	prpos=Cc
 27	difficulté	difficulté	NOUN	NCS	Number=Sing	25	conj	_	prpos=Nc
 28	sur	sur	ADP	P	_	29	case	_	prpos=S
-29	icelles	cil	PRON	PRO	PronType=Dem	25	obl	_	prpos=Pd|SpaceAfter=No
+29	icelles	cil	PRON	PRO	PronType=Dem	25	nmod	_	prpos=Pd|SpaceAfter=No
 30	:	:	PUNCT	PON	_	23	punct	_	join=left|prpos=Fw
 31	afin	afin	ADV	ADV	ExtPos=SCONJ	34	mark	_	prpos=Rg
 32	de	de	ADP	P	_	31	fixed	_	prpos=S
@@ -34832,15 +34832,15 @@
 5	de	de	ADP	P	_	6	case	_	prpos=S
 6	droict	droit	NOUN	NCS	Number=Sing	4	nmod	_	prpos=Nc|SpaceAfter=No
 7	,	,	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
-8	Non	non	ADV	FW	_	9	advmod	_	Lang=lat|prpos=Xe
-9	debere	debeo	VERB	FW	_	4	parataxis	_	Lang=lat|prpos=Xe
-10	actori	actor	NOUN	FW	_	11	obl	_	Lang=lat|prpos=Xe
-11	licere	liceo	VERB	FW	_	9	xcomp	_	Lang=lat|prpos=Xe|SpaceAfter=No
+8	Non	non	ADV	FW	_	9	advmod	_	Lang=la|prpos=Xe
+9	debere	debeo	VERB	FW	_	4	parataxis	_	Lang=la|prpos=Xe
+10	actori	actor	NOUN	FW	_	11	obl	_	Lang=la|prpos=Xe
+11	licere	liceo	VERB	FW	_	9	xcomp	_	Lang=la|prpos=Xe|SpaceAfter=No
 12	,	,	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
-13	quod	quod	SCONJ	FW	_	16	mark	_	Lang=lat|prpos=Xe
-14	reo	reus	NOUN	FW	_	16	obl	_	Lang=lat|prpos=Xe
-15	non	non	ADV	FW	_	16	advmod	_	Lang=lat|prpos=Xe
-16	permittitur	permitto	VERB	FW	_	11	advcl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+13	quod	quod	SCONJ	FW	_	16	mark	_	Lang=la|prpos=Xe
+14	reo	reus	NOUN	FW	_	16	obl	_	Lang=la|prpos=Xe
+15	non	non	ADV	FW	_	16	advmod	_	Lang=la|prpos=Xe
+16	permittitur	permitto	VERB	FW	_	11	advcl	_	Lang=la|prpos=Xe|SpaceAfter=No
 17	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_27_19_3_1
@@ -35053,7 +35053,7 @@
 39	qu'	que	SCONJ	CONJS	_	38	fixed	_	prpos=Cs
 40	ils	il	PRON	PRO	PronType=Prs	42	nsubj	_	join=left|prpos=Pp
 41	soyent	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	42	aux	_	prpos=Vuc
-42	perimens	perimo	VERB	_	_	33	advcl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+42	perimens	perimo	VERB	_	_	33	advcl	_	Lang=la|prpos=Xe|SpaceAfter=No
 43	:	:	PUNCT	PON	_	33	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_27_19_3_6
@@ -35144,7 +35144,7 @@
 2	prouuez	prouver	VERB	VPP	Tense=Past|VerbForm=Part	5	advcl	_	prpos=Ge
 3	estoyent	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	2	aux:pass	_	prpos=Vuc
 4	seroyent	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	5	cop	_	prpos=Vuc
-5	co[n]cludens	concluder	ADJ	FW	_	0	root	_	Lang=lat|prpos=Xe|SpaceAfter=No
+5	co[n]cludens	concluder	VERB	FW	_	0	root	_	Lang=la|prpos=Xe|SpaceAfter=No
 6	,	,	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
 7	encores	encore	ADV	ADV	ExtPos=SCONJ	15	mark	_	prpos=Rg
 8	que	que	SCONJ	CONJS	_	7	fixed	_	prpos=Cs
@@ -36176,15 +36176,15 @@
 32	a	avoir	VERB	AJ	Number=Sing|Person=3|VerbForm=Fin	11	conj	_	prpos=Vuc
 33	lieu	lieu	NOUN	NCS	Number=Sing	32	obj	_	prpos=Nc|SpaceAfter=No
 34	,	,	PUNCT	PON	_	32	punct	_	join=left|prpos=Fw
-35	quod	qui	SCONJ	FW	_	37	mark	_	Lang=lat|prpos=Xe
-36	tacens	taceo	ADJ	FW	_	37	nsubj	_	Lang=lat|prpos=Xe
-37	habetur	habeo	VERB	FW	_	32	parataxis	_	Lang=lat|prpos=Xe
-38	pro	pro	ADP	FW	_	39	case	_	Lang=lat|prpos=Xe
-39	consentiente	consentio	ADJ	FW	_	37	xcomp	_	Lang=lat|prpos=Xe
-40	aut	aut	CCONJ	FW	_	41	cc	_	Lang=lat|prpos=Xe
-41	confitente	confiteor	ADJ	FW	_	39	conj	_	Lang=lat|prpos=Xe
-42	in	in	ADP	FW	_	43	case	_	Lang=lat|prpos=Xe
-43	iudicio	iudicium	NOUN	FW	_	37	obl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+35	quod	qui	SCONJ	FW	_	37	mark	_	Lang=la|prpos=Xe
+36	tacens	taceo	ADJ	FW	_	37	nsubj	_	Lang=la|prpos=Xe
+37	habetur	habeo	VERB	FW	_	32	parataxis	_	Lang=la|prpos=Xe
+38	pro	pro	ADP	FW	_	39	case	_	Lang=la|prpos=Xe
+39	consentiente	consentio	ADJ	FW	_	37	xcomp	_	Lang=la|prpos=Xe
+40	aut	aut	CCONJ	FW	_	41	cc	_	Lang=la|prpos=Xe
+41	confitente	confiteor	ADJ	FW	_	39	conj	_	Lang=la|prpos=Xe
+42	in	in	ADP	FW	_	43	case	_	Lang=la|prpos=Xe
+43	iudicio	iudicium	NOUN	FW	_	37	obl	_	Lang=la|prpos=Xe|SpaceAfter=No
 44	.	.	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_27_19_8_1
@@ -36497,11 +36497,11 @@
 22	de	de	ADP	P	_	23	case	_	prpos=S
 23	droict	droit	NOUN	NCS	Number=Sing	21	nmod	_	prpos=Nc|SpaceAfter=No
 24	,	,	PUNCT	PON	_	21	punct	_	join=left|prpos=Fw
-25	Nullus	nullus	NOUN	FW	_	29	nsubj	_	Lang=lat|prpos=Xe
-26	pluribus	multus	ADJ	FW	_	27	amod	_	Lang=lat|prpos=Xe
-27	defensionibus	defensio	NOUN	FW	_	29	obl	_	Lang=lat|prpos=Xe
-28	vti	ut	SCONJ	FW	_	29	mark	_	Lang=lat|prpos=Xe
-29	prohibeatur	prohibeo	VERB	FW	_	21	parataxis	_	Lang=lat|prpos=Xe|SpaceAfter=No
+25	Nullus	nullus	NOUN	FW	_	29	nsubj	_	Lang=la|prpos=Xe
+26	pluribus	multus	ADJ	FW	_	27	amod	_	Lang=la|prpos=Xe
+27	defensionibus	defensio	NOUN	FW	_	29	obl	_	Lang=la|prpos=Xe
+28	vti	ut	SCONJ	FW	_	29	mark	_	Lang=la|prpos=Xe
+29	prohibeatur	prohibeo	VERB	FW	_	21	parataxis	_	Lang=la|prpos=Xe|SpaceAfter=No
 30	:	:	PUNCT	PON	_	16	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_27_19_9_7
@@ -36787,7 +36787,7 @@
 77	le	le	DET	D	Definite=Def|PronType=Art	78	det	_	prpos=Da
 78	fait	fait	NOUN	NCS	Number=Sing	75	obl	_	prpos=Nc
 79	que	que	PRON	WPRO	PronType=Rel	81	obj	_	prpos=Pr
-80	i'	je	PRON	PRO	PronType=Prs	81	obj	_	prpos=Pp
+80	i'	je	PRON	PRO	PronType=Prs	81	nsubj	_	prpos=Pp
 81	afferme	affirmer	VERB	VJ	Number=Sing|Person=1|VerbForm=Fin	78	acl:relcl	_	join=left|prpos=Vvc|SpaceAfter=No
 82	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
 
@@ -37548,8 +37548,8 @@
 32	respondre	répondre	VERB	VX	VerbForm=Inf	21	conj	_	prpos=Vvn
 33	par	par	ADP	P	_	34	case	_	prpos=S
 34	credit	crédit	NOUN	NCS	Number=Sing	32	obl	_	prpos=Nc
-35	vel	vel	CCONJ	FW	_	36	cc	_	Lang=lat|prpos=Xe
-36	non	non	ADV	FW	_	34	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+35	vel	vel	CCONJ	FW	_	36	cc	_	Lang=la|prpos=Xe
+36	non	non	ADV	FW	_	34	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 37	,	,	PUNCT	PON	_	32	punct	_	join=left|prpos=Fw
 38	auparauant	auparavant	ADV	ADV	ExtPos=SCONJ	40	mark	_	prpos=Rg
 39	que	que	SCONJ	CONJS	_	38	fixed	_	prpos=Cs
@@ -37595,8 +37595,8 @@
 4	respo[n]ses	réponse	NOUN	NCPL	Number=Plur	10	nsubj	_	prpos=Nc
 5	de	de	ADP	P	_	6	case	_	prpos=S
 6	credit	crédit	NOUN	NCS	Number=Sing	4	nmod	_	prpos=Nc
-7	vel	vel	CCONJ	FW	_	8	cc	_	Lang=lat|prpos=Xe
-8	non	non	ADV	FW	_	6	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+7	vel	vel	CCONJ	FW	_	8	cc	_	Lang=la|prpos=Xe
+8	non	non	ADV	FW	_	6	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 9	,	,	PUNCT	PON	_	10	punct	_	join=left|prpos=Fw
 10	abolies	abolir	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge|SpaceAfter=No
 11	:	:	PUNCT	PON	_	10	punct	_	join=left|prpos=Fw
@@ -37942,10 +37942,10 @@
 9	les	le	DET	D	Definite=Def|PronType=Art	10	det	_	prpos=Da
 10	parties	partie	NOUN	NCPL	Number=Plur	8	obj	_	prpos=Nc|SpaceAfter=No
 11	,	,	PUNCT	PON	_	15	punct	_	join=left|prpos=Fw
-12	ubicunque	ubicumque	ADV	FW	_	15	advmod	_	Lang=lat|prpos=Xe
-13	eum	is	PRON	FW	_	15	obj	_	Lang=lat|prpos=Xe
-14	æquitas	aequitas	NOUN	FW	_	15	nsubj	_	Lang=lat|prpos=Xe
-15	mouerit	moveo	VERB	FW	_	7	advcl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+12	ubicunque	ubicumque	ADV	FW	_	15	advmod	_	Lang=la|prpos=Xe
+13	eum	is	PRON	FW	_	15	obj	_	Lang=la|prpos=Xe
+14	æquitas	aequitas	NOUN	FW	_	15	nsubj	_	Lang=la|prpos=Xe
+15	mouerit	moveo	VERB	FW	_	7	advcl	_	Lang=la|prpos=Xe|SpaceAfter=No
 16	.	.	PUNCT	PON	_	15	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_29_4_1_2
@@ -39214,8 +39214,8 @@
 39	dit	dire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	34	advcl	_	prpos=Vvc
 40	en	en	ADP	P	_	41	case	_	prpos=S
 41	Latin	latin	NOUN	NCS	Number=Sing	39	obl	_	prpos=Nc
-42	negare	nego	VERB	FW	_	39	ccomp	_	Lang=lat|prpos=Xe
-43	potentissime	potens	ADV	FW	_	42	advmod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+42	negare	nego	VERB	FW	_	39	ccomp	_	Lang=la|prpos=Xe
+43	potentissime	potens	ADV	FW	_	42	advmod	_	Lang=la|prpos=Xe|SpaceAfter=No
 44	,	,	PUNCT	PON	_	43	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_31_8_1_2
@@ -39229,19 +39229,19 @@
 5	de	de	NOUN	NCS	Number=Sing	3	appos	_	prpos=Nc|SpaceAfter=No
 6	,	,	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
 7	quelquefois	quelquefois	ADV	ADV	_	11	advmod	_	prpos=Rg
-8	in	in	ADP	FW	_	9	case	_	Lang=lat|prpos=Xe
-9	compositione	compositio	NOUN	FW	_	11	obl	_	Lang=lat|prpos=Xe
-10	verborum	verbum	NOUN	FW	_	9	nmod	_	Lang=lat|prpos=Xe
-11	auget	augeo	VERB	FW	_	0	root	_	Lang=lat|prpos=Xe
-12	[et]	et	CCONJ	FW	_	13	cc	_	Lang=lat|prpos=Xe
-13	intendit	intendo	VERB	FW	_	11	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+8	in	in	ADP	FW	_	9	case	_	Lang=la|prpos=Xe
+9	compositione	compositio	NOUN	FW	_	11	obl	_	Lang=la|prpos=Xe
+10	verborum	verbum	NOUN	FW	_	9	nmod	_	Lang=la|prpos=Xe
+11	auget	augeo	VERB	FW	_	0	root	_	Lang=la|prpos=Xe
+12	[et]	et	CCONJ	FW	_	13	cc	_	Lang=la|prpos=Xe
+13	intendit	intendo	VERB	FW	_	11	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 14	,	,	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
-15	vt	ut	ADP	FW	_	16	case	_	Lang=lat|prpos=Xe
-16	deamo	deamo	VERB	FW	_	11	obl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+15	vt	ut	ADP	FW	_	16	case	_	Lang=la|prpos=Xe
+16	deamo	deamo	VERB	FW	_	11	obl	_	Lang=la|prpos=Xe|SpaceAfter=No
 17	,	,	PUNCT	PON	_	16	punct	_	join=left|prpos=Fw
-18	demando	demando	VERB	FW	_	16	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+18	demando	demando	VERB	FW	_	16	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 19	,	,	PUNCT	PON	_	18	punct	_	join=left|prpos=Fw
-20	deprauo	depravo	VERB	FW	_	16	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+20	deprauo	depravo	VERB	FW	_	16	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 21	.	.	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_31_11_1_1
@@ -39251,7 +39251,7 @@
 2	autre	autre	PRON	PRO	_	10	nsubj	_	prpos=Pi
 3	que	que	SCONJ	CONJS	_	5	case	_	prpos=Cs
 4	le	le	DET	D	Definite=Def|PronType=Art	5	det	_	prpos=Da
-5	Iuge	juge	NOUN	NCS	Number=Sing	2	obl	_	prpos=Nc
+5	Iuge	juge	NOUN	NCS	Number=Sing	2	nmod	_	prpos=Nc
 6	de	de	ADP	P	_	8	case	_	prpos=S
 7	la	le	DET	D	Definite=Def|PronType=Art	8	det	_	prpos=Da
 8	cause	cause	NOUN	NCS	Number=Sing	5	nmod	_	prpos=Nc
@@ -39351,8 +39351,8 @@
 4	Iuge	juge	NOUN	NCS	Number=Sing	2	nsubj	_	prpos=Nc
 5	bailler	bailler	VERB	VX	VerbForm=Inf	2	xcomp	_	prpos=Vvn
 6	commissaires	commissaire	NOUN	NCPL	Number=Plur	5	obj	_	prpos=Nc
-7	ad	ad	ADP	FW	_	8	case	_	Lang=lat|prpos=Xe
-8	partes	pars	NOUN	FW	_	6	nmod	_	Lang=lat|prpos=Xe
+7	ad	ad	ADP	FW	_	8	case	_	Lang=la|prpos=Xe
+8	partes	pars	NOUN	FW	_	6	nmod	_	Lang=la|prpos=Xe
 9	pour	pour	ADP	P	_	10	mark	_	prpos=S
 10	examiner	examiner	VERB	VX	VerbForm=Inf	5	advcl	_	prpos=Vvn
 11	les	le	DET	D	Definite=Def|PronType=Art	12	det	_	prpos=Da
@@ -39431,8 +39431,8 @@
 31	doit	devoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	6	ccomp	_	prpos=Vvc
 32	bailler	bailler	VERB	VX	VerbForm=Inf	31	xcomp	_	prpos=Vvn
 33	commission	commission	NOUN	NCS	Number=Sing	32	obj	_	prpos=Nc
-34	ad	ad	ADP	FW	_	35	case	_	Lang=lat|prpos=Xe
-35	partes	pars	NOUN	FW	_	33	nmod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+34	ad	ad	ADP	FW	_	35	case	_	Lang=la|prpos=Xe
+35	partes	pars	NOUN	FW	_	33	nmod	_	Lang=la|prpos=Xe|SpaceAfter=No
 36	.	.	PUNCT	PON	_	6	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_31_11_1_5
@@ -39452,14 +39452,14 @@
 11	lointaine	lointain	ADJ	ADJ	_	12	amod	_	prpos=Ag
 12	demeure	demeure	NOUN	NCS	Number=Sing	9	obl	_	prpos=Nc|SpaceAfter=No
 13	:	:	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
-14	quia	quia	SCONJ	FW	_	18	mark	_	Lang=lat|prpos=Xe
-15	testes	testis	NOUN	FW	_	18	nsubj	_	Lang=lat|prpos=Xe
-16	non	non	ADV	FW	_	18	advmod	_	Lang=lat|prpos=Xe
-17	temere	temere	ADV	FW	_	18	advmod	_	Lang=lat|prpos=Xe
-18	euocandi	evoco	VERB	FW	_	5	parataxis	_	Lang=lat|prpos=Xe
-19	sunt	sum	AUX	FW	_	18	aux	_	Lang=lat|prpos=Xe
-20	perlongum	perlongus	ADJ	FW	_	21	amod	_	Lang=lat|prpos=Xe
-21	iter	iter	NOUN	FW	_	18	obj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+14	quia	quia	SCONJ	FW	_	18	mark	_	Lang=la|prpos=Xe
+15	testes	testis	NOUN	FW	_	18	nsubj	_	Lang=la|prpos=Xe
+16	non	non	ADV	FW	_	18	advmod	_	Lang=la|prpos=Xe
+17	temere	temere	ADV	FW	_	18	advmod	_	Lang=la|prpos=Xe
+18	euocandi	evoco	VERB	FW	_	5	parataxis	_	Lang=la|prpos=Xe
+19	sunt	sum	AUX	FW	_	18	aux	_	Lang=la|prpos=Xe
+20	perlongum	perlongus	ADJ	FW	_	21	amod	_	Lang=la|prpos=Xe
+21	iter	iter	NOUN	FW	_	18	obj	_	Lang=la|prpos=Xe|SpaceAfter=No
 22	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_31_12_1_1
@@ -40106,7 +40106,7 @@
 44	les	il	PRON	PRO	PronType=Prs	45	obj	_	prpos=Pp
 45	referer	référer	VERB	VX	VerbForm=Inf	36	advcl	_	prpos=Vvn
 46	les	le	DET	D	Definite=Def|PronType=Art	47	det	_	prpos=Da
-47	vnes	un	PRON	PRO	PronType=Ind	45	obj	_	prpos=Pi
+47	vnes	un	PRON	PRO	PronType=Ind	45	obl	_	prpos=Pi
 48-49	aux	_	_	_	_	_	_	_	_
 48	à	à	ADP	P	_	50	case	_	prpos=S
 49	les	le	DET	P	Definite=Def|PronType=Art	50	det	_	prpos=Da
@@ -40542,12 +40542,12 @@
 76	de	de	ADP	P	_	78	case	_	prpos=S
 77	le	le	DET	D	Definite=Def|PronType=Art	78	det	_	prpos=Da
 78	cha.	chapitre	NOUN	NCS	Number=Sing	75	nmod	_	prpos=Nc
-79	Quoniam	quoniam	SCONJ	FW	_	81	mark	_	Lang=lat|prpos=Xe
-80	contra	contra	ADP	FW	_	81	case	_	Lang=lat|prpos=Xe
-81	falsam.	falsus	ADJ	FW	_	78	flat	_	Lang=lat|prpos=Xe
-82	extrà	extra	ADP	FW	_	84	case	_	Lang=lat|prpos=Xe
-83	de	de	ADP	FW	_	84	case	_	Lang=lat|prpos=Xe
-84	proba	probatio	NOUN	FW	_	81	obl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+79	Quoniam	quoniam	SCONJ	FW	_	81	mark	_	Lang=la|prpos=Xe
+80	contra	contra	ADP	FW	_	81	case	_	Lang=la|prpos=Xe
+81	falsam.	falsus	ADJ	FW	_	78	flat	_	Lang=la|prpos=Xe
+82	extrà	extra	ADP	FW	_	84	case	_	Lang=la|prpos=Xe
+83	de	de	ADP	FW	_	84	case	_	Lang=la|prpos=Xe
+84	proba	probatio	NOUN	FW	_	81	obl	_	Lang=la|prpos=Xe|SpaceAfter=No
 85	.	.	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_32_1_4_2
@@ -40688,7 +40688,7 @@
 10	officiers	officier	NOUN	NCPL	Number=Plur	5	obl	_	prpos=Nc
 11	[et]	et	CCONJ	CONJO	_	12	cc	_	prpos=Cc
 12	Aduocats	avocat	NOUN	NCPL	Number=Plur	10	conj	_	prpos=Nc
-13	assistans	assister	ADJ	NCPL	Tense=Pres|VerbForm=Part	12	amod	_	prpos=Ge|SpaceAfter=No
+13	assistans	assister	VERB	NCPL	Tense=Pres|VerbForm=Part	12	acl	_	prpos=Ge|SpaceAfter=No
 14	,	,	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
 15-16	au	_	_	_	_	_	_	_	_
 15	à	à	ADP	P	_	17	case	_	prpos=S
@@ -40866,8 +40866,8 @@
 2	ces	ce	DET	D	PronType=Dem	3	det	_	prpos=Dd
 3	mots	mot	NOUN	NCPL	Number=Plur	8	obl	_	prpos=Nc|SpaceAfter=No
 4	,	,	PUNCT	PON	_	8	punct	_	join=left|prpos=Fw
-5	vt	ut	SCONJ	FW	ExtPos=ADV	8	advmod	_	Lang=lat|prpos=Xe
-6	antea	antea	ADV	FW	_	5	fixed	_	Lang=lat|prpos=Xe|SpaceAfter=No
+5	vt	ut	SCONJ	FW	ExtPos=ADV	8	advmod	_	Lang=la|prpos=Xe
+6	antea	antea	ADV	FW	_	5	fixed	_	Lang=la|prpos=Xe|SpaceAfter=No
 7	,	,	PUNCT	PON	_	8	punct	_	join=left|prpos=Fw
 8	faut	falloir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
 9	entendre	entendre	VERB	VX	VerbForm=Inf	8	xcomp	_	prpos=Vvn|SpaceAfter=No
@@ -40922,12 +40922,12 @@
 22	parle	parler	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	19	acl:relcl	_	prpos=Vvc
 23	Martial	Martial	PROPN	NPRS	Number=Sing	22	nsubj	_	prpos=Np|SpaceAfter=No
 24	,	,	PUNCT	PON	_	22	punct	_	join=left|prpos=Fw
-25	prima	primus	ADJ	FW	_	30	amod	_	Lang=lat|prpos=Xe
-26	salutantes	saluto	VERB	FW	_	29	obj	_	Lang=lat|prpos=Xe
-27	atque	atque	CCONJ	FW	_	28	cc	_	Lang=lat|prpos=Xe
-28	altera	alter	ADJ	FW	_	29	conj	_	Lang=lat|prpos=Xe
-29	continet	contineo	VERB	FW	_	22	ccomp	_	Lang=lat|prpos=Xe
-30	hora	hora	NOUN	FW	_	29	nsubj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+25	prima	primus	ADJ	FW	_	30	amod	_	Lang=la|prpos=Xe
+26	salutantes	saluto	VERB	FW	_	29	obj	_	Lang=la|prpos=Xe
+27	atque	atque	CCONJ	FW	_	29	cc	_	Lang=la|prpos=Xe
+28	altera	alter	ADJ	FW	_	30	amod	_	Lang=la|prpos=Xe
+29	continet	contineo	VERB	FW	_	22	ccomp	_	Lang=la|prpos=Xe
+30	hora	hora	NOUN	FW	_	29	nsubj	_	Lang=la|prpos=Xe|SpaceAfter=No
 31	.	.	PUNCT	PON	_	16	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_33_16_5_1
@@ -40980,7 +40980,7 @@
 45	ouez	ouïr	VERB	VJ	Number=Plur|Person=2|VerbForm=Fin	40	discourse	_	prpos=Vvc|SpaceAfter=No
 46	,	,	PUNCT	PON	_	49	punct	_	join=left|prpos=Fw
 47	Nous	nous	PRON	PRO	PronType=Prs	49	nsubj	_	prpos=Pp
-48	vous	vous	PRON	PRO	PronType=Prs	49	obj	_	prpos=Pp
+48	vous	vous	PRON	PRO	PronType=Prs	49	iobj	_	prpos=Pp
 49	ba[n]nissons	bannir	VERB	VJ	Number=Plur|Person=1|VerbForm=Fin	45	ccomp	_	prpos=Vvc
 50	vne	un	DET	D	Definite=Ind|PronType=Art	51	det	_	prpos=Dn
 51	veuë	vue	NOUN	NCS	Number=Sing	49	obj	_	prpos=Nc
@@ -41353,21 +41353,21 @@
 6	par	par	ADP	P	_	8	case	_	prpos=S
 7	la	le	DET	D	Definite=Def|PronType=Art	8	det	_	prpos=Da
 8	glo.	glose	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc
-9	super	super	ADP	FW	_	10	case	_	Lang=lat|prpos=Xe
-10	verb	verbum	NOUN	FW	_	8	nmod	_	Lang=lat|prpos=Xe
-11	quod	qui	DET	FW	_	10	det	_	Lang=lat|prpos=Xe
-12	iuramentum	iuramentum	NOUN	FW	_	10	appos	_	Lang=lat|prpos=Xe
-13	.xxij.	vingt-deux	NUM	FW	_	14	nummod	_	Lang=lat|prpos=Xe
-14	queæst	quaestio	NOUN	FW	_	15	nmod	_	Lang=lat|prpos=Xe
-15	.i.	primus	ADJ	FW	_	8	obl	_	Lang=lat|prpos=Xe
-16	c	canon	NOUN	FW	_	15	obl	_	Lang=lat|prpos=Xe
-17	.i.	primus	ADJ	FW	_	16	amod	_	Lang=lat|prpos=Xe
-18	[et]	et	CCONJ	FW	_	20	cc	_	Lang=lat|prpos=Xe
-19	in	in	ADP	FW	_	20	case	_	Lang=lat|prpos=Xe
-20	c.	canon	NOUN	FW	_	16	conj	_	Lang=lat|prpos=Xe
-21	[et]	et	CCONJ	FW	_	23	cc	_	Lang=lat|prpos=Xe
-22	si	si	SCONJ	FW	_	23	mark	_	Lang=lat|prpos=Xe
-23	Christus	Christus	PROPN	FW	_	20	flat	_	Lang=lat|prpos=Xe|SpaceAfter=No
+9	super	super	ADP	FW	_	10	case	_	Lang=la|prpos=Xe
+10	verb	verbum	NOUN	FW	_	8	nmod	_	Lang=la|prpos=Xe
+11	quod	qui	DET	FW	_	10	det	_	Lang=la|prpos=Xe
+12	iuramentum	iuramentum	NOUN	FW	_	10	appos	_	Lang=la|prpos=Xe
+13	.xxij.	vingt-deux	NUM	FW	_	14	nummod	_	Lang=la|prpos=Xe
+14	queæst	quaestio	NOUN	FW	_	15	nmod	_	Lang=la|prpos=Xe
+15	.i.	primus	ADJ	FW	_	8	nmod	_	Lang=la|prpos=Xe
+16	c	canon	NOUN	FW	_	15	obl	_	Lang=la|prpos=Xe
+17	.i.	primus	ADJ	FW	_	16	amod	_	Lang=la|prpos=Xe
+18	[et]	et	CCONJ	FW	_	20	cc	_	Lang=la|prpos=Xe
+19	in	in	ADP	FW	_	20	case	_	Lang=la|prpos=Xe
+20	c.	canon	NOUN	FW	_	16	conj	_	Lang=la|prpos=Xe
+21	[et]	et	CCONJ	FW	_	23	cc	_	Lang=la|prpos=Xe
+22	si	si	SCONJ	FW	_	23	mark	_	Lang=la|prpos=Xe
+23	Christus	Christus	PROPN	FW	_	20	flat	_	Lang=la|prpos=Xe|SpaceAfter=No
 24	.	.	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_33_18_1_5
@@ -41687,7 +41687,7 @@
 15	enqueste	enquête	NOUN	NCS	Number=Sing	11	obl	_	prpos=Nc
 16	sur	sur	ADP	P	_	18	case	_	prpos=S
 17	l'	le	DET	D	Definite=Def|PronType=Art	18	det	_	prpos=Da
-18	vn	un	PRON	PRO	PronType=Ind	15	obl	_	join=left|prpos=Pi
+18	vn	un	PRON	PRO	PronType=Ind	15	nmod	_	join=left|prpos=Pi
 19	[et]	et	CCONJ	CONJO	_	21	cc	_	prpos=Cc
 20	l'	le	DET	D	Definite=Def|PronType=Art	21	det	_	prpos=Da
 21	autre	autre	ADJ	ADJ	_	18	conj	_	join=left|prpos=Ag
@@ -42131,24 +42131,24 @@
 12	la	le	DET	D	Definite=Def|PronType=Art	13	det	_	prpos=Da
 13	cause	cause	NOUN	NCS	Number=Sing	10	nmod	_	prpos=Nc|SpaceAfter=No
 14	:	:	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
-15	Quia	quia	SCONJ	FW	_	18	mark	_	Lang=lat|prpos=Xe
-16	in	in	ADP	FW	_	17	case	_	Lang=lat|prpos=Xe
-17	exceptionibus	exceptio	NOUN	FW	_	18	obl	_	Lang=lat|prpos=Xe
-18	dicendum	dico	VERB	FW	_	1	ccomp	_	Lang=lat|prpos=Xe
-19	est	sum	AUX	FW	_	18	aux	_	Lang=lat|prpos=Xe
-20	reum	reus	NOUN	FW	_	24	nsubj	_	Lang=lat|prpos=Xe
-21	partibus	pars	NOUN	FW	_	23	obj	_	Lang=lat|prpos=Xe
-22	actoris	actor	NOUN	FW	_	21	nmod	_	Lang=lat|prpos=Xe
-23	fungi	fungor	VERB	FW	_	24	xcomp	_	Lang=lat|prpos=Xe
-24	oportere	oportet	VERB	FW	_	18	ccomp	_	Lang=lat|prpos=Xe|SpaceAfter=No
+15	Quia	quia	SCONJ	FW	_	18	mark	_	Lang=la|prpos=Xe
+16	in	in	ADP	FW	_	17	case	_	Lang=la|prpos=Xe
+17	exceptionibus	exceptio	NOUN	FW	_	18	obl	_	Lang=la|prpos=Xe
+18	dicendum	dico	VERB	FW	_	1	ccomp	_	Lang=la|prpos=Xe
+19	est	sum	AUX	FW	_	18	aux	_	Lang=la|prpos=Xe
+20	reum	reus	NOUN	FW	_	24	nsubj	_	Lang=la|prpos=Xe
+21	partibus	pars	NOUN	FW	_	23	obj	_	Lang=la|prpos=Xe
+22	actoris	actor	NOUN	FW	_	21	nmod	_	Lang=la|prpos=Xe
+23	fungi	fungor	VERB	FW	_	24	xcomp	_	Lang=la|prpos=Xe
+24	oportere	oportet	VERB	FW	_	18	ccomp	_	Lang=la|prpos=Xe|SpaceAfter=No
 25	:	:	PUNCT	PON	_	24	punct	_	join=left|prpos=Fw
 26-27	ipsumque	_	_	_	_	_	_	_	_
-26	ipsum	ipse	DET	FW	_	28	det	_	Lang=lat|prpos=Xe
-27	que	que	CCONJ	FW	_	31	cc	_	Lang=lat|prpos=Xe
-28	exceptionem	exceptio	NOUN	FW	_	31	nsubj	_	Lang=lat|prpos=Xe
-29	velut	velut	ADP	FW	_	30	case	_	Lang=lat|prpos=Xe
-30	intentionem	intentio	NOUN	FW	_	28	nmod	_	Lang=lat|prpos=Xe
-31	implere	impleo	VERB	FW	_	24	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+26	ipsum	ipse	DET	FW	_	28	det	_	Lang=la|prpos=Xe
+27	que	que	CCONJ	FW	_	31	cc	_	Lang=la|prpos=Xe
+28	exceptionem	exceptio	NOUN	FW	_	31	nsubj	_	Lang=la|prpos=Xe
+29	velut	velut	ADP	FW	_	30	case	_	Lang=la|prpos=Xe
+30	intentionem	intentio	NOUN	FW	_	28	nmod	_	Lang=la|prpos=Xe
+31	implere	impleo	VERB	FW	_	24	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 32	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_34_6_1_2
@@ -42302,8 +42302,8 @@
 14	,	,	PUNCT	PON	_	16	punct	_	join=left|prpos=Fw
 15	à	à	ADP	P	_	16	mark	_	prpos=S
 16	absoudre	absoudre	VERB	VX	VerbForm=Inf	9	xcomp	_	prpos=Vvn
-17	ad	ad	ADP	FW	_	18	case	_	Lang=lat|prpos=Xe
-18	cautelam	cautela	NOUN	FW	_	16	obl	_	Lang=lat|prpos=Xe
+17	ad	ad	ADP	FW	_	18	case	_	Lang=la|prpos=Xe
+18	cautelam	cautela	NOUN	FW	_	16	obl	_	Lang=la|prpos=Xe
 19	ceux	celui	PRON	PRO	PronType=Dem	16	obj	_	prpos=Pd
 20	qui	qui	PRON	WPRO	PronType=Rel	22	nsubj	_	prpos=Pr
 21	sont	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	22	aux:pass	_	prpos=Vuc
@@ -42409,12 +42409,12 @@
 36	pas	pas	ADV	ADVNEG	_	37	advmod	_	prpos=Rg
 37	raison	raison	NOUN	NCS	Number=Sing	31	ccomp	_	prpos=Nc|SpaceAfter=No
 38	,	,	PUNCT	PON	_	37	punct	_	join=left|prpos=Fw
-39	in	in	ADP	FW	_	40	case	_	Lang=lat|prpos=Xe
-40	l.	lex	NOUN	FW	_	31	obl	_	Lang=lat|prpos=Xe
-41	etiam	etiam	ADV	FW	_	40	advmod	_	Lang=lat|prpos=Xe
-42	C.	codex	NOUN	FW	_	40	conj	_	Lang=lat|prpos=Xe
-43	de	de	ADP	FW	_	44	case	_	Lang=lat|prpos=Xe
-44	testi	testis	NOUN	FW	_	40	nmod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+39	in	in	ADP	FW	_	40	case	_	Lang=la|prpos=Xe
+40	l.	lex	NOUN	FW	_	31	obl	_	Lang=la|prpos=Xe
+41	etiam	etiam	ADV	FW	_	40	advmod	_	Lang=la|prpos=Xe
+42	C.	codex	NOUN	FW	_	40	conj	_	Lang=la|prpos=Xe
+43	de	de	ADP	FW	_	44	case	_	Lang=la|prpos=Xe
+44	testi	testis	NOUN	FW	_	40	nmod	_	Lang=la|prpos=Xe|SpaceAfter=No
 45	.	.	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_34_10_2_1
@@ -42621,27 +42621,27 @@
 37	deposer	déposer	VERB	VX	VerbForm=Inf	36	xcomp	_	prpos=Vvn
 38	contre	contre	ADP	P	_	39	case	_	prpos=S
 39	vérité	vérité	NOUN	NCS	Number=Sing	37	obl	_	prpos=Nc
-40	.d.	Digesta	NOUN	FW	_	24	ccomp	_	Lang=lat|prpos=Xe
-41	§.	paragraphe	NOUN	FW	_	40	nmod	_	Lang=lat|prpos=Xe
-42	l.	lex	NOUN	FW	_	41	nmod	_	Lang=lat|prpos=Xe
-43	Iulia.	Iulia	PROPN	FW	_	42	nmod	_	Lang=lat|prpos=Xe
-44	Bar.	Bartolus	PROPN	FW	_	43	flat	_	Lang=lat|prpos=Xe
-45	in	in	ADP	FW	_	46	case	_	Lang=lat|prpos=Xe
-46	l.	lex	NOUN	FW	_	41	nmod	_	Lang=lat|prpos=Xe
-47	diuus.	divus	ADJ	FW	_	46	flat	_	Lang=lat|prpos=Xe
-48	ff.	fragmentum	NOUN	FW	_	50	orphan	_	Lang=lat|prpos=Xe
-49	de	de	ADP	FW	_	50	case	_	Lang=lat|prpos=Xe
-50	re	res	NOUN	FW	_	46	nmod	_	Lang=lat|prpos=Xe
-51	iudi.	iudico	ADJ	FW	_	50	amod	_	Lang=lat|prpos=Xe
-52	[et]	et	CCONJ	FW	_	53	cc	_	Lang=lat|prpos=Xe
-53	Pano.	Panormitanus	PROPN	FW	_	46	conj	_	Lang=lat|prpos=Xe
-54	inc.	incipio	NOUN	FW	_	53	nmod	_	Lang=lat|prpos=Xe
-55	licet	licet	SCONJ	FW	_	56	mark	_	Lang=lat|prpos=Xe
-56	causam	causa	NOUN	FW	_	54	nmod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+40	.d.	Digesta	NOUN	FW	_	24	ccomp	_	Lang=la|prpos=Xe
+41	§.	paragraphe	NOUN	FW	_	40	nmod	_	Lang=la|prpos=Xe
+42	l.	lex	NOUN	FW	_	41	nmod	_	Lang=la|prpos=Xe
+43	Iulia.	Iulia	PROPN	FW	_	42	nmod	_	Lang=la|prpos=Xe
+44	Bar.	Bartolus	PROPN	FW	_	43	flat	_	Lang=la|prpos=Xe
+45	in	in	ADP	FW	_	46	case	_	Lang=la|prpos=Xe
+46	l.	lex	NOUN	FW	_	41	nmod	_	Lang=la|prpos=Xe
+47	diuus.	divus	ADJ	FW	_	46	flat	_	Lang=la|prpos=Xe
+48	ff.	fragmentum	NOUN	FW	_	50	orphan	_	Lang=la|prpos=Xe
+49	de	de	ADP	FW	_	50	case	_	Lang=la|prpos=Xe
+50	re	res	NOUN	FW	_	46	nmod	_	Lang=la|prpos=Xe
+51	iudi.	iudico	ADJ	FW	_	50	amod	_	Lang=la|prpos=Xe
+52	[et]	et	CCONJ	FW	_	53	cc	_	Lang=la|prpos=Xe
+53	Pano.	Panormitanus	PROPN	FW	_	46	conj	_	Lang=la|prpos=Xe
+54	inc.	incipio	NOUN	FW	_	53	nmod	_	Lang=la|prpos=Xe
+55	licet	licet	SCONJ	FW	_	56	mark	_	Lang=la|prpos=Xe
+56	causam	causa	NOUN	FW	_	54	nmod	_	Lang=la|prpos=Xe|SpaceAfter=No
 57	,	,	PUNCT	PON	_	53	punct	_	join=left|prpos=Fw
-58	extrà	extra	ADP	FW	_	60	case	_	Lang=lat|prpos=Xe
-59	de	de	ADP	FW	_	60	case	_	Lang=lat|prpos=Xe
-60	proba	probatio	NOUN	FW	_	53	obl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+58	extrà	extra	ADP	FW	_	60	case	_	Lang=la|prpos=Xe
+59	de	de	ADP	FW	_	60	case	_	Lang=la|prpos=Xe
+60	proba	probatio	NOUN	FW	_	53	obl	_	Lang=la|prpos=Xe|SpaceAfter=No
 61	.	.	PUNCT	PON	_	60	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_34_12_1_1
@@ -42651,8 +42651,8 @@
 1	Le	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
 2	Poete	poète	NOUN	NCS	Number=Sing	9	nsubj	_	prpos=Nc
 3	Lyrique	lyrique	ADJ	ADJ	_	2	flat	_	prpos=Ag
-4	Carm	carmen	NOUN	FW	_	9	obl	_	Lang=lat|prpos=Xe
-5	lib.	liber	NOUN	FW	_	4	nmod	_	Lang=lat|prpos=Xe
+4	Carm	carmen	NOUN	FW	_	9	obl	_	Lang=la|prpos=Xe
+5	lib.	liber	NOUN	FW	_	4	nmod	_	Lang=la|prpos=Xe
 6	3.	trois	NUM	NUM	NumType=Card	5	nummod	_	prpos=Mc
 7	ode	ode	NOUN	NCS	Number=Sing	4	nmod	_	prpos=Nc
 8	24.	vingt-quatre	NUM	NUM	NumType=Card	7	nummod	_	prpos=Mc
@@ -42664,22 +42664,22 @@
 14	ce	ce	DET	D	PronType=Dem	15	det	_	prpos=Dd
 15	propos	propos	NOUN	NCS	Number=Sing	9	obl	_	prpos=Nc|SpaceAfter=No
 16	,	,	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
-17	Magnum	magnus	ADJ	FW	_	19	amod	_	Lang=lat|prpos=Xe
-18	pauperis	pauper	NOUN	FW	_	19	nmod	_	Lang=lat|prpos=Xe
-19	opprobrium	opprobrium	NOUN	FW	_	21	nsubj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+17	Magnum	magnus	ADJ	FW	_	19	amod	_	Lang=la|prpos=Xe
+18	pauperis	pauper	NOUN	FW	_	19	nmod	_	Lang=la|prpos=Xe
+19	opprobrium	opprobrium	NOUN	FW	_	21	nsubj	_	Lang=la|prpos=Xe|SpaceAfter=No
 20	,	,	PUNCT	PON	_	21	punct	_	join=left|prpos=Fw
-21	iubet	iubeo	VERB	FW	_	9	ccomp	_	Lang=lat|prpos=Xe
-22	Quiduis	quivis	PRON	FW	_	24	obj	_	Lang=lat|prpos=Xe
-23	[et]	et	CCONJ	FW	_	24	cc	_	Lang=lat|prpos=Xe
-24	facere	facio	VERB	FW	_	21	xcomp	_	Lang=lat|prpos=Xe
-25	[et]	et	CCONJ	FW	_	26	cc	_	Lang=lat|prpos=Xe
-26	pati	patior	VERB	FW	_	24	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+21	iubet	iubeo	VERB	FW	_	9	ccomp	_	Lang=la|prpos=Xe
+22	Quiduis	quivis	PRON	FW	_	24	obj	_	Lang=la|prpos=Xe
+23	[et]	et	CCONJ	FW	_	24	cc	_	Lang=la|prpos=Xe
+24	facere	facio	VERB	FW	_	21	xcomp	_	Lang=la|prpos=Xe
+25	[et]	et	CCONJ	FW	_	26	cc	_	Lang=la|prpos=Xe
+26	pati	patior	VERB	FW	_	24	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 27	,	,	PUNCT	PON	_	21	punct	_	join=left|prpos=Fw
-28	Virtutis	virtus	NOUN	FW	_	30	nmod	_	Lang=lat|prpos=Xe
-29	que	que	CCONJ	FW	_	31	cc	_	Lang=lat|prpos=Xe
-30	viam	via	NOUN	FW	_	31	obj	_	Lang=lat|prpos=Xe
-31	deserit	desero	VERB	FW	_	21	conj	_	Lang=lat|prpos=Xe
-32	arduæ	arduus	ADJ	FW	_	28	amod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+28	Virtutis	virtus	NOUN	FW	_	30	nmod	_	Lang=la|prpos=Xe
+29	que	que	CCONJ	FW	_	31	cc	_	Lang=la|prpos=Xe
+30	viam	via	NOUN	FW	_	31	obj	_	Lang=la|prpos=Xe
+31	deserit	desero	VERB	FW	_	21	conj	_	Lang=la|prpos=Xe
+32	arduæ	arduus	ADJ	FW	_	28	amod	_	Lang=la|prpos=Xe|SpaceAfter=No
 33	.	.	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_34_12_2_1
@@ -42963,16 +42963,16 @@
 8	,	,	PUNCT	PON	_	15	punct	_	join=left|prpos=Fw
 9	[et]	et	CCONJ	CONJO	_	15	cc	_	prpos=Cc
 10	que	que	SCONJ	CONJS	_	15	mark	_	prpos=Cs
-11	varium	varius	ADJ	FW	_	15	amod	_	Lang=lat|prpos=Xe
-12	[et]	et	CCONJ	FW	_	13	cc	_	Lang=lat|prpos=Xe
-13	mutabile	mutabilis	ADJ	FW	_	11	conj	_	Lang=lat|prpos=Xe
-14	semper	semper	ADV	FW	_	15	advmod	_	Lang=lat|prpos=Xe
-15	fœmina.	femina	NOUN	FW	_	5	conj	_	Lang=lat|prpos=Xe
-16	e.	ex	ADP	FW	_	17	case	_	Lang=lat|prpos=Xe
-17	forus.	forus	NOUN	FW	_	15	dislocated	_	Lang=lat|prpos=Xe
-18	de	de	ADP	FW	_	20	case	_	Lang=lat|prpos=Xe
-19	verb.	verbum	NOUN	FW	_	20	nmod	_	Lang=lat|prpos=Xe
-20	signifi	significatio	NOUN	FW	_	17	nmod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+11	varium	varius	ADJ	FW	_	15	amod	_	Lang=la|prpos=Xe
+12	[et]	et	CCONJ	FW	_	13	cc	_	Lang=la|prpos=Xe
+13	mutabile	mutabilis	ADJ	FW	_	11	conj	_	Lang=la|prpos=Xe
+14	semper	semper	ADV	FW	_	15	advmod	_	Lang=la|prpos=Xe
+15	fœmina.	femina	NOUN	FW	_	5	conj	_	Lang=la|prpos=Xe
+16	e.	ex	ADP	FW	_	17	case	_	Lang=la|prpos=Xe
+17	forus.	forus	NOUN	FW	_	15	dislocated	_	Lang=la|prpos=Xe
+18	de	de	ADP	FW	_	20	case	_	Lang=la|prpos=Xe
+19	verb.	verbum	NOUN	FW	_	20	nmod	_	Lang=la|prpos=Xe
+20	signifi	significatio	NOUN	FW	_	17	nmod	_	Lang=la|prpos=Xe|SpaceAfter=No
 21	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_34_18_1_1
@@ -42981,33 +42981,33 @@
 # tags = latin
 1	Le	le	DET	D	Definite=Def	2	det	_	prpos=Da
 2	chapitre	chapitre	NOUN	NCS	_	8	nsubj	_	prpos=Nc
-3	præsentium	praesentium	NOUN	FW	_	2	flat	_	Lang=lat|prpos=Xe|SpaceAfter=No
+3	præsentium	praesentium	NOUN	FW	_	2	flat	_	Lang=la|prpos=Xe|SpaceAfter=No
 4	,	,	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
-5	extrà	extra	ADP	FW	_	7	case	_	Lang=lat|prpos=Xe
-6	de	de	ADP	FW	_	7	case	_	Lang=lat|prpos=Xe
-7	testi.	testis	NOUN	FW	_	3	nmod	_	Lang=lat|prpos=Xe
+5	extrà	extra	ADP	FW	_	7	case	_	Lang=la|prpos=Xe
+6	de	de	ADP	FW	_	7	case	_	Lang=la|prpos=Xe
+7	testi.	testis	NOUN	FW	_	3	nmod	_	Lang=la|prpos=Xe
 8	excepte	excepter	VERB	VJ	_	0	root	_	prpos=Vvc
 9	trois	trois	NUM	NUM	_	10	nummod	_	prpos=Mc
 10	cas	cas	NOUN	NCPL	_	8	obj	_	prpos=Nc|SpaceAfter=No
 11	:	:	PUNCT	PON	_	10	punct	_	join=left|prpos=Fw
-12	scilicet	scilicet	ADV	FW	_	17	advmod	_	Lang=lat|prpos=Xe
-13	nisi	nisi	SCONJ	FW	_	17	mark	_	Lang=lat|prpos=Xe
-14	partes	pars	NOUN	FW	_	17	nsubj	_	Lang=lat|prpos=Xe
-15	antea	antea	ADV	FW	_	17	advmod	_	Lang=lat|prpos=Xe
-16	fuerint	sum	AUX	FW	_	17	aux	_	Lang=lat|prpos=Xe
-17	protestatæ	protestor	VERB	FW	_	10	parataxis	_	Lang=lat|prpos=Xe|SpaceAfter=No
+12	scilicet	scilicet	ADV	FW	_	17	advmod	_	Lang=la|prpos=Xe
+13	nisi	nisi	SCONJ	FW	_	17	mark	_	Lang=la|prpos=Xe
+14	partes	pars	NOUN	FW	_	17	nsubj	_	Lang=la|prpos=Xe
+15	antea	antea	ADV	FW	_	17	advmod	_	Lang=la|prpos=Xe
+16	fuerint	sum	AUX	FW	_	17	aux	_	Lang=la|prpos=Xe
+17	protestatæ	protestor	VERB	FW	_	10	parataxis	_	Lang=la|prpos=Xe|SpaceAfter=No
 18	,	,	PUNCT	PON	_	17	punct	_	join=left|prpos=Fw
-19	vel	vel	CCONJ	FW	_	22	cc	_	Lang=lat|prpos=Xe
-20	cum	cum	ADP	FW	_	21	case	_	Lang=lat|prpos=Xe
-21	iuramento	iuramentum	NOUN	FW	_	22	obl	_	Lang=lat|prpos=Xe
-22	firmauerint	firmo	VERB	FW	_	17	conj	_	Lang=lat|prpos=Xe
-23	quòd	qui	SCONJ	FW	_	29	mark	_	Lang=lat|prpos=Xe
-24	ad	ad	ADP	FW	_	25	case	_	Lang=lat|prpos=Xe
-25	hoc	hic	PRON	FW	_	29	obl	_	Lang=lat|prpos=Xe
-26	ex	ex	ADP	FW	_	27	case	_	Lang=lat|prpos=Xe
-27	malitia	malitia	NOUN	FW	_	29	obl	_	Lang=lat|prpos=Xe
-28	non	non	ADV	FW	_	29	advmod	_	Lang=lat|prpos=Xe
-29	procedant	procedo	VERB	FW	_	22	advcl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+19	vel	vel	CCONJ	FW	_	22	cc	_	Lang=la|prpos=Xe
+20	cum	cum	ADP	FW	_	21	case	_	Lang=la|prpos=Xe
+21	iuramento	iuramentum	NOUN	FW	_	22	obl	_	Lang=la|prpos=Xe
+22	firmauerint	firmo	VERB	FW	_	17	conj	_	Lang=la|prpos=Xe
+23	quòd	qui	SCONJ	FW	_	29	mark	_	Lang=la|prpos=Xe
+24	ad	ad	ADP	FW	_	25	case	_	Lang=la|prpos=Xe
+25	hoc	hic	PRON	FW	_	29	obl	_	Lang=la|prpos=Xe
+26	ex	ex	ADP	FW	_	27	case	_	Lang=la|prpos=Xe
+27	malitia	malitia	NOUN	FW	_	29	obl	_	Lang=la|prpos=Xe
+28	non	non	ADV	FW	_	29	advmod	_	Lang=la|prpos=Xe
+29	procedant	procedo	VERB	FW	_	22	advcl	_	Lang=la|prpos=Xe|SpaceAfter=No
 30	:	:	PUNCT	PON	_	8	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_34_18_1_3
@@ -44012,7 +44012,7 @@
 12	d'	de	ADP	P	_	13	case	_	prpos=S
 13	office	office	NOUN	NCS	Number=Sing	5	obl	_	join=left|prpos=Nc|SpaceAfter=No
 14	,	,	PUNCT	PON	_	15	punct	_	join=left|prpos=Fw
-15	inquam	inquam	VERB	FW	_	17	parataxis	_	Lang=lat|prpos=Xe|SpaceAfter=No
+15	inquam	inquam	VERB	FW	_	17	parataxis	_	Lang=la|prpos=Xe|SpaceAfter=No
 16	,	,	PUNCT	PON	_	17	punct	_	join=left|prpos=Fw
 17	noble	noble	ADJ	ADJ	_	13	amod	_	prpos=Ag|SpaceAfter=No
 18	,	,	PUNCT	PON	_	13	punct	_	join=left|prpos=Fw
@@ -44039,12 +44039,12 @@
 37	de	de	ADP	P	_	39	case	_	prpos=S
 38	le	le	DET	D	Definite=Def|PronType=Art	39	det	_	prpos=Da
 39	chapitre	chapitre	NOUN	NCS	Number=Sing	36	nmod	_	prpos=Nc
-40	per	per	ADP	FW	_	41	case	_	Lang=lat|prpos=Xe
-41	tuas	tuus	PRON	FW	_	39	flat	_	Lang=lat|prpos=Xe
-42	de	de	ADP	FW	_	43	case	_	Lang=lat|prpos=Xe
-43	testi.	testis	NOUN	FW	_	41	obl	_	Lang=lat|prpos=Xe
-44	in	in	ADP	FW	_	45	case	_	Lang=lat|prpos=Xe
-45	antiq.	antiquus	NOUN	FW	_	43	nmod	_	Lang=lat|prpos=Xe
+40	per	per	ADP	FW	_	41	case	_	Lang=la|prpos=Xe
+41	tuas	tuus	PRON	FW	_	39	flat	_	Lang=la|prpos=Xe
+42	de	de	ADP	FW	_	43	case	_	Lang=la|prpos=Xe
+43	testi.	testis	NOUN	FW	_	41	obl	_	Lang=la|prpos=Xe
+44	in	in	ADP	FW	_	45	case	_	Lang=la|prpos=Xe
+45	antiq.	antiquus	NOUN	FW	_	43	nmod	_	Lang=la|prpos=Xe
 
 # sent_id = 1578_Terrien_1_35_3_1_2
 # source = Terrien
@@ -44756,15 +44756,15 @@
 6	de	de	ADP	P	_	7	case	_	prpos=S
 7	Iean	Jean	PROPN	NPRS	Number=Sing	5	nmod	_	prpos=Np
 8	Fab.	Fab.	PROPN	NPRS	Number=Sing	7	flat	_	prpos=Np
-9	in	in	ADP	FW	_	10	case	_	Lang=lat|prpos=Xe
-10	§	paragraphe	NOUN	FW	_	5	nmod	_	Lang=lat|prpos=Xe
-11	item	item	ADV	FW	_	14	advmod	_	Lang=lat|prpos=Xe
-12	si	si	SCONJ	FW	_	14	mark	_	Lang=lat|prpos=Xe
-13	quis	quis	PRON	FW	_	14	nsubj	_	Lang=lat|prpos=Xe
-14	postulante	postulo	VERB	FW	_	10	flat	_	Lang=lat|prpos=Xe
-15	insti.	institutio	NOUN	FW	_	10	nmod	_	Lang=lat|prpos=Xe
-16	de	de	ADP	FW	_	17	case	_	Lang=lat|prpos=Xe
-17	act.	actio	NOUN	FW	_	15	flat	_	Lang=lat|prpos=Xe
+9	in	in	ADP	FW	_	10	case	_	Lang=la|prpos=Xe
+10	§	paragraphe	NOUN	FW	_	5	nmod	_	Lang=la|prpos=Xe
+11	item	item	ADV	FW	_	14	advmod	_	Lang=la|prpos=Xe
+12	si	si	SCONJ	FW	_	14	mark	_	Lang=la|prpos=Xe
+13	quis	quis	PRON	FW	_	14	nsubj	_	Lang=la|prpos=Xe
+14	postulante	postulo	VERB	FW	_	10	flat	_	Lang=la|prpos=Xe
+15	insti.	institutio	NOUN	FW	_	10	nmod	_	Lang=la|prpos=Xe
+16	de	de	ADP	FW	_	17	case	_	Lang=la|prpos=Xe
+17	act.	actio	NOUN	FW	_	15	flat	_	Lang=la|prpos=Xe
 18	qui	qui	PRON	WPRO	PronType=Rel	20	nsubj	_	prpos=Pr
 19	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	20	aux:pass	_	prpos=Vuc
 20	suiuie	suivre	VERB	VPP	Tense=Past|VerbForm=Part	5	acl	_	prpos=Ge
@@ -45207,8 +45207,8 @@
 4	le	le	DET	D	Definite=Def|PronType=Art	5	det	_	prpos=Da
 5	Roy	roi	NOUN	NCS	Number=Sing	2	nmod	_	prpos=Nc
 6	appelle	appeler	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
-7	a	a	ADP	FW	ExtPos=ADJ	6	advmod	_	Lang=lat|prpos=Xe
-8	minima	parvus	ADJ	FW	_	7	fixed	_	Lang=lat|prpos=Xe|SpaceAfter=No
+7	a	a	ADP	FW	ExtPos=ADJ	6	advmod	_	Lang=la|prpos=Xe
+8	minima	parvus	ADJ	FW	_	7	fixed	_	Lang=la|prpos=Xe|SpaceAfter=No
 9	.	.	PUNCT	PON	_	6	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_36_1_3_8
@@ -45264,37 +45264,37 @@
 11	.i	un	NUM	NUM	NumType=Card	10	nummod	_	prpos=Mc
 12	[et]	et	CCONJ	CONJO	_	13	cc	_	prpos=Cc
 13	ij.	deux	NUM	NUM	NumType=Card	11	conj	_	prpos=Mc
-14	C.	codex	NOUN	FW	_	10	nmod	_	Lang=lat|prpos=Xe
-15	de	de	ADP	FW	_	16	case	_	Lang=lat|prpos=Xe
-16	reb.	res	NOUN	FW	_	14	flat	_	Lang=lat|prpos=Xe
-17	cred.	credo	ADJ	FW	_	16	amod	_	Lang=lat|prpos=Xe
-18	[et]	et	CCONJ	FW	_	19	cc	_	Lang=lat|prpos=Xe
-19	iureiur.	iureiuro	VERB	FW	_	16	conj	_	Lang=lat|prpos=Xe
+14	C.	codex	NOUN	FW	_	10	nmod	_	Lang=la|prpos=Xe
+15	de	de	ADP	FW	_	16	case	_	Lang=la|prpos=Xe
+16	reb.	res	NOUN	FW	_	14	flat	_	Lang=la|prpos=Xe
+17	cred.	credo	ADJ	FW	_	16	amod	_	Lang=la|prpos=Xe
+18	[et]	et	CCONJ	FW	_	19	cc	_	Lang=la|prpos=Xe
+19	iureiur.	iureiuro	VERB	FW	_	16	conj	_	Lang=la|prpos=Xe
 20	où	où	PRON	WPRO	PronType=Rel	23	obl	_	prpos=Pr
 21	il	il	PRON	PRO	PronType=Prs	23	expl	_	prpos=Pp
 22	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	23	aux:pass	_	prpos=Vuc
 23	dit	dire	VERB	VPP	Tense=Past|VerbForm=Part	10	acl:relcl	_	prpos=Ge|SpaceAfter=No
 24	,	,	PUNCT	PON	_	23	punct	_	join=left|prpos=Fw
-25	quòd	qui	SCONJ	FW	_	34	mark	_	Lang=lat|prpos=Xe
-26	causa	causa	NOUN	FW	_	34	nsubj	_	Lang=lat|prpos=Xe
-27	iuramento	iuramentum	NOUN	FW	_	28	obl	_	Lang=lat|prpos=Xe
-28	decisa	decido	ADJ	FW	_	26	acl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+25	quòd	qui	SCONJ	FW	_	34	mark	_	Lang=la|prpos=Xe
+26	causa	causa	NOUN	FW	_	34	nsubj	_	Lang=la|prpos=Xe
+27	iuramento	iuramentum	NOUN	FW	_	28	obl	_	Lang=la|prpos=Xe
+28	decisa	decido	ADJ	FW	_	26	acl	_	Lang=la|prpos=Xe|SpaceAfter=No
 29	,	,	PUNCT	PON	_	26	punct	_	join=left|prpos=Fw
-30	periurij	periurium	NOUN	_	_	31	nmod	_	Lang=lat|prpos=Xe
-31	prætextu	praetextus	NOUN	FW	_	32	obl	_	Lang=lat|prpos=Xe
-32	retractari	retracto	VERB	FW	_	34	xcomp	_	Lang=lat|prpos=Xe
-33	non	non	ADV	FW	_	34	advmod	_	Lang=lat|prpos=Xe
-34	potest.	possum	VERB	FW	_	23	ccomp	_	Lang=lat|prpos=Xe
-35	[et]	et	CCONJ	FW	_	42	cc	_	Lang=lat|prpos=Xe
-36	quòd	qui	SCONJ	FW	_	42	mark	_	Lang=lat|prpos=Xe
-37	iuris	ius	NOUN	FW	_	40	nmod	_	Lang=lat|prpos=Xe
-38	iurandi	iuro	ADJ	FW	_	37	amod	_	Lang=lat|prpos=Xe
-39	contempta	contemptus	ADJ	FW	_	40	amod	_	Lang=lat|prpos=Xe
-40	religio	religio	NOUN	FW	_	42	nsubj	_	Lang=lat|prpos=Xe
-41	satis	satis	ADV	FW	_	42	advmod	_	Lang=lat|prpos=Xe
-42	habet	habeo	VERB	FW	_	34	conj	_	Lang=lat|prpos=Xe
-43	Deum	deus	NOUN	FW	_	42	obj	_	Lang=lat|prpos=Xe
-44	vltorem	ultor	ADJ	FW	_	43	amod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+30	periurij	periurium	NOUN	_	_	31	nmod	_	Lang=la|prpos=Xe
+31	prætextu	praetextus	NOUN	FW	_	32	obl	_	Lang=la|prpos=Xe
+32	retractari	retracto	VERB	FW	_	34	xcomp	_	Lang=la|prpos=Xe
+33	non	non	ADV	FW	_	34	advmod	_	Lang=la|prpos=Xe
+34	potest.	possum	VERB	FW	_	23	ccomp	_	Lang=la|prpos=Xe
+35	[et]	et	CCONJ	FW	_	42	cc	_	Lang=la|prpos=Xe
+36	quòd	qui	SCONJ	FW	_	42	mark	_	Lang=la|prpos=Xe
+37	iuris	ius	NOUN	FW	_	40	nmod	_	Lang=la|prpos=Xe
+38	iurandi	iuro	ADJ	FW	_	37	amod	_	Lang=la|prpos=Xe
+39	contempta	contemptus	ADJ	FW	_	40	amod	_	Lang=la|prpos=Xe
+40	religio	religio	NOUN	FW	_	42	nsubj	_	Lang=la|prpos=Xe
+41	satis	satis	ADV	FW	_	42	advmod	_	Lang=la|prpos=Xe
+42	habet	habeo	VERB	FW	_	34	conj	_	Lang=la|prpos=Xe
+43	Deum	deus	NOUN	FW	_	42	obj	_	Lang=la|prpos=Xe
+44	vltorem	ultor	ADJ	FW	_	43	amod	_	Lang=la|prpos=Xe|SpaceAfter=No
 45	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_36_1_4_1
@@ -45335,11 +45335,11 @@
 32	dont	dont	PRON	WPRO	PronType=Rel	34	obl	_	prpos=Pr
 33	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	34	aux:pass	_	prpos=Vuc
 34	parlé	parler	VERB	VPP	Tense=Past|VerbForm=Part	18	acl:relcl	_	prpos=Ge
-35	in	in	ADP	FW	_	36	case	_	Lang=lat|prpos=Xe
-36	l.	lex	NOUN	FW	_	34	obl	_	Lang=lat|prpos=Xe
-37	in	in	ADP	FW	_	36	flat	_	Lang=lat|prpos=Xe
-38	bonae	bonus	ADJ	FW	_	39	amod	_	Lang=lat|prpos=Xe
-39	fidei	fides	NOUN	FW	_	37	dislocated	_	Lang=lat|prpos=Xe
+35	in	in	ADP	FW	_	36	case	_	Lang=la|prpos=Xe
+36	l.	lex	NOUN	FW	_	34	obl	_	Lang=la|prpos=Xe
+37	in	in	ADP	FW	_	36	flat	_	Lang=la|prpos=Xe
+38	bonae	bonus	ADJ	FW	_	39	amod	_	Lang=la|prpos=Xe
+39	fidei	fides	NOUN	FW	_	37	dislocated	_	Lang=la|prpos=Xe
 40	d.	dernier	ADJ	ADJ	_	41	amod	_	prpos=Ag
 41	tit.	titre	NOUN	NCS	Number=Sing	36	nmod	_	prpos=Nc|SpaceAfter=No
 42	.	.	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
@@ -45522,11 +45522,11 @@
 30	il	il	PRON	PRO	PronType=Prs	32	expl	_	prpos=Pp
 31	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	32	aux:pass	_	prpos=Vuc
 32	noté	noter	VERB	VPP	Tense=Past|VerbForm=Part	13	advcl	_	prpos=Ge
-33	in	in	ADP	FW	_	34	case	_	Lang=lat|prpos=Xe
-34	c.	caput	NOUN	FW	_	32	obl	_	Lang=lat|prpos=Xe
-35	debitores.	debitor	NOUN	FW	_	34	flat	_	Lang=lat|prpos=Xe
-36	de	de	ADP	FW	_	37	case	_	Lang=lat|prpos=Xe
-37	iureiur	iureiuro	ADJ	FW	_	34	obl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+33	in	in	ADP	FW	_	34	case	_	Lang=la|prpos=Xe
+34	c.	caput	NOUN	FW	_	32	obl	_	Lang=la|prpos=Xe
+35	debitores.	debitor	NOUN	FW	_	34	flat	_	Lang=la|prpos=Xe
+36	de	de	ADP	FW	_	37	case	_	Lang=la|prpos=Xe
+37	iureiur	iureiuro	ADJ	FW	_	34	nmod	_	Lang=la|prpos=Xe|SpaceAfter=No
 38	.	.	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_36_1_6_3
@@ -45564,14 +45564,14 @@
 11	validez	valider	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
 12	par	par	ADP	P	_	13	case	_	prpos=S
 13	serment	serment	NOUN	NCS	Number=Sing	11	obl	_	prpos=Nc
-14	contra	contra	ADP	FW	_	15	case	_	Lang=lat|prpos=Xe
-15	auth.	authenticum	NOUN	FW	_	13	nmod	_	Lang=lat|prpos=Xe
-16	sacramenta	sacramentum	NOUN	FW	_	15	flat	_	Lang=lat|prpos=Xe
-17	puberum.	pubes	NOUN	FW	_	16	nmod	_	Lang=lat|prpos=Xe
-18	C.	codex	NOUN	FW	_	15	nmod	_	Lang=lat|prpos=Xe
-19	si	si	SCONJ	FW	_	21	mark	_	Lang=lat|prpos=Xe
-20	aduer.	adversus	ADP	FW	_	21	case	_	Lang=lat|prpos=Xe
-21	vendi	venditio	NOUN	FW	_	18	flat	_	Lang=lat|prpos=Xe|SpaceAfter=No
+14	contra	contra	ADP	FW	_	15	case	_	Lang=la|prpos=Xe
+15	auth.	authenticum	NOUN	FW	_	13	nmod	_	Lang=la|prpos=Xe
+16	sacramenta	sacramentum	NOUN	FW	_	15	flat	_	Lang=la|prpos=Xe
+17	puberum.	pubes	NOUN	FW	_	16	nmod	_	Lang=la|prpos=Xe
+18	C.	codex	NOUN	FW	_	15	nmod	_	Lang=la|prpos=Xe
+19	si	si	SCONJ	FW	_	21	mark	_	Lang=la|prpos=Xe
+20	aduer.	adversus	ADP	FW	_	21	case	_	Lang=la|prpos=Xe
+21	vendi	venditio	NOUN	FW	_	18	flat	_	Lang=la|prpos=Xe|SpaceAfter=No
 22	.	.	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_36_1_6_5
@@ -45673,15 +45673,15 @@
 24	monsieur	monsieur	NOUN	NCS	Number=Sing	17	appos	_	prpos=Nc
 25	du	du	PROPN	NPRS	_	24	flat	_	prpos=Np
 26	Moulin	Moulin	PROPN	NPRS	Number=Sing	25	flat	_	prpos=Np
-27	in	in	ADP	FW	_	28	case	_	Lang=lat|prpos=Xe
-28	2.	duo	NUM	FW	_	7	nmod	_	Lang=lat|prpos=Xe
-29	part	pars	NOUN	FW	_	28	nmod	_	Lang=lat|prpos=Xe
-30	tracta.	tractatus	NOUN	FW	_	29	flat	_	Lang=lat|prpos=Xe
-31	[et]	et	CCONJ	FW	_	32	cc	_	Lang=lat|prpos=Xe
-32	indiuidui	individuus	ADJ	FW	_	30	conj	_	Lang=lat|prpos=Xe|SpaceAfter=No
+27	in	in	ADP	FW	_	28	case	_	Lang=la|prpos=Xe
+28	2.	duo	NUM	FW	_	7	nmod	_	Lang=la|prpos=Xe
+29	part	pars	NOUN	FW	_	28	nmod	_	Lang=la|prpos=Xe
+30	tracta.	tractatus	NOUN	FW	_	29	flat	_	Lang=la|prpos=Xe
+31	[et]	et	CCONJ	FW	_	32	cc	_	Lang=la|prpos=Xe
+32	indiuidui	individuus	ADJ	FW	_	30	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
 33	,	,	PUNCT	FW	_	29	punct	_	join=left|prpos=Fw
-34	nu.	numerus	NOUN	FW	_	29	appos	_	Lang=lat|prpos=Xe
-35	578	cinq-cent-soixante-dix-huit	NUM	FW	_	34	nummod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+34	nu.	numerus	NOUN	FW	_	29	appos	_	Lang=la|prpos=Xe
+35	578	cinq-cent-soixante-dix-huit	NUM	FW	_	34	nummod	_	Lang=la|prpos=Xe|SpaceAfter=No
 36	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_37_1_2_1
@@ -45983,11 +45983,11 @@
 25	le	le	DET	D	Definite=Def|PronType=Art	26	det	_	prpos=Da
 26	greffe	greffe	NOUN	NCS	Number=Sing	21	obl	_	prpos=Nc|SpaceAfter=No
 27	,	,	PUNCT	PON	_	21	punct	_	join=left|prpos=Fw
-28	tandem	tandem	ADV	FW	_	29	advmod	_	Lang=lat|prpos=Xe
-29	censentur	censeo	VERB	FW	_	21	obl	_	Lang=lat|prpos=Xe
-30	conclusisse	confero	VERB	FW	_	29	xcomp	_	Lang=lat|prpos=Xe
-31	in	in	ADP	FW	_	32	case	_	Lang=lat|prpos=Xe
-32	causa	causa	NOUN	FW	_	30	obl	_	Lang=lat|prpos=Xe|SpaceAfter=No
+28	tandem	tandem	ADV	FW	_	29	advmod	_	Lang=la|prpos=Xe
+29	censentur	censeo	VERB	FW	_	21	obl	_	Lang=la|prpos=Xe
+30	conclusisse	confero	VERB	FW	_	29	xcomp	_	Lang=la|prpos=Xe
+31	in	in	ADP	FW	_	32	case	_	Lang=la|prpos=Xe
+32	causa	causa	NOUN	FW	_	30	obl	_	Lang=la|prpos=Xe|SpaceAfter=No
 33	,	,	PUNCT	PON	_	35	punct	_	join=left|prpos=Fw
 34	[et]	et	CCONJ	CONJO	_	35	cc	_	prpos=Cc
 35	attendre	attendre	VERB	VX	VerbForm=Inf	8	conj	_	prpos=Vvn
@@ -46321,7 +46321,7 @@
 12	chose	chose	NOUN	NCS	Number=Sing	10	obj	_	prpos=Nc
 13	concernant	concernant	ADP	P	_	15	case	_	prpos=S
 14	le	le	DET	D	Definite=Def|PronType=Art	15	det	_	prpos=Da
-15	procez	procès	NOUN	NCS	Number=Sing	10	obj	_	prpos=Nc
+15	procez	procès	NOUN	NCS	Number=Sing	10	obl	_	prpos=Nc
 16	auant	avant	ADV	ADV	ExtPos=SCONJ	18	mark	_	prpos=Rg
 17	que	que	SCONJ	CONJS	_	16	fixed	_	prpos=Cs
 18	proceder	procéder	VERB	VX	VerbForm=Inf	10	advcl	_	prpos=Vvn
@@ -46487,14 +46487,14 @@
 22	il	il	PRON	PRO	PronType=Prs	24	expl	_	prpos=Pp
 23	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	24	aux:pass	_	prpos=Vuc
 24	dit	dire	VERB	VPP	Tense=Past|VerbForm=Part	19	advcl	_	prpos=Ge
-25	in	in	ADP	FW	_	26	case	_	Lang=lat|prpos=Xe
-26	l.	lex	NOUN	FW	_	24	obl	_	Lang=lat|prpos=Xe
-27	properandum.	propero	VERB	FW	_	26	flat	_	Lang=lat|prpos=Xe
-28	§.	paragraphe	NOUN	FW	_	27	obl	_	Lang=lat|prpos=Xe
-29	censemus	censeo	VERB	FW	_	28	flat	_	Lang=lat|prpos=Xe
-30	C.	codex	NOUN	FW	_	32	orphan	_	Lang=lat|prpos=Xe
-31	de	de	ADP	FW	_	32	case	_	Lang=lat|prpos=Xe
-32	iudic	iudicium	NOUN	FW	_	26	nmod	_	Lang=lat|prpos=Xe|SpaceAfter=No
+25	in	in	ADP	FW	_	26	case	_	Lang=la|prpos=Xe
+26	l.	lex	NOUN	FW	_	24	obl	_	Lang=la|prpos=Xe
+27	properandum.	propero	VERB	FW	_	26	flat	_	Lang=la|prpos=Xe
+28	§.	paragraphe	NOUN	FW	_	27	obl	_	Lang=la|prpos=Xe
+29	censemus	censeo	VERB	FW	_	28	flat	_	Lang=la|prpos=Xe
+30	C.	codex	NOUN	FW	_	32	orphan	_	Lang=la|prpos=Xe
+31	de	de	ADP	FW	_	32	case	_	Lang=la|prpos=Xe
+32	iudic	iudicium	NOUN	FW	_	26	nmod	_	Lang=la|prpos=Xe|SpaceAfter=No
 33	.	.	PUNCT	PON	_	19	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_39_2_2_4
