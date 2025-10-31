@@ -29,10 +29,6 @@ Sentences written completely in Latin were excluded. If Latin words occur in Fre
 
 **Annotation**
 
-The texts were first annotated in PoS, lemmatised and automatically parsed as part of the Franco-German [MICLE project](https://www.unicaen.fr/projet_de_recherche/micle/) (2021-2024) led by Professor Pierre Larrivée (University of Caen) and Professor Cecilia Poletto (University of Frankfurt). Earlier versions of the texts, annotated with [HT-CRISCO workflow](https://github.com/Corpus-Diachroniques-CRISCO/HT-CRISCO) incorporating the use of [HOPS parser](https://github.com/hopsparser/hopsparser), can be consulted on [CRISCO Lab's TXM server](https://txm-crisco.huma-num.fr/txm/) and via the [website](https://criscoht.unicaen.fr/).
-
-As part of [AUTOMATED project](https://www.unicaen.fr/projet_de_recherche/automated/) the texts were reannotated with [BertForDeprel](https://github.com/kirianguiller/BertForDeprel) parser and manually corrected using bootstrapping methodology ([Peng et al 2022](https://hal.science/hal-03846834v1)) on [ArboratorGrew](https://arborator.grew.fr/#/) software.
-
 Verbs and auxiliaries are annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). In 1568_Terrien, congujated verbs and auxiliaries are annotated in Person and Number.
 
 Pronouns are annotated in type (PronType: Dem for demonstrative, Ind for indefinite, Int for interrogative, Prs for personal and Rel for relative). Reflexive and possessive pronouns are also tagged (Reflexive=Yes and Poss=Yes).
@@ -50,16 +46,17 @@ The treebank is lemmatised using modern French lemmata and, wherever approriate,
 | Test              |   670    |   20,701  |
 | **Total**         | **2,026**| **70,114**|
 
+Earlier versions of the texts, annotated with [HT-CRISCO workflow](https://github.com/Corpus-Diachroniques-CRISCO/HT-CRISCO) incorporating the use of [HOPS parser](https://github.com/hopsparser/hopsparser), can be consulted on [CRISCO Lab's TXM server](https://txm-crisco.huma-num.fr/txm/) and via the [website](https://criscoht.unicaen.fr/).
 
 Please note that French-ALTS treebank is still under development and will be undergoing campains of correction. Annotation will be revised and expanded. Please do not hesitate to contact us is you have any questions, suggestions or comments.
 
 # Acknowledgments
 
-This work was made possible thanks to the generous support of the ANR-DFG Franco-German scheme ([MICLE project](https://www.unicaen.fr/projet_de_recherche/micle/) (2021-2024)) and of the Normandy region [AUTOMATED project](https://www.unicaen.fr/projet_de_recherche/automated/) (2023-2025).
+This work was made possible thanks to the generous support of the ANR-DFG Franco-German scheme ([MICLE project](https://www.unicaen.fr/projet_de_recherche/micle/) (2021-2024)) and of the Normandy region [AUTOMATED project](https://www.unicaen.fr/projet_de_recherche/automated/) (2023-2025). The projects were led by Professor Pierre Larrivée at the University of Caen.
 
 **1563-1569_Guern**
 
-We would like to thank the staff at the Guernsey Greffe archives and the Guernsey Museum & Art Gallery for giving us acces to the original manuscript and digital images in 2021 and 2023 which. We are also grateful to former island archivist Daryl Ogier for his assistance and advice when working with the original source. We are grateful to the team of student transcribers (Agathe Aubert, Lucie Marie-Leblanc, Marie Picart and Valentin Simenel) who helped with the transcription in 2022. We thank Patrice Lajoye and Stéphane Laîné for their assistance with lemmatisation and dialectal features of the text and to Mattis Le Squer who helped elucidate the historical context of the document. The annotation of 1563-1569_Guern has not been revised since UD 2.16 release. Annotation was performed by Natasha Romanova and Rayan Ziane, technical assistance by Khensa Daoudi.
+We thank the staff at the Guernsey Greffe archives and the Guernsey Museum & Art Gallery for giving us acces to the original manuscript and digital images in 2021 and 2023 which. We are also grateful to former island archivist Daryl Ogier for his assistance and advice when working with the original source. We are grateful to the team of student transcribers (Agathe Aubert, Lucie Marie-Leblanc, Marie Picart and Valentin Simenel) who helped with the transcription in 2022. We thank Patrice Lajoye and Stéphane Laîné for their assistance with lemmatisation and dialectal features of the text and to Mattis Le Squer who helped elucidate the historical context of the document. The annotation of 1563-1569_Guern has not been revised since UD 2.16 release. Annotation was performed by Natasha Romanova and Rayan Ziane, technical assistance by Khensa Daoudi.
 
 **1578_Terrien**
 The digitisation of Guillaume Terrien's _Commentaires du droict civil tant public que privé observé au pays et duché de Normandie_ was originally performed by Morgane Pica and Mathieu Goux as part of the [ConDE](https://mrsh.unicaen.fr/coutumiers/conde/accueil.html) project funded by Normandy region. PoS annotation and lemmatisation was performed by Natasha Romanova. Annotation in syntactic functions was done by Théo Brillet and Natasha Romanova. Théo Brillet annotated all the sentences with Latin tokens. Khensa Daoudi and Rayan Ziane provided technical assistance.
@@ -90,7 +87,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Romanova, Natalia; Ziane, Rayan; Daoudi, Khensa
+Contributors: Romanova, Natalia; Ziane, Rayan; Daoudi, Khensa; Brillet, Théo
 Contributing: here
 Contact: natalia.romanova@unicaen.fr
 ===============================================================================
