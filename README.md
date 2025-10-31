@@ -15,7 +15,7 @@ This text contains accounts of fifteen court cases on the island on Guernsey fro
 **1578_Terrien**
 
 This text contains passages authored by Guillaume Terrien himself (and not quotations from earlier legal texts) from Book 9 "Style de procédure"
-from the sixteenth-century printed book Guillaume Terrien (1568). _Commentaires du droict civil tant public que privé observé au pays et duché de Normandie_, 2nd edition, Paris: Jacques du Puy, pp. 339-402. The spelling and word segmentation of the original, including abbreviated words (e.g. "glo." for "glose") have been retained. Only abbreviations for "m" and "n" (eg. "o with a tilda" for "om" or "on" and "&" for "et" have been expanded. In the treebank, sentences from this text have the prefix 1578_Terrien.
+from the sixteenth-century printed book Guillaume Terrien (1568). _Commentaires du droict civil tant public que privé observé au pays et duché de Normandie_, 2nd edition, Paris: Jacques du Puy, pp. 339-402. The spelling and word segmentation of the original, including abbreviated words (e.g. "glo." for "glose"), have been retained. Only abbreviations for "m" and "n" (eg. "o with a tilda" for "om" or "on" and "&" for "et" have been expanded. In the treebank, sentences from this text have the prefix 1578_Terrien.
 
 Sentences written completely in Latin were excluded. If Latin words occur in French sentences, the token contains the tag Lang=la and is lemmatised with a Latin lemma.
 
