@@ -2,11 +2,10 @@
 
 ALTS (AUTOMATED Sixteenth-century corpus) is a treebank of sixteenth-century legal French from Normandy and the Channel Islands.
 
-Currently it contains two texts: 1) trial accounts from Guernsey Greffe (register _Crime I_), transcribed directly from the manuscript (**1563-1569_Guern**) and 2) an extract from Book 9 of Guillaume Terrien's _Commentaires du droict civil tant public que privé observé au pays et duché de Normandie_ digitised from the original printed book (**1578_Terrien**). The text of 1563-1569_Guern presents many dialectal Norman features and forms. The text of 1578_Terrien has some Latin words and expressions.
-
 
 # Introduction
 
+Currently it contains two texts: 1) trial accounts from Guernsey Greffe (register _Crime I_), transcribed directly from the manuscript (**1563-1569_Guern**) and 2) an extract from Book 9 of Guillaume Terrien's _Commentaires du droict civil tant public que privé observé au pays et duché de Normandie_ digitised from the original printed book (**1578_Terrien**). The text of 1563-1569_Guern presents many dialectal Norman features and forms. The text of 1578_Terrien has some Latin words and expressions.
 
 **1563-1569_Guern**
 
