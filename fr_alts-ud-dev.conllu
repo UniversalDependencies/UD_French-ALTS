@@ -4914,7 +4914,7 @@
 43	il	il	PRON	PRO	PronType=Prs	44	expl	_	prpos=Pp
 44	faudroit	falloir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
 45	montrer	montrer	VERB	VX	VerbForm=Inf	44	xcomp	_	prpos=Vvn
-46	[et]	et	CCONJ	CONJO	_	47	cc	_	prpos=Cc
+46	et	et	CCONJ	CONJO	_	47	cc	_	prpos=Cc|wordform=[et]
 47	voir	voir	VERB	VX	VerbForm=Inf	45	conj	_	prpos=Vvn
 48	l'	le	DET	D	Definite=Def|PronType=Art	49	det	_	prpos=Da
 49	héritage	héritage	NOUN	NCS	Number=Sing	45	obj	_	join=left|prpos=Nc|SpaceAfter=No
@@ -4932,7 +4932,7 @@
 7	par	par	ADP	P	_	9	case	_	prpos=S
 8	l'	le	DET	D	Definite=Def|PronType=Art	9	det	_	prpos=Da
 9	ordonn.	ordonnance	NOUN	NCS	Number=Sing	6	obl	_	join=left|prpos=Nc
-10	prochaineme[n]t	prochainement	ADV	ADV	_	11	advmod	_	prpos=Rg
+10	prochainement	prochainement	ADV	ADV	_	11	advmod	_	prpos=Rg|wordform=prochaineme[n]t
 11	precedente	précéder	ADJ	ADJ	_	9	amod	_	prpos=Ag|SpaceAfter=No
 12	:	:	PUNCT	PON	_	6	punct	_	join=left|prpos=Fw
 13	pour	pour	ADP	P	ExtPos=SCONJ	21	mark	_	prpos=S
@@ -4972,7 +4972,7 @@
 # sent_id = 1578_Terrien_1_22_1_2_4
 # source = Terrien
 # text = [et] est tel delay ordonné non seulement pour le defendeur, mais pour l' instruction du Iuge.
-1	[et]	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc
+1	et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc|wordform=[et]
 2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	5	aux:pass	_	prpos=Vuc
 3	tel	tel	ADJ	ADJ	_	4	amod	_	prpos=Ag
 4	delay	délai	NOUN	NCS	Number=Sing	5	nsubj	_	prpos=Nc
@@ -5034,7 +5034,7 @@
 14	en	en	PRON	PRO	PronType=Prs	15	obl	_	prpos=Pp
 15	faire	faire	VERB	VX	VerbForm=Inf	5	conj	_	prpos=Vvn
 16	veuë	vue	NOUN	NCS	Number=Sing	15	obj	_	prpos=Nc
-17	[et]	et	CCONJ	CONJO	_	18	cc	_	prpos=Cc
+17	et	et	CCONJ	CONJO	_	18	cc	_	prpos=Cc|wordform=[et]
 18	ostension	ostension	NOUN	NCS	Number=Sing	16	conj	_	prpos=Nc|SpaceAfter=No
 19	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
 
@@ -5208,7 +5208,7 @@
 19	sauf	sauf	ADP	P	_	21	case	_	prpos=S
 20	son	son	DET	DZ	Poss=Yes	21	det	_	prpos=Ds
 21	faict	fait	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc
-22	[et]	et	CCONJ	CONJO	_	23	cc	_	prpos=Cc
+22	et	et	CCONJ	CONJO	_	23	cc	_	prpos=Cc|wordform=[et]
 23	obligation	obligation	NOUN	NCS	Number=Sing	21	conj	_	prpos=Nc
 24	tant	tant	ADV	Q	_	25	advmod	_	prpos=Rg
 25	seulement	seulement	ADV	ADV	_	21	advmod	_	prpos=Rg|SpaceAfter=No
@@ -5231,7 +5231,7 @@
 11	son	son	DET	DZ	Poss=Yes	12	det	_	prpos=Ds
 12	heritier	héritier	NOUN	NCS	Number=Sing	9	nmod	_	prpos=Nc|SpaceAfter=No
 13	,	,	PUNCT	PON	_	17	punct	_	join=left|prpos=Fw
-14	[et]	et	CCONJ	CONJO	_	17	cc	_	prpos=Cc
+14	et	et	CCONJ	CONJO	_	17	cc	_	prpos=Cc|wordform=[et]
 15	de	de	ADP	P	_	17	case	_	prpos=S
 16	son	son	DET	DZ	Poss=Yes	17	det	_	prpos=Ds
 17	predecesseur	prédécesseur	NOUN	NCS	Number=Sing	9	conj	_	prpos=Nc
@@ -5290,7 +5290,7 @@
 7	tit.	titre	NOUN	NCS	Number=Sing	4	obl	_	prpos=Nc
 8	De	de	ADP	P	_	9	case	_	prpos=S
 9	detteurs	detteur	NOUN	NCPL	Number=Plur	7	flat	_	prpos=Nc
-10	[et]	et	CCONJ	CONJO	_	12	cc	_	prpos=Cc
+10	et	et	CCONJ	CONJO	_	12	cc	_	prpos=Cc|wordform=[et]
 11	de	de	ADP	P	_	12	case	_	prpos=S
 12	dettes	dette	NOUN	NCPL	Number=Plur	9	conj	_	prpos=Nc
 13	.§	paragraphe	NOUN	NCS	Number=Sing	7	nmod	_	prpos=Nc
@@ -5354,7 +5354,7 @@
 41	appeler	appeler	VERB	VX	VerbForm=Inf	40	xcomp	_	prpos=Vvn
 42	garant	garant	NOUN	NCS	_	41	xcomp	_	prpos=Nc|SpaceAfter=No
 43	,	,	PUNCT	PON	_	42	punct	_	join=left|prpos=Fw
-44	combie[n]	combien	ADV	ADV	ExtPos=SCONJ	50	mark	_	prpos=Rg
+44	combien	combien	ADV	ADV	ExtPos=SCONJ	50	mark	_	prpos=Rg|wordform=combie[n]
 45	qu'	que	SCONJ	CONJS	_	44	fixed	_	prpos=Cs
 46	il	il	PRON	PRO	PronType=Prs	50	nsubj	_	join=left|prpos=Pp
 47	n'	ne	ADV	NEG	_	50	advmod	_	prpos=Rp
@@ -5395,7 +5395,7 @@
 23	bonne	bon	ADJ	ADJ	_	24	amod	_	prpos=Ag
 24	cause	cause	NOUN	NCS	Number=Sing	22	obj	_	prpos=Nc|SpaceAfter=No
 25	:	:	PUNCT	PON	_	22	punct	_	join=left|prpos=Fw
-26	[et]	et	CCONJ	CONJO	_	29	cc	_	prpos=Cc
+26	et	et	CCONJ	CONJO	_	29	cc	_	prpos=Cc|wordform=[et]
 27	si	si	SCONJ	ADV	_	29	mark	_	prpos=Rg
 28	ne	ne	ADV	NEG	_	29	advmod	_	prpos=Rp
 29	peut	pouvoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	22	conj	_	prpos=Vvc
@@ -5469,7 +5469,7 @@
 8	hors	hors	ADV	ADV	ExtPos=ADP	10	case	_	prpos=Rg
 9	de	de	ADP	P	_	8	fixed	_	prpos=S
 10	Court	cour	NOUN	NCS	Number=Sing	7	obl	_	prpos=Nc
-11	[et]	et	CCONJ	CONJO	_	13	cc	_	prpos=Cc
+11	et	et	CCONJ	CONJO	_	13	cc	_	prpos=Cc|wordform=[et]
 12	de	de	ADP	P	_	13	case	_	prpos=S
 13	procez	procès	NOUN	NCS	Number=Sing	10	conj	_	prpos=Nc|SpaceAfter=No
 14	,	,	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
@@ -5494,7 +5494,7 @@
 5	ou	ou	CCONJ	CONJO	_	6	cc	_	prpos=Cc
 6	parçonniers	parçonnier	NOUN	NCPL	Number=Plur	3	conj	_	prpos=Nc|SpaceAfter=No
 7	,	,	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
-8	[et]	et	CCONJ	CONJO	_	9	cc	_	prpos=Cc
+8	et	et	CCONJ	CONJO	_	9	cc	_	prpos=Cc|wordform=[et]
 9	doit-	devoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	3	conj	_	prpos=Vvc
 10	on	on	PRON	PRO	PronType=Prs	9	nsubj	_	join=left|prpos=Pp
 11	dire	dire	VERB	VX	VerbForm=Inf	9	xcomp	_	prpos=Vvn
@@ -5540,7 +5540,7 @@
 29	ils	il	PRON	PRO	PronType=Prs	31	nsubj	_	join=left|prpos=Pp
 30	sont	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	31	cop	_	prpos=Vuc
 31	tenans	tenant	ADJ	NCPL	Number=Plur	20	conj	_	prpos=Nc
-32	[et]	et	CCONJ	CONJO	_	33	cc	_	prpos=Cc
+32	et	et	CCONJ	CONJO	_	33	cc	_	prpos=Cc|wordform=[et]
 33	acquisiteurs	acquisiteur	NOUN	NCPL	Number=Plur	31	conj	_	prpos=Nc
 34	puisnez	puîné	ADJ	ADJ	_	33	amod	_	prpos=Ag
 35-36	des	_	_	_	_	_	_	_	_
@@ -5556,7 +5556,7 @@
 44	ladite	ledit	DET	D	Definite=Def|PronType=Art	45	det	_	prpos=Da
 45	garantie	garantie	NOUN	NCS	Number=Sing	42	obl	_	prpos=Nc|SpaceAfter=No
 46	,	,	PUNCT	PON	_	31	punct	_	join=left|prpos=Fw
-47	[et]	et	CCONJ	CONJO	_	54	cc	_	prpos=Cc
+47	et	et	CCONJ	CONJO	_	54	cc	_	prpos=Cc|wordform=[et]
 48	consequemment	conséquemment	ADV	ADV	_	54	advmod	_	prpos=Rg
 49	lesdits	ledit	DET	D	Definite=Def|PronType=Art	50	det	_	prpos=Da
 50	héritages	héritage	NOUN	NCPL	Number=Plur	54	nsubj	_	prpos=Nc
@@ -5564,7 +5564,7 @@
 52	puisnément	puisnément	ADV	ADV	_	53	advmod	_	prpos=Rg
 53	acquis	acquérir	VERB	VPP	Tense=Past|VerbForm=Part	50	acl	_	prpos=Ge
 54	hypothequez	hypothéquer	VERB	VPP	Tense=Past|VerbForm=Part	31	conj	_	prpos=Ge
-55	[et]	et	CCONJ	CONJO	_	56	cc	_	prpos=Cc
+55	et	et	CCONJ	CONJO	_	56	cc	_	prpos=Cc|wordform=[et]
 56	affectez	affecter	VERB	VPP	Tense=Past|VerbForm=Part	54	conj	_	prpos=Ge
 57	à	à	ADP	P	_	58	case	_	prpos=S
 58	icelle	icelui	PRON	PRO	PronType=Dem	56	obl	_	prpos=Pd|SpaceAfter=No
@@ -5609,7 +5609,7 @@
 8	celles	celui	PRON	PRO	PronType=Dem	6	obl	_	prpos=Pd
 9	qui	qui	PRON	WPRO	PronType=Rel	10	nsubj	_	prpos=Pr
 10	ottroyees	octroyer	VERB	VPP	Tense=Past|VerbForm=Part	8	acl:relcl	_	prpos=Ge
-11	aua[n]t	avant	ADP	P	_	13	case	_	prpos=S
+11	auant	avant	ADP	P	_	13	case	_	prpos=S|wordform=aua[n]t
 12	la	le	DET	D	Definite=Def|PronType=Art	13	det	_	prpos=Da
 13	contestation	contestation	NOUN	NCS	Number=Sing	10	obl	_	prpos=Nc|SpaceAfter=No
 14	,	,	PUNCT	PON	_	19	punct	_	join=left|prpos=Fw
@@ -5632,7 +5632,7 @@
 30	le	le	DET	D	Definite=Def|PronType=Art	31	det	_	prpos=Da
 31	procez	procès	NOUN	NCS	Number=Sing	28	obl	_	prpos=Nc|SpaceAfter=No
 32	,	,	PUNCT	PON	_	35	punct	_	join=left|prpos=Fw
-33	[et]	et	CCONJ	CONJO	_	35	cc	_	prpos=Cc
+33	et	et	CCONJ	CONJO	_	35	cc	_	prpos=Cc|wordform=[et]
 34	sans	sans	ADP	P	_	35	case	_	prpos=S
 35	retardement	retardement	NOUN	NCS	Number=Sing	28	conj	_	prpos=Nc
 36	d'	de	ADP	P	_	37	case	_	prpos=S
@@ -5658,7 +5658,7 @@
 14	plus	plus	ADV	ADVNEG	_	15	advmod	_	prpos=Rg
 15	prochain	prochain	ADJ	ADJ	_	7	acl:relcl	_	prpos=Ag|SpaceAfter=No
 16	:	:	PUNCT	PON	_	22	punct	_	join=left|prpos=Fw
-17	[et]	et	CCONJ	CONJO	_	22	cc	_	prpos=Cc
+17	et	et	CCONJ	CONJO	_	22	cc	_	prpos=Cc|wordform=[et]
 18	non	non	ADV	ADV	_	22	advmod	_	prpos=Rg
 19	pas	pas	ADV	ADVNEG	_	22	advmod	_	prpos=Rg
 20	à	à	ADP	P	_	22	case	_	prpos=S
@@ -5757,8 +5757,8 @@
 8	lesdits	ledit	DET	D	Definite=Def|PronType=Art	9	det	_	prpos=Da
 9	despens	dépens	NOUN	NCPL	Number=Plur	6	obl	_	prpos=Nc|SpaceAfter=No
 10	,	,	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
-11	do[m]mages	dommage	NOUN	NCPL	Number=Plur	9	conj	_	prpos=Nc
-12	[et]	et	CCONJ	CONJO	_	13	cc	_	prpos=Cc
+11	dommages	dommage	NOUN	NCPL	Number=Plur	9	conj	_	prpos=Nc|wordform=do[m]mages
+12	et	et	CCONJ	CONJO	_	13	cc	_	prpos=Cc|wordform=[et]
 13	interests	intérêt	NOUN	NCPL	Number=Plur	9	conj	_	prpos=Nc|SpaceAfter=No
 14	.	.	PUNCT	PON	_	6	punct	_	join=left|prpos=Fw
 
@@ -5777,7 +5777,7 @@
 10	s'	se	PRON	PRO	PronType=Prs	12	expl	_	prpos=Pp
 11	en	en	PRON	PRO	PronType=Prs	12	obl	_	join=left|prpos=Pp
 12	fera	faire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
-13	co[n]tre	contre	ADP	P	_	15	case	_	prpos=S
+13	contre	contre	ADP	P	_	15	case	_	prpos=S|wordform=co[n]tre
 14	le	le	DET	D	Definite=Def|PronType=Art	15	det	_	prpos=Da
 15	garanty	garanti	NOUN	NCS	Number=Sing	12	obl	_	prpos=Nc|SpaceAfter=No
 16	,	,	PUNCT	PON	_	12	punct	_	join=left|prpos=Fw
@@ -5823,7 +5823,7 @@
 30	sa	son	DET	DZ	Poss=Yes	31	det	_	prpos=Ds
 31	partie	partie	NOUN	NCS	Number=Sing	28	obl	_	prpos=Nc|SpaceAfter=No
 32	,	,	PUNCT	PON	_	39	punct	_	join=left|prpos=Fw
-33	[et]	et	CCONJ	CONJO	_	39	cc	_	prpos=Cc
+33	et	et	CCONJ	CONJO	_	39	cc	_	prpos=Cc|wordform=[et]
 34	que	que	SCONJ	CONJS	_	39	mark	_	prpos=Cs
 35	la	le	DET	D	Definite=Def|PronType=Art	36	det	_	prpos=Da
 36	sentence	sentence	NOUN	NCS	Number=Sing	39	nsubj	_	prpos=Nc
@@ -5838,7 +5838,7 @@
 45	principal	principal	NOUN	NCS	Number=Sing	39	obl	_	prpos=Nc
 46	que	que	SCONJ	CONJS	_	47	case	_	prpos=Cs
 47	despens	dépens	NOUN	NCPL	Number=Plur	43	obl	_	prpos=Nc
-48	[et]	et	CCONJ	CONJO	_	49	cc	_	prpos=Cc
+48	et	et	CCONJ	CONJO	_	49	cc	_	prpos=Cc|wordform=[et]
 49	interests	intérêt	NOUN	NCPL	Number=Plur	47	conj	_	prpos=Nc|SpaceAfter=No
 50	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
 
@@ -5853,10 +5853,10 @@
 6	à	à	ADP	P	_	7	case	_	prpos=S
 7	garantie	garantie	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc
 8	trenchee	trancher	ADJ	VPP	Tense=Past|VerbForm=Part	7	amod	_	prpos=Ge
-9	[et]	et	CCONJ	CONJO	_	10	cc	_	prpos=Cc
+9	et	et	CCONJ	CONJO	_	10	cc	_	prpos=Cc|wordform=[et]
 10	absolute	absolu	ADJ	ADJ	_	8	conj	_	prpos=Ag|SpaceAfter=No
 11	,	,	PUNCT	PON	_	18	punct	_	join=left|prpos=Fw
-12	[et]	et	CCONJ	CONJO	_	18	cc	_	prpos=Cc
+12	et	et	CCONJ	CONJO	_	18	cc	_	prpos=Cc|wordform=[et]
 13	celuy	celui	PRON	PRO	PronType=Dem	18	nsubj	_	prpos=Pd
 14	qui	qui	PRON	WPRO	PronType=Rel	16	nsubj	_	prpos=Pr
 15	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	16	aux:pass	_	prpos=Vuc
@@ -5932,14 +5932,14 @@
 7	Noyer	Noyer	PROPN	NPRS	Number=Sing	6	flat	_	prpos=Np
 8	avoir	avoir	AUX	AX	VerbForm=Inf	9	aux	_	prpos=Vun
 9	opposé	opposer	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
-10	co[n]tre	contre	ADP	P	_	12	case	_	prpos=S
+10	contre	contre	ADP	P	_	12	case	_	prpos=S|wordform=co[n]tre
 11	une	un	DET	D	Definite=Ind|PronType=Art	12	det	_	prpos=Dn
 12	execution	exécution	NOUN	NCS	Number=Sing	9	obl	_	prpos=Nc
 13	conduite	conduire	VERB	VPP	Tense=Past|VerbForm=Part	12	acl	_	prpos=Ge
 14	par	par	ADP	P	_	15	case	_	prpos=S
 15	Poutrel	Poutrel	PROPN	NPRS	Number=Sing	13	obl	_	prpos=Np|SpaceAfter=No
 16	,	,	PUNCT	PON	_	19	punct	_	join=left|prpos=Fw
-17	[et]	et	CCONJ	CONJO	_	19	cc	_	prpos=Cc
+17	et	et	CCONJ	CONJO	_	19	cc	_	prpos=Cc|wordform=[et]
 18	auoit	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	19	aux	_	prpos=Vuc
 19	appelé	appeler	VERB	VPP	Tense=Past|VerbForm=Part	9	conj	_	prpos=Ge
 20	à	à	ADP	P	_	21	case	_	prpos=S
@@ -5958,7 +5958,7 @@
 33-34	au	_	_	_	_	_	_	_	_
 33	à	à	ADP	P	_	35	case	_	prpos=S
 34	le	le	DET	D	Definite=Def|PronType=Art	35	det	_	prpos=Da
-35	moye[n]	moyen	NOUN	NCPL	Number=Plur	43	obl	_	prpos=Nc
+35	moyen	moyen	NOUN	NCPL	Number=Plur	43	obl	_	prpos=Nc|wordform=moye[n]
 36	de	de	ADP	P	_	37	case	_	prpos=S
 37	quoy	quoi	PRON	WPRO	PronType=Rel	35	nmod	_	prpos=Pr
 38	ledit	ledit	DET	D	Definite=Def|PronType=Art	39	det	_	prpos=Da
@@ -5983,7 +5983,7 @@
 56	ledit	ledit	DET	D	Definite=Def|PronType=Art	57	det	_	prpos=Da
 57	du	du	PROPN	NPRS	Number=Sing	54	obl	_	prpos=Np
 58	Noyer	Noyer	PROPN	NPRS	Number=Sing	57	flat	_	prpos=Np
-59	co[m]me	comme	ADP	CONJS	_	60	mark	_	prpos=Cs
+59	comme	comme	ADP	CONJS	_	60	mark	_	prpos=Cs|wordform=co[m]me
 60	premier	premier	ADJ	ADJNUM	NumType=Ord	54	xcomp	_	prpos=Mo
 61	en	en	ADP	P	_	62	case	_	prpos=S
 62	cause	cause	NOUN	NCS	Number=Sing	60	obl	_	prpos=Nc|SpaceAfter=No
@@ -5991,12 +5991,12 @@
 
 # sent_id = 1578_Terrien_1_23_24_1_6
 # source = Terrien
-# text = Depuis iceluy du Noyer voya[n]t ou pensant que ledit Eschange ne se defendoit assez bien sur ladite opposition, mais se laissoit mettre en defauts: craignant par ce qu' il ne succombast, auoit obtenu lettres Royaux, pour nonobstant ladite charge de garantie estre receu à soustenir [et] defendre ladite opposition auec ledit Eschange.
+# text = Depuis iceluy du Noyer voyant ou pensant que ledit Eschange ne se defendoit assez bien sur ladite opposition, mais se laissoit mettre en defauts: craignant par ce qu' il ne succombast, auoit obtenu lettres Royaux, pour nonobstant ladite charge de garantie estre receu à soustenir et defendre ladite opposition auec ledit Eschange.
 1	Depuis	depuis	ADP	P	_	36	case	_	prpos=S
 2	iceluy	icelui	DET	D	PronType=Dem	3	det	_	prpos=Dd
 3	du	du	PROPN	NPRS	Number=Sing	36	nsubj	_	prpos=Np
 4	Noyer	Noyer	PROPN	NPRS	Number=Sing	3	flat	_	prpos=Np
-5	voya[n]t	voir	VERB	VG	Tense=Pres|VerbForm=Part	3	acl	_	prpos=Ga
+5	voyant	voir	VERB	VG	Tense=Pres|VerbForm=Part	3	acl	_	prpos=Ga
 6	ou	ou	CCONJ	CONJO	_	7	cc	_	prpos=Cc
 7	pensant	penser	VERB	VG	Tense=Pres|VerbForm=Part	5	conj	_	prpos=Ga
 8	que	que	SCONJ	CONJS	_	13	mark	_	prpos=Cs
@@ -6041,7 +6041,7 @@
 47	receu	recevoir	VERB	VPP	Tense=Past|VerbForm=Part	36	advcl	_	prpos=Ge
 48	à	à	ADP	P	_	49	mark	_	prpos=S
 49	soustenir	soutenir	VERB	VX	VerbForm=Inf	47	xcomp	_	prpos=Vvn
-50	[et]	et	CCONJ	CONJO	_	51	cc	_	prpos=Cc
+50	et	et	CCONJ	CONJO	_	51	cc	_	prpos=Cc|wordform=[et]
 51	defendre	défendre	VERB	VX	VerbForm=Inf	49	conj	_	prpos=Vvn
 52	ladite	ledit	DET	D	Definite=Def|PronType=Art	53	det	_	prpos=Da
 53	opposition	opposition	NOUN	NCS	Number=Sing	49	obj	_	prpos=Nc
@@ -6114,11 +6114,11 @@
 15	,	,	PUNCT	PON	_	10	punct	_	join=left|prpos=Fw
 16	lata	fero	VERB	FW	_	19	acl	_	Lang=la|prpos=Xe
 17	in	in	ADP	FW	_	18	case	_	Lang=la|prpos=Xe
-18	authore[m]	autor	NOUN	FW	_	16	obl	_	Lang=la|prpos=Xe
+18	authorem	autor	NOUN	FW	_	16	obl	_	Lang=la|prpos=Xe|wordform=authore[m]
 19	sententia	sententia	NOUN	FW	_	24	nsubj	_	Lang=la|prpos=Xe|SpaceAfter=No
 20	,	,	PUNCT	PON	_	24	punct	_	join=left|prpos=Fw
 21	aduersus	adversus	ADP	FW	_	22	case	_	Lang=la|prpos=Xe
-22	reu[m]	reus	NOUN	FW	_	24	obl	_	Lang=la|prpos=Xe
+22	reum	reus	NOUN	FW	_	24	obl	_	Lang=la|prpos=Xe|wordform=reu[m]
 23	executioni	executio	NOUN	FW	_	24	obl	_	Lang=la|prpos=Xe
 24	mandatur	mando	VERB	FW	_	10	ccomp	_	Lang=la|prpos=Xe|SpaceAfter=No
 25	,	,	PUNCT	PON	_	24	punct	_	join=left|prpos=Fw
@@ -6147,7 +6147,7 @@
 
 # sent_id = 1578_Terrien_1_24_1_2_1
 # source = Terrien
-# text = Le delay est ottroyé à celuy qui compare, pour auoir te[m]ps de soy conseiller, ou pour ce qu' il n' est prest de proceder [et] faire ce que la cause désire: co[m]me le respit est ottroyé à l' absent: do[n]t a esté cy dessus parlé.
+# text = Le delay est ottroyé à celuy qui compare, pour auoir temps de soy conseiller, ou pour ce qu' il n' est prest de proceder et faire ce que la cause désire: comme le respit est ottroyé à l' absent: dont a esté cy dessus parlé.
 1	Le	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
 2	delay	délai	NOUN	NCS	Number=Sing	4	nsubj	_	prpos=Nc
 3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
@@ -6159,7 +6159,7 @@
 9	,	,	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
 10	pour	pour	ADP	P	_	11	mark	_	prpos=S
 11	auoir	avoir	VERB	AX	VerbForm=Inf	4	advcl	_	prpos=Vun
-12	te[m]ps	temps	NOUN	NCS	Number=Sing	11	obj	_	prpos=Nc
+12	temps	temps	NOUN	NCS	Number=Sing	11	obj	_	prpos=Nc
 13	de	de	ADP	P	_	15	mark	_	prpos=S
 14	soy	se	PRON	PRO	PronType=Prs	15	expl	_	prpos=Pp
 15	conseiller	conseiller	VERB	VX	VerbForm=Inf	11	xcomp	_	prpos=Vvn|SpaceAfter=No
@@ -6174,7 +6174,7 @@
 24	prest	prêt	ADJ	ADJ	_	11	conj	_	prpos=Ag
 25	de	de	ADP	P	_	26	mark	_	prpos=S
 26	proceder	procéder	VERB	VX	VerbForm=Inf	24	xcomp	_	prpos=Vvn
-27	[et]	et	CCONJ	CONJO	_	28	cc	_	prpos=Cc
+27	et	et	CCONJ	CONJO	_	28	cc	_	prpos=Cc|wordform=[et]
 28	faire	faire	VERB	VX	VerbForm=Inf	26	conj	_	prpos=Vvn
 29	ce	ce	PRON	PRO	PronType=Dem	28	obj	_	prpos=Pd
 30	que	que	PRON	WPRO	PronType=Rel	33	obj	_	prpos=Pr
@@ -6182,7 +6182,7 @@
 32	cause	cause	NOUN	NCS	Number=Sing	33	nsubj	_	prpos=Nc
 33	désire	désirer	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	29	acl:relcl	_	prpos=Vvc|SpaceAfter=No
 34	:	:	PUNCT	PON	_	39	punct	_	join=left|prpos=Fw
-35	co[m]me	comme	SCONJ	CONJS	_	39	mark	_	prpos=Cs
+35	comme	comme	SCONJ	CONJS	_	39	mark	_	prpos=Cs|wordform=co[m]me
 36	le	le	DET	D	Definite=Def|PronType=Art	37	det	_	prpos=Da
 37	respit	répit	NOUN	NCS	Number=Sing	39	nsubj	_	prpos=Nc
 38	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	39	aux:pass	_	prpos=Vuc
@@ -6191,7 +6191,7 @@
 41	l'	le	DET	D	Definite=Def|PronType=Art	42	det	_	prpos=Da
 42	absent	absent	NOUN	NCS	Number=Sing	39	obl	_	join=left|prpos=Nc|SpaceAfter=No
 43	:	:	PUNCT	PON	_	49	punct	_	join=left|prpos=Fw
-44	do[n]t	dont	PRON	WPRO	PronType=Rel	49	obl	_	prpos=Pr
+44	dont	dont	PRON	WPRO	PronType=Rel	49	obl	_	prpos=Pr|wordform=do[n]t
 45	a	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	49	aux	_	prpos=Vuc
 46	esté	être	AUX	EPP	Tense=Past|VerbForm=Part	49	aux:pass	_	prpos=Ge
 47	cy	ci	ADV	ADV	_	49	advmod	_	prpos=Rg
@@ -6210,7 +6210,7 @@
 6	cause	cause	NOUN	NCS	Number=Sing	2	obj	_	prpos=Nc
 7	entiere	entier	ADJ	ADJ	_	6	amod	_	prpos=Ag|SpaceAfter=No
 8	:	:	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
-9	[et]	et	CCONJ	CONJO	_	11	cc	_	prpos=Cc
+9	et	et	CCONJ	CONJO	_	11	cc	_	prpos=Cc|wordform=[et]
 10	n'	ne	ADV	NEG	_	11	advmod	_	prpos=Rp
 11	accepte	accepter	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	2	conj	_	join=left|prpos=Vvc
 12	Court	cour	NOUN	NCS	Number=Sing	11	obj	_	prpos=Nc|SpaceAfter=No
@@ -6221,7 +6221,7 @@
 17	ni	ni	CCONJ	CONJO	_	18	cc	_	prpos=Cc
 18	auditoire	auditoire	NOUN	NCS	Number=Sing	12	conj	_	prpos=Nc|SpaceAfter=No
 19	:	:	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
-20	[et]	et	CCONJ	CONJO	_	22	cc	_	prpos=Cc
+20	et	et	CCONJ	CONJO	_	22	cc	_	prpos=Cc|wordform=[et]
 21	ne	ne	ADV	ADV	_	22	advmod	_	prpos=Rg
 22	couure	couvrir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	11	conj	_	prpos=Vvc
 23	grief	grief	NOUN	NCS	Number=Sing	22	obj	_	prpos=Nc
@@ -6299,8 +6299,8 @@
 
 # sent_id = 1578_Terrien_1_24_1_2_5
 # source = Terrien
-# text = Ite[m] le delay se doit demander la cause entiere, sans auoir procedé pour le iour, en principal ni accessoire, [et] sans auoir entamé la cause en plaiderie.
-1	Ite[m]	item	ADV	ADV	_	5	advmod	_	prpos=Rg
+# text = Item le delay se doit demander la cause entiere, sans auoir procedé pour le iour, en principal ni accessoire, [et] sans auoir entamé la cause en plaiderie.
+1	Item	item	ADV	ADV	_	5	advmod	_	prpos=Rg
 2	le	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	delay	délai	NOUN	NCS	Number=Sing	5	nsubj	_	prpos=Nc
 4	se	se	PRON	PRO	PronType=Prs	6	expl	_	prpos=Pp
@@ -6322,7 +6322,7 @@
 20	ni	ni	CCONJ	CONJO	_	21	cc	_	prpos=Cc
 21	accessoire	accessoire	ADJ	ADJ	Number=Sing	19	conj	_	prpos=Ag|SpaceAfter=No
 22	,	,	PUNCT	PON	_	26	punct	_	join=left|prpos=Fw
-23	[et]	et	CCONJ	CONJO	_	26	cc	_	prpos=Cc
+23	et	et	CCONJ	CONJO	_	26	cc	_	prpos=Cc|wordform=[et]
 24	sans	sans	ADP	P	_	26	case	_	prpos=S
 25	auoir	avoir	AUX	AX	VerbForm=Inf	26	aux	_	prpos=Vun
 26	entamé	entamer	VERB	VPP	Tense=Past|VerbForm=Part	13	conj	_	prpos=Ge
@@ -6334,7 +6334,7 @@
 
 # sent_id = 1578_Terrien_1_24_1_2_6
 # source = Terrien
-# text = Iugé fut en l' Eschiq. de Pasq. tenu à Roue[n] l' an 1486. 1491. [et] 1495.
+# text = Iugé fut en l' Eschiq. de Pasq. tenu à Rouen l' an 1486. 1491. [et] 1495.
 1	Iugé	juger	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
 2	fut	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	1	aux:pass	_	prpos=Vuc
 3	en	en	ADP	P	_	5	case	_	prpos=S
@@ -6344,12 +6344,12 @@
 7	Pasq.	pâque	NOUN	NCS	Number=Sing	5	nmod	_	prpos=Nc
 8	tenu	tenir	VERB	VPP	Tense=Past|VerbForm=Part	5	acl	_	prpos=Ge
 9	à	à	ADP	P	_	10	case	_	prpos=S
-10	Roue[n]	Rouen	PROPN	NPRS	Number=Sing	8	obl	_	prpos=Np
+10	Rouen	Rouen	PROPN	NPRS	Number=Sing	8	obl	_	prpos=Np
 11	l'	le	DET	D	Definite=Def|PronType=Art	12	det	_	prpos=Da
 12	an	an	NOUN	NCS	Number=Sing	8	obl	_	join=left|prpos=Nc
 13	1486.	1486	NUM	NUM	NumType=Card	12	nummod	_	prpos=Mc
 14	1491.	1491	NUM	NUM	NumType=Card	13	conj	_	prpos=Mc
-15	[et]	et	CCONJ	CONJO	_	16	cc	_	prpos=Cc
+15	et	et	CCONJ	CONJO	_	16	cc	_	prpos=Cc|wordform=[et]
 16	1495	1495	NUM	NUM	NumType=Card	13	conj	_	prpos=Mc|SpaceAfter=No
 17	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
 
@@ -6363,11 +6363,11 @@
 5	ont	avoir	VERB	AJ	Number=Plur|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vuc
 6	lieu	lieu	NOUN	NCS	Number=Sing	5	obj	_	prpos=Nc
 7	respit	répit	NOUN	NCS	Number=Sing	5	nsubj	_	prpos=Nc
-8	[et]	et	CCONJ	CONJO	_	9	cc	_	prpos=Cc
+8	et	et	CCONJ	CONJO	_	9	cc	_	prpos=Cc|wordform=[et]
 9	delay	délai	NOUN	NCS	Number=Sing	7	conj	_	prpos=Nc
 10	auant	avant	ADP	P	_	12	case	_	prpos=S
 11	la	le	DET	D	Definite=Def|PronType=Art	12	det	_	prpos=Da
-12	contestatio[n]	contestation	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc
+12	contestation	contestation	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc|wordform=contestatio[n]
 13	par	par	ADP	P	_	15	case	_	prpos=S
 14	l'	le	DET	D	Definite=Def|PronType=Art	15	det	_	prpos=Da
 15	ordon.	ordonnance	NOUN	NCS	Number=Sing	12	nmod	_	join=left|prpos=Nc
@@ -6383,11 +6383,11 @@
 
 # sent_id = 1578_Terrien_1_25_1_2_1
 # source = Terrien
-# text = Continuatio[n] couure grief [et] defaut, si ces mots n' y sont mis, sauf raiso[n]s [et] erreme[n]s:
-1	Continuatio[n]	continuation	NOUN	NCS	Number=Sing	2	nsubj	_	prpos=Nc
+# text = Continuation couure grief [et] defaut, si ces mots n' y sont mis, sauf raiso[n]s [et] erreme[n]s:
+1	Continuation	continuation	NOUN	NCS	Number=Sing	2	nsubj	_	prpos=Nc
 2	couure	couvrir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
 3	grief	grief	NOUN	NCS	Number=Sing	2	obj	_	prpos=Nc
-4	[et]	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc
+4	et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc|wordform=[et]
 5	defaut	défaut	NOUN	NCS	Number=Sing	3	conj	_	prpos=Nc|SpaceAfter=No
 6	,	,	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
 7	si	si	SCONJ	CONJS	_	13	mark	_	prpos=Cs
@@ -6399,9 +6399,9 @@
 13	mis	mettre	VERB	VPP	Tense=Past|VerbForm=Part	2	advcl	_	prpos=Ge|SpaceAfter=No
 14	,	,	PUNCT	PON	_	16	punct	_	join=left|prpos=Fw
 15	sauf	sauf	ADP	P	_	16	case	_	prpos=S
-16	raiso[n]s	raison	NOUN	NCPL	Number=Plur	13	obl	_	prpos=Nc
-17	[et]	et	CCONJ	CONJO	_	18	cc	_	prpos=Cc
-18	erreme[n]s	errement	NOUN	NCPL	Number=Plur	16	conj	_	prpos=Nc|SpaceAfter=No
+16	raisons	raison	NOUN	NCPL	Number=Plur	13	obl	_	prpos=Nc|wordform=raiso[n]s
+17	et	et	CCONJ	CONJO	_	18	cc	_	prpos=Cc|wordform=[et]
+18	erremens	errement	NOUN	NCPL	Number=Plur	16	conj	_	prpos=Nc|SpaceAfter=No|wordform=erreme[n]s
 19	:	:	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
 
 # sent_id = 1578_Terrien_1_25_1_2_2
@@ -6414,10 +6414,10 @@
 5	siege	siège	NOUN	NCS	Number=Sing	3	conj	_	prpos=Nc|SpaceAfter=No
 6	,	,	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
 7	Court	cour	NOUN	NCS	Number=Sing	3	conj	_	prpos=Nc
-8	[et]	et	CCONJ	CONJO	_	9	cc	_	prpos=Cc
+8	et	et	CCONJ	CONJO	_	9	cc	_	prpos=Cc|wordform=[et]
 9	auditoire	auditoire	NOUN	NCS	Number=Sing	7	conj	_	prpos=Nc|SpaceAfter=No
 10	:	:	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
-11	[et]	et	CCONJ	CONJO	_	12	cc	_	prpos=Cc
+11	et	et	CCONJ	CONJO	_	12	cc	_	prpos=Cc|wordform=[et]
 12	equipolle	équipoller	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	2	conj	_	prpos=Vvc
 13	assignation	assignation	NOUN	NCS	Number=Sing	12	obj	_	prpos=Nc|SpaceAfter=No
 14	,	,	PUNCT	PON	_	12	punct	_	join=left|prpos=Fw
@@ -6440,7 +6440,7 @@
 6	touchant	toucher	VERB	P	Tense=Pres|VerbForm=Part	4	acl	_	prpos=S
 7	la	le	DET	D	Definite=Def|PronType=Art	8	det	_	prpos=Da
 8	procedure	procédure	NOUN	NCS	Number=Sing	6	obj	_	prpos=Nc
-9	[et]	et	CCONJ	CONJO	_	10	cc	_	prpos=Cc
+9	et	et	CCONJ	CONJO	_	10	cc	_	prpos=Cc|wordform=[et]
 10	ordre	ordre	NOUN	NCS	Number=Sing	8	conj	_	prpos=Nc
 11	iudiciaire	judiciaire	ADJ	ADJ	_	10	amod	_	prpos=Ag|SpaceAfter=No
 12	,	,	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
@@ -6453,16 +6453,16 @@
 19	derniers	dernier	ADJ	ADJ	_	20	amod	_	prpos=Ag
 20	erremens	errement	NOUN	NCPL	Number=Plur	17	obj	_	prpos=Nc|SpaceAfter=No
 21	,	,	PUNCT	PON	_	27	punct	_	join=left|prpos=Fw
-22	[et]	et	CCONJ	CONJO	_	27	cc	_	prpos=Cc
+22	et	et	CCONJ	CONJO	_	27	cc	_	prpos=Cc|wordform=[et]
 23	qu'	que	SCONJ	CONJS	_	27	mark	_	prpos=Cs
 24	iceux	icelui	DET	D	PronType=Dem	26	det	_	join=left|prpos=Dd
 25	derniers	dernier	ADJ	ADJ	_	26	amod	_	prpos=Ag
-26	erreme[n]s	errement	NOUN	NCPL	Number=Plur	27	nsubj	_	prpos=Nc
+26	erremens	errement	NOUN	NCPL	Number=Plur	27	nsubj	_	prpos=Nc|wordform=erreme[n]s
 27	couurent	couvrir	VERB	VJ	Number=Plur|Person=3|VerbForm=Fin	15	conj	_	prpos=Vvc
 28	les	le	DET	D	Definite=Def|PronType=Art	29	det	_	prpos=Da
 29	premiers	premier	ADJ	ADJNUM	NumType=Ord	27	obj	_	prpos=Mo|SpaceAfter=No
 30	:	:	PUNCT	PON	_	27	punct	_	join=left|prpos=Fw
-31	[et]	et	CCONJ	CONJO	_	35	cc	_	prpos=Cc
+31	et	et	CCONJ	CONJO	_	35	cc	_	prpos=Cc|wordform=[et]
 32	que	que	SCONJ	CONJS	_	35	mark	_	prpos=Cs
 33	procez	procès	NOUN	NCS	Number=Sing	35	nsubj	_	prpos=Nc
 34	ne	ne	ADV	NEG	_	35	advmod	_	prpos=Rp
