@@ -11188,7 +11188,7 @@
 
 # sent_id = 1578_Terrien_1_1_1_2_1
 # source = Terrien
-# text = Cour (ou Cour selon qu' aucun escriuent, comme mot descendu de Curia) est vn terme general qui comprend sous soy diuerses espèces selon la diuersité des Iustices [et] iurisdictions: comme la Cour laye, [et] la Cour d' eglise: la Cour de Parlement, qui est souueraine: [et] les Cours inferieures, soyent Royales, ou autres.
+# text = Cour (ou Cour selon qu' aucun escriuent, comme mot descendu de Curia) est vn terme general qui comprend sous soy diuerses espèces selon la diuersité des Iustices et iurisdictions: comme la Cour laye, et la Cour d' eglise: la Cour de Parlement, qui est souueraine: et les Cours inferieures, soyent Royales, ou autres.
 # tags = latin
 1	Cour	cour	NOUN	NCS	Number=Sing	18	nsubj	_	prpos=Nc
 2	(	(	PUNCT	PON	_	4	punct	_	prpos=Fw|SpaceAfter=No
@@ -11374,7 +11374,7 @@
 
 # sent_id = 1578_Terrien_1_2_7_1_1
 # source = Terrien
-# text = Cela est bien rude de dire, que l' exception acquise par la loy, [et] edict perpetuel ne puisse estre proposee, par la personne priuee y ayant interest, [et] qu' elle soit suiette de s' en submettre à la grace [et] misericorde du Procureur du Roy.
+# text = Cela est bien rude de dire, que l' exception acquise par la loy, et edict perpetuel ne puisse estre proposee, par la personne priuee y ayant interest, et qu' elle soit suiette de s' en submettre à la grace et misericorde du Procureur du Roy.
 1	Cela	cela	PRON	PRO	PronType=Dem	4	nsubj	_	prpos=Pd
 2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	cop	_	prpos=Vuc
 3	bien	bien	ADV	ADV	_	4	advmod	_	prpos=Rg
@@ -11432,7 +11432,7 @@
 
 # sent_id = 1578_Terrien_1_2_7_1_2
 # source = Terrien
-# text = Bien a ledit Procureur interrest, [et] en ce sont ses vrayes parties, [et] office, de faire garder les droicts [et] ordonnances concernans le bien public.
+# text = Bien a ledit Procureur interrest, et en ce sont ses vrayes parties, et office, de faire garder les droicts et ordonnances concernans le bien public.
 1	Bien	bien	ADV	ADV	_	2	advmod	_	prpos=Rg
 2	a	avoir	VERB	AJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vuc
 3	ledit	ledit	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -11568,7 +11568,7 @@
 
 # sent_id = 1578_Terrien_1_2_7_1_5
 # source = Terrien
-# text = Aussi est bien considerable, que les festes sont introduites pour, tout œuure de labeur d' agriculture, [et] d' autre chose vile cessant, entendre du tout au seruice de Dieu [et] saincts ministeres de sa sacrosaincte, vnique, [et] catholique eglise.
+# text = Aussi est bien considerable, que les festes sont introduites pour, tout œuure de labeur d' agriculture, et d' autre chose vile cessant, entendre du tout au seruice de Dieu et saincts ministeres de sa sacrosaincte, vnique, et catholique eglise.
 1	Aussi	aussi	ADV	ADV	_	4	advmod	_	prpos=Rg
 2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	cop	_	prpos=Vuc
 3	bien	bien	ADV	ADV	_	4	advmod	_	prpos=Rg
@@ -11644,7 +11644,7 @@
 
 # sent_id = 1578_Terrien_1_2_7_1_7
 # source = Terrien
-# text = Pourquoy sans aucune chose gloser au plain texte, tenons fermement ce qui est bien [et] sainctement institué, [et] qu' il est loisible au priué etiam sans l' aide du Procureur du Roy, de proposer de son chef ladite exception comme vne legitime defense baillee par la loy.
+# text = Pourquoy sans aucune chose gloser au plain texte, tenons fermement ce qui est bien et sainctement institué, et qu' il est loisible au priué etiam sans l' aide du Procureur du Roy, de proposer de son chef ladite exception comme vne legitime defense baillee par la loy.
 # tags = latin
 1	Pourquoy	pourquoi	ADV	WADV	_	11	advmod	_	prpos=Rt
 2	sans	sans	ADP	P	_	5	mark	_	prpos=S
@@ -11708,7 +11708,7 @@
 
 # sent_id = 1578_Terrien_1_2_8_1_1
 # source = Terrien
-# text = Notez qu' e[n] ce cas le Iuge peut faire iustice à iour de feste mesmes en sa maison, ou ailleurs hors le pretoire.
+# text = Notez qu' en ce cas le Iuge peut faire iustice à iour de feste mesmes en sa maison, ou ailleurs hors le pretoire.
 1	Notez	noter	VERB	VJ	Number=Plur|Person=2|VerbForm=Fin	0	root	_	prpos=Vvc
 2	qu'	que	SCONJ	CONJS	_	8	mark	_	prpos=Cs
 3	en	en	ADP	P	_	5	case	_	join=left|prpos=S|wordform=e[n]
@@ -11737,7 +11737,7 @@
 
 # sent_id = 1578_Terrien_1_2_8_1_2
 # source = Terrien
-# text = Il doit aussi en tels cas proceder sommairement [et] de plain, sans ottroyer respit ne delay, donner appointemens brefs, faire proceder les parties d' heure à autre, comme du matin apres disner, contraindre les parties à comparoir presentement si elles se defaille[n]t, [et] enuoyer querir les tesmoins sur l' heure selon l' exigence du cas.
+# text = Il doit aussi en tels cas proceder sommairement et de plain, sans ottroyer respit ne delay, donner appointemens brefs, faire proceder les parties d' heure à autre, comme du matin apres disner, contraindre les parties à comparoir presentement si elles se defaillent, et enuoyer querir les tesmoins sur l' heure selon l' exigence du cas.
 1	Il	il	PRON	PRO	PronType=Prs	2	nsubj	_	prpos=Pp
 2	doit	devoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
 3	aussi	aussi	ADV	ADV	_	2	advmod	_	prpos=Rg
@@ -11902,7 +11902,7 @@
 
 # sent_id = 1578_Terrien_1_2_9_2_1
 # source = Terrien
-# text = Autant en est dit, in l. constitutiones ff. de appellat. [et] relatio. la punition desquels crimes, comme tout le procez se peut faire etiam in venerabili die Paschæ:
+# text = Autant en est dit, in l. constitutiones ff. de appellat. et relatio. la punition desquels crimes, comme tout le procez se peut faire etiam in venerabili die Paschæ:
 # tags = latin
 1	Autant	autant	ADV	Q	_	4	advmod	_	prpos=Rg
 2	en	en	PRON	PRO	_	4	obj	_	prpos=Pp
@@ -11940,7 +11940,7 @@
 
 # sent_id = 1578_Terrien_1_2_11_2_1
 # source = Terrien
-# text = Par iugez sont entendues sentences de contumace, [et] ainsi pratiqué.
+# text = Par iugez sont entendues sentences de contumace, et ainsi pratiqué.
 1	Par	par	ADP	P	_	2	case	_	prpos=S
 2	iugez	juger	VERB	NCPL	Number=Plur	4	obl	_	prpos=Nc
 3	sont	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
@@ -12000,7 +12000,7 @@
 
 # sent_id = 1578_Terrien_1_3_5_3_1
 # source = Terrien
-# text = Par cecy appert qu' il n' appartient qu' au Roy seul, d' euoquer les causes [et] matieres hors de leurs sieges: [et] que les Iuges d' appel, ne la Cour mesmes ne peuuent euoquer les causes pendantes par deuant les Iuges inferieurs, ausquels la cognoissance en appartient: pour ce qu' ils n' ont leur pouuoir [et] iurisdiction dedits Iuges superieurs.
+# text = Par cecy appert qu' il n' appartient qu' au Roy seul, d' euoquer les causes et matieres hors de leurs sieges: et que les Iuges d' appel, ne la Cour mesmes ne peuuent euoquer les causes pendantes par deuant les Iuges inferieurs, ausquels la cognoissance en appartient: pour ce qu' ils n' ont leur pouuoir et iurisdiction dedits Iuges superieurs.
 1	Par	par	ADP	P	_	2	case	_	prpos=S
 2	cecy	ceci	PRON	PRO	PronType=Dem	3	obl	_	prpos=Pd
 3	appert	apparoir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -12112,7 +12112,7 @@
 
 # sent_id = 1578_Terrien_1_3_5_3_3
 # source = Terrien
-# text = Toutesfois tout ce qui est fait deuant iceluy Iuge, est bon [et] vaillable, iusques à ce que la commission, ou autre expresse euocation luy soit signifiée.
+# text = Toutesfois tout ce qui est fait deuant iceluy Iuge, est bon et vaillable, iusques à ce que la commission, ou autre expresse euocation luy soit signifiée.
 1	Toutesfois	toutefois	ADV	ADV	_	12	advmod	_	prpos=Rg
 2	tout	tout	DET	Q	Definite=Ind	3	det	_	prpos=Di
 3	ce	ce	PRON	PRO	PronType=Dem	12	nsubj	_	prpos=Pd
@@ -12167,7 +12167,7 @@
 
 # sent_id = 1578_Terrien_1_3_6_1_1
 # source = Terrien
-# text = C' est trop estroitement bridé [et] restraint le pouuoir des Cours souueraines, de leur denier l' authorité d' euoquer vne cause, ou de la renuoyer d' un siege à l' autre selon l' occasion raisonnable qui s' en peut presenter.
+# text = C' est trop estroitement bridé et restraint le pouuoir des Cours souueraines, de leur denier l' authorité d' euoquer vne cause, ou de la renuoyer d' un siege à l' autre selon l' occasion raisonnable qui s' en peut presenter.
 1	C'	ce	PRON	PRO	PronType=Dem	5	nsubj	_	prpos=Pd
 2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	5	aux:pass	_	join=left|prpos=Vuc
 3	trop	trop	ADV	Q	_	5	advmod	_	prpos=Rg
@@ -12216,7 +12216,7 @@
 
 # sent_id = 1578_Terrien_1_3_6_1_2
 # source = Terrien
-# text = Et si en cas conuenoit se pouruoir par deuers le Roy seul, en prouiendroyent grands inconueniens tant pour le retardement de la Iustice, que les grans frais des parties, qui le plus souuent leur seroyent rendus inutiles, [et] retourneroyent les poursuyuans sans aucune prouision, à faute de iustifier promptement [et] par lettre leur donné à entendre.
+# text = Et si en cas conuenoit se pouruoir par deuers le Roy seul, en prouiendroyent grands inconueniens tant pour le retardement de la Iustice, que les grans frais des parties, qui le plus souuent leur seroyent rendus inutiles, et retourneroyent les poursuyuans sans aucune prouision, à faute de iustifier promptement et par lettre leur donné à entendre.
 1	Et	et	CCONJ	CONJO	_	15	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	5	mark	_	prpos=Cs
 3	en	en	ADP	P	_	4	case	_	prpos=S
@@ -12395,7 +12395,7 @@
 
 # sent_id = 1578_Terrien_1_4_6_1_1
 # source = Terrien
-# text = En ce que ce Style veut entre autres choses qu' aux matieres de plets [et] assises la premiere assignation suffit, [et] dure au iour, nous ne le deuo[m]s legerement suyuir, veu que par l' ordo[n]nance de l' an 1550. que nous disons en Normandie l' ordonna[n]ce de l' an 1540. il est statué que toutes assignations pour estre vaillables, doyuent estre faites à personne ou à domicile.
+# text = En ce que ce Style veut entre autres choses qu' aux matieres de plets et assises la premiere assignation suffit, et dure au iour, nous ne le deuo[m]s legerement suyuir, veu que par l' ordonnance de l' an 1550. que nous disons en Normandie l' ordonnance de l' an 1540. il est statué que toutes assignations pour estre vaillables, doyuent estre faites à personne ou à domicile.
 1	En	en	ADP	P	ExtPos=SCONJ	6	mark	_	prpos=S
 2	ce	ce	PRON	PRO	PronType=Dem	1	fixed	_	prpos=Pd
 3	que	que	SCONJ	CONJS	_	1	fixed	_	prpos=Cs
@@ -12475,7 +12475,7 @@
 
 # sent_id = 1578_Terrien_1_4_6_1_2
 # source = Terrien
-# text = Laquelle ordo[n]nance en cest article est passee sans modification, [et] receuë pour loy: tellement qu' il n' y auroit asseurance aux sentences de contumace, donnees sur defauts obtenus aux plets ou assises sans auoir renouuelé les assignatio[n]s sur Chacun defaut:
+# text = Laquelle ordonnance en cest article est passee sans modification, et receuë pour loy: tellement qu' il n' y auroit asseurance aux sentences de contumace, donnees sur defauts obtenus aux plets ou assises sans auoir renouuelé les assignations sur Chacun defaut:
 1	Laquelle	lequel	DET	WD	PronType=Rel	2	det	_	prpos=Dr
 2	ordonnance	ordonnance	NOUN	NCS	Number=Sing	7	nsubj	_	prpos=Nc|wordform=ordo[n]nance
 3	en	en	ADP	P	_	5	case	_	prpos=S
@@ -12527,7 +12527,7 @@
 
 # sent_id = 1578_Terrien_1_4_6_1_3
 # source = Terrien
-# text = [et] y auroit bien moindre asseurance d' auoir sur vne premiere assignation, attendu à prendre defauts [et] iugement iusques vers la fin [et] bout de l' an,
+# text = et y auroit bien moindre asseurance d' auoir sur vne premiere assignation, attendu à prendre defauts et iugement iusques vers la fin et bout de l' an,
 1	et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc|wordform=[et]
 2	y	y	PRON	PRO	PronType=Prs	3	obl	_	prpos=Pp
 3	auroit	avoir	VERB	AJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vuc
@@ -12560,7 +12560,7 @@
 
 # sent_id = 1578_Terrien_1_4_6_1_4
 # source = Terrien
-# text = [et] telles procedeures depuis ladite ordonnance ont esté par les arrests iugees nulles, ce requerant le Procureur general.
+# text = et telles procedeures depuis ladite ordonnance ont esté par les arrests iugees nulles, ce requerant le Procureur general.
 1	et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc|wordform=[et]
 2	telles	tel	ADJ	ADJ	_	3	amod	_	prpos=Ag
 3	procedeures	procédure	NOUN	NCPL	Number=Plur	12	nsubj	_	prpos=Nc
@@ -12653,7 +12653,7 @@
 
 # sent_id = 1578_Terrien_1_4_8_1_3
 # source = Terrien
-# text = Et si on n' y trouue personne, faut faire l' adiourneme[n]t en parlant au plus prochain voisin qui soit nommé en son exploit, luy enioignant de le faire sçauoir à l' adiourné.
+# text = Et si on n' y trouue personne, faut faire l' adiournement en parlant au plus prochain voisin qui soit nommé en son exploit, luy enioignant de le faire sçauoir à l' adiourné.
 1	Et	et	CCONJ	CONJO	_	9	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	6	mark	_	prpos=Cs
 3	on	on	PRON	PRO	PronType=Prs	6	nsubj	_	prpos=Pp
@@ -12694,7 +12694,7 @@
 
 # sent_id = 1578_Terrien_1_4_8_1_4
 # source = Terrien
-# text = Et si le Sergent ne trouue domestiques ni autres, il fera l' adiourneme[n]t par attache de son exploit à la porte du domicile de celuy qu' il adiourne.
+# text = Et si le Sergent ne trouue domestiques ni autres, il fera l' adiournement par attache de son exploit à la porte du domicile de celuy qu' il adiourne.
 1	Et	et	CCONJ	CONJO	_	12	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	6	mark	_	prpos=Cs
 3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -12775,7 +12775,7 @@
 
 # sent_id = 1578_Terrien_1_4_8_1_6
 # source = Terrien
-# text = Bien peut le Iuge en expediant la cause faire assignation à la personne du Procureur lors fondant, pour voir collationer lettres [et] escritures, assister à vne ostension de lieu, ou à comparoir deuant vn autre Iuge par luy commis, pour voir iurer tesmoins.
+# text = Bien peut le Iuge en expediant la cause faire assignation à la personne du Procureur lors fondant, pour voir collationer lettres et escritures, assister à vne ostension de lieu, ou à comparoir deuant vn autre Iuge par luy commis, pour voir iurer tesmoins.
 1	Bien	bien	ADV	ADV	_	2	advmod	_	prpos=Rg
 2	peut	pouvoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
 3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -12894,7 +12894,7 @@
 
 # sent_id = 1578_Terrien_1_4_10_1_2
 # source = Terrien
-# text = Mais en ce faisant il doit bien pre[n]dre garde qu' il ne donne son mandement pour traiter les suiets du Roy en actions perso[n]nelles par deuant autre que leur Iuge, ni en autre chastellenie, comme il fut defendu par arrest du vingtquatrieme de Decemb. 1516.
+# text = Mais en ce faisant il doit bien pre[n]dre garde qu' il ne donne son mandement pour traiter les suiets du Roy en actions personnelles par deuant autre que leur Iuge, ni en autre chastellenie, comme il fut defendu par arrest du vingtquatrieme de Decemb. 1516.
 1	Mais	mais	CCONJ	CONJO	_	6	cc	_	prpos=Cc
 2	en	en	ADP	P	_	4	case	_	prpos=S
 3	ce	ce	PRON	PRO	PronType=Dem	4	obj	_	prpos=Pd
@@ -12997,7 +12997,7 @@
 
 # sent_id = 1578_Terrien_1_4_10_1_5
 # source = Terrien
-# text = [et] se mettroit en danger de respondre de l' interest qui en pourroit aduenir à la partie requerant.
+# text = et se mettroit en danger de respondre de l' interest qui en pourroit aduenir à la partie requerant.
 1	et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc|wordform=[et]
 2	se	se	PRON	PRO	PronType=Prs	3	expl	_	prpos=Pp
 3	mettroit	mettre	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -13078,7 +13078,7 @@
 
 # sent_id = 1578_Terrien_1_4_12_1_1
 # source = Terrien
-# text = Cest adiournement a lieu quand il est question de droict feodal, [et] que le seigneur est absent, [et] ne se peut trouuer en personne, ou a domicile sur les limites du fief, dont depend le descord des parties: co[m]me il est contenu au Style de la Cour, au titre, D' adiournemens.
+# text = Cest adiournement a lieu quand il est question de droict feodal, et que le seigneur est absent, et ne se peut trouuer en personne, ou a domicile sur les limites du fief, dont depend le descord des parties: comme il est contenu au Style de la Cour, au titre, D' adiournemens.
 1	Cest	ce	DET	D	PronType=Dem	2	det	_	prpos=Dd
 2	adiournement	ajournement	NOUN	NCS	Number=Sing	3	nsubj	_	prpos=Nc
 3	a	avoir	VERB	AJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vuc
@@ -13204,7 +13204,7 @@
 
 # sent_id = 1578_Terrien_1_4_13_2_1
 # source = Terrien
-# text = Il y a vn adiournement qui se fait aucunesfois par co[n]trainte, quand l' adiourné s' est laissé defaillir: comme en cas de treues, ou qua[n]d vn tesmoin adiourné est mis en defaut, ou vn homme adiourné pour affermer quels deniers il doit à un autre, ou vn officier, pour respo[n]dre des faicts de son office, [et] autres cas où la presence de l' adiourné est requise.
+# text = Il y a vn adiournement qui se fait aucunesfois par contrainte, quand l' adiourné s' est laissé defaillir: comme en cas de treues, ou quand vn tesmoin adiourné est mis en defaut, ou vn homme adiourné pour affermer quels deniers il doit à un autre, ou vn officier, pour respo[n]dre des faicts de son office, et autres cas où la presence de l' adiourné est requise.
 1	Il	il	PRON	PRO	PronType=Prs	3	expl	_	prpos=Pp
 2	y	y	PRON	PRO	PronType=Prs	3	obl	_	prpos=Pp
 3	a	avoir	VERB	AJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vuc
@@ -13284,7 +13284,7 @@
 
 # sent_id = 1578_Terrien_1_4_13_2_2
 # source = Terrien
-# text = Et se fait telle contrainte premierement par prinse de biens iusques à certaine somme, [et] apres le second defaut, par corps, vente [et] exploitation de biens.
+# text = Et se fait telle contrainte premierement par prinse de biens iusques à certaine somme, et apres le second defaut, par corps, vente et exploitation de biens.
 1	Et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc
 2	se	se	PRON	PRO	PronType=Prs	3	expl	_	prpos=Pp
 3	fait	faire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -13318,7 +13318,7 @@
 
 # sent_id = 1578_Terrien_1_4_13_2_3
 # source = Terrien
-# text = Et en cas de treues, pour le peril qui y est, par le premier defaut on decerne co[n]trainte par corps, quand le defaillant est adiourné en personne.
+# text = Et en cas de treues, pour le peril qui y est, par le premier defaut on decerne contrainte par corps, quand le defaillant est adiourné en personne.
 1	Et	et	CCONJ	CONJO	_	19	cc	_	prpos=Cc
 2	en	en	ADP	P	_	3	case	_	prpos=S
 3	cas	cas	NOUN	NCS	Number=Sing	19	obl	_	prpos=Nc
@@ -13353,7 +13353,7 @@
 
 # sent_id = 1578_Terrien_1_4_13_2_4
 # source = Terrien
-# text = Et doit le Sergent executeur du defaut [et] contrainte, dire qu' il adiourne le defaillant, [et] qu' il le contraint [et] iustice pour sa defaute de s' estre co[m]paru au iour à luy assigné.
+# text = Et doit le Sergent executeur du defaut et contrainte, dire qu' il adiourne le defaillant, et qu' il le contraint et iustice pour sa defaute de s' estre comparu au iour à luy assigné.
 1	Et	et	CCONJ	CONJO	_	2	cc	_	prpos=Cc
 2	doit	devoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
 3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -13398,7 +13398,7 @@
 
 # sent_id = 1578_Terrien_1_4_13_2_5
 # source = Terrien
-# text = C' est ce que dit la Coustume au chapitre De Iusticement, Que pour terme passé est homme iusticé, quand terme luy est assis, [et] il ne vient pas.
+# text = C' est ce que dit la Coustume au chapitre De Iusticement, Que pour terme passé est homme iusticé, quand terme luy est assis, et il ne vient pas.
 1	C'	ce	PRON	PRO	PronType=Dem	3	nsubj	_	prpos=Pd
 2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	3	cop	_	join=left|prpos=Vuc
 3	ce	ce	PRON	PRO	PronType=Dem	0	root	_	prpos=Pd
@@ -13465,7 +13465,7 @@
 
 # sent_id = 1578_Terrien_1_4_18_2_1
 # source = Terrien
-# text = Par arrest donné le 29. de May 1528. entre un no[m]mé Morant tuteur de la fille Guilloche clamant, [et] l' Amy defendeur, un Sergent n' est croyable de luy seul, qu' il y ait eu clameur de marché de bourse mise en ses mains dedans l' an [et] iour, s' il n' y a tesmoins nommez en sa relation.
+# text = Par arrest donné le 29. de May 1528. entre un nommé Morant tuteur de la fille Guilloche clamant, et l' Amy defendeur, un Sergent n' est croyable de luy seul, qu' il y ait eu clameur de marché de bourse mise en ses mains dedans l' an et iour, s' il n' y a tesmoins nommez en sa relation.
 1	Par	par	ADP	P	_	2	case	_	prpos=S
 2	arrest	arrêt	NOUN	NCS	Number=Sing	29	obl	_	prpos=Nc
 3	donné	donner	VERB	VPP	Tense=Past|VerbForm=Part	2	acl	_	prpos=Ge
@@ -13533,7 +13533,7 @@
 
 # sent_id = 1578_Terrien_1_4_18_2_2
 # source = Terrien
-# text = Mais s' il y a tesmoins nommez, on n' est receuable à prouuer par iceux tesmoins le contraire de la relation, sans gager la loy, [et] s' inscrire de faux, comme il fut dit par arrest donné au profit d' un nommé Cheualier contre un no[m]mé Berte, le 9. de Ianuier 1525.
+# text = Mais s' il y a tesmoins nommez, on n' est receuable à prouuer par iceux tesmoins le contraire de la relation, sans gager la loy, et s' inscrire de faux, comme il fut dit par arrest donné au profit d' un nommé Cheualier contre un nommé Berte, le 9. de Ianuier 1525.
 1	Mais	mais	CCONJ	CONJO	_	12	cc	_	prpos=Cc
 2	s'	si	SCONJ	CONJS	_	5	mark	_	prpos=Cs
 3	il	il	PRON	PRO	PronType=Prs	5	expl	_	join=left|prpos=Pp
@@ -13597,7 +13597,7 @@
 
 # sent_id = 1578_Terrien_1_4_18_2_3
 # source = Terrien
-# text = Vray est que par nostre Coustume audit chapitre De semo[n]ces, les Barons doiuent estre semons en presence de quatre Cheualiers au moins qui puissent porter tesmoignage de la semo[n]ce, sans que gens de si grande authorité soyent menez à desrene de leurs defautes.
+# text = Vray est que par nostre Coustume audit chapitre De semonces, les Barons doiuent estre semons en presence de quatre Cheualiers au moins qui puissent porter tesmoignage de la semonce, sans que gens de si grande authorité soyent menez à desrene de leurs defautes.
 1	Vray	vrai	ADJ	ADJ	_	0	root	_	prpos=Ag
 2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	1	cop	_	prpos=Vuc
 3	que	que	SCONJ	CONJS	_	15	mark	_	prpos=Cs
@@ -13708,7 +13708,7 @@
 
 # sent_id = 1578_Terrien_1_4_19_2_3
 # source = Terrien
-# text = Et si l' adiournement n' estoit libellé, le defendeur pourroit demander temps de respondre, [et] despens de ce qui ne seroit prest.
+# text = Et si l' adiournement n' estoit libellé, le defendeur pourroit demander temps de respondre, et despens de ce qui ne seroit prest.
 1	Et	et	CCONJ	CONJO	_	11	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	7	mark	_	prpos=Cs
 3	l'	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -13767,7 +13767,7 @@
 
 # sent_id = 1578_Terrien_1_4_19_2_5
 # source = Terrien
-# text = Toutesfois l' adiourné doit tousiours co[m]paroir:
+# text = Toutesfois l' adiourné doit tousiours comparoir:
 1	Toutesfois	toutefois	ADV	ADV	_	4	advmod	_	prpos=Rg
 2	l'	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	adiourné	ajourné	NOUN	NCS	Number=Sing	4	nsubj	_	join=left|prpos=Nc
@@ -13778,7 +13778,7 @@
 
 # sent_id = 1578_Terrien_1_4_19_2_6
 # source = Terrien
-# text = autrement le Iuge donneroit defaut, comme il appert par ordo[n]na[n]ce dudit an, art. 70.
+# text = autrement le Iuge donneroit defaut, comme il appert par ordonnance dudit an, art. 70.
 1	autrement	autrement	ADV	ADV	_	4	advmod	_	prpos=Rg
 2	le	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	Iuge	juge	NOUN	NCS	Number=Sing	4	nsubj	_	prpos=Nc
@@ -13801,7 +13801,7 @@
 
 # sent_id = 1578_Terrien_1_5_1_2_1
 # source = Terrien
-# text = Il prend icy plainte, pour toute demande ou querelle, [et] le plaintif [et] querellé pour tout dema[n]deur [et] defendeur.
+# text = Il prend icy plainte, pour toute demande ou querelle, et le plaintif et querellé pour tout demandeur et defendeur.
 1	Il	il	PRON	PRO	PronType=Prs	2	nsubj	_	prpos=Pp
 2	prend	prendre	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
 3	icy	ici	ADV	ADV	_	2	advmod	_	prpos=Rg
@@ -13827,7 +13827,7 @@
 
 # sent_id = 1578_Terrien_1_5_1_2_2
 # source = Terrien
-# text = Mais auiourd'huy on n' vse gueres de ces mots de plaintif, qu' en cas d' excez [et] de crime.
+# text = Mais auiourd'huy on n' vse gueres de ces mots de plaintif, qu' en cas d' excez et de crime.
 1	Mais	mais	CCONJ	CONJO	_	5	cc	_	prpos=Cc
 2	auiourd'huy	aujourd'hui	ADV	ADV	_	5	advmod	_	prpos=Rg
 3	on	on	PRON	PRO	PronType=Prs	5	nsubj	_	prpos=Pp
@@ -13940,7 +13940,7 @@
 
 # sent_id = 1578_Terrien_1_5_2_2_3
 # source = Terrien
-# text = Et si le mineur est fils de famille [et] au pouuoir de son pere, il ne peut agir ne defendre en matieres ciuiles, sans l' authorité de son pere.
+# text = Et si le mineur est fils de famille et au pouuoir de son pere, il ne peut agir ne defendre en matieres ciuiles, sans l' authorité de son pere.
 1	Et	et	CCONJ	CONJO	_	19	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	6	mark	_	prpos=Cs
 3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -14003,7 +14003,7 @@
 
 # sent_id = 1578_Terrien_1_5_3_2_1
 # source = Terrien
-# text = Voyez ce qui en est cy dessus amplement escrit, au titre Du mary [et] de la femme.
+# text = Voyez ce qui en est cy dessus amplement escrit, au titre Du mary et de la femme.
 1	Voyez	voir	VERB	VJ	Number=Plur|Person=2|VerbForm=Fin	0	root	_	prpos=Vvc
 2	ce	ce	PRON	PRO	PronType=Dem	1	obj	_	prpos=Pd
 3	qui	qui	PRON	WPRO	PronType=Rel	9	nsubj	_	prpos=Pr
@@ -14120,7 +14120,7 @@
 
 # sent_id = 1578_Terrien_1_6_1_2_3
 # source = Terrien
-# text = mais il n' y en doit auoir qu' vn qui plaide, pour euiter desordre [et] confusion.
+# text = mais il n' y en doit auoir qu' vn qui plaide, pour euiter desordre et confusion.
 1	mais	mais	CCONJ	CONJO	_	6	cc	_	prpos=Cc
 2	il	il	PRON	PRO	PronType=Prs	6	expl	_	prpos=Pp
 3	n'	ne	ADV	NEG	_	6	advmod	_	prpos=Rp
@@ -14166,7 +14166,7 @@
 
 # sent_id = 1578_Terrien_1_6_1_2_5
 # source = Terrien
-# text = [et] en ce cas celuy contre qui partage de conseil est demandé, doit choisir.
+# text = et en ce cas celuy contre qui partage de conseil est demandé, doit choisir.
 1	et	et	CCONJ	CONJO	_	14	cc	_	prpos=Cc|wordform=[et]
 2	en	en	ADP	P	_	4	case	_	prpos=S
 3	ce	ce	DET	D	PronType=Dem	4	det	_	prpos=Dd
@@ -14225,7 +14225,7 @@
 
 # sent_id = 1578_Terrien_1_6_2_1_2
 # source = Terrien
-# text = Mais la doute seroit, si le client present [et] non co[n]tredisant, ains se taisant est pas veu auoir pour agreable, tout le plaidoyé de son Aduocat.
+# text = Mais la doute seroit, si le client present et non contredisant, ains se taisant est pas veu auoir pour agreable, tout le plaidoyé de son Aduocat.
 1	Mais	mais	CCONJ	CONJO	_	4	cc	_	prpos=Cc
 2	la	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	doute	doute	NOUN	NCS	Number=Sing	4	nsubj	_	prpos=Nc
@@ -14345,7 +14345,7 @@
 
 # sent_id = 1578_Terrien_1_6_3_2_1
 # source = Terrien
-# text = Anciennement les Aduocats estoient appelez Conseilliers, comme assistans au Iuge pour luy donner conseil, [et] par l' aduis desquels le Iuge doit donner ses sentences [et] iugemens.
+# text = Anciennement les Aduocats estoient appelez Conseilliers, comme assistans au Iuge pour luy donner conseil, et par l' aduis desquels le Iuge doit donner ses sentences et iugemens.
 1	Anciennement	anciennement	ADV	ADV	_	5	advmod	_	prpos=Rg
 2	les	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	Aduocats	avocat	NOUN	NCPL	Number=Plur	5	nsubj	_	prpos=Nc
@@ -14405,7 +14405,7 @@
 
 # sent_id = 1578_Terrien_1_6_3_2_3
 # source = Terrien
-# text = [et] ne leur est demeuré que le nom d' Aduocat.
+# text = et ne leur est demeuré que le nom d' Aduocat.
 1	et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc|wordform=[et]
 2	ne	ne	ADV	NEG	_	5	advmod	_	prpos=Rp
 3	leur	il	PRON	PRO	PronType=Prs	5	iobj	_	prpos=Pp
@@ -14558,7 +14558,7 @@
 
 # sent_id = 1578_Terrien_1_6_8_2_3
 # source = Terrien
-# text = Mais si la cause estoit perdue par ce que la partie n' auroit suffisamment prouué les faicts par elle affermez: ou que le iugement de la cause dependist d' un poinct de droict difficile [et] douteux, ce ne seroit raison que l' Aduocat en souffrist peine.
+# text = Mais si la cause estoit perdue par ce que la partie n' auroit suffisamment prouué les faicts par elle affermez: ou que le iugement de la cause dependist d' un poinct de droict difficile et douteux, ce ne seroit raison que l' Aduocat en souffrist peine.
 1	Mais	mais	CCONJ	CONJO	_	42	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	6	mark	_	prpos=Cs
 3	la	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -14611,7 +14611,7 @@
 
 # sent_id = 1578_Terrien_1_6_9_1_1
 # source = Terrien
-# text = PRemierement, Que loyaument [et] diligemment ils exerceront l' office de conseil contre quelconque personne que ce soit.
+# text = PRemierement, Que loyaument et diligemment ils exerceront l' office de conseil contre quelconque personne que ce soit.
 1	PRemierement	premièrement	ADV	ADV	_	8	advmod	_	prpos=Rg|SpaceAfter=No
 2	,	,	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
 3	Que	que	SCONJ	CONJS	_	8	mark	_	prpos=Cs
@@ -14634,7 +14634,7 @@
 
 # sent_id = 1578_Terrien_1_6_9_2_1
 # source = Terrien
-# text = Qu' ils ne soustiendront en demandant ny en defendant aucunes causes, s' ils ne les trouuent en leurs consciences estre bonnes [et] loyales.
+# text = Qu' ils ne soustiendront en demandant ny en defendant aucunes causes, s' ils ne les trouuent en leurs consciences estre bonnes et loyales.
 1	Qu'	que	SCONJ	CONJS	_	4	mark	_	prpos=Cs
 2	ils	il	PRON	PRO	_	4	nsubj	_	join=left|prpos=Pp
 3	ne	ne	ADV	NEG	_	4	advmod	_	prpos=Rp
@@ -14663,7 +14663,7 @@
 
 # sent_id = 1578_Terrien_1_6_9_3_1
 # source = Terrien
-# text = Que s' il vient à leur cognoissance par quelque manière que ce soit, que la cause soit mauuaise, en quelque estat qu elle soit, plus n' y aduocasseront, [et] du tout la delaisseront.
+# text = Que s' il vient à leur cognoissance par quelque manière que ce soit, que la cause soit mauuaise, en quelque estat qu elle soit, plus n' y aduocasseront, et du tout la delaisseront.
 1	Que	que	SCONJ	CONJS	_	31	mark	_	prpos=Cs
 2	s'	si	SCONJ	CONJS	_	4	mark	_	prpos=Cs
 3	il	il	PRON	PRO	PronType=Prs	4	expl	_	join=left|prpos=Pp
@@ -14707,7 +14707,7 @@
 
 # sent_id = 1578_Terrien_1_6_9_4_1
 # source = Terrien
-# text = Qu' en leurs plaideries, soit en demandant ou en defendant, en repliqua[n]t ny autrement, ils ne proposeront ne controuueront aucuns faicts, que leur maistre ou son attourné ne leur ait dit [et] affermé estre vrais.
+# text = Qu' en leurs plaideries, soit en demandant ou en defendant, en repliquant ny autrement, ils ne proposeront ne controuueront aucuns faicts, que leur maistre ou son attourné ne leur ait dit et affermé estre vrais.
 1	Qu'	que	SCONJ	CONJS	_	20	mark	_	prpos=Cs
 2	en	en	ADP	P	_	4	case	_	join=left|prpos=S
 3	leurs	leur	DET	DZ	Poss=Yes	4	det	_	prpos=Ds
@@ -14751,7 +14751,7 @@
 
 # sent_id = 1578_Terrien_1_6_9_5_1
 # source = Terrien
-# text = Qu' en conseilla[n]t, ny en plaidant, ils ne proposeront ny alléguero[n]t faict, coustume, vsage, registre, ou autre chose, s' ils ne croyent que ce soit raison [et] droiture.
+# text = Qu' en conseillant, ny en plaidant, ils ne proposeront ny allégueront faict, coustume, vsage, registre, ou autre chose, s' ils ne croyent que ce soit raison et droiture.
 1	Qu'	que	SCONJ	CONJS	_	11	mark	_	prpos=Cs
 2	en	en	ADP	P	_	3	mark	_	join=left|prpos=S
 3	conseillant	conseiller	VERB	VG	Tense=Pres|VerbForm=Part	11	advcl	_	prpos=Ga|SpaceAfter=No|wordform=conseilla[n]t
@@ -14821,7 +14821,7 @@
 
 # sent_id = 1578_Terrien_1_6_9_7_1
 # source = Terrien
-# text = Que pour quelconque cause tant soit grande, de quelconque personne ils ne prendront pour leur salaire, outre trente liures tournois, [et] de moindre, au dessous iuste [et] raisonnable portion, selon la quantité des causes, [et] les facultez des personnes.
+# text = Que pour quelconque cause tant soit grande, de quelconque personne ils ne prendront pour leur salaire, outre trente liures tournois, et de moindre, au dessous iuste et raisonnable portion, selon la quantité des causes, et les facultez des personnes.
 1	Que	que	SCONJ	CONJS	_	14	mark	_	prpos=Cs
 2	pour	pour	ADP	P	_	4	case	_	prpos=S
 3	quelconque	quelconque	DET	D	Definite=Ind	4	det	_	prpos=Di
@@ -14995,7 +14995,7 @@
 
 # sent_id = 1578_Terrien_1_6_10_1_1
 # source = Terrien
-# text = Voyez cy dessus au titre, De cess. [et] transp.
+# text = Voyez cy dessus au titre, De cess. et transp.
 1	Voyez	voir	VERB	VJ	Number=Plur|Person=2|VerbForm=Fin	0	root	_	prpos=Vvc
 2	cy	ci	ADV	ADV	_	1	advmod	_	prpos=Rg
 3	dessus	dessus	ADV	ADV	_	2	advmod	_	prpos=Rg
@@ -15060,7 +15060,7 @@
 
 # sent_id = 1578_Terrien_1_6_11_1_3
 # source = Terrien
-# text = Telle est l' opinio[n] de la glo. in l. fi. C. de postul.
+# text = Telle est l' opinion de la glo. in l. fi. C. de postul.
 # tags = latin
 1	Telle	tel	ADJ	ADJ	_	0	root	_	prpos=Ag
 2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	1	cop	_	prpos=Vuc
@@ -15079,7 +15079,7 @@
 
 # sent_id = 1578_Terrien_1_6_11_1_4
 # source = Terrien
-# text = Par semblable raison ie dy qu' vn conseil volant, ou opinion donnée en vne matiere, ne priue pas vn Aduocat d' assister au iugeme[n]t d' icelle pour y opiner: s' il n' a esté retenu du conseil en ladite matiere, ou s' il n' y a seruy d' Aduocat.
+# text = Par semblable raison ie dy qu' vn conseil volant, ou opinion donnée en vne matiere, ne priue pas vn Aduocat d' assister au iugement d' icelle pour y opiner: s' il n' a esté retenu du conseil en ladite matiere, ou s' il n' y a seruy d' Aduocat.
 1	Par	par	ADP	P	_	3	case	_	prpos=S
 2	semblable	semblable	ADJ	ADJ	_	3	amod	_	prpos=Ag
 3	raison	raison	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc
@@ -15141,7 +15141,7 @@
 
 # sent_id = 1578_Terrien_1_6_11_1_5
 # source = Terrien
-# text = Car co[m]me dit cy dessus la Coustume, on peut changer d' Aduocat.
+# text = Car comme dit cy dessus la Coustume, on peut changer d' Aduocat.
 1	Car	car	CCONJ	CONJO	_	10	cc	_	prpos=Cc
 2	comme	comme	SCONJ	CONJS	_	3	mark	_	prpos=Cs|wordform=co[m]me
 3	dit	dire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	10	advcl	_	prpos=Vvc
@@ -15159,7 +15159,7 @@
 
 # sent_id = 1578_Terrien_1_6_12_1_1
 # source = Terrien
-# text = S' offrent aucunesfois quelq[ue]s deliberatio[n]s sur vn ou plusieurs faicts couchez par escrit, qu' ils appelent vulgaireme[n]t, cas posez, sans y no[m]mer [et] designer aucune personne, [et] sans pieces [et] escritures
+# text = S' offrent aucunesfois quelques deliberations sur vn ou plusieurs faicts couchez par escrit, qu' ils appelent vulgairement, cas posez, sans y nommer et designer aucune personne, et sans pieces et escritures
 1	S'	si	ADV	ADV	_	2	advmod	_	prpos=Rg
 2	offrent	offrir	VERB	VJ	Number=Plur|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vvc
 3	aucunesfois	aucunefois	ADV	ADV	_	2	advmod	_	prpos=Rg
@@ -15198,7 +15198,7 @@
 
 # sent_id = 1578_Terrien_1_6_12_1_2
 # source = Terrien
-# text = [et] pratique[n]t les co[n]sulta[n]s, les faire signer aux Aduocats aya[n]s sur ce do[n]né aduis, pour les priuer par ce moye[n], de postuler ou cognoistre de cause pour leur partie aduerse: co[m]bie[n] qu' ils n' aye[n]t donné à entendre la teneur des pieces [et] les circonstances du faict, [et] encores qu' ils pre[n]nent autres Aduocats pour la charge de leur cause, sans plus eux addresser à lesdits Aduocats signez.
+# text = et pratiquent les consultans, les faire signer aux Aduocats ayans sur ce donné aduis, pour les priuer par ce moyen, de postuler ou cognoistre de cause pour leur partie aduerse: combien qu' ils n' ayent donné à entendre la teneur des pieces et les circonstances du faict, et encores qu' ils pre[n]nent autres Aduocats pour la charge de leur cause, sans plus eux addresser à lesdits Aduocats signez.
 1	et	et	CCONJ	CONJO	_	2	cc	_	prpos=Cc|wordform=[et]
 2	pratiquent	pratiquer	VERB	VJ	Number=Plur|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc|wordform=pratique[n]t
 3	les	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -15283,7 +15283,7 @@
 
 # sent_id = 1578_Terrien_1_6_12_1_3
 # source = Terrien
-# text = Aussi que le plus souuent lors des deliberations, les causes ne sont encores penda[n]tes en la Cour: qui est vne vraye impostuler [et] surprinse, qui ne peut [et] ne doit preiudicier les Aduocats, [et] les priuer de deliberer [et] postuler pour ladite partie.
+# text = Aussi que le plus souuent lors des deliberations, les causes ne sont encores pendantes en la Cour: qui est vne vraye impostuler et surprinse, qui ne peut et ne doit preiudicier les Aduocats, et les priuer de deliberer et postuler pour ladite partie.
 1	Aussi	aussi	ADV	ADV	ExtPos=SCONJ	16	mark	_	prpos=Rg
 2	que	que	SCONJ	CONJS	_	1	fixed	_	prpos=Cs
 3	le	le	DET	D	Definite=Def|PronType=Art	5	det	_	prpos=Da
@@ -15337,7 +15337,7 @@
 
 # sent_id = 1578_Terrien_1_6_13_2_1
 # source = Terrien
-# text = La difference d' entre les attournez, [et] les Procureurs est telle, que les attournez ne seruent qu' à la cause ou causes specifiees en l' attournee.
+# text = La difference d' entre les attournez, et les Procureurs est telle, que les attournez ne seruent qu' à la cause ou causes specifiees en l' attournee.
 1	La	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
 2	difference	différence	NOUN	NCS	Number=Sing	12	nsubj	_	prpos=Nc
 3	d'	de	ADP	P	_	6	case	_	prpos=S
@@ -15370,7 +15370,7 @@
 
 # sent_id = 1578_Terrien_1_6_13_2_2
 # source = Terrien
-# text = Et ordinaireme[n]t sont establis en iugement à la querelle meuë, icelle offrant.
+# text = Et ordinairement sont establis en iugement à la querelle meuë, icelle offrant.
 1	Et	et	CCONJ	CONJO	_	4	cc	_	prpos=Cc
 2	ordinairement	ordinairement	ADV	ADV	_	4	advmod	_	prpos=Rg|wordform=ordinaireme[n]t
 3	sont	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
@@ -15388,7 +15388,7 @@
 
 # sent_id = 1578_Terrien_1_6_13_2_3
 # source = Terrien
-# text = Combien qu' ils se puissent faire aussi bien à querelles à mouuoir vers tel [et] tel, à plaider en tel siege.
+# text = Combien qu' ils se puissent faire aussi bien à querelles à mouuoir vers tel et tel, à plaider en tel siege.
 1	Combien	combien	ADV	ADV	ExtPos=SCONJ	5	mark	_	prpos=Rg
 2	qu'	que	SCONJ	CONJS	_	1	fixed	_	prpos=Cs
 3	ils	il	PRON	PRO	PronType=Prs	5	nsubj	_	join=left|prpos=Pp
@@ -15415,7 +15415,7 @@
 
 # sent_id = 1578_Terrien_1_6_13_2_4
 # source = Terrien
-# text = Et n' a plus de lieu ce que la Coustume dit en ce mesme chapitre, qu' o[n] ne peut faire attournee en derriere de sa partie aduerse.
+# text = Et n' a plus de lieu ce que la Coustume dit en ce mesme chapitre, qu' on ne peut faire attournee en derriere de sa partie aduerse.
 1	Et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc
 2	n'	ne	ADV	NEG	_	3	advmod	_	prpos=Rp
 3	a	avoir	VERB	AJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vuc
@@ -15448,7 +15448,7 @@
 
 # sent_id = 1578_Terrien_1_6_13_2_5
 # source = Terrien
-# text = Et les Procureurs sont establis par lettres [et] instrume[n]s passez par deuant Tabellions ou Notaires, pour fonder pour autruy en toutes actio[n]s [et] querelles meuës [et] à mouuoir, soit en demandant ou en defendant.
+# text = Et les Procureurs sont establis par lettres et instrumens passez par deuant Tabellions ou Notaires, pour fonder pour autruy en toutes actions et querelles meuës et à mouuoir, soit en demandant ou en defendant.
 1	Et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc
 2	les	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	Procureurs	procureur	NOUN	NCPL	Number=Plur	5	nsubj	_	prpos=Nc
@@ -15573,7 +15573,7 @@
 
 # sent_id = 1578_Terrien_1_6_13_2_9
 # source = Terrien
-# text = Et sont le Procureurs reputez co[m]me Aduocats: [et] estoyent appelez anciennement (comme dit monsieur Budé) cognitores causarum.
+# text = Et sont le Procureurs reputez comme Aduocats: et estoyent appelez anciennement (comme dit monsieur Budé) cognitores causarum.
 # tags = latin
 1	Et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc
 2	sont	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	5	aux:pass	_	prpos=Vuc
@@ -15599,7 +15599,7 @@
 
 # sent_id = 1578_Terrien_1_6_13_2_10
 # source = Terrien
-# text = L' office desquels n' est pas vil, co[m]me est l' office de ceux que le droict ciuil appelle Procureurs: qui ne sont pas comme les Procureurs iurez pour prendre la charge des causes: mais sont receueurs seulement, ou administrateurs des biens d' vne maison, n' estans establis [et] ordonnez par Iustice.
+# text = L' office desquels n' est pas vil, comme est l' office de ceux que le droict ciuil appelle Procureurs: qui ne sont pas comme les Procureurs iurez pour prendre la charge des causes: mais sont receueurs seulement, ou administrateurs des biens d' vne maison, n' estans establis et ordonnez par Iustice.
 1	L'	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
 2	office	office	NOUN	NCS	Number=Sing	8	nsubj	_	join=left|prpos=Nc
 3-4	desquels	_	_	_	_	_	_	_	_
@@ -15666,7 +15666,7 @@
 
 # sent_id = 1578_Terrien_1_6_14_1_1
 # source = Terrien
-# text = Les droicts ont tousiours mis difference entre le Procureur aux causes, [et] le Procureur aux negoces: l' vne l. si procuratorem .§. si quis mandauerit ff. mand. où le Procureur aux causes auant la contestation ne peut substituer, bien le peut faire le negotiateur.
+# text = Les droicts ont tousiours mis difference entre le Procureur aux causes, et le Procureur aux negoces: l' vne l. si procuratorem .§. si quis mandauerit ff. mand. où le Procureur aux causes auant la contestation ne peut substituer, bien le peut faire le negotiateur.
 # tags = latin
 1	Les	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
 2	droicts	droit	NOUN	NCPL	Number=Plur	5	nsubj	_	prpos=Nc
@@ -15725,7 +15725,7 @@
 
 # sent_id = 1578_Terrien_1_6_14_1_2
 # source = Terrien
-# text = L' autre in c. ex parte decani de rescript. pour le faict de la reuocatio[n] 3 inc. fin. §. vlt. de procur. in vi. à l' aage requis à l' un [et] à l' autre.
+# text = L' autre in c. ex parte decani de rescript. pour le faict de la reuocation 3 inc. fin. §. vlt. de procur. in vi. à l' aage requis à l' un et à l' autre.
 # tags = latin
 1	L'	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
 2	autre	autre	PRON	PRO	PronType=Ind	0	root	_	join=left|prpos=Pi
@@ -15766,7 +15766,7 @@
 
 # sent_id = 1578_Terrien_1_6_14_1_3
 # source = Terrien
-# text = De les auoir depuis erigez quasi co[m]me personnes publiques, hoc est, pour seruir à un co[m]mun, [et] à eux fait prester le serme[n]t à ceste fin, cela ne leur donne beaucoup d' aua[n]tage.
+# text = De les auoir depuis erigez quasi comme personnes publiques, hoc est, pour seruir à un commun, et à eux fait prester le serment à ceste fin, cela ne leur donne beaucoup d' auantage.
 # tags = latin
 1	De	de	ADP	P	_	5	mark	_	prpos=S
 2	les	il	PRON	PRO	PronType=Prs	5	obj	_	prpos=Pp
@@ -15809,7 +15809,7 @@
 
 # sent_id = 1578_Terrien_1_6_14_1_4
 # source = Terrien
-# text = Autant en est fait à l' endroit d' un Tabellion de villages, d' vn Bedeau, d' un Sergent, [et] d' autres de moindre [et] sordide qualité.
+# text = Autant en est fait à l' endroit d' un Tabellion de villages, d' vn Bedeau, d' un Sergent, et d' autres de moindre et sordide qualité.
 1	Autant	autant	ADV	Q	_	4	advmod	_	prpos=Rg
 2	en	en	PRON	PRO	PronType=Prs	4	obl	_	prpos=Pp
 3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
@@ -15843,7 +15843,7 @@
 
 # sent_id = 1578_Terrien_1_6_14_1_5
 # source = Terrien
-# text = Tellement que nonobstant ce pretendu serment, [et] charge de Procureur commun, l' opinion de tous les Docteurs est en cela toute vne: que la personne noble prenant charge de Procureur aux causes, il perd sa noblesse: vt pote cum sit vile officium, imò infamissima vilitas, vt est text. in l. si quis procurationem. [et] l. vniuersos, [et] ibi glo. [et] doct. C. de decurio, lib. x. iusques là que Jan Fab. le grand praticien de France, tient pour un poinct resolu, que la procuration est chose infame [et] vile.
+# text = Tellement que nonobstant ce pretendu serment, et charge de Procureur commun, l' opinion de tous les Docteurs est en cela toute vne: que la personne noble prenant charge de Procureur aux causes, il perd sa noblesse: vt pote cum sit vile officium, imò infamissima vilitas, vt est text. in l. si quis procurationem. et l. vniuersos, et ibi glo. et doct. C. de decurio, lib. x. iusques là que Jan Fab. le grand praticien de France, tient pour un poinct resolu, que la procuration est chose infame et vile.
 # tags = latin
 1	Tellement	tellement	ADV	ADV	ExtPos=SCONJ	24	mark	_	prpos=Rg
 2	que	que	SCONJ	CONJS	_	1	fixed	_	prpos=Cs
@@ -15951,7 +15951,7 @@
 
 # sent_id = 1578_Terrien_1_6_14_1_6
 # source = Terrien
-# text = Vray que aucuns ont voulu faire distinction pour le regard des Procureurs des Cours souueraines, [et] des personnes illustres, appuyez sur vn supposé tesmoignage de Bald. in rub. de offi. iudic.
+# text = Vray que aucuns ont voulu faire distinction pour le regard des Procureurs des Cours souueraines, et des personnes illustres, appuyez sur vn supposé tesmoignage de Bald. in rub. de offi. iudic.
 # tags = latin
 1	Vray	vrai	ADJ	ADJ	_	0	root	_	prpos=Ag
 2	que	que	SCONJ	CONJS	_	5	mark	_	prpos=Cs
@@ -15996,7 +15996,7 @@
 
 # sent_id = 1578_Terrien_1_6_14_1_7
 # source = Terrien
-# text = Mais il les faut renuoyer à M. Tiraqueau en son traité De nobilitate, au chap. Au procuratoris offic. derogat nobilitati. nu. 4. [et] seq.
+# text = Mais il les faut renuoyer à M. Tiraqueau en son traité De nobilitate, au chap. Au procuratoris offic. derogat nobilitati. nu. 4. et seq.
 # tags = latin
 1	Mais	mais	CCONJ	CONJO	_	4	cc	_	prpos=Cc
 2	il	il	PRON	PRO	PronType=Prs	4	expl	_	prpos=Pp
@@ -16029,7 +16029,7 @@
 
 # sent_id = 1578_Terrien_1_6_15_2_1
 # source = Terrien
-# text = De la reduction du nombre des Procureurs, voyez cy apres au liu. De la Cour de Parlement, au tit. Des Aduocats [et] Procureurs communs, art. 12.
+# text = De la reduction du nombre des Procureurs, voyez cy apres au liu. De la Cour de Parlement, au tit. Des Aduocats et Procureurs communs, art. 12.
 1	De	de	ADP	P	_	3	case	_	prpos=S
 2	la	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	reduction	réduction	NOUN	NCS	Number=Sing	11	obl	_	prpos=Nc
@@ -16073,7 +16073,7 @@
 
 # sent_id = 1578_Terrien_1_8_3_1_1_2
 # source = Terrien
-# text = Pour ce que la Coustume auoit permis que les delais les vns sont deniez, où n' y a droite cause d' excusation, comme sont les defauts, [et] les fausses exoines: les autres ottroyez, qui ont excusation d' apperte necessité: à ceste cause elle appelle defaut delayement de plet.
+# text = Pour ce que la Coustume auoit permis que les delais les vns sont deniez, où n' y a droite cause d' excusation, comme sont les defauts, et les fausses exoines: les autres ottroyez, qui ont excusation d' apperte necessité: à ceste cause elle appelle defaut delayement de plet.
 1	Pour	pour	ADP	P	ExtPos=SCONJ	7	mark	_	prpos=S
 2	ce	ce	PRON	PRO	PronType=Dem	1	fixed	_	join=left|prpos=Pd
 3	que	que	SCONJ	CONJS	_	1	fixed	_	prpos=Cs
@@ -16132,7 +16132,7 @@
 
 # sent_id = 1578_Terrien_1_8_3_1_3
 # source = Terrien
-# text = Toutesfois selon la commune maniere de parler nous ne mettons les defauts au nombre des delais: [et] appellons delais seulement ceux qui sont demandez, [et] ottroyez par Iustice.
+# text = Toutesfois selon la commune maniere de parler nous ne mettons les defauts au nombre des delais: et appellons delais seulement ceux qui sont demandez, et ottroyez par Iustice.
 1	Toutesfois	toutefois	ADV	ADV	_	10	advmod	_	prpos=Rg
 2	selon	selon	ADP	P	_	5	case	_	prpos=S
 3	la	le	DET	D	Definite=Def|PronType=Art	5	det	_	prpos=Da
@@ -16204,7 +16204,7 @@
 
 # sent_id = 1578_Terrien_1_8_5_1_1
 # source = Terrien
-# text = L' ordonnance publiee en la Cour en l' an 1507. artic. 241. a donné ordre [et] reglement sur tels defauts [et] comparences: enioignant à tous Iuges, auant qu' eux leuer de leurs sieges ils facent lire [et] publier tous les defauts qui par eux auront esté baillez ledit iour, [et] que ceux qui seront lors trouuez presens soyent rabatus, sans payer aucune chose, prenant appointement de proceder en cause.
+# text = L' ordonnance publiee en la Cour en l' an 1507. artic. 241. a donné ordre et reglement sur tels defauts et comparences: enioignant à tous Iuges, auant qu' eux leuer de leurs sieges ils facent lire et publier tous les defauts qui par eux auront esté baillez ledit iour, et que ceux qui seront lors trouuez presens soyent rabatus, sans payer aucune chose, prenant appointement de proceder en cause.
 1	L'	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
 2	ordonnance	ordonnance	NOUN	NCS	Number=Sing	14	nsubj	_	join=left|prpos=Nc
 3	publiee	publier	VERB	VPP	Tense=Past|VerbForm=Part	2	acl	_	prpos=Ge
@@ -16283,7 +16283,7 @@
 
 # sent_id = 1578_Terrien_1_8_5_1_2
 # source = Terrien
-# text = Ce fait, [et] les Iuges leuez, ne seront plus lesdits defauts rabatus, sans cause legitime, [et] sans appeler les parties qui les auront obtenus: [et] sans que celuy qui aura obtenu ledit defaut, puisse estre mis en defaut cedit iour.
+# text = Ce fait, et les Iuges leuez, ne seront plus lesdits defauts rabatus, sans cause legitime, et sans appeler les parties qui les auront obtenus: et sans que celuy qui aura obtenu ledit defaut, puisse estre mis en defaut cedit iour.
 1	Ce	ce	PRON	PRO	PronType=Dem	2	nsubj	_	prpos=Pd
 2	fait	fait	VERB	VPP	Tense=Past|VerbForm=Part	14	advcl	_	prpos=Ge|SpaceAfter=No
 3	,	,	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
@@ -16350,7 +16350,7 @@
 
 # sent_id = 1578_Terrien_1_8_5_1_4
 # source = Terrien
-# text = mais par la faute des Iuges en cest endroit on voit chacun iour vne infinité d' abus, comme defaut sur defaut, [et] l' vn contre l' autre en vne mesme expedition.
+# text = mais par la faute des Iuges en cest endroit on voit chacun iour vne infinité d' abus, comme defaut sur defaut, et l' vn contre l' autre en vne mesme expedition.
 1	mais	mais	CCONJ	CONJO	_	12	cc	_	prpos=Cc
 2	par	par	ADP	P	_	4	case	_	prpos=S
 3	la	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -16390,7 +16390,7 @@
 
 # sent_id = 1578_Terrien_1_8_6_1_1
 # source = Terrien
-# text = C' est à sçauoir quand en la relation du Sergent n' y a aucuns records ou tesmoins inscrits, comme le requiert l' ordo[n]nance cy dessus mise au titre De adiournement.
+# text = C' est à sçauoir quand en la relation du Sergent n' y a aucuns records ou tesmoins inscrits, comme le requiert l' ordonnance cy dessus mise au titre De adiournement.
 1	C'	ce	PRON	PRO	PronType=Dem	2	nsubj	_	prpos=Pd
 2	est	être	VERB	EJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vuc
 3	à	à	ADP	P	_	4	mark	_	prpos=S
@@ -16510,7 +16510,7 @@
 
 # sent_id = 1578_Terrien_1_8_6_1_6
 # source = Terrien
-# text = Sans laquelle inscriptio[n] on ne seroit receu à prouuer le co[n]traire de la relation, encores qu' on le vousist prouuer par les tesmoins denommez en icelle.
+# text = Sans laquelle inscription on ne seroit receu à prouuer le contraire de la relation, encores qu' on le vousist prouuer par les tesmoins denommez en icelle.
 1	Sans	sans	ADP	P	_	3	case	_	prpos=S
 2	laquelle	lequel	DET	WD	PronType=Rel	3	det	_	prpos=Dr
 3	inscription	inscription	NOUN	NCS	Number=Sing	7	obl	_	prpos=Nc|wordform=inscriptio[n]
@@ -16542,7 +16542,7 @@
 
 # sent_id = 1578_Terrien_1_8_6_1_7
 # source = Terrien
-# text = Car alors foy est adioustee à la relation du Sergent ayant serme[n]t à Iustice.
+# text = Car alors foy est adioustee à la relation du Sergent ayant serment à Iustice.
 1	Car	car	CCONJ	CONJO	_	5	cc	_	prpos=Cc
 2	alors	alors	ADV	ADV	_	5	advmod	_	prpos=Rg
 3	foy	foi	NOUN	NCS	Number=Sing	5	nsubj	_	prpos=Nc
@@ -16595,7 +16595,7 @@
 
 # sent_id = 1578_Terrien_1_8_6_1_9
 # source = Terrien
-# text = [et] en ce cas les despens du defaut pende[n]t en principal.
+# text = et en ce cas les despens du defaut pendent en principal.
 1	et	et	CCONJ	CONJO	_	10	cc	_	prpos=Cc|wordform=[et]
 2	en	en	ADP	P	_	4	case	_	prpos=S
 3	ce	ce	DET	D	PronType=Dem	4	det	_	prpos=Dd
@@ -16613,7 +16613,7 @@
 
 # sent_id = 1578_Terrien_1_8_6_1_10
 # source = Terrien
-# text = Mais le defaut doit estre declaré nul, [et] mal prins, quand il n' appert d' assignatio[n] vaillable: ou qu' il est prins à iour qu' on ne doit tenir iurisdiction, ou hors le lieu de la iurisdiction: ou deuant celuy qui n' est vray Iuge.
+# text = Mais le defaut doit estre declaré nul, et mal prins, quand il n' appert d' assignation vaillable: ou qu' il est prins à iour qu' on ne doit tenir iurisdiction, ou hors le lieu de la iurisdiction: ou deuant celuy qui n' est vray Iuge.
 1	Mais	mais	CCONJ	CONJO	_	4	cc	_	prpos=Cc
 2	le	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	defaut	défaut	NOUN	NCS	Number=Sing	4	nsubj	_	prpos=Nc
@@ -16833,7 +16833,7 @@
 
 # sent_id = 1578_Terrien_1_8_7_1_3
 # source = Terrien
-# text = [et] est pratiqué en ce pays.
+# text = et est pratiqué en ce pays.
 1	et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc|wordform=[et]
 2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	prpos=Vuc
 3	pratiqué	pratiquer	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
@@ -16875,7 +16875,7 @@
 
 # sent_id = 1578_Terrien_1_8_7_1_5
 # source = Terrien
-# text = comme qua[n]d vn porteur de doleance se laisse defaillir il est mis en amende de sa doleance: ou vn executant, ou opposant contre vne execution, [et] autres cas semblables.
+# text = comme quand vn porteur de doleance se laisse defaillir il est mis en amende de sa doleance: ou vn executant, ou opposant contre vne execution, et autres cas semblables.
 1	comme	comme	SCONJ	CONJS	_	8	mark	_	prpos=Cs
 2	quand	quand	SCONJ	CONJS	_	8	mark	_	prpos=Cs|wordform=qua[n]d
 3	vn	un	DET	D	Definite=Ind|PronType=Art	4	det	_	prpos=Dn
@@ -16931,7 +16931,7 @@
 
 # sent_id = 1578_Terrien_1_8_8_1_2
 # source = Terrien
-# text = Par lequel defaut le defendeur obtient congé de Cour, [et] attaint à s' en eller deslié de la clameur ou action du demandeur, auec ses despens.
+# text = Par lequel defaut le defendeur obtient congé de Cour, et attaint à s' en eller deslié de la clameur ou action du demandeur, auec ses despens.
 1	Par	par	ADP	P	_	3	case	_	prpos=S
 2	lequel	lequel	DET	WD	PronType=Rel	3	det	_	prpos=Dr
 3	defaut	défaut	NOUN	NCS	Number=Sing	6	obl	_	prpos=Nc
@@ -16979,7 +16979,7 @@
 
 # sent_id = 1578_Terrien_1_8_8_1_4
 # source = Terrien
-# text = car ce terme, defendu, emporteroit gain [et] effect de toute la cause.
+# text = car ce terme, defendu, emporteroit gain et effect de toute la cause.
 1	car	car	CCONJ	CONJO	_	7	cc	_	prpos=Cc
 2	ce	ce	DET	D	PronType=Dem	3	det	_	prpos=Dd
 3	terme	terme	NOUN	NCS	Number=Sing	7	nsubj	_	prpos=Nc|SpaceAfter=No
@@ -16998,7 +16998,7 @@
 
 # sent_id = 1578_Terrien_1_8_8_1_5
 # source = Terrien
-# text = Mais par ce terme, deslié, n' est entendu autre chose, sinon absolution de l' instance, [et] que le demandeur sera encheu de sa clameur, [et] en pourra prendre vne autre, s' il vient en temps de ce faire, comme il a esté dit au titre, De bref de nouuelle dessaisine .§. 7.
+# text = Mais par ce terme, deslié, n' est entendu autre chose, sinon absolution de l' instance, et que le demandeur sera encheu de sa clameur, et en pourra prendre vne autre, s' il vient en temps de ce faire, comme il a esté dit au titre, De bref de nouuelle dessaisine .§. 7.
 1	Mais	mais	CCONJ	CONJO	_	10	cc	_	prpos=Cc
 2	par	par	ADP	P	_	4	case	_	prpos=S
 3	ce	ce	DET	D	PronType=Dem	4	det	_	prpos=Dd
@@ -17154,7 +17154,7 @@
 
 # sent_id = 1578_Terrien_1_8_12_1_1
 # source = Terrien
-# text = Combien qu' il ait esté tousiours vsité [et] pratiqué en Normandie, qu' és matieres introduites en siege de plets ou d' assise, [et] non pas en extraordinaire, les defauts se continuent de siege en siege sans nouuel adiournement, en vertu de la clause qu' on a accoustumé d' apposer à les adiournemens,
+# text = Combien qu' il ait esté tousiours vsité et pratiqué en Normandie, qu' és matieres introduites en siege de plets ou d' assise, et non pas en extraordinaire, les defauts se continuent de siege en siege sans nouuel adiournement, en vertu de la clause qu' on a accoustumé d' apposer à les adiournemens,
 1	Combien	combien	ADV	ADV	ExtPos=SCONJ	7	mark	_	prpos=Rg
 2	qu'	que	SCONJ	CONJS	_	1	fixed	_	prpos=Cs
 3	il	il	PRON	PRO	PronType=Prs	7	expl	_	join=left|prpos=Pp
@@ -17217,7 +17217,7 @@
 
 # sent_id = 1578_Terrien_1_8_12_1_2
 # source = Terrien
-# text = c' est à sçauoir qu' on fait assignation aux prochains plets, ou assises, [et] autres ensuyuans tant que mestier sera:
+# text = c' est à sçauoir qu' on fait assignation aux prochains plets, ou assises, et autres ensuyuans tant que mestier sera:
 1	c'	ce	PRON	PRO	PronType=Dem	2	nsubj	_	prpos=Pd
 2	est	être	VERB	EJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vuc
 3	à	à	ADP	P	_	4	mark	_	prpos=S
@@ -17246,7 +17246,7 @@
 
 # sent_id = 1578_Terrien_1_8_12_1_3
 # source = Terrien
-# text = toutesfois il semble que l' intention de ceste ordonnance soit, qu' à chacun defaut y ait adiournement, pour estre bon [et] vallable, [et] attraire sa partie en contumace, ou amende par iugement, qui est autant à dire: sans faire distinction si l' assignation est faite à iour ordinaire ou extraordinaire.
+# text = toutesfois il semble que l' intention de ceste ordonnance soit, qu' à chacun defaut y ait adiournement, pour estre bon et vallable, et attraire sa partie en contumace, ou amende par iugement, qui est autant à dire: sans faire distinction si l' assignation est faite à iour ordinaire ou extraordinaire.
 1	toutesfois	toutefois	ADV	ADV	_	3	advmod	_	prpos=Rg
 2	il	il	PRON	PRO	PronType=Prs	3	expl	_	prpos=Pp
 3	semble	sembler	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -17379,7 +17379,7 @@
 
 # sent_id = 1578_Terrien_1_8_14_1_1
 # source = Terrien
-# text = Comme si le terme n' estoit suffisant, [et] que la matiere fust de poix, [et] ne requist prompte vuide ou expedition.
+# text = Comme si le terme n' estoit suffisant, et que la matiere fust de poix, et ne requist prompte vuide ou expedition.
 1	Comme	comme	SCONJ	CONJS	_	7	mark	_	prpos=Cs
 2	si	si	SCONJ	CONJS	_	7	mark	_	prpos=Cs
 3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -17407,7 +17407,7 @@
 
 # sent_id = 1578_Terrien_1_8_15_1_1
 # source = Terrien
-# text = Declinatoires, [et] peremptoires: sinon que le Iuge fust incompetant, quia per contumaciam non fit prorogatio in Iudicem incompetentem Rebuf.
+# text = Declinatoires, et peremptoires: sinon que le Iuge fust incompetant, quia per contumaciam non fit prorogatio in Iudicem incompetentem Rebuf.
 # tags = latin
 1	Declinatoires	déclinatoire	ADJ	ADJ	_	0	root	_	prpos=Ag|SpaceAfter=No
 2	,	,	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
@@ -17470,7 +17470,7 @@
 
 # sent_id = 1578_Terrien_1_8_15_1_3
 # source = Terrien
-# text = Et s' il se charge, il sera entier en toutes ses raisons pere[m]ptoires seuleme[n]t: et sera priué de toutes exceptions dilatoires et coustumieres: tellement que par icelles ne pourra plus empescher que le procez n' ait son cours.
+# text = Et s' il se charge, il sera entier en toutes ses raisons peremptoires seulement: et sera priué de toutes exceptions dilatoires et coustumieres: tellement que par icelles ne pourra plus empescher que le procez n' ait son cours.
 1	Et	et	CCONJ	CONJO	_	9	cc	_	prpos=Cc
 2	s'	si	SCONJ	CONJS	_	5	mark	_	prpos=Cs
 3	il	il	PRON	PRO	PronType=Prs	5	nsubj	_	join=left|prpos=Pp
@@ -17516,7 +17516,7 @@
 
 # sent_id = 1578_Terrien_1_8_16_1_1
 # source = Terrien
-# text = Ces termes, que le defendeur contumax se charge du faict de Iustice, sont assez impropres: veu que esdits defauts [et] contumace il n' y a rien du faict [et] requisition du defendeur:
+# text = Ces termes, que le defendeur contumax se charge du faict de Iustice, sont assez impropres: veu que esdits defauts et contumace il n' y a rien du faict et requisition du defendeur:
 1	Ces	ce	DET	D	PronType=Dem	2	det	_	prpos=Dd
 2	termes	terme	NOUN	NCPL	Number=Plur	18	nsubj	_	prpos=Nc|SpaceAfter=No
 3	,	,	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
@@ -17581,7 +17581,7 @@
 
 # sent_id = 1578_Terrien_1_8_16_1_3
 # source = Terrien
-# text = Toutesfois le defendeur ne seroit receu que de grace, s' il n' auoit lettres, [et] s' il ne refondoit despens.
+# text = Toutesfois le defendeur ne seroit receu que de grace, s' il n' auoit lettres, et s' il ne refondoit despens.
 1	Toutesfois	toutefois	ADV	ADV	_	6	advmod	_	prpos=Rg
 2	le	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	defendeur	défendeur	NOUN	NCS	Number=Sing	6	nsubj	_	prpos=Nc
@@ -17608,7 +17608,7 @@
 
 # sent_id = 1578_Terrien_1_8_17_1_1
 # source = Terrien
-# text = En matieres hereditales il faudroit termer la veuë par iugement, pour faire la preuue, comme il est escrit au titre De bref de fief [et] de gage.
+# text = En matieres hereditales il faudroit termer la veuë par iugement, pour faire la preuue, comme il est escrit au titre De bref de fief et de gage.
 1	En	en	ADP	P	_	2	case	_	prpos=S
 2	matieres	matière	NOUN	NCPL	Number=Plur	5	obl	_	prpos=Nc
 3	hereditales	hérédital	ADJ	ADJ	_	2	amod	_	prpos=Ag
@@ -17784,7 +17784,7 @@
 
 # sent_id = 1578_Terrien_1_8_18_1_5
 # source = Terrien
-# text = Car cest adiourneme[n]t est requis en toutes causes, sinon ès cas où par un seul defaut on obtient gain de cause dont sera tantost parlé: esquels par le mesme acte du defaut on donne la sentence.
+# text = Car cest adiournement est requis en toutes causes, sinon ès cas où par un seul defaut on obtient gain de cause dont sera tantost parlé: esquels par le mesme acte du defaut on donne la sentence.
 1	Car	car	CCONJ	CONJO	_	5	cc	_	prpos=Cc
 2	cest	ce	DET	D	PronType=Dem	3	det	_	prpos=Dd
 3	adiournement	ajournement	NOUN	NCS	Number=Sing	5	nsubj	_	prpos=Nc|wordform=adiourneme[n]t
@@ -17833,7 +17833,7 @@
 
 # sent_id = 1578_Terrien_1_8_18_1_6
 # source = Terrien
-# text = D' aua[n]tage dit monsieur Papon, qu' il faut derechef appeler [et] adiourner le defaillant à voir produire [et] iurer tesmoins (combien que ceste ordonnance ne le die) ainsi qu' il le faut appeler [et] adiourner, quand la preuue se fait par lettres, pour les voir produire, [et] bailler co[n]tredits, [et] qu' autrement le iugement seroit nul.
+# text = D' auantage dit monsieur Papon, qu' il faut derechef appeler et adiourner le defaillant à voir produire et iurer tesmoins (combien que ceste ordonnance ne le die) ainsi qu' il le faut appeler et adiourner, quand la preuue se fait par lettres, pour les voir produire, et bailler contredits, et qu' autrement le iugement seroit nul.
 1	D'	de	ADP	P	_	2	case	_	prpos=S
 2	auantage	avantage	NOUN	NCS	Number=Sing	3	obl	_	join=left|prpos=Nc|wordform=aua[n]tage
 3	dit	dire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -18001,7 +18001,7 @@
 
 # sent_id = 1578_Terrien_1_8_19_1_3
 # source = Terrien
-# text = [et] est dit que l' execution tirera outre, [et] sera faite [et] parfaite.
+# text = et est dit que l' execution tirera outre, et sera faite et parfaite.
 1	et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc|wordform=[et]
 2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	prpos=Vuc
 3	dit	dire	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
@@ -18067,7 +18067,7 @@
 
 # sent_id = 1578_Terrien_1_8_19_1_5
 # source = Terrien
-# text = Quand le demandeur pour la preuue de sa demande se rapporte au serment de sa partie, par un seul defaut bien prins [et] obtenu par adiournement peremptoire [et] par intimation accoustumee, le serment est referé au dema[n]deur.
+# text = Quand le demandeur pour la preuue de sa demande se rapporte au serment de sa partie, par un seul defaut bien prins et obtenu par adiournement peremptoire et par intimation accoustumee, le serment est referé au demandeur.
 1	Quand	quand	SCONJ	CONJS	_	11	mark	_	prpos=Cs
 2	le	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	demandeur	demandeur	NOUN	NCS	Number=Sing	11	nsubj	_	prpos=Nc
@@ -18115,7 +18115,7 @@
 
 # sent_id = 1578_Terrien_1_8_19_1_6
 # source = Terrien
-# text = Quand on est adiourné pour voir taxer despe[n]s, per un seul defaut est procedé à la taxe.
+# text = Quand on est adiourné pour voir taxer despens, per un seul defaut est procedé à la taxe.
 1	Quand	quand	SCONJ	CONJS	_	4	mark	_	prpos=Cs
 2	on	on	PRON	PRO	PronType=Prs	4	nsubj	_	prpos=Pp
 3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
@@ -18195,7 +18195,7 @@
 
 # sent_id = 1578_Terrien_1_8_19_2_1
 # source = Terrien
-# text = Mais auec la declaration de la contumace on a accoustumé de mettre le co[n]tumax en amende, qui s' appelle amende par iugement, [et] le condamner aux despens des defauts, les autres despens reseruez en diffinitiue.
+# text = Mais auec la declaration de la contumace on a accoustumé de mettre le contumax en amende, qui s' appelle amende par iugement, et le condamner aux despens des defauts, les autres despens reseruez en diffinitiue.
 1	Mais	mais	CCONJ	CONJO	_	10	cc	_	prpos=Cc
 2	auec	avec	ADP	P	_	4	case	_	prpos=S
 3	la	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -18242,7 +18242,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_1_1
 # source = Terrien
-# text = Soit deua[n]t ou apres la co[n]testation.
+# text = Soit deuant ou apres la contestation.
 1	Soit	soit	CCONJ	CONJO	_	2	cc	_	prpos=Cc
 2	deuant	devant	ADP	P	_	6	case	_	prpos=S|wordform=deua[n]t
 3	ou	ou	CCONJ	CONJO	_	4	cc	_	prpos=Cc
@@ -18253,7 +18253,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_1_2
 # source = Terrien
-# text = Et faut noter qu' apres la contestatio[n] il n' y a difference de proceder à la co[n]tumace entre le demandeur [et] le defendeur:
+# text = Et faut noter qu' apres la contestation il n' y a difference de proceder à la contumace entre le demandeur et le defendeur:
 1	Et	et	CCONJ	CONJO	_	2	cc	_	prpos=Cc
 2	faut	falloir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
 3	noter	noter	VERB	VX	_	2	xcomp	_	prpos=Vvn
@@ -18281,7 +18281,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_1_3
 # source = Terrien
-# text = mais par icelle doit estre le defaillant forclos de ce qu' il auoit à faire, [et] le procez iugé en l' estat qu' il est:
+# text = mais par icelle doit estre le defaillant forclos de ce qu' il auoit à faire, et le procez iugé en l' estat qu' il est:
 1	mais	mais	CCONJ	CONJO	_	4	cc	_	prpos=Cc
 2	par	par	ADP	P	_	3	case	_	prpos=S
 3	icelle	icelui	PRON	PRO	PronType=Dem	4	obl	_	prpos=Pd
@@ -18340,7 +18340,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_1_5
 # source = Terrien
-# text = Mais le defendeur sans rie[n] en verifier co[n]tre le demandeur contumax, s' en iroit deslié auec ses despens.
+# text = Mais le defendeur sans rien en verifier contre le demandeur contumax, s' en iroit deslié auec ses despens.
 1	Mais	mais	CCONJ	CONJO	_	15	cc	_	prpos=Cc
 2	le	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	defendeur	défendeur	NOUN	NCS	Number=Sing	15	nsubj	_	prpos=Nc
@@ -18364,7 +18364,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_1_6
 # source = Terrien
-# text = Et si aua[n]t la contumace les parties estoyent en droict, ou la preuue faite d' vne part ou d' autre, il faudroit faire droict selon que le cas y seroit disposé, par condamnation, ou absolution de l' un ou de l' autre, appelant le defaillant pour ouyr droict.
+# text = Et si auant la contumace les parties estoyent en droict, ou la preuue faite d' vne part ou d' autre, il faudroit faire droict selon que le cas y seroit disposé, par condamnation, ou absolution de l' un ou de l' autre, appelant le defaillant pour ouyr droict.
 1	Et	et	CCONJ	CONJO	_	24	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	8	mark	_	prpos=Cs
 3	auant	avant	ADV	ADV	_	5	advmod	_	prpos=Rg|wordform=aua[n]t
@@ -18422,7 +18422,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_1_7
 # source = Terrien
-# text = D'auantage est à noter qu' il est requis que les defauts soyent continuez pour valoir en contumace: [et] qu' vn defaut amendé, [et] dont on a eu despe[n]s n' y peut valoir.
+# text = D'auantage est à noter qu' il est requis que les defauts soyent continuez pour valoir en contumace: et qu' vn defaut amendé, et dont on a eu despens n' y peut valoir.
 1	D'auantage	davantage	ADV	ADV	_	2	advmod	_	prpos=Rg
 2	est	être	VERB	EJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vuc
 3	à	à	ADP	P	_	4	mark	_	prpos=S
@@ -18461,7 +18461,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_1_8
 # source = Terrien
-# text = Et si apres un defaut obtenu, ou errementé sans faire suite, le defaut est couuert, [et] n' en peut- on plus faire suite: mais vaudra de despens en principal.
+# text = Et si apres un defaut obtenu, ou errementé sans faire suite, le defaut est couuert, et n' en peut- on plus faire suite: mais vaudra de despens en principal.
 1	Et	et	CCONJ	CONJO	_	17	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	17	mark	_	prpos=Cs
 3	apres	après	ADP	P	_	5	case	_	prpos=S
@@ -18531,7 +18531,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_1_11
 # source = Terrien
-# text = c' est à dire qu' il les faut refonder, [et] payer contant, quand ils sont liquides, [et] taxez premier, [et] auant qu' estre en rien ouy, ne receu.
+# text = c' est à dire qu' il les faut refonder, et payer contant, quand ils sont liquides, et taxez premier, et auant qu' estre en rien ouy, ne receu.
 1	c'	ce	PRON	PRO	PronType=Dem	2	nsubj	_	prpos=Pd
 2	est	être	VERB	EJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vuc
 3	à	à	ADP	P	_	4	mark	_	prpos=S
@@ -18569,7 +18569,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_2_1
 # source = Terrien
-# text = Or ne faut oublier qu' aucunesfois celuy, qui fait appeler sa partie en Cour, ne demande pas defaut simplement: mais demande lettre de sa presentatio[n], pour luy valoir defaut, presentation, ou ce que de raison.
+# text = Or ne faut oublier qu' aucunesfois celuy, qui fait appeler sa partie en Cour, ne demande pas defaut simplement: mais demande lettre de sa presentation, pour luy valoir defaut, presentation, ou ce que de raison.
 1	Or	or	CCONJ	CONJO	_	3	cc	_	prpos=Cc
 2	ne	ne	ADV	NEG	_	3	advmod	_	prpos=Rp
 3	faut	falloir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -18615,7 +18615,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_2_2
 # source = Terrien
-# text = Et vaut icelle presentation à ce que la partie aduerse qui se compare par apres, ne pusse dema[n]der defaut.
+# text = Et vaut icelle presentation à ce que la partie aduerse qui se compare par apres, ne pusse demander defaut.
 1	Et	et	CCONJ	CONJO	_	2	cc	_	prpos=Cc
 2	vaut	valoir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
 3	icelle	icelui	DET	D	PronType=Dem	4	det	_	prpos=Dd
@@ -18640,7 +18640,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_2_3
 # source = Terrien
-# text = Et se fait icelle presentation volontiers, qua[n]d on est en doute si la partie est adiournee, ou la matiere mise à ce iour.
+# text = Et se fait icelle presentation volontiers, quand on est en doute si la partie est adiournee, ou la matiere mise à ce iour.
 1	Et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc
 2	se	si	PRON	CONJS	_	3	expl	_	prpos=Cs
 3	fait	faire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -18670,7 +18670,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_2_4
 # source = Terrien
-# text = Et en cas s' il appert, que les parties auoye[n]t iour, alors ladite presentation vaudra defaut.
+# text = Et en cas s' il appert, que les parties auoyent iour, alors ladite presentation vaudra defaut.
 1	Et	et	CCONJ	CONJO	_	17	cc	_	prpos=Cc
 2	en	en	ADP	P	_	3	case	_	prpos=S
 3	cas	cas	NOUN	NCS	Number=Sing	17	obl	_	prpos=Nc
@@ -18693,7 +18693,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_2_5
 # source = Terrien
-# text = Aucunesfois vaudra de diligence tant seuleme[n]t: comme à vn porteur de clameur de marché de bourse, qui est tenu soy presenter à chacun siege de iurisdiction, depuis qu' il s' est clamé, iusques à ce qu' il ait attrait sa partie à Cour.
+# text = Aucunesfois vaudra de diligence tant seulement: comme à vn porteur de clameur de marché de bourse, qui est tenu soy presenter à chacun siege de iurisdiction, depuis qu' il s' est clamé, iusques à ce qu' il ait attrait sa partie à Cour.
 1	Aucunesfois	aucunefois	ADV	ADV	_	2	advmod	_	prpos=Rg
 2	vaudra	valoir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
 3	de	de	ADP	P	_	4	case	_	prpos=S
@@ -18745,7 +18745,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_2_6
 # source = Terrien
-# text = Pareillement si on faict adiourner vn homme absent hors du pays par forme de citeme[n]t, l' adiourna[n]t se doit comparoir au prochain siege ensuyua[n]t l' adiourneme[n]t:
+# text = Pareillement si on faict adiourner vn homme absent hors du pays par forme de citement, l' adiournant se doit comparoir au prochain siege ensuyuant l' adiournement:
 1	Pareillement	pareillement	ADV	ADV	_	21	advmod	_	prpos=Rg
 2	si	si	SCONJ	CONJS	_	5	mark	_	prpos=Cs
 3	on	on	PRON	PRO	PronType=Prs	5	nsubj	_	prpos=Pp
@@ -18781,7 +18781,7 @@
 
 # sent_id = 1578_Terrien_1_8_20_2_7
 # source = Terrien
-# text = et pour ce qu' il n' y a point quarante iours entre ledit adiournement, et ledit siege, il se prese[n]te seuleme[n]t.
+# text = et pour ce qu' il n' y a point quarante iours entre ledit adiournement, et ledit siege, il se presente seulement.
 1	et	et	CCONJ	CONJO	_	22	cc	_	prpos=Cc|wordform=[et]
 2	pour	pour	ADP	P	ExtPos=SCONJ	8	mark	_	prpos=S
 3	ce	ce	PRON	PRO	PronType=Dem	2	fixed	_	join=left|prpos=Pd
@@ -18927,7 +18927,7 @@
 
 # sent_id = 1578_Terrien_1_9_1_1_1
 # source = Terrien
-# text = Ainsi que ceux qui sont adiournez, [et] se laissent defaillir au iour à eux a[s]signé, sont appelez contumax, comme desobeissans de venir [et] comparoir en Iustice: pareillement si les adiournez comparent, [et] ne veulent respondre, [et] faire ce qui est de deuoir, ils sont tenus pour contumax:
+# text = Ainsi que ceux qui sont adiournez, et se laissent defaillir au iour à eux a[s]signé, sont appelez contumax, comme desobeissans de venir et comparoir en Iustice: pareillement si les adiournez comparent, et ne veulent respondre, et faire ce qui est de deuoir, ils sont tenus pour contumax:
 1	Ainsi	ainsi	ADV	ADV	ExtPos=SCONJ	20	mark	_	prpos=Rg
 2	que	que	SCONJ	CONJS	_	1	fixed	_	prpos=Cs
 3	ceux	celui	PRON	PRO	PronType=Dem	20	nsubj	_	prpos=Pd
@@ -18988,7 +18988,7 @@
 
 # sent_id = 1578_Terrien_1_9_1_1_2
 # source = Terrien
-# text = [et] est sur eux donné defaut en presence.
+# text = et est sur eux donné defaut en presence.
 1	et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc|wordform=[et]
 2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	5	aux:pass	_	prpos=Vuc
 3	sur	sur	ADP	P	_	4	case	_	prpos=S
@@ -19019,7 +19019,7 @@
 
 # sent_id = 1578_Terrien_1_9_1_1_4
 # source = Terrien
-# text = [et] il vient le Iuge seant, [et] puis s' en va sans attendre que sa cause se soit offerte [et] expediée.
+# text = et il vient le Iuge seant, et puis s' en va sans attendre que sa cause se soit offerte et expediée.
 1	et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc|wordform=[et]
 2	il	il	PRON	PRO	PronType=Prs	3	nsubj	_	prpos=Pp
 3	vient	venir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -19085,7 +19085,7 @@
 
 # sent_id = 1578_Terrien_1_9_1_1_7
 # source = Terrien
-# text = C' est à sçauoir que par tel defaut en presence, ou comme en presence donné contre vn defendeur auant la co[n]testatio[n], le demandeur est receu à verifier sa dema[n]de:
+# text = C' est à sçauoir que par tel defaut en presence, ou comme en presence donné contre vn defendeur auant la contestation, le demandeur est receu à verifier sa demande:
 1	C'	ce	PRON	PRO	PronType=Dem	2	nsubj	_	prpos=Pd
 2	est	être	VERB	EJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vuc
 3	à	à	ADP	P	_	4	mark	_	prpos=S
@@ -19121,7 +19121,7 @@
 
 # sent_id = 1578_Terrien_1_9_1_1_8
 # source = Terrien
-# text = [et] s' il est donné contre le dema[n]deur, par iceluy le defendeur aura co[n]gé de Court, auec ses despens:
+# text = et s' il est donné contre le demandeur, par iceluy le defendeur aura congé de Court, auec ses despens:
 1	et	et	CCONJ	CONJO	_	14	cc	_	prpos=Cc|wordform=[et]
 2	s'	si	SCONJ	CONJS	_	5	mark	_	prpos=Cs
 3	il	il	PRON	PRO	PronType=Prs	5	nsubj	_	join=left|prpos=Pp
@@ -19147,7 +19147,7 @@
 
 # sent_id = 1578_Terrien_1_9_1_1_9
 # source = Terrien
-# text = [et] apres la co[n]testation celuy contre qui sera do[n]né tel defaut, sera forclos de ce qu' il auoit à faire.
+# text = et apres la contestation celuy contre qui sera donné tel defaut, sera forclos de ce qu' il auoit à faire.
 1	et	et	CCONJ	CONJO	_	14	cc	_	prpos=Cc|wordform=[et]
 2	apres	après	ADP	P	_	4	case	_	prpos=S
 3	la	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -19216,7 +19216,7 @@
 
 # sent_id = 1578_Terrien_1_9_1_1_12
 # source = Terrien
-# text = Laquelle contumace est punie par desdommagemens, c' est à dire par mulctes en quoy on condamne enuers la partie celuy qui est refusant ou neglige[n]t de faire son deuoir au iour pour ce prefix.
+# text = Laquelle contumace est punie par desdommagemens, c' est à dire par mulctes en quoy on condamne enuers la partie celuy qui est refusant ou negligent de faire son deuoir au iour pour ce prefix.
 1	Laquelle	lequel	DET	WD	PronType=Rel	2	det	_	prpos=Dr
 2	contumace	contumace	NOUN	NCS	Number=Sing	4	nsubj	_	prpos=Nc
 3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
@@ -19258,7 +19258,7 @@
 
 # sent_id = 1578_Terrien_1_9_1_1_13
 # source = Terrien
-# text = Laquelle mulcte est arbitree, [et] taxee par le Iuge selon le merite de tel refus ou negligence, qualité des parties [et] des matieres, [et] l' interest que la partie souffre par telle defaute: [et] selon aussi la coustume du siege.
+# text = Laquelle mulcte est arbitree, et taxee par le Iuge selon le merite de tel refus ou negligence, qualité des parties et des matieres, et l' interest que la partie souffre par telle defaute: et selon aussi la coustume du siege.
 1	Laquelle	lequel	DET	WD	PronType=Rel	2	det	_	prpos=Dr
 2	mulcte	multe	NOUN	NCS	Number=Sing	4	nsubj	_	prpos=Nc
 3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
@@ -19344,7 +19344,7 @@
 
 # sent_id = 1578_Terrien_1_9_1_2_2
 # source = Terrien
-# text = Et si apres plusieurs prefixions, qui se donnent à l' arbitre de Iustice selon que le cas le requiert on continue [et] perseuere en telle defaute, on est forclos de ce qu' on auoit a faire: mesmement quand la prefixion se donne pour peremptoire:
+# text = Et si apres plusieurs prefixions, qui se donnent à l' arbitre de Iustice selon que le cas le requiert on continue et perseuere en telle defaute, on est forclos de ce qu' on auoit a faire: mesmement quand la prefixion se donne pour peremptoire:
 1	Et	et	CCONJ	CONJO	_	31	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	22	mark	_	prpos=Cs
 3	apres	après	ADP	P	_	5	case	_	prpos=S
@@ -19396,7 +19396,7 @@
 
 # sent_id = 1578_Terrien_1_9_1_2_3
 # source = Terrien
-# text = c' est à dire, vne pour toutes, [et] sur peine de forclusion.
+# text = c' est à dire, vne pour toutes, et sur peine de forclusion.
 1	c'	ce	PRON	PRO	PronType=Dem	2	nsubj	_	prpos=Pd
 2	est	être	VERB	EJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vuc
 3	à	à	ADP	P	_	4	mark	_	prpos=S
@@ -19415,7 +19415,7 @@
 
 # sent_id = 1578_Terrien_1_9_1_2_4
 # source = Terrien
-# text = Et en donnant ladite prefixion peremptoire, il n' est accoustumé d' adiuger desdommagement, ne mesmes en declarant la forclusion: afin que celuy qui est forclos ne soit puny de double peine, [et] que de sa negligence sa partie ne remporte double profit.
+# text = Et en donnant ladite prefixion peremptoire, il n' est accoustumé d' adiuger desdommagement, ne mesmes en declarant la forclusion: afin que celuy qui est forclos ne soit puny de double peine, et que de sa negligence sa partie ne remporte double profit.
 1	Et	et	CCONJ	CONJO	_	11	cc	_	prpos=Cc
 2	en	en	ADP	P	_	3	case	_	prpos=S
 3	donnant	donner	VERB	VG	Tense=Pres|VerbForm=Part	11	advcl	_	prpos=Ga
@@ -19466,7 +19466,7 @@
 
 # sent_id = 1578_Terrien_1_10_2_1_1
 # source = Terrien
-# text = En l' Esciq. de Pasques, tenu à Rouen l' an 1495. G. fut receu à informer que l' exoine de voye de Cour enuoyee par R. estoit fausse, [et] qu' il l' auoit enuoyee pour delayer le plet.
+# text = En l' Esciq. de Pasques, tenu à Rouen l' an 1495. G. fut receu à informer que l' exoine de voye de Cour enuoyee par R. estoit fausse, et qu' il l' auoit enuoyee pour delayer le plet.
 1	En	en	ADP	P	_	3	case	_	prpos=S
 2	l'	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	Esciq.	échiquier	NOUN	NCS	Number=Sing	15	obl	_	join=left|prpos=Nc
@@ -19511,7 +19511,7 @@
 
 # sent_id = 1578_Terrien_1_10_2_1_2
 # source = Terrien
-# text = Et le cas cognu fut ladite exoine refusee, [et] conuertie en defaut.
+# text = Et le cas cognu fut ladite exoine refusee, et conuertie en defaut.
 1	Et	et	CCONJ	CONJO	_	8	cc	_	prpos=Cc
 2	le	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	cas	cas	NOUN	NCS	Number=Sing	4	nsubj	_	prpos=Nc
@@ -19529,7 +19529,7 @@
 
 # sent_id = 1578_Terrien_1_10_2_1_3
 # source = Terrien
-# text = Et fut co[m]mandé aux Iuges garder ladite ordo[n]nance, [et] punir tels exoineurs, ne leurs fausses exoines.
+# text = Et fut commandé aux Iuges garder ladite ordonnance, et punir tels exoineurs, ne leurs fausses exoines.
 1	Et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc
 2	fut	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	prpos=Vuc
 3	commandé	commander	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge|wordform=co[m]mandé
@@ -19610,7 +19610,7 @@
 
 # sent_id = 1578_Terrien_1_10_7_1_1
 # source = Terrien
-# text = Qui est appelé en droit, morbus sonticus, id est, quicunque rei agendae impedimento est: [et] inuitis litigatoribus [et] iudice diem differt.
+# text = Qui est appelé en droit, morbus sonticus, id est, quicunque rei agendae impedimento est: et inuitis litigatoribus et iudice diem differt.
 # tags = latin
 1	Qui	qui	PRON	WPRO	_	3	nsubj	_	prpos=Pr
 2	est	être	AUX	EX	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	prpos=Vun
@@ -19641,7 +19641,7 @@
 
 # sent_id = 1578_Terrien_1_10_8_1_1
 # source = Terrien
-# text = Ceste exoine doit etre affermée par le serme[n]t de celuy qui l' apporte, [et] verifie par le serment de celuy qui l' enuoye, co[m]me l' exoine de voye de Cour
+# text = Ceste exoine doit etre affermée par le serment de celuy qui l' apporte, et verifie par le serment de celuy qui l' enuoye, comme l' exoine de voye de Cour
 1	Ceste	ce	DET	D	PronType=Dem	2	det	_	prpos=Dd
 2	exoine	essoine	NOUN	NCS	Number=Sing	3	nsubj	_	prpos=Nc
 3	doit	devoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -19677,7 +19677,7 @@
 
 # sent_id = 1578_Terrien_1_10_8_1_2
 # source = Terrien
-# text = [et] n' est plus en vsage que l' exoineur mene un tesmoin avec luy.
+# text = et n' est plus en vsage que l' exoineur mene un tesmoin avec luy.
 1	et	et	CCONJ	CONJO	_	6	cc	_	prpos=Cc|wordform=[et]
 2	n'	ne	ADV	NEG	_	6	advmod	_	prpos=Rp
 3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	6	cop	_	join=left|prpos=Vuc
@@ -19696,7 +19696,7 @@
 
 # sent_id = 1578_Terrien_1_10_9_1_1
 # source = Terrien
-# text = En bref de nouuelle dessaisine on ne peut auoir qu' vne exoine de mal resseant: comme il a esté dit au ti. dudit bref, [et] en cas de partie d' héritage: comme aussi il a esté dit au ti. De parties d' héritage.
+# text = En bref de nouuelle dessaisine on ne peut auoir qu' vne exoine de mal resseant: comme il a esté dit au ti. dudit bref, et en cas de partie d' héritage: comme aussi il a esté dit au ti. De parties d' héritage.
 1	En	en	ADP	P	_	2	case	_	prpos=S
 2	bref	bref	NOUN	NCS	Number=Sing	8	obl	_	prpos=Nc
 3	de	de	ADP	P	_	5	case	_	prpos=S
@@ -19812,7 +19812,7 @@
 
 # sent_id = 1578_Terrien_1_11_1_3_1
 # source = Terrien
-# text = Et soit noté que par la Coustume langueur ne peut estre iuree és brefs de fief [et] de gage, [et] de fief [et] de ferme, comme il est porté és titres desdits fiefs cy dessus.
+# text = Et soit noté que par la Coustume langueur ne peut estre iuree és brefs de fief et de gage, et de fief et de ferme, comme il est porté és titres desdits fiefs cy dessus.
 1	Et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc
 2	soit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	prpos=Vuc
 3	noté	noter	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
@@ -19860,7 +19860,7 @@
 
 # sent_id = 1578_Terrien_1_11_2_1_1
 # source = Terrien
-# text = Ces exoines quant à le nombre [et] quantité, comme deux, trois, [et] quatre fois, [et] de iurer langueur ne sont plus en vsage, mais est aux Iuges de leur office, à regler les parties, [et] leur donner delais competans selon l' exigence des causes [et] qualité des parties:
+# text = Ces exoines quant à le nombre et quantité, comme deux, trois, et quatre fois, et de iurer langueur ne sont plus en vsage, mais est aux Iuges de leur office, à regler les parties, et leur donner delais competans selon l' exigence des causes et qualité des parties:
 1	Ces	ce	DET	D	PronType=Dem	2	det	_	prpos=Dd
 2	exoines	essoine	NOUN	NCPL	Number=Plur	27	nsubj	_	prpos=Nc
 3	quant	quant	ADV	ADV	ExtPos=ADP	6	case	_	prpos=Rg
@@ -19962,7 +19962,7 @@
 
 # sent_id = 1578_Terrien_1_12_1_2_1
 # source = Terrien
-# text = Ie n' ay mis icy les titres, De vefueté de femmes, [et] De non aage, pour ce que pour le present on n' en vse point.
+# text = Ie n' ay mis icy les titres, De vefueté de femmes, et De non aage, pour ce que pour le present on n' en vse point.
 1	Ie	je	PRON	PRO	PronType=Prs	4	nsubj	_	prpos=Pp
 2	n'	ne	ADV	NEG	_	4	advmod	_	prpos=Rp
 3	ay	avoir	AUX	AJ	Number=Sing|Person=1|VerbForm=Fin	4	aux	_	join=left|prpos=Vuc
@@ -19996,7 +19996,7 @@
 
 # sent_id = 1578_Terrien_1_12_2_1_1
 # source = Terrien
-# text = Entendez quand pour les contenues ausdits chapitres, de vefueté de femmes, [et] de non aage immediatement subsecutifs du chap. De gesine de femme, [et] sont ces trois chap. les 41. 42. [et] 43.
+# text = Entendez quand pour les contenues ausdits chapitres, de vefueté de femmes, et de non aage immediatement subsecutifs du chap. De gesine de femme, et sont ces trois chap. les 41. 42. et 43.
 1	Entendez	entendre	VERB	VJ	Number=Plur|Person=2|VerbForm=Fin	0	root	_	prpos=Vvc
 2	quand	quand	SCONJ	CONJS	_	5	case	_	prpos=Cs
 3	pour	pour	ADP	P	_	5	case	_	prpos=S
@@ -20041,7 +20041,7 @@
 
 # sent_id = 1578_Terrien_1_12_2_1_2
 # source = Terrien
-# text = Car en autres plusieurs cas la vefueté, [et] non aage, id est, minorité sont respectez [et] attendus.
+# text = Car en autres plusieurs cas la vefueté, et non aage, id est, minorité sont respectez et attendus.
 # tags = latin
 1	Car	car	CCONJ	CONJO	_	18	cc	_	prpos=Cc
 2	en	en	ADP	P	_	5	case	_	prpos=S
@@ -20067,7 +20067,7 @@
 
 # sent_id = 1578_Terrien_1_13_2_2_1
 # source = Terrien
-# text = Ces lettres sont appelees lettres d' estat, pour ce qu' au moye[n] d' icelles les procez sont tenus en estat [et] surceance.
+# text = Ces lettres sont appelees lettres d' estat, pour ce qu' au moyen d' icelles les procez sont tenus en estat et surceance.
 1	Ces	ce	DET	D	PronType=Dem	2	det	_	prpos=Dd
 2	lettres	lettre	NOUN	NCPL	Number=Plur	4	nsubj	_	prpos=Nc
 3	sont	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
@@ -20214,7 +20214,7 @@
 
 # sent_id = 1578_Terrien_1_13_2_2_4
 # source = Terrien
-# text = Et pour en iouyr faut auoir certification de son Capitaine, du seruice qu' on fait, si le Roy ne le tesmoigne par ses lettres: [et] que l' impetrant soit en la guerre, ou excusé par maladie, ou impotence de son corps, [et] qu' il y enuoye homme suffisant selon son estat par ladite ordon.
+# text = Et pour en iouyr faut auoir certification de son Capitaine, du seruice qu' on fait, si le Roy ne le tesmoigne par ses lettres: et que l' impetrant soit en la guerre, ou excusé par maladie, ou impotence de son corps, et qu' il y enuoye homme suffisant selon son estat par ladite ordon.
 1	Et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc
 2	pour	pour	ADP	P	_	4	mark	_	prpos=S
 3	en	en	PRON	PRO	PronType=Prs	4	obl	_	prpos=Pp
@@ -20281,7 +20281,7 @@
 
 # sent_id = 1578_Terrien_1_13_2_2_5
 # source = Terrien
-# text = Elles se donnent aussi à ceux qui sont absens pour la chose publique par l' ordon. [et] commandement du Roy, ou autre cause necessaire, dont ils ne prennent salaire: [et] ce iusques à un mois apres leur retour, ou autre temps limité par les lettres.
+# text = Elles se donnent aussi à ceux qui sont absens pour la chose publique par l' ordon. et commandement du Roy, ou autre cause necessaire, dont ils ne prennent salaire: et ce iusques à un mois apres leur retour, ou autre temps limité par les lettres.
 1	Elles	il	PRON	PRO	PronType=Prs	3	nsubj	_	prpos=Pp
 2	se	se	PRON	PRO	PronType=Prs	3	expl	_	prpos=Pp
 3	donnent	donner	VERB	VJ	Number=Plur|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -20447,7 +20447,7 @@
 
 # sent_id = 1578_Terrien_1_13_2_2_11
 # source = Terrien
-# text = Ie n' ay icy mis le titre Du priuilege de croix, qui estoit le terme de sept ans, de respondre, donné à ceux qui se croisoye[n]t pour aller en guerre outre mer, pour le recouureme[n]t de la terre sainte occupee par les Sarrazins: pour ce que ce priuilege n' a plus de lieu, [et] que ceste croisade print fin dés l' an 1291 apres que la guerre appelee saincte eut duré plus de deux cens ans.
+# text = Ie n' ay icy mis le titre Du priuilege de croix, qui estoit le terme de sept ans, de respondre, donné à ceux qui se croisoyent pour aller en guerre outre mer, pour le recouurement de la terre sainte occupee par les Sarrazins: pour ce que ce priuilege n' a plus de lieu, et que ceste croisade print fin dés l' an 1291 apres que la guerre appelee saincte eut duré plus de deux cens ans.
 1	Ie	je	PRON	PRO	PronType=Prs	5	nsubj	_	prpos=Pp
 2	n'	ne	ADV	NEG	_	5	advmod	_	prpos=Rp
 3	ay	avoir	AUX	AJ	Number=Sing|Person=1|VerbForm=Fin	5	aux	_	join=left|prpos=Vuc
@@ -20536,7 +20536,7 @@
 
 # sent_id = 1578_Terrien_1_13_2_2_12
 # source = Terrien
-# text = Qui fut bien la plus longue [et] plus cruelle guerre, [et] où il y eut plus de sang humain respa[n]du, qu' il fut iamais au monde.
+# text = Qui fut bien la plus longue et plus cruelle guerre, et où il y eut plus de sang humain respandu, qu' il fut iamais au monde.
 1	Qui	qui	PRON	WPRO	PronType=Rel	10	nsubj	_	prpos=Pr
 2	fut	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	10	cop	_	prpos=Vuc
 3	bien	bien	ADV	ADV	_	10	advmod	_	prpos=Rg
@@ -20571,7 +20571,7 @@
 
 # sent_id = 1578_Terrien_1_13_2_2_13
 # source = Terrien
-# text = Laquelle on peut voir descrite par Paul Aemile au 4. liure de son histoire, [et] par plusieurs autres.
+# text = Laquelle on peut voir descrite par Paul Aemile au 4. liure de son histoire, et par plusieurs autres.
 1	Laquelle	lequel	PRON	WPRO	PronType=Rel	3	obj	_	prpos=Pr
 2	on	on	PRON	PRO	PronType=Prs	3	nsubj	_	prpos=Pp
 3	peut	pouvoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -20646,7 +20646,7 @@
 
 # sent_id = 1578_Terrien_1_14_2_2_3
 # source = Terrien
-# text = autreme[n]t co[m]bien qu' il y eust à besongner, le defaut prins sur luy en autre Iustice, seroit amendable.
+# text = autrement combien qu' il y eust à besongner, le defaut prins sur luy en autre Iustice, seroit amendable.
 1	autrement	autrement	ADV	ADV	_	20	advmod	_	prpos=Rg|wordform=autreme[n]t
 2	combien	combien	ADV	ADV	ExtPos=SCONJ	6	mark	_	prpos=Rg|wordform=co[m]bien
 3	qu'	que	SCONJ	CONJS	_	2	fixed	_	prpos=Cs
@@ -20725,7 +20725,7 @@
 
 # sent_id = 1578_Terrien_1_15_1_2_1
 # source = Terrien
-# text = En laquelle on procedera tousiours, faisant venir le prisonnier en iugeme[n]t qua[n]d sa cause s' offrira.
+# text = En laquelle on procedera tousiours, faisant venir le prisonnier en iugement quand sa cause s' offrira.
 1	En	en	ADP	P	_	2	case	_	prpos=S
 2	laquelle	lequel	PRON	WPRO	PronType=Rel	4	obl	_	prpos=Pr
 3	on	on	PRON	PRO	PronType=Prs	4	nsubj	_	prpos=Pp
@@ -20747,7 +20747,7 @@
 
 # sent_id = 1578_Terrien_1_15_1_2_2
 # source = Terrien
-# text = Pareillement s' aucu[n] est priso[n]nier és mai[n]s des ennemis, telle excuse peut auoir lieu.
+# text = Pareillement s' aucun est prisonnier és mains des ennemis, telle excuse peut auoir lieu.
 1	Pareillement	pareillement	ADV	ADV	_	15	advmod	_	prpos=Rg
 2	s'	si	SCONJ	CONJS	_	5	mark	_	prpos=Cs
 3	aucun	aucun	PRON	PRO	_	5	nsubj	_	join=left|prpos=Pi|wordform=aucu[n]
@@ -20839,7 +20839,7 @@
 
 # sent_id = 1578_Terrien_1_16_1_3_1
 # source = Terrien
-# text = Le respit est ottroyé à l' absent pour vne fois seuleme[n]t en quelque partie de la cause que ce soit, sans qu' il soit besoin de declarer les causes de l' absence, pour les diuers empescheme[n]s qui peuuent suruenir.
+# text = Le respit est ottroyé à l' absent pour vne fois seulement en quelque partie de la cause que ce soit, sans qu' il soit besoin de declarer les causes de l' absence, pour les diuers empeschemens qui peuuent suruenir.
 1	Le	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
 2	respit	répit	NOUN	NCS	Number=Sing	4	nsubj	_	prpos=Nc
 3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
@@ -21177,7 +21177,7 @@
 
 # sent_id = 1578_Terrien_1_16_1_3_10
 # source = Terrien
-# text = Et fut iugé en l' Eschiquier de Pasques tenu à Rouen l' an 1491. qu' un second respit enuoyé seroit tourné en defaut, combie[n] que le premier n' eust esté aduoüé.
+# text = Et fut iugé en l' Eschiquier de Pasques tenu à Rouen l' an 1491. qu' un second respit enuoyé seroit tourné en defaut, combien que le premier n' eust esté aduoüé.
 1	Et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc
 2	fut	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	prpos=Vuc
 3	iugé	juger	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
@@ -21298,7 +21298,7 @@
 
 # sent_id = 1578_Terrien_1_18_2_1_2
 # source = Terrien
-# text = Car ceste ordonnance est faite en faueur des parties, pour les releuer des peines, frais, [et] mises d' enuoyer loing, faire les adiournemens, à quoy ils peuuent renoncer.
+# text = Car ceste ordonnance est faite en faueur des parties, pour les releuer des peines, frais, et mises d' enuoyer loing, faire les adiournemens, à quoy ils peuuent renoncer.
 1	Car	car	CCONJ	CONJO	_	5	cc	_	prpos=Cc
 2	ceste	ce	DET	D	PronType=Dem	3	det	_	prpos=Dd
 3	ordonnance	ordonnance	NOUN	NCS	Number=Sing	5	nsubj	_	prpos=Nc
@@ -21340,7 +21340,7 @@
 
 # sent_id = 1578_Terrien_1_18_3_1_1
 # source = Terrien
-# text = Comme nous voyons en pareil estre decidé en plusieurs textes de droict, vt in l. si quis filium. § stipulatio in versic. cum interpellatus cum aliquo spatio quis conferre non potuit, non facit. ff. de collat. bonor. l. ij. §. quod ait prætor ff. quor. legat. l. i. §. non exigit. ff. vt legat. no. caueat. [et] l. vniuersa. C. de precib. imper. offer. vbi licet rescripta solutionis dilatoria aliter non valeant, nisi fideiussio idonea super debiti solutione præbeatur, hoc demum procedit si petatur fide iussio: vt illic est glo. super verb. præbeatur ab omnibus laudata [et] approbata.
+# text = Comme nous voyons en pareil estre decidé en plusieurs textes de droict, vt in l. si quis filium. § stipulatio in versic. cum interpellatus cum aliquo spatio quis conferre non potuit, non facit. ff. de collat. bonor. l. ij. §. quod ait prætor ff. quor. legat. l. i. §. non exigit. ff. vt legat. no. caueat. et l. vniuersa. C. de precib. imper. offer. vbi licet rescripta solutionis dilatoria aliter non valeant, nisi fideiussio idonea super debiti solutione præbeatur, hoc demum procedit si petatur fide iussio: vt illic est glo. super verb. præbeatur ab omnibus laudata et approbata.
 # tags = latin
 1	Comme	comme	SCONJ	CONJS	_	3	mark	_	prpos=Cs
 2	nous	nous	PRON	PRO	PronType=Prs	3	nsubj	_	prpos=Pp
@@ -21503,7 +21503,7 @@
 
 # sent_id = 1578_Terrien_1_18_4_1_3
 # source = Terrien
-# text = Et si on obmet audit iour de la premiere comparition, à faire instance de ladite election de domicile, on pourra neantmoins la demander puis apres iusques à la clausio[n] du procez.
+# text = Et si on obmet audit iour de la premiere comparition, à faire instance de ladite election de domicile, on pourra neantmoins la demander puis apres iusques à la clausion du procez.
 1	Et	et	CCONJ	CONJO	_	23	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	4	mark	_	prpos=Cs
 3	on	on	PRON	PRO	PronType=Prs	4	nsubj	_	prpos=Pp
@@ -21545,7 +21545,7 @@
 
 # sent_id = 1578_Terrien_1_18_5_1_1
 # source = Terrien
-# text = Il semble qu' vne procuration ad lites contenant la clause generale de pouuoir faire tout ce que le constitua[n]t feroit, [et] faire pourroit, si present estoit: accoustumee par le style des Tabellions seroit suffisante: pour ce qu' o[n] ne trouue point escrit, qu' il soit requis mandeme[n]t special pour ce faire.
+# text = Il semble qu' vne procuration ad lites contenant la clause generale de pouuoir faire tout ce que le constituant feroit, et faire pourroit, si present estoit: accoustumee par le style des Tabellions seroit suffisante: pour ce qu' on ne trouue point escrit, qu' il soit requis mandement special pour ce faire.
 # tags = latin
 1	Il	il	PRON	PRO	PronType=Prs	2	expl	_	prpos=Pp
 2	semble	sembler	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -21625,7 +21625,7 @@
 
 # sent_id = 1578_Terrien_1_18_6_1_1
 # source = Terrien
-# text = C' est à dire en la ville ou autre lieu où est le siege de la iurisdiction: [et] non pas en la viconté ou territoire où s' estend ladite iurisdiction.
+# text = C' est à dire en la ville ou autre lieu où est le siege de la iurisdiction: et non pas en la viconté ou territoire où s' estend ladite iurisdiction.
 1	C'	ce	PRON	PRO	PronType=Dem	2	nsubj	_	prpos=Pd
 2	est	être	VERB	EJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vuc
 3	à	à	ADP	P	_	4	mark	_	prpos=S
@@ -21679,7 +21679,7 @@
 
 # sent_id = 1578_Terrien_1_18_6_1_3
 # source = Terrien
-# text = [et] celuy qui n' y en a point, le doit eslire.
+# text = et celuy qui n' y en a point, le doit eslire.
 1	et	et	CCONJ	CONJO	_	11	cc	_	prpos=Cc|wordform=[et]
 2	celuy	celui	PRON	PRO	PronType=Dem	11	nsubj	_	prpos=Pd
 3	qui	qui	PRON	WPRO	PronType=Rel	7	nsubj	_	prpos=Pr
@@ -21923,7 +21923,7 @@
 
 # sent_id = 1578_Terrien_1_19_3_3_1
 # source = Terrien
-# text = S' il y a deux seigneurs hauts Iusticiers qui dema[n]dent le renuoy, s' ils sont tous deux du ressort du Iuge Royal, il pourra cognoistre du principal de la cause par main souueraine, iusques à ce que le descord de les deux seigneurs soit vuidé, combie[n] qu' Imbert soit de contraire opinio[n].
+# text = S' il y a deux seigneurs hauts Iusticiers qui demandent le renuoy, s' ils sont tous deux du ressort du Iuge Royal, il pourra cognoistre du principal de la cause par main souueraine, iusques à ce que le descord de les deux seigneurs soit vuidé, combien qu' Imbert soit de contraire opinion.
 1	S'	si	SCONJ	CONJS	_	4	mark	_	prpos=Cs
 2	il	il	PRON	PRO	PronType=Prs	4	expl	_	join=left|prpos=Pp
 3	y	y	PRON	PRO	PronType=Prs	4	obl	_	prpos=Pp
@@ -21990,7 +21990,7 @@
 
 # sent_id = 1578_Terrien_1_19_3_3_2
 # source = Terrien
-# text = Mais il est sans doute que le Iuge Royal, penda[n]t la question du renuoy requis par un haut Iusticier, ne peut cognoistre de la cause.
+# text = Mais il est sans doute que le Iuge Royal, pendant la question du renuoy requis par un haut Iusticier, ne peut cognoistre de la cause.
 1	Mais	mais	CCONJ	CONJO	_	5	cc	_	prpos=Cc
 2	il	il	PRON	PRO	PronType=Prs	5	expl	_	prpos=Pp
 3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	5	cop	_	prpos=Vuc
@@ -22024,7 +22024,7 @@
 
 # sent_id = 1578_Terrien_1_19_4_1_1
 # source = Terrien
-# text = La raison y est assez prompte: d' autant que telle exception déclinatoire proposee, le Iuge qu' on pretend décliner n' est aucunement Iuge pour cognoistre de cause au principal, iusques à ce qu' il ait vuidé l' exception déclinatoire [et] prononcé sur icelle:
+# text = La raison y est assez prompte: d' autant que telle exception déclinatoire proposee, le Iuge qu' on pretend décliner n' est aucunement Iuge pour cognoistre de cause au principal, iusques à ce qu' il ait vuidé l' exception déclinatoire et prononcé sur icelle:
 1	La	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
 2	raison	raison	NOUN	NCS	Number=Sing	6	nsubj	_	prpos=Nc
 3	y	y	PRON	PRO	PronType=Prs	6	obl	_	prpos=Pp
@@ -22077,7 +22077,7 @@
 
 # sent_id = 1578_Terrien_1_19_4_1_2
 # source = Terrien
-# text = autrement il abuse notoirement [et] peruertit l' ordre.
+# text = autrement il abuse notoirement et peruertit l' ordre.
 1	autrement	autrement	ADV	ADV	_	3	advmod	_	prpos=Rg
 2	il	il	PRON	PRO	PronType=Prs	3	nsubj	_	prpos=Pp
 3	abuse	abuser	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -22090,7 +22090,7 @@
 
 # sent_id = 1578_Terrien_1_20_6_1_1
 # source = Terrien
-# text = De droict les recusations se doiuent bailler par escrit, [et] proposer au commencement de la cause .l. apertissimi. C. de iudi. là où les Docteurs traitent des causes, pour lesquelles un Iuge peut estre recusé.
+# text = De droict les recusations se doiuent bailler par escrit, et proposer au commencement de la cause .l. apertissimi. C. de iudi. là où les Docteurs traitent des causes, pour lesquelles un Iuge peut estre recusé.
 # tags = latin
 1	De	de	ADP	P	_	2	case	_	prpos=S
 2	droict	droit	NOUN	NCS	Number=Sing	6	obl	_	prpos=Nc
@@ -22172,7 +22172,7 @@
 
 # sent_id = 1578_Terrien_1_20_7_1_1
 # source = Terrien
-# text = Autre toutesfois que l' Aduocat, et le Procureur du Roy: pour ce que par arrest de la Cour il leur est defendu de tenir la iurisdictio[n] en l' absence du Iuge.
+# text = Autre toutesfois que l' Aduocat, et le Procureur du Roy: pour ce que par arrest de la Cour il leur est defendu de tenir la iurisdiction en l' absence du Iuge.
 1	Autre	autre	ADJ	ADJ	_	0	root	_	prpos=Ag
 2	toutesfois	toutefois	ADV	ADV	_	1	advmod	_	prpos=Rg
 3	que	que	SCONJ	CONJS	_	5	case	_	prpos=Cs
@@ -22214,7 +22214,7 @@
 
 # sent_id = 1578_Terrien_1_20_7_1_2
 # source = Terrien
-# text = Et si est defe[n]du aux Vicontes, ou leurs Lieutenans de tenir la iurisdi. de bailliage en l' absence des Iuges dudit bailliage.
+# text = Et si est defendu aux Vicontes, ou leurs Lieutenans de tenir la iurisdi. de bailliage en l' absence des Iuges dudit bailliage.
 1	Et	et	CCONJ	CONJO	_	4	cc	_	prpos=Cc
 2	si	si	ADV	ADV	_	4	advmod	_	prpos=Rg
 3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
@@ -22248,7 +22248,7 @@
 
 # sent_id = 1578_Terrien_1_20_7_1_3
 # source = Terrien
-# text = Et notez q[ue] le plus ancie[n] Aduocat qui est fait Iuge en cas de recusation par l' authorité de ceste ordonnance, peut aussi expedier [et] iuger les causes en l' absence du Iuge.
+# text = Et notez que le plus ancien Aduocat qui est fait Iuge en cas de recusation par l' authorité de ceste ordonnance, peut aussi expedier et iuger les causes en l' absence du Iuge.
 1	Et	et	CCONJ	CONJO	_	2	cc	_	prpos=Cc
 2	notez	noter	VERB	VJ	Number=Plur|Person=2|VerbForm=Fin	0	root	_	prpos=Vvc
 3	que	que	SCONJ	CONJS	_	23	mark	_	prpos=Cs|wordform=q[ue]
@@ -22311,7 +22311,7 @@
 
 # sent_id = 1578_Terrien_1_20_7_1_5
 # source = Terrien
-# text = Mais le Parlement de Paris a limité ce pouuoir, c' est qu' il peut expedier les causes sommaires [et] prouisionnelles.
+# text = Mais le Parlement de Paris a limité ce pouuoir, c' est qu' il peut expedier les causes sommaires et prouisionnelles.
 1	Mais	mais	CCONJ	CONJO	_	7	cc	_	prpos=Cc
 2	le	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
 3	Parlement	parlement	NOUN	NCS	Number=Sing	7	nsubj	_	prpos=Nc
@@ -22337,7 +22337,7 @@
 
 # sent_id = 1578_Terrien_1_20_7_1_6
 # source = Terrien
-# text = Et si le Iuge absent n' est de retour deda[n]s trois iours, ledit Aduocat pourra expedier les petits procez.
+# text = Et si le Iuge absent n' est de retour dedans trois iours, ledit Aduocat pourra expedier les petits procez.
 1	Et	et	CCONJ	CONJO	_	16	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	9	mark	_	prpos=Cs
 3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -22362,7 +22362,7 @@
 
 # sent_id = 1578_Terrien_1_20_7_1_7
 # source = Terrien
-# text = Et si le Iuge ne retourne dedans huict iours, ledit Aduocat pourra iuger [et] decider tous procez, par arr. du 20. d' Auril.
+# text = Et si le Iuge ne retourne dedans huict iours, ledit Aduocat pourra iuger et decider tous procez, par arr. du 20. d' Auril.
 1	Et	et	CCONJ	CONJO	_	13	cc	_	prpos=Cc
 2	si	si	SCONJ	CONJS	_	6	mark	_	prpos=Cs
 3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
@@ -22394,7 +22394,7 @@
 
 # sent_id = 1578_Terrien_1_20_8_1_1
 # source = Terrien
-# text = Lequel ne doit estre prese[n]t qua[n]d on co[n]gnoist des causes de recusatio[n],
+# text = Lequel ne doit estre present quand on congnoist des causes de recusation,
 1	Lequel	lequel	PRON	WPRO	PronType=Rel	3	nsubj	_	prpos=Pr
 2	ne	ne	ADV	NEG	_	3	advmod	_	prpos=Rp
 3	doit	devoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -22485,7 +22485,7 @@
 
 # sent_id = 1578_Terrien_1_21_2_1_3
 # source = Terrien
-# text = Autrement il pourroit delayer [et] dema[n]der despe[n]s: pour ce que le libelle est des choses substantielles de iugement, [et] qu' un dema[n]deur n' est receuable à plaider, ni un defendeur subiet à respondre, sans que le libelle soit baillé par escrit.
+# text = Autrement il pourroit delayer et demander despens: pour ce que le libelle est des choses substantielles de iugement, et qu' un demandeur n' est receuable à plaider, ni un defendeur subiet à respondre, sans que le libelle soit baillé par escrit.
 1	Autrement	autrement	ADV	ADV	_	3	advmod	_	prpos=Rg
 2	il	il	PRON	PRO	PronType=Prs	3	nsubj	_	prpos=Pp
 3	pourroit	pouvoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
@@ -22665,7 +22665,7 @@
 
 # sent_id = 1578_Terrien_1_21_2_1_6
 # source = Terrien
-# text = Auant laquelle contestation, le defendeur aussi peut demander à voir les lettres [et] escritures, sur lesquelles le demandeur fonderoit sa demande: [et] mesme qu' il ait à fournir de sa qualité, s' il s' en attribuoit aucune, comme s' il se disoit tuteur, Procureur ou representant le droict d' autruy.
+# text = Auant laquelle contestation, le defendeur aussi peut demander à voir les lettres et escritures, sur lesquelles le demandeur fonderoit sa demande: et mesme qu' il ait à fournir de sa qualité, s' il s' en attribuoit aucune, comme s' il se disoit tuteur, Procureur ou representant le droict d' autruy.
 1	Auant	avant	ADP	ADV	_	3	case	_	prpos=S
 2	laquelle	lequel	DET	WD	PronType=Rel	3	det	_	prpos=Dr
 3	contestation	contestation	NOUN	NCS	Number=Sing	8	obl	_	prpos=Nc|SpaceAfter=No
