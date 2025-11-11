@@ -1,4 +1,4 @@
-# sent_id = 1_1_95_1_2
+# sent_id = 1563-1569_Guern_1_1_95_1_2
 # text = Et aprés avoir dit cela, a la mesme heure il fut pryntz de mal, en sorte que il ne se pouvoet aynder bien l'espasse de ung moes.
 1	Et	et	CCONJ	_	_	13	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	aprés	après	ADP	_	_	4	mark	_	gold_pos=ADP|prpos=S|uppos=P
@@ -32,7 +32,7 @@
 30	moes	mois	NOUN	_	_	27	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 31	.	.	PUNCT	_	_	13	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_95_1_3
+# sent_id = 1563-1569_Guern_1_1_95_1_3
 # text = Et aprés ce se retyra vers ladite Françoize et parla avuecque elle.
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	aprés	après	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -48,7 +48,7 @@
 12	elle	il	PRON	_	PronType=Prs	10	obl	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
 13	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_95_1_4
+# sent_id = 1563-1569_Guern_1_1_95_1_4
 # text = Et aprés il aperceult incontinent estre sain et guery.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	aprés	après	ADV	_	_	4	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -61,7 +61,7 @@
 9	guery	guérir	VERB	_	VerbForm=Part	7	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 10	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_95_1_5
+# sent_id = 1563-1569_Guern_1_1_95_1_5
 # text = Et raporte de cuyder et de croire que ladite Françoize use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	raporte	rapporter	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -82,7 +82,7 @@
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_96_1_1
+# sent_id = 1563-1569_Guern_1_1_96_1_1
 # text = Guillemyne le Digne dit et raporte que ung jour, quant elle debvoet fournyer, survynt ladite Françoize pour fournier avuecque elle, et de ce elle l'esconduyt, et dempuys cela ne pouvoet jouyr de sa patte et en retira son pain hors du four tout en gache et par pieches.
 1	Guillemyne	Guillemine	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	le	le	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -141,7 +141,7 @@
 54	pieches	pièce	NOUN	_	Number=Plur	51	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 55	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_96_1_2
+# sent_id = 1563-1569_Guern_1_1_96_1_2
 # text = Et dit que teille choze jamais il ne luy estoet advenu.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -156,7 +156,7 @@
 11	advenu	advenir	VERB	_	VerbForm=Part	2	ccomp	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 12	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_96_1_3
+# sent_id = 1563-1569_Guern_1_1_96_1_3
 # text = Et raporte de cuyder et de croire que ladite Françoize use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	raporte	rapporter	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -177,7 +177,7 @@
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_97_1_1
+# sent_id = 1563-1569_Guern_1_1_97_1_1
 # text = Johan le Pastourel, fils Collas, dit et raporte que il y a vyron .v. ou .vi. ans que Martin Tulouff vynt en sa maison pour demander du beure la vigille saint Johan et que il en fut esconduyt.
 1	Johan	Jehan	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	le	le	PROPN	_	Number=Plur	1	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -221,7 +221,7 @@
 40	esconduyt	éconduire	VERB	_	VerbForm=Part	23	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 41	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_97_1_2
+# sent_id = 1563-1569_Guern_1_1_97_1_2
 # text = Et incontinent aprés il aperceult que deulx de ses vaches ne donnoent que du sang et rendoient des peques et parfoys ung peu de layct, et que une desditez vaches vynt seiche, en sorte que elle en mourut, et l'aultre, il la vendyt.
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	incontinent	incontinent	ADV	_	_	3	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -275,7 +275,7 @@
 49	vendyt	vendre	VERB	_	VerbForm=Fin	33	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 50	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_97_1_3
+# sent_id = 1563-1569_Guern_1_1_97_1_3
 # text = Et aprés la vente il n'y avoet vache milleure en l'isle, come l'achapteur disoet, et s'en alloet.
 1	Et	et	CCONJ	_	_	8	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	aprés	après	ADP	_	_	4	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -302,7 +302,7 @@
 23	alloet	aller	VERB	_	VerbForm=Fin	18	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 24	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_97_1_4
+# sent_id = 1563-1569_Guern_1_1_97_1_4
 # text = Et raporte de cuyder et de croire que ledit Martin use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	raporte	rapporter	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -323,7 +323,7 @@
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_98_1_1
+# sent_id = 1563-1569_Guern_1_1_98_1_1
 # text = Le .iiiie. jour du moes de septembre l'an mille .vcclxiii. par devant Thomas Comptum, baillyf, presentz ad ce Richard Devic et Thomas Effart, jurés. Pierres Maryn dit et raporte que dempuys .iii. ans passés Martin Tulouff vynt en sa maison en luy demandant l'osmone, lequell il luy bailla.
 1	Le	le	DET	_	Definite=Def	3	det	_	gold_pos=DET|prpos=Da|uppos=D
 2	.iiiie.	quatrième	ADJ	_	NumType=Ord	3	amod	_	gold_pos=ADJ|prpos=Mo|uppos=ADJ
@@ -384,7 +384,7 @@
 56	bailla	bailler	VERB	_	VerbForm=Fin	51	acl:relcl	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 57	.	.	PUNCT	_	_	33	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_99_1_1
+# sent_id = 1563-1569_Guern_1_1_99_1_1
 # text = Et aprés il soy transporta a la fame dudit deposant en ung gardin, la ou elle estoet a deffouyr des pannees, en luy demandant du beure, laquelle l'en esconduyt.
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	aprés	après	ADV	_	_	5	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -423,7 +423,7 @@
 34	esconduyt	éconduire	VERB	_	VerbForm=Fin	8	acl:relcl	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 35	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_99_1_2
+# sent_id = 1563-1569_Guern_1_1_99_1_2
 # text = Et le soer enssuyvant elle fut prynse de mal,
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	le	le	DET	_	Definite=Def	3	det	_	gold_pos=DET|prpos=Da|uppos=D
@@ -436,7 +436,7 @@
 9	mal	mal	NOUN	_	_	7	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 10	,	,	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 1_1_99_1_3
+# sent_id = 1563-1569_Guern_1_1_99_1_3
 # text = et luy dura dempuys la Toussainctz juscque a la Chandelleur, seichante debut.
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	luy	il	PRON	_	PronType=Prs	3	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -453,7 +453,7 @@
 13	debut	debout	ADV	_	_	12	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 14	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_99_1_4
+# sent_id = 1563-1569_Guern_1_1_99_1_4
 # text = Et ledit deposant desira sa seur, fame de Johan Moulin, pour faire venir Françoize, mere dudit Martin, pour voer sadite fame, laquelle choze elle fyst.
 1	Et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	ledit	ledit	DET	_	Definite=Ind	3	det	_	gold_pos=DET|prpos=Di|uppos=D
@@ -489,7 +489,7 @@
 31	fyst	faire	VERB	_	VerbForm=Fin	15	parataxis	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 32	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_99_1_5
+# sent_id = 1563-1569_Guern_1_1_99_1_5
 # text = Et aprés l'avoir veue luy dyst que ce n'estoet que une achie de mall et que cela se passera et que elle seroet guerie.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	aprés	après	ADP	_	_	5	mark	_	gold_pos=ADP|prpos=S|uppos=P
@@ -519,7 +519,7 @@
 26	guerie	guérir	VERB	_	VerbForm=Part	14	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 27	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_99_1_6
+# sent_id = 1563-1569_Guern_1_1_99_1_6
 # text = Et dit que dedens .xxiiii. heures il aperceult que il amendoet a sadite fame et fut guerie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -540,7 +540,7 @@
 17	guerie	guérir	VERB	_	VerbForm=Part	8	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_100_1_1
+# sent_id = 1563-1569_Guern_1_1_100_1_1
 # text = Marguitte Pastourel dit et raporte que il a ouy dire a Martin Tulouff que, s'yll voulloet, il feroet bien asseicher une vache.
 1	Marguitte	Marguitte	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Pastourel	Pastourel	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -569,7 +569,7 @@
 25	vache	vache	NOUN	_	_	23	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 26	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_101_1_1
+# sent_id = 1563-1569_Guern_1_1_101_1_1
 # text = Perotyne Tourgys dit et raporte que il y a viron troys ans que Martin Tulouff vynt en sa maison demandant l'osmone, et que de ce il fut esconduyt, disant ladite deposante que il estoet digne de gaingner sa vie et que l'osmone ne luy estoet point bien deube.
 1	Perotyne	Pérotine	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Tourgys	Tourgys	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -625,7 +625,7 @@
 52	deube	devoir	VERB	_	VerbForm=Part	38	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=MDPP
 53	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_101_1_2
+# sent_id = 1563-1569_Guern_1_1_101_1_2
 # text = Et sur ce et incontinent elle fut prynse de maladie et en grant langueur, et y est encoure.
 1	Et	et	CCONJ	_	_	8	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -648,7 +648,7 @@
 19	encoure	encore	ADV	_	_	18	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 20	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_102_1_1
+# sent_id = 1563-1569_Guern_1_1_102_1_1
 # text = Pierres le Marquant dit et raporte que Martin Tulouff vynt en sa maison pour demander l'osmone, et la mere dudit Pierres luy dyst que l'osmone ne luy estoet point bien deube.
 1	Pierres	Pierre	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	le	le	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -688,7 +688,7 @@
 35	deube	devoir	VERB	_	VerbForm=Part	26	ccomp	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=MDPP
 36	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_102_1_2
+# sent_id = 1563-1569_Guern_1_1_102_1_2
 # text = Et incontinent aprés ces parolles, ladite mere fut prynse de maladie et l'est encoure.
 1	Et	et	CCONJ	_	_	10	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	incontinent	incontinent	ADV	_	_	10	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -708,7 +708,7 @@
 16	encoure	encore	ADV	_	_	14	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 17	.	.	PUNCT	_	_	10	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_103_1_1
+# sent_id = 1563-1569_Guern_1_1_103_1_1
 # text = Thomasse, fame de Thomas Tyault, dit et raporte que il y a .iiii. ans ou vyron que une de ses vaches fut bien l'espasse de .vii. ou .viii. jours qui ne donnoet point de layct et estoet assechie.
 1	Thomasse	Thomasse	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 2	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -753,7 +753,7 @@
 41	assechie	assécher	VERB	_	VerbForm=Part	35	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 42	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_103_1_2
+# sent_id = 1563-1569_Guern_1_1_103_1_2
 # text = Et sur cela elle envoya a queryr la fille a ladite Françoize, laquelle la prya de aller tyrer ladite vache, laquelle y fut,
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -782,7 +782,7 @@
 25	fut	être	VERB	_	VerbForm=Fin	9	acl:relcl	_	gold_pos=VERB|prpos=Vuc|SpaceAfter=No|uppos=EJ
 26	,	,	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 1_1_103_1_3
+# sent_id = 1563-1569_Guern_1_1_103_1_3
 # text = et donnoet aprés ladite vache son layct come auparavant.
 1	et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	donnoet	donner	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -795,7 +795,7 @@
 9	auparavant	auparavant	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 10	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_104_1_1
+# sent_id = 1563-1569_Guern_1_1_104_1_1
 # text = Johan le Gros dit et raporte que il y a viron .vi. ans qu'yl venoet de la ville avuecque Martin Tulouff, lequell Tulouff luy dyst au pres des Rohaes en voyant des vaches, qu'yl congnoissoet bien aulcune choze par laquelle il feroet bien venir du sang esditez vaches au lieu de layct, et aussy qu'yl congnoissoet bien une choze par laquelle il feroet bien brusler ung camp de bley.
 1	Johan	Jehan	PROPN	_	Number=Plur	4	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	le	le	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -882,7 +882,7 @@
 79	bley	blé	NOUN	_	_	77	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 80	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_105_1_1
+# sent_id = 1563-1569_Guern_1_1_105_1_1
 # text = Jenette, fame de Johan la Loe, dit et raporte que puys ung an ledit Martin Tulouff soy trouva avuecque elle parmy ses vaches les tyrantz, et luy dyst ledit Martin que, s'yll voulloet, il feroet bien que sesditez vaches cesseroient de donner du layct et qu'ylz renderoient par leurs trangs du sang par l'espasse de ung an.
 1	Jenette	Jehannette	PROPN	_	Number=Plur	9	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 2	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -951,7 +951,7 @@
 65	an	an	NOUN	_	_	62	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 66	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_106_1_1
+# sent_id = 1563-1569_Guern_1_1_106_1_1
 # text = Marguitte, fame de Martin Choulet, dit et raporte que entour Pascque desrain passey, vynt ledit Martin en la maison de sondit mary, lequell son mary le tença et luy deffendyt sa maison.
 1	Marguitte	Marguitte	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 2	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -991,7 +991,7 @@
 36	maison	maison	NOUN	_	_	34	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 37	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_106_1_2
+# sent_id = 1563-1569_Guern_1_1_106_1_2
 # text = Et incontynent aprés elle aperceult que ses vaches ne donnoient pas a la maynty de layct come ilz soulloient et de present en font ainsy.
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	incontynent	incontinent	ADV	_	_	3	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -1020,7 +1020,7 @@
 25	ainsy	ainsi	ADV	_	_	24	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 26	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_107_1_1
+# sent_id = 1563-1569_Guern_1_1_107_1_1
 # text = Le .ve. jour du moes de auguste l'an mille .vcclxiii. par devant Thomas Comptum, baillyff, presentz ad ce Johan le Feyvre et Nicollas Martin, jurés. enqueste fut faicte a la suytte et requeste des officiers de la majesté de la roigne a l'encontre de Collenette Gascoing, aprés que elle s'y est submynse,
 1	Le	le	DET	_	Definite=Def	3	det	_	gold_pos=DET|prpos=Da|uppos=D
 2	.ve.	cinquième	ADJ	_	NumType=Ord	3	amod	_	gold_pos=ADJ|prpos=Mo|uppos=ADJ
@@ -1088,7 +1088,7 @@
 62	submynse	soumettre	VERB	_	VerbForm=Part	34	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 63	,	,	PUNCT	_	_	34	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 1_1_107_1_2
+# sent_id = 1563-1569_Guern_1_1_107_1_2
 # text = et y est touchant son comport et gouverne de ce que elle est suspectee d'avoir usey d'art et sort de sorcherie.
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	y	y	PRON	_	PronType=Prs	3	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -1115,7 +1115,7 @@
 23	sorcherie	sorcerie	NOUN	_	_	19	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 24	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_108_1_1
+# sent_id = 1563-1569_Guern_1_1_108_1_1
 # text = GillesHalouvrys, deubment jurey et sermentey sur saintes Evangelles de Dieu, dit et raporte que il y a deulx ans ou vyron que Collas Robiné, son oncle, estoet fort malade, et suspectoet que Collenette Gascoing le detenoet.
 1	Gilles	Gilles	PROPN	_	Number=Plur	14	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 2	Halouvrys	Halouvrys	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -1161,7 +1161,7 @@
 42	detenoet	détenir	VERB	_	VerbForm=Fin	37	ccomp	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 43	.	.	PUNCT	_	_	14	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_108_1_2
+# sent_id = 1563-1569_Guern_1_1_108_1_2
 # text = Et dit qu'yl fut vers ladite Collenette en sa maison en la menachant de la battre, en luy disant: « Tu detyens mon oncle, » laquelle luy dyst que il s'en allast en la maison de sondit oncle, et que il le trouveroet guery.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -1215,7 +1215,7 @@
 50	guery	guérir	VERB	_	VerbForm=Part	49	xcomp	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 51	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_108_1_3
+# sent_id = 1563-1569_Guern_1_1_108_1_3
 # text = Et le dimenche enssuyvant il la trouva aprés la maison de Nicolas de Lisle en luy disant que sondit oncle n'estoet point encoure du tout guery et que il la voullut mener en la maison dudit Robiné. laquelle ne voullut y aller, mais luy dyst que il s'en allast et que il le trouveroet sain et guery,
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	le	le	DET	_	Definite=Def	3	det	_	gold_pos=DET|prpos=Da|uppos=D
@@ -1284,7 +1284,7 @@
 63	guery	guérir	VERB	_	VerbForm=Part	61	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 64	,	,	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 1_1_108_1_4
+# sent_id = 1563-1569_Guern_1_1_108_1_4
 # text = laquelle choze il fyst, et trouva sondit oncle guery, ainsy que ladite Collenete luy avoet promys.
 1	laquelle	lequel	DET	_	_	2	det	_	gold_pos=DET|prpos=Dr|uppos=WD
 2	choze	chose	NOUN	_	_	4	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
@@ -1306,7 +1306,7 @@
 18	promys	promettre	VERB	_	VerbForm=Part	7	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 19	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_108_1_5
+# sent_id = 1563-1569_Guern_1_1_108_1_5
 # text = Et dit et raporte de cuyder et de croire que elle use de sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -1326,7 +1326,7 @@
 16	sorcherie	sorcerie	NOUN	_	_	14	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 17	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_109_1_1
+# sent_id = 1563-1569_Guern_1_1_109_1_1
 # text = Pierres Jehan dit et raporte de cuyder et de croire que la maladie que son enffant a et y est detenu, que c'est par le sort de Collenette Gascoing, a cause que une foys sa garse avoet tyrey la chyepvre de ladite Collenette.
 1	Pierres	Pierre	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Jehan	Jehan	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -1376,7 +1376,7 @@
 46	Collenette	Collenette	PROPN	_	Number=Plur	43	nmod	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 47	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_109_1_2
+# sent_id = 1563-1569_Guern_1_1_109_1_2
 # text = Et aussy dit que ycelle Collenette avoet dit a sa fame que elle soy repentiroet, a cause que sadite garse avoet tyrey ladite chyepvre.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	aussy	aussi	ADV	_	_	3	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -1405,7 +1405,7 @@
 25	chyepvre	chèvre	NOUN	_	_	23	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 26	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_109_1_3
+# sent_id = 1563-1569_Guern_1_1_109_1_3
 # text = Et dit de cuyder et de croire que ladite Collenette use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -1426,7 +1426,7 @@
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_110_1_1
+# sent_id = 1563-1569_Guern_1_1_110_1_1
 # text = Martyne, fame de Pierres Jehan, dit et raporte en tout et partout come sondit mary a depozé.
 1	Martyne	Martine	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 2	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -1449,7 +1449,7 @@
 19	depozé	déposer	VERB	_	VerbForm=Part	8	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 20	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_110_1_2
+# sent_id = 1563-1569_Guern_1_1_110_1_2
 # text = Item dit que le jour de l'enqueste quy passyt, sçaver est le jour susdit, son enffant fut sy horriblement au retour de ladite enqueste pryntz et vexey de mall qu'elle fut contraincte de se lever hors de son luyct, estant en couche, pour apeller du secours et de l'aynde de ses voysyns, et que sondit enffant vynt tout perclus de ung costey, et y est encoure a present.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -1532,7 +1532,7 @@
 78	present	présent	NOUN	_	_	75	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 79	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_111_1_1
+# sent_id = 1563-1569_Guern_1_1_111_1_1
 # text = Jehannette, fame de Collas Massy, dit et raporte que a Noell desrain passey, vynt en la maison Collenette Gascoing qui luy demanda une ysme de chair de une jeune beste, laquelle en fut esconduitte, et incontinent son enffant fut pryntz de maladie et en grande necessité.
 1	Jehannette	Jehannette	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 2	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -1587,7 +1587,7 @@
 51	necessité	nécessité	NOUN	_	_	47	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 52	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_111_1_2
+# sent_id = 1563-1569_Guern_1_1_111_1_2
 # text = Et dit que a son mary on donna a conseill de mettre la clayff de leur grant huys au feu, laquelle choze elle fyst.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -1618,7 +1618,7 @@
 26	fyst	faire	VERB	_	VerbForm=Fin	8	parataxis	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 27	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_111_1_3
+# sent_id = 1563-1569_Guern_1_1_111_1_3
 # text = Et raporte de cuyder et de croire que ladite Collenette use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	raporte	rapporter	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -1639,7 +1639,7 @@
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_112_1_1
+# sent_id = 1563-1569_Guern_1_1_112_1_1
 # text = Collas Massy dit et raporte que puys le jour de Noell, son enffant estoet en grande maladie et necessité et que on luy donna en conseill de mettre la clayff de son grant huys au feu, laquelle chose sa fame fyst.
 1	Collas	Collas	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Massy	Massy	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -1688,7 +1688,7 @@
 44	fyst	faire	VERB	_	VerbForm=Fin	25	parataxis	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 45	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_112_1_2
+# sent_id = 1563-1569_Guern_1_1_112_1_2
 # text = Et dit et raporte de cuyder et de croire que ladite Collenette use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -1711,7 +1711,7 @@
 19	sorcherie	sorcerie	NOUN	_	_	15	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 20	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_113_1_1
+# sent_id = 1563-1569_Guern_1_1_113_1_1
 # text = Marguitte, fame de Blaize Chyvret, dit et raporte que il y a viron .vi. ans que elle estoet longuement malade.
 1	Marguitte	Marguitte	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 2	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -1737,7 +1737,7 @@
 22	malade	malade	ADJ	_	_	8	ccomp	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 23	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_113_1_2
+# sent_id = 1563-1569_Guern_1_1_113_1_2
 # text = Et dit que Collenette Gascoing la tenoet ainsy malade,
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -1750,7 +1750,7 @@
 9	malade	malade	ADJ	_	_	7	xcomp	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 10	,	,	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 1_1_113_1_3
+# sent_id = 1563-1569_Guern_1_1_113_1_3
 # text = Collenette vynt en sa maison par troys foys et aportoet ung pot, auquell il y avoet aulcune choze, elle ne sçayt pas que c'estoet.
 1	Collenette	Collenette	PROPN	_	Number=Plur	2	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	vynt	venir	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -1783,7 +1783,7 @@
 28	estoet	être	AUX	_	VerbForm=Fin	26	cop	_	gold_pos=AUX|join=left|prpos=Vuc|SpaceAfter=No|uppos=EJ
 29	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_113_1_4
+# sent_id = 1563-1569_Guern_1_1_113_1_4
 # text = Et luy dyst que elle n'eust point a regarder dedens ny a faire le signe de la croix, et que elle sentyst seullement dedens ledit pot et que au plaesir de Dieu elle seroet guerie.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	luy	il	PRON	_	PronType=Prs	3	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -1826,7 +1826,7 @@
 38	guerie	guérir	VERB	_	VerbForm=Part	7	conj	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 39	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_113_1_5
+# sent_id = 1563-1569_Guern_1_1_113_1_5
 # text = et n'en congnoest la cause, fors que de une perre de solers que son mary luy avoet bailly, de quoy elle ne pouvoet rien en avoir, et que elle luy quitta l'argent desditz solers pour avoir garison.
 1	et	et	CCONJ	_	_	4	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	n'	ne	ADV	_	Polarity=Neg	4	advmod	_	gold_pos=ADV|prpos=Rp|SpaceAfter=No|uppos=NEG
@@ -1874,7 +1874,7 @@
 43	garison	garison	NOUN	_	_	42	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 44	.	.	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_113_1_6
+# sent_id = 1563-1569_Guern_1_1_113_1_6
 # text = Item dit que il y a troys sepmainnes ou vyron que la Tulouve et son filz et sa fille, estantz a cuillyr pour Ollyvier Troussey de l'orge, laquelle Tulouve luy demanda sy sa vache donnoet point de laict,
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -1919,7 +1919,7 @@
 41	laict	lait	NOUN	_	_	38	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 42	,	,	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 1_1_113_1_7
+# sent_id = 1563-1569_Guern_1_1_113_1_7
 # text = et dit que il y avoet bien .viii. jours qu'elle n'en n'avoet point donney.
 1	et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -1940,7 +1940,7 @@
 17	donney	donner	VERB	_	VerbForm=Part	2	ccomp	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_113_1_8
+# sent_id = 1563-1569_Guern_1_1_113_1_8
 # text = Et, aussytost que ladite Tulouve luy dyst: « Allés, ma fille, vostre vache donnera son layct, » elle s'aperceult incontinent que sadite vache donnoet son laict come elle avoet de coustume.
 1	Et	et	CCONJ	_	_	25	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
 2	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -1981,7 +1981,7 @@
 37	coustume	coutume	NOUN	_	_	35	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 38	.	.	PUNCT	_	_	25	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_114_1_1
+# sent_id = 1563-1569_Guern_1_1_114_1_1
 # text = Collas Robiné dit et raporte que il y a viron .viii. ou .ix. ans que Collenette Gascoing vynt en sa maison, et demanda a sa fame de l'estrain, de la gresse et aultres chozes don elle fut esconduytte.
 1	Collas	Collas	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Robiné	Robinet	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -2026,7 +2026,7 @@
 41	esconduytte	éconduire	VERB	_	VerbForm=Part	30	acl:relcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 42	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_114_1_2
+# sent_id = 1563-1569_Guern_1_1_114_1_2
 # text = Et incontinent il fut prynt de maladie et en eult bien l'espasse de deulx ans en teille maladie,
 1	Et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	incontinent	incontinent	ADV	_	_	5	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -2049,7 +2049,7 @@
 19	maladie	maladie	NOUN	_	_	10	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 20	,	,	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 1_1_114_1_3
+# sent_id = 1563-1569_Guern_1_1_114_1_3
 # text = et durant sa maladie, il dit que sa fame trouva dedens son luyct tout plain de voug faictz de plume et de chambre.
 1	et	et	CCONJ	_	_	11	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	durant	durant	ADP	_	_	4	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -2077,7 +2077,7 @@
 24	chambre	chanvre	NOUN	_	_	21	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 25	.	.	PUNCT	_	_	11	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_114_1_4
+# sent_id = 1563-1569_Guern_1_1_114_1_4
 # text = Et aprés vynt en la maison de ladite Collenette et la mesnacha et aussy la batty,
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	aprés	après	ADV	_	_	3	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -2097,7 +2097,7 @@
 16	batty	battre	VERB	_	VerbForm=Fin	3	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 17	,	,	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 1_1_114_1_5
+# sent_id = 1563-1569_Guern_1_1_114_1_5
 # text = et dempuys, petyt a petyt, il luy est amendey.
 1	et	et	CCONJ	_	_	11	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dempuys	depuis	ADV	_	_	11	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
@@ -2112,7 +2112,7 @@
 11	amendey	amender	VERB	_	VerbForm=Part	0	root	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 12	.	.	PUNCT	_	_	11	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_114_1_6
+# sent_id = 1563-1569_Guern_1_1_114_1_6
 # text = Et dit de cuyder et de croire par suspection que ladite Collenette le detenoet ainsy en maladie pour son sort et art de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -2140,7 +2140,7 @@
 24	sorcherie	sorcerie	NOUN	_	_	20	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 25	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_115_1_1
+# sent_id = 1563-1569_Guern_1_1_115_1_1
 # text = Marguitte, fame de Collas Robiné, dit et raporte que il y a viron .viii. ou .ix. ans que Collenette Gascoing vynt en sa maison, laquelle luy demanda de l'oinct et aultre choze don elle fut esconduytte.
 1	Marguitte	Marguitte	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 2	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -2184,7 +2184,7 @@
 40	esconduytte	éconduire	VERB	_	VerbForm=Part	33	acl:relcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 41	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_115_1_2
+# sent_id = 1563-1569_Guern_1_1_115_1_2
 # text = Et incontynent aprés sondit mary fut pryntz de mall a la mesme heure estant a la cherue, et fut longue espasse de temps malade.
 1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	incontynent	incontinent	ADV	_	_	3	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -2213,7 +2213,7 @@
 25	malade	malade	ADJ	_	_	7	conj	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 26	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_115_1_3
+# sent_id = 1563-1569_Guern_1_1_115_1_3
 # text = Et dit que dempuys que sondit mary eult parley a ladite Collenette en l'accusant que elle estoet cause de ladite maladie, il a tousjours amendé a sondit mary.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -2247,7 +2247,7 @@
 30	mary	mari	NOUN	_	_	27	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 31	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_115_1_4
+# sent_id = 1563-1569_Guern_1_1_115_1_4
 # text = Et dit de cuyder et de croire que ladite Collenette use d'art et sort de sorcherie.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -2268,7 +2268,7 @@
 17	sorcherie	sorcerie	NOUN	_	_	13	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_116_1_1
+# sent_id = 1563-1569_Guern_1_1_116_1_1
 # text = Le .xxe. jour du moes de septembre l'an mille .vcclxiii. par devant Thomas Comptum, baillyf, presentz ad ce NicollasCareye, Johan le Marchant, Johan Blondell, Johan le Feyvre, Pierres Bonamy, Nicollas de la Court, Nicollas Martin, Richard Devic, Thomas Effart, Jammes Guille et Johan Blondell, fils Collas, jurés.
 1	Le	le	DET	_	Definite=Def	3	det	_	gold_pos=DET|prpos=Da|uppos=D
 2	.xxe.	vingtième	ADJ	_	NumType=Ord	3	amod	_	gold_pos=ADJ|prpos=Mo|uppos=ADJ
@@ -2336,7 +2336,7 @@
 63	jurés	juré	NOUN	_	Number=Plur	23	appos	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 64	.	.	PUNCT	_	_	20	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_117_1_1
+# sent_id = 1563-1569_Guern_1_1_117_1_1
 # text = Enssuyt ce que Martin Tulouff a confessé par devant justice en plainne auditoire.
 1	Enssuyt	ensuivre	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
 2	ce	ce	PRON	_	PronType=Dem	1	nsubj	_	gold_pos=PRON|prpos=Pd|uppos=PRO
@@ -2353,7 +2353,7 @@
 13	auditoire	auditoire	NOUN	_	_	7	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 14	.	.	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_118_1_1
+# sent_id = 1563-1569_Guern_1_1_118_1_1
 # text = Et premier confesse que il y a viron ung quartier d'an passey que il soy trouva avuecque la Neellesse, aultrement dite Collenette Gascoing, en la rue de la Fosse au Coully, la ou il y avoet chinq ou .vi. chatz don il y en avoet ung qui estoet noir qui menoet la dance et danssoient.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	premier	premier	ADV	_	_	3	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -2416,7 +2416,7 @@
 59	danssoient	danser	VERB	_	VerbForm=Fin	17	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
 60	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_118_1_2
+# sent_id = 1563-1569_Guern_1_1_118_1_2
 # text = Et luy dyst ladite Collenette que il besast ledit chat et dit que il estoet sur ses piedz parlant, et que ladite Collenette le besa par de desriere et luy par la cuysse, et que FrançoizeRegnouff, sa mere, y estoet et Collette Salmon, fame de Collas du Port, laquelle alloet devant.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	luy	il	PRON	_	PronType=Prs	3	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -2478,7 +2478,7 @@
 58	devant	devant	ADV	_	_	57	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 59	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_118_1_3
+# sent_id = 1563-1569_Guern_1_1_118_1_3
 # text = Et s'agenoullerent tous devant le chatt et l'adorerent en luy baillant leur foy.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	s'	se	PRON	_	PronType=Prs	3	expl	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
@@ -2497,7 +2497,7 @@
 15	foy	foi	NOUN	_	_	13	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 16	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_118_1_4
+# sent_id = 1563-1569_Guern_1_1_118_1_4
 # text = Et luy dyst ladite Neellesse que ledit chat estoet le diable, et que ce que ilz faisoient c'estoet pour aller a Bordeaulx.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	luy	il	PRON	_	PronType=Prs	3	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -2525,7 +2525,7 @@
 24	Bordeaulx	Bordeaux	PROPN	_	Number=Plur	22	obl	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 25	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_119_1_1
+# sent_id = 1563-1569_Guern_1_1_119_1_1
 # text = Item confesse que il soy est trouvé avuecque ladite Neellesse ou elle chevaucha ung genest et luy ung aultre, et que ladite Nelesse monta amont la chemynee, et que il en perdyt la veue, et que elle disoet devant que monter: « Va au nom du diable et par Luciffer par dessus ronches et espynnes! » et que pour luy il ne pouvoet ainsy faire.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 2	confesse	confesser	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -2603,7 +2603,7 @@
 72	faire	faire	VERB	_	VerbForm=Inf	70	xcomp	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 73	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_119_1_2
+# sent_id = 1563-1569_Guern_1_1_119_1_2
 # text = Et dit que sa mere a chevauché le genest par .ix. ou .x. foys, et que il l'a veue monter amont la chemynee.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Part	0	root	_	gold_pos=VERB|prpos=Ge|uppos=VPP
@@ -2632,7 +2632,7 @@
 25	chemynee	cheminée	NOUN	_	_	22	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 26	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_120_1_1
+# sent_id = 1563-1569_Guern_1_1_120_1_1
 # text = Item confesse que ladite Neellesse luy bailla ung oignement pour en aller frotter la vache de Robin Moulin, et que c'estoet pour la faire seicher, ce que il fyst, et que ladite Nellesse luy bailloet deulx sortes de oignement, l'ung jone et l'aultre blanc, et luy disoet que le jone estoet pour faire gueryr, et le blanc pour faire mallade les personnes ou les bestes.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 2	confesse	confesser	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -2710,7 +2710,7 @@
 74	bestes	bête	NOUN	_	Number=Plur	71	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 75	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 1_1_120_1_2
+# sent_id = 1563-1569_Guern_1_1_120_1_2
 # text = Item confesse que il myst de l'oignement a l'huys de la fame qui fut Johan le Beyr, et c'estoet pour la faire gueryr.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 2	confesse	confesser	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -2741,7 +2741,7 @@
 27	gueryr	guérir	VERB	_	VerbForm=Inf	23	advcl	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
 28	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
 
-# sent_id = 2_1_1_1_1
+# sent_id = 1563-1569_Guern_2_1_1_1_1
 # text = Le .viie. jour du moes de apvryll l'an mille .vclxv. par devant Thomas Comptum, baillyff en l'isle de Gernesey soubz la majesté de nostre souveraygne dame Elizabeth, roigne d'Angleterre, France et d'Hyrlande, et presentz ad ce Nicollas Careye, Johan Blondel, Pierres Bonamy, Richard Devic et Thomas Effart, jurés de la court de nostredicte souveraynne dame la roigne en ladite isle, furent enquys et examinez a la suytte et instance du procureur de ladite majesté, certainnes personnes, lesquelez sont venus de l'isle d'Aureny qui estoient dedens ung navire qui est venu eschoier en ladite isle de Aureny.
 1	Le	le	DET	_	Definite=Def	3	det	_	gold_pos=DET|prpos=Da|uppos=D
 2	.viie.	septième	ADJ	_	NumType=Ord	3	amod	_	gold_pos=ADJ|prpos=Mo|uppos=ADJ
@@ -2862,7 +2862,7 @@
 115	Aureny	Aurigny	PROPN	_	Number=Plur	113	nmod	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 116	.	.	PUNCT	_	_	76	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_2_1
+# sent_id = 1563-1569_Guern_2_1_1_2_1
 # text = Et premier, Airyns Doivyn, yroes, de l'aage de .xxi. an ou viron, voyageant aulx navires de Londres, dict et confesse aprés son serment prestey que ilz estoient dedens ung navire apartenant a ung nommey metre Corbet de Londres, lequell Corbet estoet dedens cappitaine et marchant pour partie, avuecque ung nommey Lyndonet, marchant aussy de Londres, auquell navire estoet mestre ung Robert Foster de Suthamptonne, estant ledit navire du port de .iiiixx. et dix tonneaulx ou viron, et partirent de Londres associés de .xxv. homes pour aller a la Grande Canarie pour recuillir certains denirs qui la estoient deubz audit Corbet, et la furent .xv. jours attendant leur poyment, ce que ilz ne peurent recepvoir, et aprés partirent de ladite Canarie et vyndrent a Emontey en Hespaingne, et que audit lyeu de Canarye vendirent certayns draps qu'yllz avoient porté avuecque eulx, de l'argent desquelz draps ledit Corbet chargea audit Emontey le nombre de quatre vingt tonneaulx de vin ou viron, tant de seic que de bastard, et que audit lyeu ilz pryndrent ung home espaignol pour venir avuecque eulx, et par aprés ilz partirent dudit lyeu et vyndrent par temps impetueulx en la coste d'Hyrlande en une place apellee ou nommee Byre Haven au voest d'Hyrlande et que ce fut a Noel desrain passey.
 1	Et	et	CCONJ	_	_	25	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	premier	premier	ADV	_	_	25	advmod	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
@@ -3123,7 +3123,7 @@
 247	passey	passer	VERB	_	VerbForm=Part	245	acl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 248	.	.	PUNCT	_	_	25	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_2_2
+# sent_id = 1563-1569_Guern_2_1_1_2_2
 # text = Et la trouverent troys navires adventuriers, dedens l'ung desquelz estoet ung nommey cappitainne Hedon, du port de .iiiixx. tonneaulx ou viron.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	la	là	ADV	_	_	3	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -3155,7 +3155,7 @@
 26	viron	viron	ADV	_	_	23	conj	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 27	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_2_3
+# sent_id = 1563-1569_Guern_2_1_1_2_3
 # text = A l'aultre navire estoet cappitaine ung nommey Lusingan, du port de .lx. tonneaulx ou viron,
 1	A	à	ADP	_	_	4	case	_	gold_pos=ADP|prpos=S|uppos=P
 2	l'	le	DET	_	Definite=Def	4	det	_	gold_pos=DET|prpos=Da|SpaceAfter=No|uppos=D
@@ -3178,7 +3178,7 @@
 18	viron	viron	ADV	_	_	15	conj	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 19	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_2_4
+# sent_id = 1563-1569_Guern_2_1_1_2_4
 # text = et a l'aultre navire estoet cappitaine ung nomey Apseley du port de .xxx. tonneaulx ou viron.
 1	et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	a	à	ADP	_	_	5	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -3201,7 +3201,7 @@
 18	viron	viron	ADV	_	_	15	conj	_	gold_pos=ADV|prpos=Rg|SpaceAfter=No|uppos=ADV
 19	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_2_5
+# sent_id = 1563-1569_Guern_2_1_1_2_5
 # text = Lesquelz troys navires les desroberent de la pluspart de leurs vyns, et pour rescompence leur baillerent environ quatre milliers de poysson vert de Terre Neufve avuecque .ii. miliers de poysson seic de Terre Neufve.
 1	Lesquelz	lequel	DET	_	_	3	det	_	gold_pos=DET|prpos=Dr|uppos=WD
 2	troys	trois	NUM	_	NumType=Card	3	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
@@ -3240,7 +3240,7 @@
 35	Neufve	Neufve	PROPN	_	Number=Plur	34	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 36	.	.	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_2_6
+# sent_id = 1563-1569_Guern_2_1_1_2_6
 # text = Et audit lyeu de Bire Haven targerent pour accoustrer leur navire et aussy pour le temps, l'espasse de six sepmainnes ou viron, et de la vyndrent a Surlynque, ou ilz targerent .iii. ou .iiii. jours, et puys aprés partirent faisant leur voyage pour aller a Londres.
 1	Et	et	CCONJ	_	_	8	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2-3	audit	_	_	_	_	_	_	_	_
@@ -3297,7 +3297,7 @@
 52	Londres	Londres	PROPN	_	Number=Plur	50	obl	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 53	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_2_7
+# sent_id = 1563-1569_Guern_2_1_1_2_7
 # text = Et, estantz par le chemin, leurdit navire soy trouva eschu tellement que a grant peynne ilz pouvoient l'estanguier d'eaue a deulx pompes,
 1	Et	et	CCONJ	_	_	11	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
 2	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -3327,7 +3327,7 @@
 26	pompes	pompe	NOUN	_	Number=Plur	21	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 27	,	,	PUNCT	_	_	11	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_2_8
+# sent_id = 1563-1569_Guern_2_1_1_2_8
 # text = et sur ce s'en vyndrent et eschouerent en l'isle d'Aureny pourpenssant enstancher leurdit navire,
 1	et	et	CCONJ	_	_	6	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
@@ -3348,7 +3348,7 @@
 17	navire	navire	NOUN	_	_	15	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 18	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_2_9
+# sent_id = 1563-1569_Guern_2_1_1_2_9
 # text = en laquelle isle les gentz de bien d'ycelle ne les voullurent lessyer venir a terre que premier ilz ne monstrassent leur auctoryté,
 1	en	en	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
 2	laquelle	lequel	DET	_	_	3	det	_	gold_pos=DET|prpos=Dr|uppos=WD
@@ -3375,7 +3375,7 @@
 23	auctoryté	autorité	NOUN	_	_	21	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 24	,	,	PUNCT	_	_	12	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_2_10
+# sent_id = 1563-1569_Guern_2_1_1_2_10
 # text = sur laquelle chose leurdit cappitaine Corbet leur monstra soubz le grant sceau de l'admyrall, come il avoet auctorité d'aller es Grandes Canaries pour avoir la recouvrance de ses biens.
 1	sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
 2	laquelle	lequel	DET	_	_	3	det	_	gold_pos=DET|prpos=Dr|uppos=WD
@@ -3413,7 +3413,7 @@
 33	biens	bien	NOUN	_	Number=Plur	30	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 34	.	.	PUNCT	_	_	8	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_3_1
+# sent_id = 1563-1569_Guern_2_1_1_3_1
 # text = Anthony Anderson de Neuf Chateau de l'aage de .xx. ans dit et confesse aprés son serment prestey que ilz partyrent viron ladit Johan de Themmes, et que ilz estoient .xxv. homes, et qu'ylz vyndrent a Fallemue et, quant ilz partirent de la, ilz estoient .xxxv. homes, et vyndrent es Canaries, et la targerent quinse jours, et puys s'en vyndrent a Emontey ou ilz furent .iii. sepmainnes, ou ilz vendirent leurs draps, scaver est larges draps et carysés, et de ce chargerent .iiiixx. tonneaulx de vin seic et bastard.
 1	Anthony	Anthony	PROPN	_	Number=Plur	12	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Anderson	Anderson	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -3520,7 +3520,7 @@
 102	bastard	bâtard	ADJ	_	_	100	conj	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 103	.	.	PUNCT	_	_	12	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_3_2
+# sent_id = 1563-1569_Guern_2_1_1_3_2
 # text = Et en partant dudit lyeu, ilz aborderent une hourque, la ou ilz pryndrent ung cannonnyer.
 1	Et	et	CCONJ	_	_	9	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	en	en	ADP	_	_	3	mark	_	gold_pos=ADP|prpos=S|uppos=P
@@ -3543,7 +3543,7 @@
 18	cannonnyer	canonnier	NOUN	_	_	16	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	.	.	PUNCT	_	_	9	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_3_3
+# sent_id = 1563-1569_Guern_2_1_1_3_3
 # text = Il ne scayt de quoy elle estoet chargee, et dit que ilz ne furent en aultre lyeu dempuys que ilz partirent de Emontey juscque ad ce que ilz viensissent en Hyrlande et, quant ilz vyndrent en Aureny, ilz estoient .xxx. compaignons et .iiii. ou .v. garsons, et que audit lyeu d'Hyrlande ilz pryndrent .iii. ou .iiii. passagiers soldars pour venir cercher service en Angleterre.
 1	Il	il	PRON	_	PronType=Prs	3	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
 2	ne	ne	ADV	_	Polarity=Neg	3	advmod	_	gold_pos=ADV|prpos=Rp|uppos=NEG
@@ -3618,7 +3618,7 @@
 70	Angleterre	Angleterre	PROPN	_	Number=Plur	67	obl	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 71	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_4_1
+# sent_id = 1563-1569_Guern_2_1_1_4_1
 # text = Germain Jenson des parties d'Hyrlande et a present demeurant en Dertremoire, de l'aage de .xxiiii. ans, dit et confesse aprés son serment prestey que ilz chargerent a Emontey le nombre de .iiiixx. tonneaulx ou viron de vyns seics et bastartz, de l'argent que ilz avoient rechu es Canaryes de la vente de leurs draps, et que la ilz pryndrent ung home flament cannonnier pour les servyr, et de la ilz vyndrent es isles de Bayonne, et que ilz n'aborderent nulle hourque, et aprés ce vyndrent en Hyrlande, et que la ilz trouverent troys navires adventuriers, lesquelz leur pryndrent .xxx. tonneaulx de vin.
 1	Germain	Germain	PROPN	_	Number=Plur	22	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Jenson	Jenson	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -3743,7 +3743,7 @@
 118	vin	vin	NOUN	_	_	116	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 119	.	.	PUNCT	_	_	22	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_4_2
+# sent_id = 1563-1569_Guern_2_1_1_4_2
 # text = Et dit que aprés la mort du cappitaine Lusingan ilz eurent en rescompence pour leursditz vyns du poysson, de l'artillerie, des cuyrs, de l'uylle, du pain, dez faibves et de ce qu'ilz avoient.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -3790,7 +3790,7 @@
 42	avoient	avoir	VERB	_	VerbForm=Fin	39	acl:relcl	_	gold_pos=VERB|prpos=Vuc|SpaceAfter=No|uppos=AJ
 43	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_5_1
+# sent_id = 1563-1569_Guern_2_1_1_5_1
 # text = Jamequin Lorens de Callyny au Pays de Galles de l'aage de .xxii. ans dit et confesse aprés son serment prestey que, quant ilz partyrent de Londres avuecque leur cappitaine mestre Corbet, dedens ledit navire ilz estoient .xxv. homes et que ce fut sept jours aprés la Saint Johan desrain passey, et, quant ilz partyrent de Fallemue, ilz estoient quarante homes, et de la vyndrent es Canaries, la ou ilz targerent troys sepmainnes et puys aprés vyndrent a Emontey, ou ilz vendirent leurs draps et chargerent viron .lx. tonneaux de vin, et la pryndrent ung home flamen canonnier et aprés ce vyndrent aulx isles de Bayonne, et que de la ilz s'en vyndrent en Hyrlande a Byre Haven.
 1	Jamequin	Jamequin	PROPN	_	Number=Plur	16	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Lorens	Lorens	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -3929,7 +3929,7 @@
 132	Haven	Haven	PROPN	_	Number=Plur	131	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 133	.	.	PUNCT	_	_	16	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_5_2
+# sent_id = 1563-1569_Guern_2_1_1_5_2
 # text = Et dit que par le chemin ilz n'aborderent nulle hourque ne navire et aryverent audit lyeu d'Hyrlande viron le jour de Toussaintz,
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -3959,7 +3959,7 @@
 25	Toussaintz	Toussaint	NOUN	_	_	23	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 26	,	,	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_5_3
+# sent_id = 1563-1569_Guern_2_1_1_5_3
 # text = et en partyrent il y a viron ung moes passey.
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	en	en	PRON	_	PronType=Prs	3	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
@@ -3973,7 +3973,7 @@
 10	passey	passer	VERB	_	VerbForm=Part	9	acl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 11	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_5_4
+# sent_id = 1563-1569_Guern_2_1_1_5_4
 # text = Et dit que ilz eurent dezditz troys navires pour rescompence de leurs vyns du poysson, de l'artillerie, du harenc, des faibves et que pour l'uylle il dit que leur cappitaine l'avoet achaptee en Hespaingne pour ce que ilz n'avoient point de chandelle.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -4028,7 +4028,7 @@
 50	chandelle	chandelle	NOUN	_	_	47	obj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 51	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_5_5
+# sent_id = 1563-1569_Guern_2_1_1_5_5
 # text = Et dit que, quant ilz vyndrent en Aureny, ilz estoient .xxxviii. homes, don il y avoet cinq ou .vi. gentz de Lusingan, passagiers.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -4059,7 +4059,7 @@
 27	passagiers	passager	NOUN	_	Number=Plur	23	appos	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 28	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_6_1
+# sent_id = 1563-1569_Guern_2_1_1_6_1
 # text = Edouard Regnolde, de l'aage de .xx. ans, de la conté d'Exsey en la ville de Cochester, marinier, dit et confesse aprés son serment prestey que ilz partirent de Londres dedens ledit navire au moes de juillet desrain passey, auquell navire estoet cappitaine mestre Corbet avuecque deulx marchantz, l'ung nommey mestre Lyndonoet et l'aultre nommey mestre Warde, et vyndrent a la Grande Canarie pour recuyllir certayns denirs qui la estoient deubz audit Corbet, et la furent .xv. jours et vendirent des draps et puys vyndrent a Emontey ou ilz chargerent .iiiixx. tonneaulx ou viron de vyns seics et bastardz.
 1	Edouard	Édouard	PROPN	_	Number=Plur	24	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Regnolde	Regnaulde	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
@@ -4179,7 +4179,7 @@
 113	bastardz	bâtard	ADJ	_	_	111	conj	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
 114	.	.	PUNCT	_	_	24	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_6_2
+# sent_id = 1563-1569_Guern_2_1_1_6_2
 # text = Et, quant ilz partirent dudit lyeu, ilz aborderent une hourque, en laquelle ilz pryndrent ung homme cannonnier,
 1	Et	et	CCONJ	_	_	11	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
 2	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
@@ -4205,7 +4205,7 @@
 21	cannonnier	canonnier	NOUN	_	_	20	appos	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 22	,	,	PUNCT	_	_	18	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_6_3
+# sent_id = 1563-1569_Guern_2_1_1_6_3
 # text = et estoet chargee de seill.
 1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	estoet	être	AUX	_	VerbForm=Fin	3	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
@@ -4214,7 +4214,7 @@
 5	seill	sel	NOUN	_	_	3	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 6	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_6_4
+# sent_id = 1563-1569_Guern_2_1_1_6_4
 # text = Et dit que ilz ne pryndrent aulcune choze hors de ladite hourque et aprés s'en vyndrent a Bire Haven en Hyrlande et que ilz furent desrobés par troys navires et, pour rescompence de leurs biens, ilz eurent .xiii. piechez d'artillerie ou environ, et la targerent .iii. sepmainnes.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -4270,7 +4270,7 @@
 52	sepmainnes	semaine	NOUN	_	Number=Plur	50	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
 53	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_6_5
+# sent_id = 1563-1569_Guern_2_1_1_6_5
 # text = Et dit que il y avoet ung bourssier dedens leurdit navire, nommey Richard Degley, et que ilz prydrent .vi. homes a Bire Haven du navire du cappitaine Lusingan.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -4308,7 +4308,7 @@
 32	Lusingan	Lusignan	PROPN	_	Number=Plur	31	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 33	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_6_6
+# sent_id = 1563-1569_Guern_2_1_1_6_6
 # text = Plus dit que lesditz troys navires fyrent force contre quatre des navires de la roigne et furent contrainctz de mettre leur artillerie a terre soubz le chateau de Bire Haven en une crique pour se deffencer et resister contre lesditz navires de la roigne et que audit combat y fut tuey cappitaine Lusingan.
 1	Plus	plus	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=QR
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -4369,7 +4369,7 @@
 55	Lusingan	Lusignan	PROPN	_	Number=Plur	54	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 56	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_6_7
+# sent_id = 1563-1569_Guern_2_1_1_6_7
 # text = Et dit que ledit mestre Corbet a pryntz et ameney lesditz .vi. homes avuecque luy pour venir a Londres pour porter tesmoignage des premisses et du tort que on leur a faict.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -4409,7 +4409,7 @@
 34	faict	faire	VERB	_	VerbForm=Part	29	acl:relcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 35	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_6_8
+# sent_id = 1563-1569_Guern_2_1_1_6_8
 # text = Mathieu Wylliam de l'aage de .xx. ans de Peverton en la contey de Sowmerser dit et confesse, aprés son serment prestey, que, quant ilz partirent, il estoient dedens ledit navire .xxxv. homes, auquell navire estoet cappitaine mestre Corbet, et, quant ilz vyndrent a Bire Haven en Hyrlande, ilz targerent la bien l'espasse de .vii. ou .viii. sepmainnes et que, alhors que ilz estoient a Emontey, dedens le havre ilz prindrent dehors de une hourque chargee de seill estant la ung home cannonnier de son bon voulloir et grey.
 1	Mathieu	Mathieu	PROPN	_	Number=Plur	16	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Wylliam	William	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -4515,7 +4515,7 @@
 101	grey	gré	NOUN	_	_	99	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 102	.	.	PUNCT	_	_	16	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_6_9
+# sent_id = 1563-1569_Guern_2_1_1_6_9
 # text = Et pensse que ladite hourque estoet de Hollande.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	pensse	penser	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -4527,7 +4527,7 @@
 8	Hollande	Hollande	PROPN	_	Number=Plur	6	obl	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 9	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_6_10
+# sent_id = 1563-1569_Guern_2_1_1_6_10
 # text = Item dit que audit lyeu de Bire Haven ung cappitaine nommey Lusingan fut tuey et que ilz pryndrent de ses gentz .vii. o .viii., lesquelz sont avuecque leur cappitaine mestre Corbet.
 1	Item	item	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -4565,7 +4565,7 @@
 33	Corbet	Corbet	PROPN	_	Number=Plur	32	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 34	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_6_11
+# sent_id = 1563-1569_Guern_2_1_1_6_11
 # text = Et aussy dit que ceulx de l'isle d'Aureny ne les empescherent nullement de venir a terre.
 1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	aussy	aussi	ADV	_	_	3	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
@@ -4587,7 +4587,7 @@
 18	terre	terre	NOUN	_	_	16	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
 19	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_7_1
+# sent_id = 1563-1569_Guern_2_1_1_7_1
 # text = Cornelys Langston des parties d'Hyrlande de l'aage de .xxvi. ans dit et confesse aprés son serment prestey ainsy que ses compaignons ont confessé.
 1	Cornelys	Cornelys	PROPN	_	Number=Plur	14	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Langston	Langston	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -4618,7 +4618,7 @@
 26	confessé	confesser	VERB	_	VerbForm=Part	14	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
 27	.	.	PUNCT	_	_	14	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_7_2
+# sent_id = 1563-1569_Guern_2_1_1_7_2
 # text = Plus dit que, quant ilz partyrent de Emontey, ilz aryverent es isles de Bayonne en une place apellee Fygo, et que la trouverent ung home flamen, lequell de son bon grey et voulloir vynt a eulx pour estre le cannonnier, et que ilz le pryndrent a terre, et que ilz n'aborderent nulle hourque par le chemin et, estantz partys d'Hyrlande, ou ilz furent .vii. ou .viii. sepmainnes, ilz vyndrent a Sylle, ou ilz furent quatre jours, et par aprés s'en vyndrent en Aulreny et la n'eurent nulle resistance mays eurent ung pillote qui leur fut accordé, et que alhors ilz estoient .xl. homes don il y en avoet .v. homes du cappitaine Lynsingan.
 1	Plus	plus	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=QR
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -4755,7 +4755,7 @@
 131	Lynsingan	Lusignan	PROPN	_	Number=Plur	130	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 132	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_7_3
+# sent_id = 1563-1569_Guern_2_1_1_7_3
 # text = Et dit que ilz avoient .xl. tonneaulx de vin seics et bastardz et que ilz eurent des troys navires adventuriers en recompence de leur vin du poysson, de l'artillerie, dez cuyrs et de l'uylle.
 1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
 2	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
@@ -4799,7 +4799,7 @@
 39	uylle	huile	NOUN	_	_	28	conj	_	gold_pos=NOUN|join=left|prpos=Nc|SpaceAfter=No|uppos=NCS
 40	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
-# sent_id = 2_1_1_8_1
+# sent_id = 1563-1569_Guern_2_1_1_8_1
 # text = Thomas Morice de Carlyn de Galles, de l'aage de .xxi. ans, dit et confesse, aprés son serment prestey, que entour la Pentecouste ilz partirent de Londres et estoient .xxxv. homes et que ilz ne furent a null port d'Angleterre, dempuys que ilz partirent de Londres juscque ad ce que ilz viensissent aulx Canaries.
 1	Thomas	Thomas	PROPN	_	Number=Plur	15	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 2	Morice	Morice	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
@@ -4864,4 +4864,1609 @@
 60	le	le	DET	_	Definite=Def	61	det	_	gold_pos=DET|prpos=Da|uppos=D
 61	Canaries	Canaries	PROPN	_	Number=Plur	58	obl	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 62	.	.	PUNCT	_	_	15	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+
+# sent_id = 1578_Terrien_1_22_1_2_1
+# source = Terrien
+# text = S' il n' estoit descord de la situation ou bournes de l' héritage, c' est à dire que la declaration ne fust bien baillee: ou s' il n' estoit descord que le defendeur en fust tenant: esquels cas il faudroit montrer et voir l' héritage.
+1	S'	si	SCONJ	CONJS	_	5	mark	_	prpos=Cs
+2	il	il	PRON	PRO	PronType=Prs	5	expl	_	join=left|prpos=Pp
+3	n'	ne	ADV	NEG	_	5	advmod	_	prpos=Rp
+4	estoit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	5	cop	_	join=left|prpos=Vuc
+5	descord	discord	NOUN	NCS	Number=Sing	44	advcl	_	prpos=Nc
+6	de	de	ADP	P	_	8	case	_	prpos=S
+7	la	le	DET	D	Definite=Def|PronType=Art	8	det	_	prpos=Da
+8	situation	situation	NOUN	NCS	Number=Sing	5	nmod	_	prpos=Nc
+9	ou	ou	CCONJ	CONJO	_	10	cc	_	prpos=Cc
+10	bournes	borne	NOUN	NCPL	Number=Plur	8	conj	_	prpos=Nc
+11	de	de	ADP	P	_	13	case	_	prpos=S
+12	l'	le	DET	D	Definite=Def|PronType=Art	13	det	_	prpos=Da
+13	héritage	héritage	NOUN	NCS	Number=Sing	10	nmod	_	join=left|prpos=Nc|SpaceAfter=No
+14	,	,	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
+15	c'	ce	PRON	PRO	PronType=Dem	16	nsubj	_	prpos=Pd
+16	est	être	VERB	EJ	Number=Sing|Person=3|VerbForm=Fin	5	parataxis	_	join=left|prpos=Vuc
+17	à	à	ADP	P	_	18	mark	_	prpos=S
+18	dire	dire	VERB	VX	VerbForm=Inf	16	xcomp	_	prpos=Vvn
+19	que	que	SCONJ	CONJS	_	25	mark	_	prpos=Cs
+20	la	le	DET	D	Definite=Def|PronType=Art	21	det	_	prpos=Da
+21	declaration	déclaration	NOUN	NCS	Number=Sing	25	nsubj	_	prpos=Nc
+22	ne	ne	ADV	NEG	_	25	advmod	_	prpos=Rp
+23	fust	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	25	aux:pass	_	prpos=Vuc
+24	bien	bien	ADV	ADV	_	25	advmod	_	prpos=Rg
+25	baillee	bailler	VERB	VPP	Tense=Past|VerbForm=Part	18	ccomp	_	prpos=Ge|SpaceAfter=No
+26	:	:	PUNCT	PON	_	32	punct	_	join=left|prpos=Fw
+27	ou	ou	CCONJ	CONJO	_	32	cc	_	prpos=Cc
+28	s'	si	SCONJ	CONJS	_	32	mark	_	prpos=Cs
+29	il	il	PRON	PRO	PronType=Prs	32	expl	_	join=left|prpos=Pp
+30	n'	ne	ADV	NEG	_	32	advmod	_	prpos=Rp
+31	estoit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	32	cop	_	join=left|prpos=Vuc
+32	descord	discord	NOUN	NCS	Number=Sing	5	conj	_	prpos=Nc
+33	que	que	SCONJ	CONJS	_	38	mark	_	prpos=Cs
+34	le	le	DET	D	Definite=Def|PronType=Art	35	det	_	prpos=Da
+35	defendeur	défendeur	NOUN	NCS	Number=Sing	38	nsubj	_	prpos=Nc
+36	en	en	PRON	PRO	PronType=Prs	38	obl	_	prpos=Pp
+37	fust	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	38	aux	_	prpos=Vuc
+38	tenant	tenir	VERB	VG	Tense=Pres|VerbForm=Part	32	acl	_	prpos=Ga|SpaceAfter=No
+39	:	:	PUNCT	PON	_	44	punct	_	join=left|prpos=Fw
+40-41	esquels	_	_	_	_	_	_	_	_
+40	en	en	ADP	P	_	42	case	_	prpos=S+Dr
+41	lesquels	lequel	DET	P	PronType=Rel	42	det	_	prpos=S+Dr
+42	cas	cas	NOUN	NCPL	Number=Plur	44	obl	_	prpos=Nc
+43	il	il	PRON	PRO	PronType=Prs	44	expl	_	prpos=Pp
+44	faudroit	falloir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+45	montrer	montrer	VERB	VX	VerbForm=Inf	44	xcomp	_	prpos=Vvn
+46	et	et	CCONJ	CONJO	_	47	cc	_	prpos=Cc|wordform=[et]
+47	voir	voir	VERB	VX	VerbForm=Inf	45	conj	_	prpos=Vvn
+48	l'	le	DET	D	Definite=Def|PronType=Art	49	det	_	prpos=Da
+49	héritage	héritage	NOUN	NCS	Number=Sing	45	obj	_	join=left|prpos=Nc|SpaceAfter=No
+50	.	.	PUNCT	PON	_	44	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_22_1_2_2
+# source = Terrien
+# text = Et n' est ce delay abrogué par l' ordonn. prochainement precedente: pour ce qu' en matiere reelle il est requis que les parties demeuront d' accord de l' héritage contentieux.
+1	Et	et	CCONJ	CONJO	_	6	cc	_	prpos=Cc
+2	n'	ne	ADV	NEG	_	6	advmod	_	prpos=Rp
+3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	6	aux:pass	_	join=left|prpos=Vuc
+4	ce	ce	DET	D	PronType=Dem	5	det	_	prpos=Dd
+5	delay	délai	NOUN	NCS	Number=Sing	6	nsubj	_	prpos=Nc
+6	abrogué	abroger	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
+7	par	par	ADP	P	_	9	case	_	prpos=S
+8	l'	le	DET	D	Definite=Def|PronType=Art	9	det	_	prpos=Da
+9	ordonn.	ordonnance	NOUN	NCS	Number=Sing	6	obl	_	join=left|prpos=Nc
+10	prochainement	prochainement	ADV	ADV	_	11	advmod	_	prpos=Rg|wordform=prochaineme[n]t
+11	precedente	précéder	ADJ	ADJ	_	9	amod	_	prpos=Ag|SpaceAfter=No
+12	:	:	PUNCT	PON	_	6	punct	_	join=left|prpos=Fw
+13	pour	pour	ADP	P	ExtPos=SCONJ	21	mark	_	prpos=S
+14	ce	ce	PRON	PRO	PronType=Dem	13	fixed	_	join=left|prpos=Pd
+15	qu'	que	SCONJ	CONJS	_	13	fixed	_	prpos=Cs
+16	en	en	ADP	P	_	17	case	_	join=left|prpos=S
+17	matiere	matière	NOUN	NCS	Number=Sing	21	obl	_	prpos=Nc
+18	reelle	réel	ADJ	ADJ	_	17	nmod	_	prpos=Ag
+19	il	il	PRON	PRO	PronType=Prs	21	expl	_	prpos=Pp
+20	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	21	aux:pass	_	prpos=Vuc
+21	requis	requérir	VERB	VPP	Tense=Past|VerbForm=Part	6	advcl	_	prpos=Ge
+22	que	que	SCONJ	CONJS	_	25	mark	_	prpos=Cs
+23	les	le	DET	D	Definite=Def|PronType=Art	24	det	_	prpos=Da
+24	parties	partie	NOUN	NCPL	Number=Plur	25	nsubj	_	prpos=Nc
+25	demeuront	demeurer	VERB	VJ	Number=Plur|Person=3|VerbForm=Fin	21	ccomp	_	prpos=Vvc
+26	d'	de	ADP	P	ExtPos=ADJ	25	xcomp	_	prpos=S
+27	accord	accord	NOUN	NCS	Number=Sing	26	fixed	_	join=left|prpos=Nc
+28	de	de	ADP	P	_	30	case	_	prpos=S
+29	l'	le	DET	D	Definite=Def|PronType=Art	30	det	_	prpos=Da
+30	héritage	héritage	NOUN	NCS	Number=Sing	25	obl	_	join=left|prpos=Nc
+31	contentieux	contentieux	ADJ	ADJ	_	30	amod	_	prpos=Ag|SpaceAfter=No
+32	.	.	PUNCT	PON	_	6	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_22_1_2_3
+# source = Terrien
+# text = C' est le fondement du iugement,
+1	C'	ce	PRON	PRO	PronType=Dem	4	nsubj	_	prpos=Pd
+2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	cop	_	join=left|prpos=Vuc
+3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	fondement	fondement	NOUN	NCS	Number=Sing	0	root	_	prpos=Nc
+5-6	du	_	_	_	_	_	_	_	_
+5	de	de	ADP	P	_	7	case	_	prpos=S
+6	le	le	DET	P	Definite=Def|PronType=Art	7	det	_	prpos=Da
+7	iugement	jugement	NOUN	NCS	Number=Sing	4	nmod	_	prpos=Nc|SpaceAfter=No
+8	,	,	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_22_1_2_4
+# source = Terrien
+# text = et est tel delay ordonné non seulement pour le defendeur, mais pour l' instruction du Iuge.
+1	et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc|wordform=[et]
+2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	5	aux:pass	_	prpos=Vuc
+3	tel	tel	ADJ	ADJ	_	4	amod	_	prpos=Ag
+4	delay	délai	NOUN	NCS	Number=Sing	5	nsubj	_	prpos=Nc
+5	ordonné	ordonner	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
+6	non	non	ADV	ADV	_	7	advmod	_	prpos=Rg
+7	seulement	seulement	ADV	ADV	_	10	advmod	_	prpos=Rg
+8	pour	pour	ADP	P	_	10	case	_	prpos=S
+9	le	le	DET	D	Definite=Def|PronType=Art	10	det	_	prpos=Da
+10	defendeur	défendeur	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc|SpaceAfter=No
+11	,	,	PUNCT	PON	_	15	punct	_	join=left|prpos=Fw
+12	mais	mais	CCONJ	CONJO	_	15	cc	_	prpos=Cc
+13	pour	pour	ADP	P	_	15	case	_	prpos=S
+14	l'	le	DET	D	Definite=Def|PronType=Art	15	det	_	prpos=Da
+15	instruction	instruction	NOUN	NCS	Number=Sing	10	conj	_	join=left|prpos=Nc
+16-17	du	_	_	_	_	_	_	_	_
+16	de	de	ADP	P	_	18	case	_	prpos=S
+17	le	le	DET	P	Definite=Def|PronType=Art	18	det	_	prpos=Da
+18	Iuge	juge	NOUN	NCS	Number=Sing	15	nmod	_	prpos=Nc|SpaceAfter=No
+19	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_22_1_2_5
+# source = Terrien
+# text = Mais il n' a lieu en demande generale, comme s' il estoit descord d' une succession,
+1	Mais	mais	CCONJ	CONJO	_	4	cc	_	prpos=Cc
+2	il	il	PRON	PRO	PronType=Prs	4	expl	_	prpos=Pp
+3	n'	ne	ADV	NEG	_	4	advmod	_	prpos=Rp
+4	a	avoir	VERB	AJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vuc
+5	lieu	lieu	NOUN	NCS	Number=Sing	4	obj	_	prpos=Nc
+6	en	en	ADP	P	_	7	case	_	prpos=S
+7	demande	demande	NOUN	NCS	Number=Sing	4	obl	_	prpos=Nc
+8	generale	général	ADJ	ADJ	_	7	amod	_	prpos=Ag|SpaceAfter=No
+9	,	,	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
+10	comme	comme	SCONJ	CONJS	_	14	mark	_	prpos=Cs
+11	s'	si	SCONJ	CONJS	_	14	mark	_	prpos=Cs
+12	il	il	PRON	PRO	PronType=Prs	14	nsubj	_	join=left|prpos=Pp
+13	estoit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	14	cop	_	prpos=Vuc
+14	descord	discord	NOUN	NCS	Number=Sing	4	advcl	_	prpos=Nc
+15	d'	de	ADP	P	_	17	case	_	prpos=S
+16	une	un	DET	D	Definite=Ind|PronType=Art	17	det	_	join=left|prpos=Dn
+17	succession	succession	NOUN	NCS	Number=Sing	14	nmod	_	prpos=Nc|SpaceAfter=No
+18	,	,	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_22_1_2_6
+# source = Terrien
+# text = car on ne seroit suiet bailler declaration de tous les heritages, ny en faire veuë et ostension.
+1	car	car	CCONJ	CONJO	_	5	cc	_	prpos=Cc
+2	on	on	PRON	PRO	PronType=Prs	5	nsubj	_	prpos=Pp
+3	ne	ne	ADV	NEG	_	5	advmod	_	prpos=Rp
+4	seroit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	5	cop	_	prpos=Vuc
+5	suiet	sujet	ADJ	ADJ	_	0	root	_	prpos=Ag
+6	bailler	bailler	VERB	VX	VerbForm=Inf	5	xcomp	_	prpos=Vvn
+7	declaration	déclaration	NOUN	NCS	Number=Sing	6	obj	_	prpos=Nc
+8	de	de	ADP	P	_	11	case	_	prpos=S
+9	tous	tout	DET	Q	Definite=Ind	11	det	_	prpos=Di
+10	les	le	DET	D	Definite=Def|PronType=Art	11	det	_	prpos=Da
+11	heritages	héritage	NOUN	NCPL	Number=Plur	7	nmod	_	prpos=Nc|SpaceAfter=No
+12	,	,	PUNCT	PON	_	15	punct	_	join=left|prpos=Fw
+13	ny	ni	CCONJ	CONJO	_	15	cc	_	prpos=Cc
+14	en	en	PRON	PRO	PronType=Prs	15	obl	_	prpos=Pp
+15	faire	faire	VERB	VX	VerbForm=Inf	5	conj	_	prpos=Vvn
+16	veuë	vue	NOUN	NCS	Number=Sing	15	obj	_	prpos=Nc
+17	et	et	CCONJ	CONJO	_	18	cc	_	prpos=Cc|wordform=[et]
+18	ostension	ostension	NOUN	NCS	Number=Sing	16	conj	_	prpos=Nc|SpaceAfter=No
+19	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_15_1_1
+# source = Terrien
+# text = Garant est celuy qui est tenu de l' euiction du fief, soit par la nature du contract, comme l' ayant vendu: ou par la promesse de garantie apposee à le contract, comme s' il l' auoit donné auec telle promesse: sans laquelle il ne seroit tenu d' euiction.
+1	Garant	garant	NOUN	NCS	Number=Sing	0	root	_	prpos=Nc
+2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	1	cop	_	prpos=Vuc
+3	celuy	celui	PRON	PRO	PronType=Dem	1	nsubj	_	prpos=Pd
+4	qui	qui	PRON	WPRO	PronType=Rel	6	nsubj	_	prpos=Pr
+5	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	6	aux:pass	_	prpos=Vuc
+6	tenu	tenir	VERB	VPP	Tense=Past|VerbForm=Part	3	acl:relcl	_	prpos=Ge
+7	de	de	ADP	P	_	9	case	_	prpos=S
+8	l'	le	DET	D	Definite=Def|PronType=Art	9	det	_	prpos=Da
+9	euiction	éviction	NOUN	NCS	Number=Sing	6	obl	_	join=left|prpos=Nc
+10-11	du	_	_	_	_	_	_	_	_
+10	de	de	ADP	P	_	12	case	_	prpos=S
+11	le	le	DET	P	Definite=Def|PronType=Art	12	det	_	prpos=Da
+12	fief	fief	NOUN	NCS	Number=Sing	9	nmod	_	prpos=Nc|SpaceAfter=No
+13	,	,	PUNCT	PON	_	6	punct	_	join=left|prpos=Fw
+14	soit	soit	CCONJ	CONJO	_	17	cc	_	prpos=Cc
+15	par	par	ADP	P	_	17	case	_	prpos=S
+16	la	le	DET	D	Definite=Def|PronType=Art	17	det	_	prpos=Da
+17	nature	nature	NOUN	NCS	Number=Sing	6	obl	_	prpos=Nc
+18-19	du	_	_	_	_	_	_	_	_
+18	de	de	ADP	P	_	20	case	_	prpos=S
+19	le	le	DET	P	Definite=Def|PronType=Art	20	det	_	prpos=Da
+20	contract	contrat	NOUN	NCS	Number=Sing	17	nmod	_	prpos=Nc|SpaceAfter=No
+21	,	,	PUNCT	PON	_	25	punct	_	join=left|prpos=Fw
+22	comme	comme	SCONJ	CONJS	_	25	mark	_	prpos=Cs
+23	l'	il	PRON	PRO	PronType=Prs	25	obj	_	prpos=Pp
+24	ayant	avoir	AUX	AG	Tense=Pres|VerbForm=Part	25	aux	_	join=left|prpos=Ga
+25	vendu	vendre	VERB	VPP	Tense=Past|VerbForm=Part	17	advcl	_	prpos=Ge|SpaceAfter=No
+26	:	:	PUNCT	PON	_	30	punct	_	join=left|prpos=Fw
+27	ou	ou	CCONJ	CONJO	_	30	cc	_	prpos=Cc
+28	par	par	ADP	P	_	30	case	_	prpos=S
+29	la	le	DET	D	Definite=Def|PronType=Art	30	det	_	prpos=Da
+30	promesse	promesse	NOUN	NCS	Number=Sing	17	conj	_	prpos=Nc
+31	de	de	ADP	P	_	32	case	_	prpos=S
+32	garantie	garantie	NOUN	NCS	Number=Sing	30	nmod	_	prpos=Nc
+33	apposee	apposer	VERB	VPP	Tense=Past|VerbForm=Part	32	acl	_	prpos=Ge
+34	à	à	ADP	P	_	36	case	_	prpos=S
+35	le	le	DET	P	Definite=Def|PronType=Art	36	det	_	prpos=Da
+36	contract	contrat	NOUN	NCS	Number=Sing	33	obl	_	prpos=Nc|SpaceAfter=No
+37	,	,	PUNCT	PON	_	43	punct	_	join=left|prpos=Fw
+38	comme	comme	SCONJ	CONJS	_	43	mark	_	prpos=Cs
+39	s'	si	SCONJ	CONJS	_	43	mark	_	prpos=Cs
+40	il	il	PRON	PRO	PronType=Prs	43	nsubj	_	join=left|prpos=Pp
+41	l'	il	PRON	PRO	PronType=Prs	43	obj	_	prpos=Pp
+42	auoit	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	43	aux	_	join=left|prpos=Vuc
+43	donné	donner	VERB	VPP	Tense=Past|VerbForm=Part	30	advcl	_	prpos=Ge
+44	auec	avec	ADP	P	_	46	case	_	prpos=S
+45	telle	tel	ADJ	ADJ	_	46	amod	_	prpos=Ag
+46	promesse	promesse	NOUN	NCS	Number=Sing	43	obl	_	prpos=Nc|SpaceAfter=No
+47	:	:	PUNCT	PON	_	53	punct	_	join=left|prpos=Fw
+48	sans	sans	ADP	P	_	49	case	_	prpos=S
+49	laquelle	lequel	PRON	WPRO	PronType=Rel	53	obl	_	prpos=Pr
+50	il	il	PRON	PRO	PronType=Prs	53	nsubj	_	prpos=Pp
+51	ne	ne	ADV	NEG	_	53	advmod	_	prpos=Rp
+52	seroit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	53	aux:pass	_	prpos=Vuc
+53	tenu	tenir	VERB	VPP	Tense=Past|VerbForm=Part	46	acl:relcl	_	prpos=Ge
+54	d'	de	ADP	P	_	55	case	_	prpos=S
+55	euiction	éviction	NOUN	NCS	Number=Sing	53	obl	_	join=left|prpos=Nc|SpaceAfter=No
+56	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_15_1_2
+# source = Terrien
+# text = Quant à le contract de venduë, il emporte de sa nature obligation de garantie, combien qu' il n' y en ait promesse expresse.
+1	Quant	quand	SCONJ	CONJS	ExtPos=ADP	4	case	_	prpos=Cs
+2	à	à	ADP	P	_	1	fixed	_	prpos=S
+3	le	le	DET	P	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	contract	contrat	NOUN	NCS	Number=Sing	9	obl	_	prpos=Nc
+5	de	de	ADP	P	_	6	case	_	prpos=S
+6	venduë	vendue	NOUN	NCS	Number=Sing	4	nmod	_	prpos=Nc|SpaceAfter=No
+7	,	,	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
+8	il	il	PRON	PRO	PronType=Prs	9	nsubj	_	prpos=Pp
+9	emporte	emporter	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+10	de	de	ADP	P	_	12	case	_	prpos=S
+11	sa	son	DET	DZ	Poss=Yes	12	det	_	prpos=Ds
+12	nature	nature	NOUN	NCS	Number=Sing	9	obl	_	prpos=Nc
+13	obligation	obligation	NOUN	NCS	Number=Sing	9	obj	_	prpos=Nc
+14	de	de	ADP	P	_	15	case	_	prpos=S
+15	garantie	garantie	NOUN	NCS	Number=Sing	13	nmod	_	prpos=Nc|SpaceAfter=No
+16	,	,	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
+17	combien	combien	ADV	ADV	ExtPos=SCONJ	23	mark	_	prpos=Rg
+18	qu'	que	SCONJ	CONJS	_	17	fixed	_	prpos=Cs
+19	il	il	PRON	PRO	PronType=Prs	23	expl	_	join=left|prpos=Pp
+20	n'	ne	ADV	NEG	_	23	advmod	_	prpos=Rp
+21	y	y	PRON	PRO	PronType=Prs	23	obl	_	join=left|prpos=Pp
+22	en	en	PRON	PRO	PronType=Prs	24	nmod	_	prpos=Pp
+23	ait	avoir	VERB	AJ	Number=Sing|Person=3|VerbForm=Fin	9	advcl	_	prpos=Vuc
+24	promesse	promesse	NOUN	NCS	Number=Sing	23	obj	_	prpos=Nc
+25	expresse	exprès	ADJ	ADJ	_	24	amod	_	prpos=Ag|SpaceAfter=No
+26	.	.	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_15_1_3
+# source = Terrien
+# text = Et plus y a qu' il est tant abondant en bonne foy, que quand il seroit dit, que le vendeur ne seroit tenu d' euiction, encores au cas d' euiction il seroit tenu rendre le prix, si specialement il n' estoit autrement conuenu.
+1	Et	et	CCONJ	CONJO	_	4	cc	_	prpos=Cc
+2	plus	plus	ADV	ADVNEG	_	4	advmod	_	prpos=Rg
+3	y	y	PRON	PRO	PronType=Prs	4	obl	_	prpos=Pp
+4	a	avoir	VERB	AJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vuc
+5	qu'	que	SCONJ	CONJS	_	9	mark	_	prpos=Cs
+6	il	il	PRON	PRO	PronType=Prs	9	expl	_	join=left|prpos=Pp
+7	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	9	cop	_	prpos=Vuc
+8	tant	tant	ADV	Q	_	9	advmod	_	prpos=Rg
+9	abondant	abondant	ADJ	ADJ	_	4	advcl	_	prpos=Ag
+10	en	en	ADP	P	_	12	case	_	prpos=S
+11	bonne	bon	ADJ	ADJ	_	12	amod	_	prpos=Ag
+12	foy	foi	NOUN	NCS	Number=Sing	9	obl	_	prpos=Nc|SpaceAfter=No
+13	,	,	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
+14	que	que	SCONJ	CONJS	_	37	mark	_	prpos=Cs
+15	quand	quand	SCONJ	CONJS	_	18	mark	_	prpos=Cs
+16	il	il	PRON	PRO	PronType=Prs	18	expl	_	prpos=Pp
+17	seroit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	18	aux:pass	_	prpos=Vuc
+18	dit	dire	VERB	VPP	Tense=Past|VerbForm=Part	37	advcl	_	prpos=Ge|SpaceAfter=No
+19	,	,	PUNCT	PON	_	25	punct	_	join=left|prpos=Fw
+20	que	que	SCONJ	CONJS	_	25	mark	_	prpos=Cs
+21	le	le	DET	D	Definite=Def|PronType=Art	22	det	_	prpos=Da
+22	vendeur	vendeur	NOUN	NCS	Number=Sing	25	nsubj	_	prpos=Nc
+23	ne	ne	ADV	NEG	_	25	advmod	_	prpos=Rp
+24	seroit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	25	aux:pass	_	prpos=Vuc
+25	tenu	tenir	VERB	VPP	Tense=Past|VerbForm=Part	18	ccomp	_	prpos=Ge
+26	d'	de	ADP	P	_	27	case	_	prpos=S
+27	euiction	éviction	NOUN	NCS	Number=Sing	25	obl	_	join=left|prpos=Nc|SpaceAfter=No
+28	,	,	PUNCT	PON	_	25	punct	_	join=left|prpos=Fw
+29	encores	encore	ADV	ADV	_	37	advmod	_	prpos=Rg
+30-31	au	_	_	_	_	_	_	_	_
+30	à	à	ADP	P	_	32	case	_	prpos=S
+31	le	le	DET	D	Definite=Def|PronType=Art	32	det	_	prpos=Da
+32	cas	cas	NOUN	NCS	Number=Sing	37	obl	_	prpos=Nc
+33	d'	de	ADP	P	_	34	case	_	prpos=S
+34	euiction	éviction	NOUN	NCS	Number=Sing	32	nmod	_	join=left|prpos=Nc
+35	il	il	PRON	PRO	PronType=Prs	37	nsubj	_	prpos=Pp
+36	seroit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	37	aux:pass	_	prpos=Vuc
+37	tenu	tenir	VERB	VPP	Tense=Past|VerbForm=Part	8	advcl	_	prpos=Ge
+38	rendre	rendre	VERB	VX	VerbForm=Inf	37	xcomp	_	prpos=Vvn
+39	le	le	DET	D	Definite=Def|PronType=Art	40	det	_	prpos=Da
+40	prix	prix	NOUN	NCS	Number=Sing	38	obj	_	prpos=Nc|SpaceAfter=No
+41	,	,	PUNCT	PON	_	37	punct	_	join=left|prpos=Fw
+42	si	si	SCONJ	CONJS	_	48	mark	_	prpos=Cs
+43	specialement	spécialement	ADV	ADV	_	48	advmod	_	prpos=Rg
+44	il	il	PRON	PRO	PronType=Prs	48	nsubj	_	prpos=Pp
+45	n'	ne	ADV	NEG	_	48	advmod	_	prpos=Rp
+46	estoit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	48	aux:pass	_	join=left|prpos=Vuc
+47	autrement	autrement	ADV	ADV	_	48	advmod	_	prpos=Rg
+48	conuenu	convenir	VERB	VPP	Tense=Past|VerbForm=Part	37	advcl	_	prpos=Ge|SpaceAfter=No
+49	.	.	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_15_1_4
+# source = Terrien
+# text = Qui est bien à noter pour les vendues où le vendeur baille ses lettres pour toute garantie: sauf son faict et obligation tant seulement.
+1	Qui	qui	PRON	WPRO	PronType=Rel	3	nsubj	_	prpos=Pr
+2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	3	cop	_	prpos=Vuc
+3	bien	bien	ADV	ADV	_	0	root	_	prpos=Rg
+4	à	à	ADP	P	_	5	mark	_	prpos=S
+5	noter	noter	VERB	VX	VerbForm=Inf	3	xcomp	_	prpos=Vvn
+6	pour	pour	ADP	P	_	8	case	_	prpos=S
+7	les	le	DET	D	Definite=Def|PronType=Art	8	det	_	prpos=Da
+8	vendues	vendue	NOUN	NCPL	Number=Plur	5	obl	_	prpos=Nc
+9	où	où	PRON	WPRO	PronType=Rel	12	obl	_	prpos=Pr
+10	le	le	DET	D	Definite=Def|PronType=Art	11	det	_	prpos=Da
+11	vendeur	vendeur	NOUN	NCS	Number=Sing	12	nsubj	_	prpos=Nc
+12	baille	bailler	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	8	acl:relcl	_	prpos=Vvc
+13	ses	son	DET	DZ	Poss=Yes	14	det	_	prpos=Ds
+14	lettres	lettre	NOUN	NCPL	Number=Plur	12	obj	_	prpos=Nc
+15	pour	pour	ADP	P	_	17	case	_	prpos=S
+16	toute	tout	DET	Q	Definite=Ind	17	det	_	prpos=Di
+17	garantie	garantie	NOUN	NCS	Number=Sing	12	obl	_	prpos=Nc|SpaceAfter=No
+18	:	:	PUNCT	PON	_	21	punct	_	join=left|prpos=Fw
+19	sauf	sauf	ADP	P	_	21	case	_	prpos=S
+20	son	son	DET	DZ	Poss=Yes	21	det	_	prpos=Ds
+21	faict	fait	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc
+22	et	et	CCONJ	CONJO	_	23	cc	_	prpos=Cc|wordform=[et]
+23	obligation	obligation	NOUN	NCS	Number=Sing	21	conj	_	prpos=Nc
+24	tant	tant	ADV	Q	_	25	advmod	_	prpos=Rg
+25	seulement	seulement	ADV	ADV	_	21	advmod	_	prpos=Rg|SpaceAfter=No
+26	.	.	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_15_1_5
+# source = Terrien
+# text = Laquelle garantie de son fait comprend aussi le faict de son heritier, et de son predecesseur tant vniuersel que singulier: comme Papon dit auoir esté iugé par arrest de Bordeaux selon l' opinion de Dynus in l. fi per illum text. ff. de no. ope. nuncia. contre l' opinion d' autres Doct. par luy alléguez.
+# tags = latin
+1	Laquelle	lequel	DET	WD	_	2	det	_	prpos=Dr
+2	garantie	garantie	NOUN	NCS	Number=Sing	6	nsubj	_	prpos=Nc
+3	de	de	ADP	P	_	5	case	_	prpos=S
+4	son	son	DET	DZ	Poss=Yes	5	det	_	prpos=Ds
+5	fait	fait	NOUN	NCS	Number=Sing	2	nmod	_	prpos=Nc
+6	comprend	comprendre	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+7	aussi	aussi	ADV	ADV	_	6	advmod	_	prpos=Rg
+8	le	le	DET	D	Definite=Def|PronType=Art	9	det	_	prpos=Da
+9	faict	fait	NOUN	NCS	Number=Sing	6	obj	_	prpos=Nc
+10	de	de	ADP	P	_	12	case	_	prpos=S
+11	son	son	DET	DZ	Poss=Yes	12	det	_	prpos=Ds
+12	heritier	héritier	NOUN	NCS	Number=Sing	9	nmod	_	prpos=Nc|SpaceAfter=No
+13	,	,	PUNCT	PON	_	17	punct	_	join=left|prpos=Fw
+14	et	et	CCONJ	CONJO	_	17	cc	_	prpos=Cc|wordform=[et]
+15	de	de	ADP	P	_	17	case	_	prpos=S
+16	son	son	DET	DZ	Poss=Yes	17	det	_	prpos=Ds
+17	predecesseur	prédécesseur	NOUN	NCS	Number=Sing	9	conj	_	prpos=Nc
+18	tant	tant	ADV	Q	_	19	advmod	_	prpos=Rg
+19	vniuersel	universel	ADJ	ADJ	_	17	amod	_	prpos=Ag
+20	que	que	SCONJ	CONJS	_	21	mark	_	prpos=Cs
+21	singulier	singulier	ADJ	ADJ	_	19	conj	_	prpos=Ag|SpaceAfter=No
+22	:	:	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
+23	comme	comme	SCONJ	CONJS	_	25	mark	_	prpos=Cs
+24	Papon	Papon	PROPN	NPRS	Number=Sing	25	nsubj	_	prpos=Np
+25	dit	dire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	6	advcl	_	prpos=Vvc
+26	auoir	avoir	AUX	AX	VerbForm=Inf	28	aux	_	prpos=Vun
+27	esté	être	AUX	EPP	Tense=Past|VerbForm=Part	28	aux:pass	_	prpos=Ge
+28	iugé	juger	VERB	VPP	Tense=Past|VerbForm=Part	25	ccomp	_	prpos=Ge
+29	par	par	ADP	P	_	30	case	_	prpos=S
+30	arrest	arrêt	NOUN	NCS	Number=Sing	28	obl	_	prpos=Nc
+31	de	de	ADP	P	_	32	case	_	prpos=S
+32	Bordeaux	Bordeaux	PROPN	NPRS	Number=Sing	30	nmod	_	prpos=Np
+33	selon	selon	ADP	P	_	35	case	_	prpos=S
+34	l'	le	DET	D	Definite=Def|PronType=Art	35	det	_	prpos=Da
+35	opinion	opinion	NOUN	NCS	Number=Sing	28	obl	_	join=left|prpos=Nc
+36	de	de	ADP	P	_	37	case	_	prpos=S
+37	Dynus	Dynus	PROPN	FW	_	35	nmod	_	Lang=la|prpos=Xe
+38	in	in	ADP	FW	_	39	case	_	Lang=la|prpos=Xe
+39	l.	lex	NOUN	FW	_	35	nmod	_	Lang=la|prpos=Xe
+40	fi	finalis	ADJ	FW	_	39	amod	_	Lang=la|prpos=Xe
+41	per	per	ADP	FW	_	43	case	_	Lang=la|prpos=Xe
+42	illum	ille	DET	FW	_	43	det	_	Lang=la|prpos=Xe
+43	text.	textum	NOUN	FW	_	39	nmod	_	Lang=la|prpos=Xe
+44	ff.	fragmentum	NOUN	FW	_	48	orphan	_	Lang=la|prpos=Xe
+45	de	de	ADP	FW	_	48	case	_	Lang=la|prpos=Xe
+46	no.	novus	ADJ	FW	_	47	amod	_	Lang=la|prpos=Xe
+47	ope.	opus	NOUN	FW	_	48	nmod	_	Lang=la|prpos=Xe
+48	nuncia.	nuntiatio	NOUN	FW	_	39	nmod	_	Lang=la|prpos=Xe
+49	contre	contre	ADP	P	_	51	case	_	prpos=S
+50	l'	le	DET	D	Definite=Def|PronType=Art	51	det	_	prpos=Da
+51	opinion	opinion	NOUN	NCS	Number=Sing	28	obl	_	join=left|prpos=Nc
+52	d'	de	ADP	P	_	54	case	_	prpos=S
+53	autres	autre	ADJ	ADJ	_	54	amod	_	join=left|prpos=Ag
+54	Doct.	docteur	NOUN	NCPL	Number=Plur	51	nmod	_	prpos=Nc
+55	par	par	ADP	P	_	56	case	_	prpos=S
+56	luy	il	PRON	PRO	PronType=Prs	57	obl	_	prpos=Pp
+57	alléguez	alléguer	VERB	VPP	Tense=Past|VerbForm=Part	54	acl	_	prpos=Ge|SpaceAfter=No
+58	.	.	PUNCT	PON	_	6	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_16_1_1
+# source = Terrien
+# text = Voyez l' annotation mise au tit. De detteurs et de dettes .§ 4. sur ce mot, pleuuine est morte, liu. vii.
+1	Voyez	voir	VERB	VJ	Number=Plur|Person=2|VerbForm=Fin	0	root	_	prpos=Vvc
+2	l'	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
+3	annotation	annotation	NOUN	NCS	Number=Sing	1	obj	_	join=left|prpos=Nc
+4	mise	mettre	VERB	VPP	Tense=Past|VerbForm=Part	3	acl	_	prpos=Ge
+5-6	au	_	_	_	_	_	_	_	_
+5	à	à	ADP	P	_	7	case	_	prpos=S
+6	le	le	DET	P	Definite=Def|PronType=Art	7	det	_	prpos=Da
+7	tit.	titre	NOUN	NCS	Number=Sing	4	obl	_	prpos=Nc
+8	De	de	ADP	P	_	9	case	_	prpos=S
+9	detteurs	detteur	NOUN	NCPL	Number=Plur	7	flat	_	prpos=Nc
+10	et	et	CCONJ	CONJO	_	12	cc	_	prpos=Cc|wordform=[et]
+11	de	de	ADP	P	_	12	case	_	prpos=S
+12	dettes	dette	NOUN	NCPL	Number=Plur	9	conj	_	prpos=Nc
+13	.§	paragraphe	NOUN	NCS	Number=Sing	7	nmod	_	prpos=Nc
+14	4.	quatre	NUM	NUM	NumType=Card	13	nummod	_	prpos=Mc
+15	sur	sur	ADP	P	_	17	case	_	prpos=S
+16	ce	ce	DET	D	PronType=Dem	17	det	_	prpos=Dd
+17	mot	mot	NOUN	NCS	Number=Sing	4	obl	_	prpos=Nc|SpaceAfter=No
+18	,	,	PUNCT	PON	_	17	punct	_	join=left|prpos=Fw
+19	pleuuine	plevine	NOUN	NCS	Number=Sing	21	nsubj	_	prpos=Nc
+20	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	21	aux	_	prpos=Vuc
+21	morte	mourir	VERB	VPP	Tense=Past|VerbForm=Part	17	appos	_	prpos=Ge|SpaceAfter=No
+22	,	,	PUNCT	PON	_	21	punct	_	join=left|prpos=Fw
+23	liu.	livre	NOUN	NCS	Number=Sing	17	nmod	_	prpos=Nc
+24	vii	sept	NUM	NUM	NumType=Card	23	nummod	_	prpos=Mc|SpaceAfter=No
+25	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_17_1_1
+# source = Terrien
+# text = Combien qu' en la loy emptor. de euict. C. soit dit, quòd omissa denunciatio cessare faciat periculum euictionis, toutesfois Imbert in Enchiridio suyuant l' opinion d' Alexandre est d' aduis qu' apres la sentence d' euiction on peut appeler garant, combien qu' il n' eust esté appelé au procez.
+# tags = latin
+1	Combien	combien	ADV	ADV	ExtPos=SCONJ	11	mark	_	prpos=Rg
+2	qu'	que	SCONJ	CONJS	_	1	fixed	_	prpos=Cs
+3	en	en	ADP	P	_	5	case	_	join=left|prpos=S
+4	la	le	DET	D	Definite=Def|PronType=Art	5	det	_	prpos=Da
+5	loy	loi	NOUN	NCS	_	11	obl	_	prpos=Nc
+6	emptor.	emptor	NOUN	FW	_	5	flat	_	Lang=la|prpos=Xe
+7	de	de	ADP	FW	_	8	case	_	Lang=la|prpos=Xe
+8	euict.	evictio	NOUN	FW	_	6	nmod	_	Lang=la|prpos=Xe
+9	C.	codex	NOUN	FW	_	5	nmod	_	Lang=la|prpos=Xe
+10	soit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	11	aux:pass	_	prpos=Vuc
+11	dit	dire	VERB	VPP	Tense=Past|VerbForm=Part	32	advcl	_	prpos=Ge|SpaceAfter=No
+12	,	,	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
+13	quòd	qui	SCONJ	FW	_	17	mark	_	Lang=la|prpos=Xe
+14	omissa	omitto	ADJ	FW	_	15	amod	_	Lang=la|prpos=Xe
+15	denunciatio	denuntiatio	NOUN	FW	_	11	obj	_	Lang=la|prpos=Xe
+16	cessare	cesso	VERB	FW	_	17	xcomp	_	Lang=la|prpos=Xe
+17	faciat	facio	VERB	FW	_	11	ccomp	_	Lang=la|prpos=Xe
+18	periculum	periculum	NOUN	FW	_	16	obj	_	Lang=la|prpos=Xe
+19	euictionis	evictio	NOUN	FW	_	18	nmod	_	Lang=la|prpos=Xe|SpaceAfter=No
+20	,	,	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
+21	toutesfois	toutefois	ADV	ADV	_	32	advmod	_	prpos=Rg
+22	Imbert	Imbert	PROPN	NPRS	Number=Sing	32	nsubj	_	prpos=Np
+23	in	in	ADP	FW	_	24	case	_	Lang=la|prpos=Xe
+24	Enchiridio	enchiridion	NOUN	FW	_	22	nmod	_	Lang=la|prpos=Xe
+25	suyuant	suivant	ADP	VG	_	27	case	_	prpos=Ga
+26	l'	le	DET	D	Definite=Def	27	det	_	prpos=Da
+27	opinion	opinion	NOUN	NCS	_	32	obl	_	join=left|prpos=Nc
+28	d'	de	ADP	P	_	29	case	_	prpos=S
+29	Alexandre	Alexandre	PROPN	NPRS	Number=Sing	27	nmod	_	join=left|prpos=Np
+30	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	32	cop	_	prpos=Vuc
+31	d'	de	ADP	P	_	32	case	_	prpos=S
+32	aduis	avis	NOUN	NCS	Number=Sing	0	root	_	join=left|prpos=Nc
+33	qu'	que	SCONJ	CONJS	_	40	mark	_	prpos=Cs
+34	apres	après	ADP	P	_	36	case	_	join=left|prpos=S
+35	la	le	DET	D	Definite=Def	36	det	_	prpos=Da
+36	sentence	sentence	NOUN	NCS	Number=Sing	40	obl	_	prpos=Nc
+37	d'	de	ADP	P	_	38	case	_	prpos=S
+38	euiction	éviction	NOUN	NCS	Number=Sing	36	nmod	_	join=left|prpos=Nc
+39	on	on	PRON	PRO	PronType=Prs	40	nsubj	_	prpos=Pp
+40	peut	pouvoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	32	acl	_	prpos=Vvc
+41	appeler	appeler	VERB	VX	VerbForm=Inf	40	xcomp	_	prpos=Vvn
+42	garant	garant	NOUN	NCS	_	41	xcomp	_	prpos=Nc|SpaceAfter=No
+43	,	,	PUNCT	PON	_	42	punct	_	join=left|prpos=Fw
+44	combien	combien	ADV	ADV	ExtPos=SCONJ	50	mark	_	prpos=Rg|wordform=combie[n]
+45	qu'	que	SCONJ	CONJS	_	44	fixed	_	prpos=Cs
+46	il	il	PRON	PRO	PronType=Prs	50	nsubj	_	join=left|prpos=Pp
+47	n'	ne	ADV	NEG	_	50	advmod	_	prpos=Rp
+48	eust	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	50	aux	_	join=left|prpos=Vuc
+49	esté	être	AUX	EPP	Tense=Past|VerbForm=Part	50	aux:pass	_	prpos=Ge
+50	appelé	appeler	VERB	VPP	Tense=Past|VerbForm=Part	42	acl	_	prpos=Ge
+51-52	au	_	_	_	_	_	_	_	_
+51	à	à	ADP	P	_	53	case	_	prpos=S
+52	le	le	DET	D	Definite=Def|PronType=Art	53	det	_	prpos=Da
+53	procez	procès	NOUN	NCS	Number=Sing	50	obl	_	prpos=Nc|SpaceAfter=No
+54	.	.	PUNCT	PON	_	32	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_17_1_2
+# source = Terrien
+# text = Mais en ce cas le demandeur en recours de garantie est suiet prouuer que celuy qui a obtenu sentence d' euiction auoit bonne cause: et si ne peut demander restor des despens esquels il a esté condamné.
+1	Mais	mais	CCONJ	CONJO	_	12	cc	_	prpos=Cc
+2	en	en	ADP	P	_	4	case	_	prpos=S
+3	ce	ce	DET	D	PronType=Dem	4	det	_	prpos=Dd
+4	cas	cas	NOUN	NCS	Number=Sing	12	obl	_	prpos=Nc
+5	le	le	DET	D	Definite=Def|PronType=Art	6	det	_	prpos=Da
+6	demandeur	demandeur	NOUN	NCS	Number=Sing	12	nsubj	_	prpos=Nc
+7	en	en	ADP	P	_	8	case	_	prpos=S
+8	recours	recours	NOUN	NCS	Number=Sing	6	nmod	_	prpos=Nc
+9	de	de	ADP	P	_	10	case	_	prpos=S
+10	garantie	garantie	NOUN	NCS	Number=Sing	8	nmod	_	prpos=Nc
+11	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	12	cop	_	prpos=Vuc
+12	suiet	sujet	ADJ	ADJ	_	0	root	_	prpos=Ag
+13	prouuer	prouver	VERB	VX	VerbForm=Inf	12	xcomp	_	prpos=Vvn
+14	que	que	SCONJ	CONJS	_	22	mark	_	prpos=Cs
+15	celuy	celui	PRON	PRO	PronType=Dem	22	nsubj	_	prpos=Pd
+16	qui	qui	PRON	WPRO	PronType=Rel	18	nsubj	_	prpos=Pr
+17	a	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	18	aux	_	prpos=Vuc
+18	obtenu	obtenir	VERB	VPP	Tense=Past|VerbForm=Part	15	acl:relcl	_	prpos=Ge
+19	sentence	sentence	NOUN	NCS	Number=Sing	18	obj	_	prpos=Nc
+20	d'	de	ADP	P	_	21	case	_	prpos=S
+21	euiction	éviction	NOUN	NCS	Number=Sing	19	nmod	_	join=left|prpos=Nc
+22	auoit	avoir	VERB	AJ	Number=Sing|Person=3|VerbForm=Fin	13	advcl	_	prpos=Vuc
+23	bonne	bon	ADJ	ADJ	_	24	amod	_	prpos=Ag
+24	cause	cause	NOUN	NCS	Number=Sing	22	obj	_	prpos=Nc|SpaceAfter=No
+25	:	:	PUNCT	PON	_	22	punct	_	join=left|prpos=Fw
+26	et	et	CCONJ	CONJO	_	29	cc	_	prpos=Cc|wordform=[et]
+27	si	si	SCONJ	ADV	_	29	mark	_	prpos=Rg
+28	ne	ne	ADV	NEG	_	29	advmod	_	prpos=Rp
+29	peut	pouvoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	22	conj	_	prpos=Vvc
+30	demander	demander	VERB	VX	VerbForm=Inf	29	xcomp	_	prpos=Vvn
+31	restor	restaur	NOUN	NCS	Number=Sing	30	obj	_	prpos=Nc
+32-33	des	_	_	_	_	_	_	_	_
+32	de	de	ADP	P	_	34	case	_	prpos=S
+33	les	le	DET	D	Definite=Def|PronType=Art	34	det	_	prpos=Da
+34	despens	dépens	NOUN	NCPL	Number=Plur	31	nmod	_	prpos=Nc
+35-36	esquels	_	_	_	_	_	_	_	_
+35	en	en	ADP	P	_	36	case	_	prpos=S
+36	lesquels	lequel	PRON	PRO	PronType=Rel	40	obl	_	prpos=Pr
+37	il	il	PRON	PRO	PronType=Prs	40	nsubj	_	prpos=Pp
+38	a	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	40	aux	_	prpos=Vuc
+39	esté	être	AUX	EPP	Tense=Past|VerbForm=Part	40	aux:pass	_	prpos=Ge
+40	condamné	condamner	VERB	VPP	Tense=Past|VerbForm=Part	34	acl:relcl	_	prpos=Ge|SpaceAfter=No
+41	.	.	PUNCT	PON	_	12	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_18_1_1
+# source = Terrien
+# text = C' est à dire à bailler héritage de pareille valeur, ou le prix d' iceluy, auec interest.
+1	C'	ce	PRON	PRO	PronType=Dem	2	nsubj	_	prpos=Pd
+2	est	être	VERB	EJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vuc
+3	à	à	ADP	P	_	4	mark	_	prpos=S
+4	dire	dire	VERB	VX	VerbForm=Inf	2	xcomp	_	prpos=Vvn
+5	à	à	ADP	P	_	6	mark	_	prpos=S
+6	bailler	bailler	VERB	VX	VerbForm=Inf	4	xcomp	_	prpos=Vvn
+7	héritage	héritage	NOUN	NCS	Number=Sing	6	obj	_	prpos=Nc
+8	de	de	ADP	P	_	10	case	_	prpos=S
+9	pareille	pareil	ADJ	ADJ	_	10	amod	_	prpos=Ag
+10	valeur	valeur	NOUN	NCS	Number=Sing	7	nmod	_	prpos=Nc|SpaceAfter=No
+11	,	,	PUNCT	PON	_	14	punct	_	join=left|prpos=Fw
+12	ou	ou	CCONJ	CONJO	_	14	cc	_	prpos=Cc
+13	le	le	DET	D	Definite=Def|PronType=Art	14	det	_	prpos=Da
+14	prix	prix	NOUN	NCS	Number=Sing	7	conj	_	prpos=Nc
+15	d'	de	ADP	P	_	16	case	_	prpos=S
+16	iceluy	icelui	PRON	PRO	PronType=Dem	14	nmod	_	join=left|prpos=Pd|SpaceAfter=No
+17	,	,	PUNCT	PON	_	14	punct	_	join=left|prpos=Fw
+18	auec	avec	ADP	P	_	19	case	_	prpos=S
+19	interest	intérêt	NOUN	NCS	Number=Sing	6	obl	_	prpos=Nc|SpaceAfter=No
+20	.	.	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_19_1_1
+# source = Terrien
+# text = Pour laquelle le plet ne sera delayé, si le demandeur ne veut.
+1	Pour	pour	ADP	P	_	2	case	_	prpos=S
+2	laquelle	lequel	PRON	WPRO	PronType=Rel	7	obl	_	prpos=Pr
+3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	plet	plet	NOUN	NCS	Number=Sing	7	nsubj	_	prpos=Nc
+5	ne	ne	ADV	NEG	_	7	advmod	_	prpos=Rp
+6	sera	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	7	aux:pass	_	prpos=Vuc
+7	delayé	délayer	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge|SpaceAfter=No
+8	,	,	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
+9	si	si	SCONJ	CONJS	_	13	mark	_	prpos=Cs
+10	le	le	DET	D	Definite=Def|PronType=Art	11	det	_	prpos=Da
+11	demandeur	demandeur	NOUN	NCS	Number=Sing	13	nsubj	_	prpos=Nc
+12	ne	ne	ADV	NEG	_	13	advmod	_	prpos=Rp
+13	veut	vouloir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	7	advcl	_	prpos=Vvc|SpaceAfter=No
+14	.	.	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_19_1_2
+# source = Terrien
+# text = Et si ne sera le defendeur enuoyé hors de Court et de procez, quelque charge de garantie qui soit pour luy prinse.
+1	Et	et	CCONJ	CONJO	_	7	cc	_	prpos=Cc
+2	si	si	ADV	ADV	_	7	advmod	_	prpos=Rg
+3	ne	ne	ADV	NEG	_	7	advmod	_	prpos=Rp
+4	sera	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	7	aux:pass	_	prpos=Vuc
+5	le	le	DET	D	Definite=Def|PronType=Art	6	det	_	prpos=Da
+6	defendeur	défendeur	NOUN	NCS	Number=Sing	7	nsubj	_	prpos=Nc
+7	enuoyé	envoyer	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
+8	hors	hors	ADV	ADV	ExtPos=ADP	10	case	_	prpos=Rg
+9	de	de	ADP	P	_	8	fixed	_	prpos=S
+10	Court	cour	NOUN	NCS	Number=Sing	7	obl	_	prpos=Nc
+11	et	et	CCONJ	CONJO	_	13	cc	_	prpos=Cc|wordform=[et]
+12	de	de	ADP	P	_	13	case	_	prpos=S
+13	procez	procès	NOUN	NCS	Number=Sing	10	conj	_	prpos=Nc|SpaceAfter=No
+14	,	,	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
+15	quelque	quelque	DET	D	Definite=Ind	16	det	_	prpos=Di
+16	charge	charge	NOUN	NCS	Number=Sing	7	obl	_	prpos=Nc
+17	de	de	ADP	P	_	18	case	_	prpos=S
+18	garantie	garantie	NOUN	NCS	Number=Sing	16	nmod	_	prpos=Nc
+19	qui	qui	PRON	WPRO	PronType=Rel	23	nsubj	_	prpos=Pr
+20	soit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	23	aux:pass	_	prpos=Vuc
+21	pour	pour	ADP	P	_	22	case	_	prpos=S
+22	luy	il	PRON	PRO	PronType=Prs	23	obl	_	prpos=Pp
+23	prinse	prendre	VERB	VPP	Tense=Past|VerbForm=Part	16	advcl	_	prpos=Ge|SpaceAfter=No
+24	.	.	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_20_1_1
+# source = Terrien
+# text = Comme sont coheritiers, ou parçonniers, et doit- on dire pour quelle portion ils sont appelez.
+1	Comme	comme	SCONJ	CONJS	_	3	mark	_	prpos=Cs
+2	sont	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	3	cop	_	prpos=Vuc
+3	coheritiers	cohéritier	NOUN	NCPL	Number=Plur	0	root	_	prpos=Nc|SpaceAfter=No
+4	,	,	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
+5	ou	ou	CCONJ	CONJO	_	6	cc	_	prpos=Cc
+6	parçonniers	parçonnier	NOUN	NCPL	Number=Plur	3	conj	_	prpos=Nc|SpaceAfter=No
+7	,	,	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
+8	et	et	CCONJ	CONJO	_	9	cc	_	prpos=Cc|wordform=[et]
+9	doit-	devoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	3	conj	_	prpos=Vvc
+10	on	on	PRON	PRO	PronType=Prs	9	nsubj	_	join=left|prpos=Pp
+11	dire	dire	VERB	VX	VerbForm=Inf	9	xcomp	_	prpos=Vvn
+12	pour	pour	ADP	P	_	14	case	_	prpos=S
+13	quelle	quel	DET	WD	_	14	det	_	prpos=Dt
+14	portion	portion	NOUN	NCS	Number=Sing	17	obl	_	prpos=Nc
+15	ils	il	PRON	PRO	PronType=Prs	17	nsubj	_	prpos=Pp
+16	sont	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	17	aux:pass	_	prpos=Vuc
+17	appelez	appeler	VERB	VPP	Tense=Past|VerbForm=Part	11	ccomp	_	prpos=Ge|SpaceAfter=No
+18	.	.	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_21_1_1
+# source = Terrien
+# text = Comme, pour exemple, peuuent estre ceux qu' on appelle à garans, non pourtant qu' ils soyent obligez à la garantie: mais pour autant qu' ils sont tenans et acquisiteurs puisnez des héritages de celuy qui est obligé à ladite garantie, et consequemment lesdits héritages ainsi puisnément acquis hypothequez et affectez à icelle.
+1	Comme	comme	SCONJ	CONJS	_	6	mark	_	prpos=Cs|SpaceAfter=No
+2	,	,	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
+3	pour	pour	ADP	P	_	4	case	_	prpos=S
+4	exemple	exemple	NOUN	NCS	Number=Sing	6	obl	_	prpos=Nc|SpaceAfter=No
+5	,	,	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
+6	peuuent	pouvoir	VERB	MDJ	Number=Plur|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+7	estre	être	VERB	EX	VerbForm=Inf	6	xcomp	_	prpos=Vun
+8	ceux	celui	PRON	PRO	PronType=Dem	6	obj	_	prpos=Pd
+9	qu'	que	PRON	WPRO	PronType=Rel	11	obj	_	prpos=Pr
+10	on	on	PRON	PRO	PronType=Prs	11	nsubj	_	join=left|prpos=Pp
+11	appelle	appeler	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	8	acl:relcl	_	prpos=Vvc
+12	à	à	ADP	P	_	13	case	_	prpos=S
+13	garans	garant	NOUN	NCPL	Number=Plur	11	xcomp	_	prpos=Nc|SpaceAfter=No
+14	,	,	PUNCT	PON	_	20	punct	_	join=left|prpos=Fw
+15	non	non	ADV	ADV	_	20	advmod	_	prpos=Rg
+16	pourtant	pourtant	ADV	ADV	ExtPos=SCONJ	20	mark	_	prpos=Rg
+17	qu'	que	SCONJ	CONJS	_	16	fixed	_	prpos=Cs
+18	ils	il	PRON	PRO	PronType=Prs	20	nsubj	_	join=left|prpos=Pp
+19	soyent	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	20	aux:pass	_	prpos=Vuc
+20	obligez	obliger	VERB	VPP	Tense=Past|VerbForm=Part	8	advcl	_	prpos=Ge
+21	à	à	ADP	P	_	23	case	_	prpos=S
+22	la	le	DET	D	Definite=Def|PronType=Art	23	det	_	prpos=Da
+23	garantie	garantie	NOUN	NCS	Number=Sing	20	obl	_	prpos=Nc|SpaceAfter=No
+24	:	:	PUNCT	PON	_	31	punct	_	join=left|prpos=Fw
+25	mais	mais	CCONJ	CONJO	_	31	cc	_	prpos=Cc
+26	pour	pour	ADP	P	ExtPos=SCONJ	31	mark	_	prpos=S
+27	autant	autant	ADV	Q	_	26	fixed	_	prpos=Rg
+28	qu'	que	SCONJ	CONJS	_	26	fixed	_	prpos=Cs
+29	ils	il	PRON	PRO	PronType=Prs	31	nsubj	_	join=left|prpos=Pp
+30	sont	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	31	cop	_	prpos=Vuc
+31	tenans	tenant	ADJ	NCPL	Number=Plur	20	conj	_	prpos=Nc
+32	et	et	CCONJ	CONJO	_	33	cc	_	prpos=Cc|wordform=[et]
+33	acquisiteurs	acquisiteur	NOUN	NCPL	Number=Plur	31	conj	_	prpos=Nc
+34	puisnez	puîné	ADJ	ADJ	_	33	amod	_	prpos=Ag
+35-36	des	_	_	_	_	_	_	_	_
+35	de	de	ADP	P	_	37	case	_	prpos=S
+36	les	le	DET	D	Definite=Def|PronType=Art	37	det	_	prpos=Da
+37	héritages	héritage	NOUN	NCPL	Number=Plur	31	obl	_	prpos=Nc
+38	de	de	ADP	P	_	39	case	_	prpos=S
+39	celuy	celui	PRON	PRO	PronType=Dem	37	nmod	_	prpos=Pd
+40	qui	qui	PRON	WPRO	PronType=Rel	42	nsubj	_	prpos=Pr
+41	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	42	aux:pass	_	prpos=Vuc
+42	obligé	obliger	VERB	VPP	Tense=Past|VerbForm=Part	39	acl:relcl	_	prpos=Ge
+43	à	à	ADP	P	_	45	case	_	prpos=S
+44	ladite	ledit	DET	D	Definite=Def|PronType=Art	45	det	_	prpos=Da
+45	garantie	garantie	NOUN	NCS	Number=Sing	42	obl	_	prpos=Nc|SpaceAfter=No
+46	,	,	PUNCT	PON	_	31	punct	_	join=left|prpos=Fw
+47	et	et	CCONJ	CONJO	_	54	cc	_	prpos=Cc|wordform=[et]
+48	consequemment	conséquemment	ADV	ADV	_	54	advmod	_	prpos=Rg
+49	lesdits	ledit	DET	D	Definite=Def|PronType=Art	50	det	_	prpos=Da
+50	héritages	héritage	NOUN	NCPL	Number=Plur	54	nsubj	_	prpos=Nc
+51	ainsi	ainsi	ADV	ADV	_	53	advmod	_	prpos=Rg
+52	puisnément	puisnément	ADV	ADV	_	53	advmod	_	prpos=Rg
+53	acquis	acquérir	VERB	VPP	Tense=Past|VerbForm=Part	50	acl	_	prpos=Ge
+54	hypothequez	hypothéquer	VERB	VPP	Tense=Past|VerbForm=Part	31	conj	_	prpos=Ge
+55	et	et	CCONJ	CONJO	_	56	cc	_	prpos=Cc|wordform=[et]
+56	affectez	affecter	VERB	VPP	Tense=Past|VerbForm=Part	54	conj	_	prpos=Ge
+57	à	à	ADP	P	_	58	case	_	prpos=S
+58	icelle	icelui	PRON	PRO	PronType=Dem	56	obl	_	prpos=Pd|SpaceAfter=No
+59	.	.	PUNCT	PON	_	6	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_21_1_2
+# source = Terrien
+# text = Et est le tenant d' iceux suiet porter garantie, iusques à la concurrence de la valeur desdits héritages.
+1	Et	et	CCONJ	CONJO	_	7	cc	_	prpos=Cc
+2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	7	cop	_	prpos=Vuc
+3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	tenant	tenant	NOUN	NCS	Number=Sing	7	nsubj	_	prpos=Nc
+5	d'	de	ADP	P	_	6	case	_	prpos=S
+6	iceux	icelui	PRON	PRO	PronType=Dem	4	nmod	_	join=left|prpos=Pd
+7	suiet	sujet	ADJ	ADJ	_	0	root	_	prpos=Ag
+8	porter	porter	VERB	VX	VerbForm=Inf	7	xcomp	_	prpos=Vvn
+9	garantie	garantie	NOUN	NCS	Number=Sing	8	obj	_	prpos=Nc|SpaceAfter=No
+10	,	,	PUNCT	PON	_	8	punct	_	join=left|prpos=Fw
+11	iusques	jusque	ADP	P	ExtPos=ADP	14	case	_	prpos=S
+12	à	à	ADP	P	_	11	fixed	_	prpos=S
+13	la	le	DET	D	Definite=Def|PronType=Art	14	det	_	prpos=Da
+14	concurrence	concurrence	NOUN	NCS	Number=Sing	8	obl	_	prpos=Nc
+15	de	de	ADP	P	_	17	case	_	prpos=S
+16	la	le	DET	D	Definite=Def|PronType=Art	17	det	_	prpos=Da
+17	valeur	valeur	NOUN	NCS	Number=Sing	14	nmod	_	prpos=Nc
+18-19	desdits	_	_	_	_	_	_	_	_
+18	de	de	ADP	P	_	20	case	_	prpos=S
+19	lesdits	ledit	DET	P	Definite=Def|PronType=Art	20	det	_	prpos=Da
+20	héritages	héritage	NOUN	NCPL	Number=Plur	17	nmod	_	prpos=Nc|SpaceAfter=No
+21	.	.	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_22_1_1
+# source = Terrien
+# text = Combien que ceste dilation soit mise entre celles qui ottroyees auant la contestation, toutesfois apres icelle on peut bien appeler garant en sommation, ou pour assister au procez, et sans retardement d' iceluy.
+1	Combien	combien	ADV	ADV	ExtPos=SCONJ	6	mark	_	prpos=Rg
+2	que	que	SCONJ	CONJS	_	1	fixed	_	prpos=Cs
+3	ceste	ce	DET	D	PronType=Dem	4	det	_	prpos=Dd
+4	dilation	dilation	NOUN	NCS	Number=Sing	6	nsubj	_	prpos=Nc
+5	soit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	6	aux:pass	_	prpos=Vuc
+6	mise	mettre	VERB	VPP	Tense=Past|VerbForm=Part	19	advcl	_	prpos=Ge
+7	entre	entre	ADP	P	_	8	case	_	prpos=S
+8	celles	celui	PRON	PRO	PronType=Dem	6	obl	_	prpos=Pd
+9	qui	qui	PRON	WPRO	PronType=Rel	10	nsubj	_	prpos=Pr
+10	ottroyees	octroyer	VERB	VPP	Tense=Past|VerbForm=Part	8	acl:relcl	_	prpos=Ge
+11	auant	avant	ADP	P	_	13	case	_	prpos=S|wordform=aua[n]t
+12	la	le	DET	D	Definite=Def|PronType=Art	13	det	_	prpos=Da
+13	contestation	contestation	NOUN	NCS	Number=Sing	10	obl	_	prpos=Nc|SpaceAfter=No
+14	,	,	PUNCT	PON	_	19	punct	_	join=left|prpos=Fw
+15	toutesfois	toutefois	ADV	ADV	_	19	advmod	_	prpos=Rg
+16	apres	après	ADP	P	_	17	case	_	prpos=S
+17	icelle	icelui	PRON	PRO	PronType=Dem	19	obl	_	prpos=Pd
+18	on	on	PRON	PRO	PronType=Prs	19	nsubj	_	prpos=Pp
+19	peut	pouvoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+20	bien	bien	ADV	ADV	_	19	advmod	_	prpos=Rg
+21	appeler	appeler	VERB	VX	VerbForm=Inf	19	xcomp	_	prpos=Vvn
+22	garant	garant	NOUN	NCS	Number=Sing	21	xcomp	_	prpos=Nc
+23	en	en	ADP	P	_	24	case	_	prpos=S
+24	sommation	sommation	NOUN	NCS	Number=Sing	21	obl	_	prpos=Nc|SpaceAfter=No
+25	,	,	PUNCT	PON	_	28	punct	_	join=left|prpos=Fw
+26	ou	ou	CCONJ	CONJO	_	28	cc	_	prpos=Cc
+27	pour	pour	ADP	P	_	28	mark	_	prpos=S
+28	assister	assister	VERB	VX	VerbForm=Inf	24	conj	_	prpos=Vvn
+29-30	au	_	_	_	_	_	_	_	_
+29	à	à	ADP	P	_	31	case	_	prpos=S
+30	le	le	DET	D	Definite=Def|PronType=Art	31	det	_	prpos=Da
+31	procez	procès	NOUN	NCS	Number=Sing	28	obl	_	prpos=Nc|SpaceAfter=No
+32	,	,	PUNCT	PON	_	35	punct	_	join=left|prpos=Fw
+33	et	et	CCONJ	CONJO	_	35	cc	_	prpos=Cc|wordform=[et]
+34	sans	sans	ADP	P	_	35	case	_	prpos=S
+35	retardement	retardement	NOUN	NCS	Number=Sing	28	conj	_	prpos=Nc
+36	d'	de	ADP	P	_	37	case	_	prpos=S
+37	iceluy	icelui	PRON	PRO	PronType=Dem	35	nmod	_	join=left|prpos=Pd|SpaceAfter=No
+38	.	.	PUNCT	PON	_	19	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_23_1_1
+# source = Terrien
+# text = Cecy se doit referer à ce mot, contester, qui est le plus prochain: et non pas à ses mots, prendre la garantie.
+1	Cecy	ceci	PRON	PRO	PronType=Dem	3	nsubj	_	prpos=Pd
+2	se	se	PRON	PRO	PronType=Prs	4	expl	_	prpos=Pp
+3	doit	devoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+4	referer	référer	VERB	VX	VerbForm=Inf	3	xcomp	_	prpos=Vvn
+5	à	à	ADP	P	_	7	case	_	prpos=S
+6	ce	ce	DET	D	PronType=Dem	7	det	_	prpos=Dd
+7	mot	mot	NOUN	NCS	Number=Sing	4	obl	_	prpos=Nc|SpaceAfter=No
+8	,	,	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
+9	contester	contester	VERB	VX	VerbForm=Inf	7	appos	_	prpos=Vvn|SpaceAfter=No
+10	,	,	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
+11	qui	qui	PRON	WPRO	PronType=Rel	15	nsubj	_	prpos=Pr
+12	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	15	cop	_	prpos=Vuc
+13	le	le	DET	D	Definite=Def|PronType=Art	15	det	_	prpos=Da
+14	plus	plus	ADV	ADVNEG	_	15	advmod	_	prpos=Rg
+15	prochain	prochain	ADJ	ADJ	_	7	acl:relcl	_	prpos=Ag|SpaceAfter=No
+16	:	:	PUNCT	PON	_	22	punct	_	join=left|prpos=Fw
+17	et	et	CCONJ	CONJO	_	22	cc	_	prpos=Cc|wordform=[et]
+18	non	non	ADV	ADV	_	22	advmod	_	prpos=Rg
+19	pas	pas	ADV	ADVNEG	_	22	advmod	_	prpos=Rg
+20	à	à	ADP	P	_	22	case	_	prpos=S
+21	ses	son	DET	DZ	Poss=Yes	22	det	_	prpos=Ds
+22	mots	mot	NOUN	NCPL	Number=Plur	7	conj	_	prpos=Nc|SpaceAfter=No
+23	,	,	PUNCT	PON	_	24	punct	_	join=left|prpos=Fw
+24	prendre	prendre	VERB	VX	VerbForm=Inf	22	appos	_	prpos=Vvn
+25	la	le	DET	D	Definite=Def|PronType=Art	26	det	_	prpos=Da
+26	garantie	garantie	NOUN	NCS	Number=Sing	24	obj	_	prpos=Nc|SpaceAfter=No
+27	.	.	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_23_1_2
+# source = Terrien
+# text = Car celuy qui est appelé en garantie ne doit auoir delay d' autre garant, s' il ne prend premierement la garantie pour celuy qui l' appelle:
+1	Car	car	CCONJ	CONJO	_	9	cc	_	prpos=Cc
+2	celuy	celui	PRON	PRO	PronType=Dem	9	nsubj	_	prpos=Pd
+3	qui	qui	PRON	WPRO	PronType=Rel	5	nsubj	_	prpos=Pr
+4	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	5	aux:pass	_	prpos=Vuc
+5	appelé	appeler	VERB	VPP	Tense=Past|VerbForm=Part	2	acl:relcl	_	prpos=Ge
+6	en	en	ADP	P	_	7	case	_	prpos=S
+7	garantie	garantie	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc
+8	ne	ne	ADV	NEG	_	9	advmod	_	prpos=Rp
+9	doit	devoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+10	auoir	avoir	VERB	AX	VerbForm=Inf	9	xcomp	_	prpos=Vun
+11	delay	délai	NOUN	NCS	Number=Sing	10	obj	_	prpos=Nc
+12	d'	de	ADP	P	_	14	case	_	prpos=S
+13	autre	autre	ADJ	ADJ	_	14	amod	_	join=left|prpos=Ag
+14	garant	garant	NOUN	NCS	Number=Sing	11	nmod	_	prpos=Nc|SpaceAfter=No
+15	,	,	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
+16	s'	si	SCONJ	CONJS	_	19	mark	_	prpos=Cs
+17	il	il	PRON	PRO	PronType=Prs	19	nsubj	_	join=left|prpos=Pp
+18	ne	ne	ADV	NEG	_	19	advmod	_	prpos=Rp
+19	prend	prendre	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	9	advcl	_	prpos=Vvc
+20	premierement	premièrement	ADV	ADV	_	19	advmod	_	prpos=Rg
+21	la	le	DET	D	Definite=Def|PronType=Art	22	det	_	prpos=Da
+22	garantie	garantie	NOUN	NCS	Number=Sing	19	obj	_	prpos=Nc
+23	pour	pour	ADP	P	_	24	case	_	prpos=S
+24	celuy	celui	PRON	PRO	PronType=Dem	22	nmod	_	prpos=Pd
+25	qui	qui	PRON	WPRO	PronType=Rel	27	nsubj	_	prpos=Pr
+26	l'	il	PRON	PRO	PronType=Prs	27	obj	_	prpos=Pp
+27	appelle	appeler	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	24	acl:relcl	_	join=left|prpos=Vvc|SpaceAfter=No
+28	:	:	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_23_1_3
+# source = Terrien
+# text = quia ante eam susceptam nondum est in iudicium ascitus, nec, vt dicitur, est pars. comme il est dit cy apres au Style de Parlement au titre D' action reelle.
+# tags = latin
+1	quia	quia	SCONJ	FW	_	9	mark	_	Lang=la|prpos=Xe
+2	ante	ante	ADP	FW	_	4	case	_	Lang=la|prpos=Xe
+3	eam	is	DET	FW	_	4	det	_	Lang=la|prpos=Xe
+4	susceptam	suspicio	ADJ	FW	_	9	obl	_	Lang=la|prpos=Xe
+5	nondum	nondum	ADV	FW	_	9	advmod	_	Lang=la|prpos=Xe
+6	est	sum	AUX	FW	_	9	aux:pass	_	Lang=la|prpos=Xe
+7	in	in	ADP	FW	_	8	case	_	Lang=la|prpos=Xe
+8	iudicium	iudicium	NOUN	FW	_	9	obl	_	Lang=la|prpos=Xe
+9	ascitus	ascisco	VERB	FW	_	0	root	_	Lang=la|prpos=Xe|SpaceAfter=No
+10	,	,	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
+11	nec	nec	CCONJ	FW	_	16	cc	_	Lang=la|prpos=Xe|SpaceAfter=No
+12	,	,	PUNCT	PON	_	14	punct	_	join=left|prpos=Fw
+13	vt	ut	SCONJ	FW	_	14	mark	_	Lang=la|prpos=Xe
+14	dicitur	dico	VERB	FW	_	16	advcl	_	Lang=la|prpos=Xe|SpaceAfter=No
+15	,	,	PUNCT	PON	_	14	punct	_	join=left|prpos=Fw
+16	est	sum	VERB	FW	_	9	conj	_	Lang=la|prpos=Xe
+17	pars.	pars	NOUN	FW	_	16	nsubj	_	Lang=la|prpos=Xe
+18	comme	comme	SCONJ	CONJS	_	21	mark	_	prpos=Cs
+19	il	il	PRON	PRO	PronType=Prs	21	expl	_	prpos=Pp
+20	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	21	aux:pass	_	prpos=Vuc
+21	dit	dire	VERB	VPP	Tense=Past|VerbForm=Part	9	advcl	_	prpos=Ge
+22	cy	ci	ADV	ADV	_	21	advmod	_	prpos=Rg
+23	apres	après	ADV	ADV	_	21	advmod	_	prpos=Rg
+24-25	au	_	_	_	_	_	_	_	_
+24	à	à	ADP	P	_	26	case	_	prpos=S
+25	le	le	DET	P	Definite=Def|PronType=Art	26	det	_	prpos=Da
+26	Style	style	NOUN	NCS	Number=Sing	21	obl	_	prpos=Nc
+27	de	de	ADP	P	_	28	case	_	prpos=S
+28	Parlement	parlement	NOUN	NCS	Number=Sing	26	nmod	_	prpos=Nc
+29-30	au	_	_	_	_	_	_	_	_
+29	à	à	ADP	P	_	31	case	_	prpos=S
+30	le	le	DET	P	Definite=Def|PronType=Art	31	det	_	prpos=Da
+31	titre	titre	NOUN	NCS	Number=Sing	21	obl	_	prpos=Nc
+32	D'	de	ADP	P	_	33	case	_	prpos=S
+33	action	action	NOUN	NCS	Number=Sing	31	flat	_	join=left|prpos=Nc
+34	reelle	réel	ADJ	ADJ	_	33	amod	_	prpos=Ag|SpaceAfter=No
+35	.	.	PUNCT	PON	_	31	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_24_1_1
+# source = Terrien
+# text = Pourueu que le garant soit soluable pour lesdits despens, dommages et interests.
+1	Pourueu	pourvu	SCONJ	CONJS	ExtPos=SCONJ	6	mark	_	prpos=Cs
+2	que	que	SCONJ	CONJS	_	1	fixed	_	prpos=Cs
+3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	garant	garant	NOUN	NCS	Number=Sing	6	nsubj	_	prpos=Nc
+5	soit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	6	cop	_	prpos=Vuc
+6	soluable	solvable	ADJ	ADJ	_	0	root	_	prpos=Ag
+7	pour	pour	ADP	P	_	9	case	_	prpos=S
+8	lesdits	ledit	DET	D	Definite=Def|PronType=Art	9	det	_	prpos=Da
+9	despens	dépens	NOUN	NCPL	Number=Plur	6	obl	_	prpos=Nc|SpaceAfter=No
+10	,	,	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
+11	dommages	dommage	NOUN	NCPL	Number=Plur	9	conj	_	prpos=Nc|wordform=do[m]mages
+12	et	et	CCONJ	CONJO	_	13	cc	_	prpos=Cc|wordform=[et]
+13	interests	intérêt	NOUN	NCPL	Number=Plur	9	conj	_	prpos=Nc|SpaceAfter=No
+14	.	.	PUNCT	PON	_	6	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_24_1_2
+# source = Terrien
+# text = Car s' il n' est soluable, l' execution s' en fera contre le garanty, selon l' opinion d' Imbert.
+1	Car	car	CCONJ	CONJO	_	12	cc	_	prpos=Cc
+2	s'	si	SCONJ	CONJS	_	6	mark	_	prpos=Cs
+3	il	il	PRON	PRO	PronType=Prs	6	nsubj	_	join=left|prpos=Pp
+4	n'	ne	ADV	NEG	_	6	advmod	_	prpos=Rp
+5	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	6	cop	_	join=left|prpos=Vuc
+6	soluable	solvable	ADJ	ADJ	_	12	advcl	_	prpos=Ag|SpaceAfter=No
+7	,	,	PUNCT	PON	_	12	punct	_	join=left|prpos=Fw
+8	l'	le	DET	D	Definite=Def|PronType=Art	9	det	_	prpos=Da
+9	execution	exécution	NOUN	NCS	Number=Sing	12	nsubj	_	join=left|prpos=Nc
+10	s'	se	PRON	PRO	PronType=Prs	12	expl	_	prpos=Pp
+11	en	en	PRON	PRO	PronType=Prs	12	obl	_	join=left|prpos=Pp
+12	fera	faire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+13	contre	contre	ADP	P	_	15	case	_	prpos=S|wordform=co[n]tre
+14	le	le	DET	D	Definite=Def|PronType=Art	15	det	_	prpos=Da
+15	garanty	garanti	NOUN	NCS	Number=Sing	12	obl	_	prpos=Nc|SpaceAfter=No
+16	,	,	PUNCT	PON	_	12	punct	_	join=left|prpos=Fw
+17	selon	selon	ADP	P	_	19	case	_	prpos=S
+18	l'	le	DET	D	Definite=Def|PronType=Art	19	det	_	prpos=Da
+19	opinion	opinion	NOUN	NCS	Number=Sing	12	obl	_	join=left|prpos=Nc
+20	d'	de	ADP	P	_	21	case	_	prpos=S
+21	Imbert	Imbert	PROPN	NPRS	Number=Sing	19	nmod	_	join=left|prpos=Np|SpaceAfter=No
+22	.	.	PUNCT	PON	_	12	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_24_1_3
+# source = Terrien
+# text = Et pourtant est- il expedient à l' appelant de se defendre de son chef, quand le garant n' est soluable, de peur qu' il ne collude auec sa partie, et que la sentence ne soit executee contre iceluy garanty tant en principal que despens et interests.
+1	Et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc
+2	pourtant	pourtant	ADV	ADV	_	5	advmod	_	prpos=Rg
+3	est-	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	5	cop	_	prpos=Vuc
+4	il	il	PRON	PRO	PronType=Prs	5	expl	_	join=left|prpos=Pp
+5	expedient	expédient	ADJ	ADJ	_	0	root	_	prpos=Ag
+6	à	à	ADP	P	_	8	case	_	prpos=S
+7	l'	le	DET	D	Definite=Def|PronType=Art	8	det	_	prpos=Da
+8	appelant	appelant	NOUN	NCS	Number=Sing	5	obl	_	join=left|prpos=Nc
+9	de	de	ADP	P	_	11	mark	_	prpos=S
+10	se	se	PRON	PRO	PronType=Prs	11	expl	_	prpos=Pp
+11	defendre	défendre	VERB	VX	VerbForm=Inf	5	xcomp	_	prpos=Vvn
+12	de	de	ADP	P	_	14	case	_	prpos=S
+13	son	son	DET	DZ	Poss=Yes	14	det	_	prpos=Ds
+14	chef	chef	NOUN	NCS	Number=Sing	11	obl	_	prpos=Nc|SpaceAfter=No
+15	,	,	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
+16	quand	quand	SCONJ	CONJS	_	21	mark	_	prpos=Cs
+17	le	le	DET	D	Definite=Def|PronType=Art	18	det	_	prpos=Da
+18	garant	garant	NOUN	NCS	Number=Sing	21	nsubj	_	prpos=Nc
+19	n'	ne	ADV	NEG	_	21	advmod	_	prpos=Rp
+20	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	21	cop	_	join=left|prpos=Vuc
+21	soluable	solvable	ADJ	ADJ	_	5	advcl	_	prpos=Ag|SpaceAfter=No
+22	,	,	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
+23	de	de	ADP	P	ExtPos=SCONJ	28	mark	_	prpos=S
+24	peur	peur	NOUN	NCS	Number=Sing	23	fixed	_	prpos=Nc
+25	qu'	que	SCONJ	CONJS	_	23	fixed	_	prpos=Cs
+26	il	il	PRON	PRO	PronType=Prs	28	nsubj	_	join=left|prpos=Pp
+27	ne	ne	ADV	NEG	_	28	advmod	_	prpos=Rp
+28	collude	colluder	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	5	advcl	_	prpos=Vvc
+29	auec	avec	ADP	P	_	31	case	_	prpos=S
+30	sa	son	DET	DZ	Poss=Yes	31	det	_	prpos=Ds
+31	partie	partie	NOUN	NCS	Number=Sing	28	obl	_	prpos=Nc|SpaceAfter=No
+32	,	,	PUNCT	PON	_	39	punct	_	join=left|prpos=Fw
+33	et	et	CCONJ	CONJO	_	39	cc	_	prpos=Cc|wordform=[et]
+34	que	que	SCONJ	CONJS	_	39	mark	_	prpos=Cs
+35	la	le	DET	D	Definite=Def|PronType=Art	36	det	_	prpos=Da
+36	sentence	sentence	NOUN	NCS	Number=Sing	39	nsubj	_	prpos=Nc
+37	ne	ne	ADV	NEG	_	39	advmod	_	prpos=Rp
+38	soit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	39	aux:pass	_	prpos=Vuc
+39	executee	exécuter	VERB	VPP	Tense=Past|VerbForm=Part	28	conj	_	prpos=Ge
+40	contre	contre	ADP	P	_	41	case	_	prpos=S
+41	iceluy	icelui	PRON	PRO	PronType=Dem	39	obl	_	prpos=Pd
+42	garanty	garanti	NOUN	NCS	Number=Sing	39	obl	_	prpos=Nc
+43	tant	tant	ADV	Q	_	39	advmod	_	prpos=Rg
+44	en	en	ADP	P	_	45	case	_	prpos=S
+45	principal	principal	NOUN	NCS	Number=Sing	39	obl	_	prpos=Nc
+46	que	que	SCONJ	CONJS	_	47	case	_	prpos=Cs
+47	despens	dépens	NOUN	NCPL	Number=Plur	43	obl	_	prpos=Nc
+48	et	et	CCONJ	CONJO	_	49	cc	_	prpos=Cc|wordform=[et]
+49	interests	intérêt	NOUN	NCPL	Number=Plur	47	conj	_	prpos=Nc|SpaceAfter=No
+50	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_24_1_4
+# source = Terrien
+# text = Mais s' il s' arrestoit à garantie trenchee et absolute, et celuy qui est appelé se chargeoit pour luy de garantie, au moyen de laquelle charge l' appelant fust enuoyé hors de Court de procez, il ne seroit puis apres receu à prendre la defense, encores qu' il eust lettres Royaux à ceste fin, comme il fut iugé par arrest donné sur le cas qui ensuit.
+1	Mais	mais	CCONJ	CONJO	_	45	cc	_	prpos=Cc
+2	s'	si	SCONJ	CONJS	_	5	mark	_	prpos=Cs
+3	il	il	PRON	PRO	PronType=Prs	5	nsubj	_	join=left|prpos=Pp
+4	s'	se	PRON	PRO	PronType=Prs	5	expl	_	prpos=Pp
+5	arrestoit	arrêter	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	45	advcl	_	join=left|prpos=Vvc
+6	à	à	ADP	P	_	7	case	_	prpos=S
+7	garantie	garantie	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc
+8	trenchee	trancher	ADJ	VPP	Tense=Past|VerbForm=Part	7	amod	_	prpos=Ge
+9	et	et	CCONJ	CONJO	_	10	cc	_	prpos=Cc|wordform=[et]
+10	absolute	absolu	ADJ	ADJ	_	8	conj	_	prpos=Ag|SpaceAfter=No
+11	,	,	PUNCT	PON	_	18	punct	_	join=left|prpos=Fw
+12	et	et	CCONJ	CONJO	_	18	cc	_	prpos=Cc|wordform=[et]
+13	celuy	celui	PRON	PRO	PronType=Dem	18	nsubj	_	prpos=Pd
+14	qui	qui	PRON	WPRO	PronType=Rel	16	nsubj	_	prpos=Pr
+15	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	16	aux:pass	_	prpos=Vuc
+16	appelé	appeler	VERB	VPP	Tense=Past|VerbForm=Part	13	acl:relcl	_	prpos=Ge
+17	se	se	PRON	PRO	PronType=Prs	18	expl	_	prpos=Pp
+18	chargeoit	charger	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	5	conj	_	prpos=Vvc
+19	pour	pour	ADP	P	_	20	case	_	prpos=S
+20	luy	il	PRON	PRO	PronType=Prs	18	obl	_	prpos=Pp
+21	de	de	ADP	P	_	22	case	_	prpos=S
+22	garantie	garantie	NOUN	NCS	Number=Sing	18	obl	_	prpos=Nc|SpaceAfter=No
+23	,	,	PUNCT	PON	_	33	punct	_	join=left|prpos=Fw
+24-25	au	_	_	_	_	_	_	_	_
+24	à	à	ADP	P	_	26	case	_	prpos=S
+25	le	le	DET	D	Definite=Def|PronType=Art	26	det	_	prpos=Da
+26	moyen	moyen	NOUN	NCS	Number=Sing	33	obl	_	prpos=Nc
+27	de	de	ADP	P	_	29	case	_	prpos=S
+28	laquelle	lequel	DET	WD	PronType=Rel	29	det	_	prpos=Dr
+29	charge	charge	NOUN	NCS	Number=Sing	26	nmod	_	prpos=Nc
+30	l'	le	DET	D	Definite=Def|PronType=Art	31	det	_	prpos=Da
+31	appelant	appelant	NOUN	NCS	Number=Sing	33	nsubj	_	join=left|prpos=Nc
+32	fust	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	33	aux:pass	_	prpos=Vuc
+33	enuoyé	envoyer	VERB	VPP	Tense=Past|VerbForm=Part	18	acl:relcl	_	prpos=Ge
+34	hors	hors	ADV	ADV	ExtPos=ADP	36	case	_	prpos=Rg
+35	de	de	ADP	P	_	34	fixed	_	prpos=S
+36	Court	cour	NOUN	NCS	Number=Sing	33	obl	_	prpos=Nc
+37	de	de	ADP	P	_	38	case	_	prpos=S
+38	procez	procès	NOUN	NCS	Number=Sing	36	nmod	_	prpos=Nc|SpaceAfter=No
+39	,	,	PUNCT	PON	_	45	punct	_	join=left|prpos=Fw
+40	il	il	PRON	PRO	PronType=Prs	45	nsubj	_	prpos=Pp
+41	ne	ne	ADV	NEG	_	45	advmod	_	prpos=Rp
+42	seroit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	45	aux:pass	_	prpos=Vuc
+43	puis	puis	ADV	ADV	_	45	advmod	_	prpos=Rg
+44	apres	après	ADV	ADV	_	45	advmod	_	prpos=Rg
+45	receu	recevoir	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
+46	à	à	ADP	P	_	47	mark	_	prpos=S
+47	prendre	prendre	VERB	VX	VerbForm=Inf	45	xcomp	_	prpos=Vvn
+48	la	le	DET	D	Definite=Def|PronType=Art	49	det	_	prpos=Da
+49	defense	défense	NOUN	NCS	Number=Sing	47	obj	_	prpos=Nc|SpaceAfter=No
+50	,	,	PUNCT	PON	_	45	punct	_	join=left|prpos=Fw
+51	encores	encore	ADV	ADV	ExtPos=SCONJ	54	mark	_	prpos=Rg
+52	qu'	que	SCONJ	CONJS	_	51	fixed	_	prpos=Cs
+53	il	il	PRON	PRO	PronType=Prs	54	expl	_	join=left|prpos=Pp
+54	eust	avoir	VERB	AJ	Number=Sing|Person=3|VerbForm=Fin	45	advcl	_	prpos=Vuc
+55	lettres	lettre	NOUN	NCPL	Number=Plur	54	obj	_	prpos=Nc
+56	Royaux	royal	ADJ	ADJ	_	55	amod	_	prpos=Ag
+57	à	à	ADP	P	_	59	case	_	prpos=S
+58	ceste	ce	DET	D	PronType=Dem	59	det	_	prpos=Dd
+59	fin	fin	NOUN	NCS	Number=Sing	54	obl	_	prpos=Nc|SpaceAfter=No
+60	,	,	PUNCT	PON	_	64	punct	_	join=left|prpos=Fw
+61	comme	comme	SCONJ	CONJS	_	64	mark	_	prpos=Cs
+62	il	il	PRON	PRO	PronType=Prs	64	nsubj	_	prpos=Pp
+63	fut	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	64	aux:pass	_	prpos=Vuc
+64	iugé	juger	VERB	VPP	Tense=Past|VerbForm=Part	45	advcl	_	prpos=Ge
+65	par	par	ADP	P	_	66	case	_	prpos=S
+66	arrest	arrêt	NOUN	NCS	Number=Sing	64	obl	_	prpos=Nc
+67	donné	donner	VERB	VPP	Tense=Past|VerbForm=Part	66	acl	_	prpos=Ge
+68	sur	sur	ADP	P	_	70	case	_	prpos=S
+69	le	le	DET	D	Definite=Def|PronType=Art	70	det	_	prpos=Da
+70	cas	cas	NOUN	NCS	Number=Sing	67	obl	_	prpos=Nc
+71	qui	qui	PRON	WPRO	PronType=Rel	72	nsubj	_	prpos=Pr
+72	ensuit	ensuivre	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	70	acl:relcl	_	prpos=Vvc|SpaceAfter=No
+73	.	.	PUNCT	PON	_	45	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_24_1_5
+# source = Terrien
+# text = Le 13. de Feurier 1510. du Noyer avoir opposé contre une execution conduite par Poutrel, et auoit appelé à garant l' Eschange, qui s' estoit chargé de garantie absolute: au moyen de quoy ledit du Noyer auoit esté enuoyé hors de procez: sauf audit Poutrel à soy adresser sur ledit du Noyer comme premier en cause.
+1	Le	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
+2	13.	treize	NUM	NUM	NumType=Card	9	obl	_	prpos=Mc
+3	de	de	ADP	P	_	4	case	_	prpos=S
+4	Feurier	février	NOUN	NCS	Number=Sing	2	nmod	_	prpos=Nc
+5	1510.	1510	NUM	NUM	NumType=Card	4	nmod	_	prpos=Mc
+6	du	du	PROPN	P	Number=Sing	9	nsubj	_	prpos=Np
+7	Noyer	Noyer	PROPN	NPRS	Number=Sing	6	flat	_	prpos=Np
+8	avoir	avoir	AUX	AX	VerbForm=Inf	9	aux	_	prpos=Vun
+9	opposé	opposer	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
+10	contre	contre	ADP	P	_	12	case	_	prpos=S|wordform=co[n]tre
+11	une	un	DET	D	Definite=Ind|PronType=Art	12	det	_	prpos=Dn
+12	execution	exécution	NOUN	NCS	Number=Sing	9	obl	_	prpos=Nc
+13	conduite	conduire	VERB	VPP	Tense=Past|VerbForm=Part	12	acl	_	prpos=Ge
+14	par	par	ADP	P	_	15	case	_	prpos=S
+15	Poutrel	Poutrel	PROPN	NPRS	Number=Sing	13	obl	_	prpos=Np|SpaceAfter=No
+16	,	,	PUNCT	PON	_	19	punct	_	join=left|prpos=Fw
+17	et	et	CCONJ	CONJO	_	19	cc	_	prpos=Cc|wordform=[et]
+18	auoit	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	19	aux	_	prpos=Vuc
+19	appelé	appeler	VERB	VPP	Tense=Past|VerbForm=Part	9	conj	_	prpos=Ge
+20	à	à	ADP	P	_	21	case	_	prpos=S
+21	garant	garant	NOUN	NCS	Number=Sing	19	obl	_	prpos=Nc
+22	l'	le	PROPN	NPRS	Number=Sing	19	obj	_	prpos=Np
+23	Eschange	Eschange	PROPN	NCS	Number=Sing	22	flat	_	join=left|prpos=Nc|SpaceAfter=No
+24	,	,	PUNCT	PON	_	28	punct	_	join=left|prpos=Fw
+25	qui	qui	PRON	WPRO	PronType=Rel	28	nsubj	_	prpos=Pr
+26	s'	se	PRON	PRO	PronType=Prs	28	expl	_	prpos=Pp
+27	estoit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	28	aux:pass	_	join=left|prpos=Vuc
+28	chargé	charger	VERB	VPP	Tense=Past|VerbForm=Part	22	acl:relcl	_	prpos=Ge
+29	de	de	ADP	P	_	30	case	_	prpos=S
+30	garantie	garantie	NOUN	NCS	Number=Sing	28	obl	_	prpos=Nc
+31	absolute	absolu	ADJ	ADJ	_	30	amod	_	prpos=Ag|SpaceAfter=No
+32	:	:	PUNCT	PON	_	43	punct	_	join=left|prpos=Fw
+33-34	au	_	_	_	_	_	_	_	_
+33	à	à	ADP	P	_	35	case	_	prpos=S
+34	le	le	DET	D	Definite=Def|PronType=Art	35	det	_	prpos=Da
+35	moyen	moyen	NOUN	NCPL	Number=Plur	43	obl	_	prpos=Nc|wordform=moye[n]
+36	de	de	ADP	P	_	37	case	_	prpos=S
+37	quoy	quoi	PRON	WPRO	PronType=Rel	35	nmod	_	prpos=Pr
+38	ledit	ledit	DET	D	Definite=Def|PronType=Art	39	det	_	prpos=Da
+39	du	du	PROPN	NPRS	Number=Sing	43	nsubj	_	prpos=Np
+40	Noyer	Noyer	PROPN	NPRS	Number=Sing	39	flat	_	prpos=Np
+41	auoit	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	43	aux	_	prpos=Vuc
+42	esté	être	AUX	EPP	Tense=Past|VerbForm=Part	43	aux:pass	_	prpos=Ge
+43	enuoyé	envoyer	VERB	VPP	Tense=Past|VerbForm=Part	30	acl:relcl	_	prpos=Ge
+44	hors	hors	ADV	ADV	ExtPos=ADP	46	case	_	prpos=Rg
+45	de	de	ADP	P	_	44	fixed	_	prpos=S
+46	procez	procès	NOUN	NCS	Number=Sing	43	obl	_	prpos=Nc|SpaceAfter=No
+47	:	:	PUNCT	PON	_	43	punct	_	join=left|prpos=Fw
+48	sauf	sauf	ADP	P	_	51	case	_	prpos=S
+49-50	audit	_	_	_	_	_	_	_	_
+49	à	à	ADP	P	_	51	case	_	prpos=S
+50	ledit	ledit	DET	D	Definite=Def|PronType=Art	51	det	_	prpos=Da
+51	Poutrel	Poutrel	PROPN	NPRS	Number=Sing	43	obl	_	prpos=Np
+52	à	à	ADP	P	_	54	mark	_	prpos=S
+53	soy	se	PRON	PRO	PronType=Prs	54	expl	_	prpos=Pp
+54	adresser	adresser	VERB	VX	VerbForm=Inf	43	advcl	_	prpos=Vvn
+55	sur	sur	ADP	P	_	57	case	_	prpos=S
+56	ledit	ledit	DET	D	Definite=Def|PronType=Art	57	det	_	prpos=Da
+57	du	du	PROPN	NPRS	Number=Sing	54	obl	_	prpos=Np
+58	Noyer	Noyer	PROPN	NPRS	Number=Sing	57	flat	_	prpos=Np
+59	comme	comme	ADP	CONJS	_	60	mark	_	prpos=Cs|wordform=co[m]me
+60	premier	premier	ADJ	ADJNUM	NumType=Ord	54	xcomp	_	prpos=Mo
+61	en	en	ADP	P	_	62	case	_	prpos=S
+62	cause	cause	NOUN	NCS	Number=Sing	60	obl	_	prpos=Nc|SpaceAfter=No
+63	.	.	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_24_1_6
+# source = Terrien
+# text = Depuis iceluy du Noyer voyant ou pensant que ledit Eschange ne se defendoit assez bien sur ladite opposition, mais se laissoit mettre en defauts: craignant par ce qu' il ne succombast, auoit obtenu lettres Royaux, pour nonobstant ladite charge de garantie estre receu à soustenir et defendre ladite opposition auec ledit Eschange.
+1	Depuis	depuis	ADP	P	_	36	case	_	prpos=S
+2	iceluy	icelui	DET	D	PronType=Dem	3	det	_	prpos=Dd
+3	du	du	PROPN	NPRS	Number=Sing	36	nsubj	_	prpos=Np
+4	Noyer	Noyer	PROPN	NPRS	Number=Sing	3	flat	_	prpos=Np
+5	voyant	voir	VERB	VG	Tense=Pres|VerbForm=Part	3	acl	_	prpos=Ga
+6	ou	ou	CCONJ	CONJO	_	7	cc	_	prpos=Cc
+7	pensant	penser	VERB	VG	Tense=Pres|VerbForm=Part	5	conj	_	prpos=Ga
+8	que	que	SCONJ	CONJS	_	13	mark	_	prpos=Cs
+9	ledit	ledit	DET	D	Definite=Def|PronType=Art	10	det	_	prpos=Da
+10	Eschange	Eschange	PROPN	NCS	Number=Sing	13	nsubj	_	prpos=Nc
+11	ne	ne	ADV	NEG	_	13	advmod	_	prpos=Rp
+12	se	se	PRON	PRO	PronType=Prs	13	expl	_	prpos=Pp
+13	defendoit	défendre	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	5	ccomp	_	prpos=Vvc
+14	assez	assez	ADV	ADV	_	15	advmod	_	prpos=Rg
+15	bien	bien	ADV	ADV	_	13	advmod	_	prpos=Rg
+16	sur	sur	ADP	P	_	18	case	_	prpos=S
+17	ladite	ledit	DET	D	Definite=Def|PronType=Art	18	det	_	prpos=Da
+18	opposition	opposition	NOUN	NCS	Number=Sing	13	obl	_	prpos=Nc|SpaceAfter=No
+19	,	,	PUNCT	PON	_	22	punct	_	join=left|prpos=Fw
+20	mais	mais	CCONJ	CONJO	_	22	cc	_	prpos=Cc
+21	se	se	PRON	PRO	PronType=Prs	22	expl	_	prpos=Pp
+22	laissoit	laisser	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	13	conj	_	prpos=Vvc
+23	mettre	mettre	VERB	VX	VerbForm=Inf	22	xcomp	_	prpos=Vvn
+24	en	en	ADP	P	_	25	case	_	prpos=S
+25	defauts	défaut	NOUN	NCPL	Number=Plur	23	obl	_	prpos=Nc|SpaceAfter=No
+26	:	:	PUNCT	PON	_	36	punct	_	join=left|prpos=Fw
+27	craignant	craindre	VERB	VG	Tense=Pres|VerbForm=Part	36	advcl	_	prpos=Ga
+28	par	par	ADP	P	ExtPos=SCONJ	33	mark	_	prpos=S
+29	ce	ce	PRON	PRO	PronType=Dem	28	fixed	_	prpos=Pd
+30	qu'	que	SCONJ	CONJS	_	28	fixed	_	prpos=Cs
+31	il	il	PRON	PRO	PronType=Prs	33	nsubj	_	join=left|prpos=Pp
+32	ne	ne	ADV	NEG	_	33	advmod	_	prpos=Rp
+33	succombast	succomber	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	27	advcl	_	prpos=Vvc|SpaceAfter=No
+34	,	,	PUNCT	PON	_	36	punct	_	join=left|prpos=Fw
+35	auoit	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	36	aux	_	prpos=Vuc
+36	obtenu	obtenir	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
+37	lettres	lettre	NOUN	NCPL	Number=Plur	36	obj	_	prpos=Nc
+38	Royaux	royal	ADJ	ADJ	_	37	amod	_	prpos=Ag|SpaceAfter=No
+39	,	,	PUNCT	PON	_	36	punct	_	join=left|prpos=Fw
+40	pour	pour	ADP	P	_	47	mark	_	prpos=S
+41	nonobstant	nonobstant	ADP	P	_	43	case	_	prpos=S
+42	ladite	ledit	DET	D	Definite=Def|PronType=Art	43	det	_	prpos=Da
+43	charge	charge	NOUN	NCS	Number=Sing	47	obl	_	prpos=Nc
+44	de	de	ADP	P	_	45	case	_	prpos=S
+45	garantie	garantie	NOUN	NCS	Number=Sing	43	nmod	_	prpos=Nc
+46	estre	être	AUX	EX	VerbForm=Inf	47	aux:pass	_	prpos=Vun
+47	receu	recevoir	VERB	VPP	Tense=Past|VerbForm=Part	36	advcl	_	prpos=Ge
+48	à	à	ADP	P	_	49	mark	_	prpos=S
+49	soustenir	soutenir	VERB	VX	VerbForm=Inf	47	xcomp	_	prpos=Vvn
+50	et	et	CCONJ	CONJO	_	51	cc	_	prpos=Cc|wordform=[et]
+51	defendre	défendre	VERB	VX	VerbForm=Inf	49	conj	_	prpos=Vvn
+52	ladite	ledit	DET	D	Definite=Def|PronType=Art	53	det	_	prpos=Da
+53	opposition	opposition	NOUN	NCS	Number=Sing	49	obj	_	prpos=Nc
+54	auec	avec	ADP	P	_	56	case	_	prpos=S
+55	ledit	ledit	DET	D	Definite=Def|PronType=Art	56	det	_	prpos=Da
+56	Eschange	Eschange	PROPN	NCS	Number=Sing	49	obl	_	prpos=Nc|SpaceAfter=No
+57	.	.	PUNCT	PON	_	36	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_24_1_7
+# source = Terrien
+# text = Mais sur le contredict à ce donné par ledit Poutrel, il fut euincé de l' enterinement desdites lettres tant en viconté que bailliage.
+1	Mais	mais	CCONJ	CONJO	_	14	cc	_	prpos=Cc
+2	sur	sur	ADP	P	_	4	case	_	prpos=S
+3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	contredict	contredit	NOUN	NCS	Number=Sing	14	obl	_	prpos=Nc
+5	à	à	ADP	P	_	6	case	_	prpos=S
+6	ce	ce	PRON	PRO	PronType=Dem	7	obl	_	prpos=Pd
+7	donné	donner	VERB	VPP	Tense=Past|VerbForm=Part	4	acl	_	prpos=Ge
+8	par	par	ADP	P	_	10	case	_	prpos=S
+9	ledit	ledit	DET	D	Definite=Def|PronType=Art	10	det	_	prpos=Da
+10	Poutrel	Poutrel	PROPN	NPRS	Number=Sing	7	obl	_	prpos=Np|SpaceAfter=No
+11	,	,	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
+12	il	il	PRON	PRO	PronType=Prs	14	nsubj	_	prpos=Pp
+13	fut	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	14	aux:pass	_	prpos=Vuc
+14	euincé	évincer	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
+15	de	de	ADP	P	_	17	case	_	prpos=S
+16	l'	le	DET	D	Definite=Def|PronType=Art	17	det	_	prpos=Da
+17	enterinement	entérinement	NOUN	NCS	Number=Sing	14	obl	_	join=left|prpos=Nc
+18-19	desdites	_	_	_	_	_	_	_	_
+18	de	de	ADP	P	_	20	case	_	prpos=S
+19	lesdits	ledit	DET	D	Definite=Def|PronType=Art	20	det	_	prpos=Da
+20	lettres	lettre	NOUN	NCPL	Number=Plur	17	nmod	_	prpos=Nc
+21	tant	tant	ADV	Q	_	23	advmod	_	prpos=Rg
+22	en	en	ADP	P	_	23	case	_	prpos=S
+23	viconté	vicomté	NOUN	NCS	Number=Sing	14	obl	_	prpos=Nc
+24	que	que	SCONJ	CONJS	_	25	mark	_	prpos=Cs
+25	bailliage	bailliage	NOUN	NCS	Number=Sing	23	conj	_	prpos=Nc|SpaceAfter=No
+26	.	.	PUNCT	PON	_	14	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_24_1_8
+# source = Terrien
+# text = Et par la Court dit bien iugé.
+1	Et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc
+2	par	par	ADP	P	_	4	case	_	prpos=S
+3	la	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	Court	cour	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc
+5	dit	dire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+6	bien	bien	ADV	ADV	_	7	advmod	_	prpos=Rg
+7	iugé	juger	VERB	VPP	Tense=Past|VerbForm=Part	5	xcomp	_	prpos=Ge|SpaceAfter=No
+8	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_23_25_1_1
+# source = Terrien
+# text = Imbert en ses insti. foren. liu. I. c. 20. dit ainsi en plein texte, lata in authorem sententia, aduersus reum executioni mandatur, nec solum res controuersa ab eo aufertur, verum etiam litis impendia ab eo exiguntur, nisi rei facultates eorum solutioni suppetant
+# tags = latin
+1	Imbert	Imbert	PROPN	NPRS	Number=Sing	10	nsubj	_	prpos=Np
+2	en	en	ADP	P	_	4	case	_	prpos=S
+3	ses	son	DET	DZ	Poss=Yes	4	det	_	prpos=Ds
+4	insti.	institutio	NOUN	NCPL	_	10	obl	_	Lang=la|prpos=Xe
+5	foren.	forens	ADJ	ADJ	_	4	flat	_	Lang=la|prpos=Xe
+6	liu.	livre	NOUN	NCS	Number=Sing	4	nmod	_	prpos=Nc
+7	I.	1	NUM	NUM	NumType=Card	6	nmod	_	prpos=Mc
+8	c.	chapitre	NOUN	NCS	Number=Sing	6	flat	_	prpos=Mc
+9	20.	20.	NUM	NUM	NumType=Card	8	nmod	_	prpos=Mc
+10	dit	dire	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+11	ainsi	ainsi	ADV	ADV	_	10	advmod	_	prpos=Rg
+12	en	en	ADP	P	_	14	case	_	prpos=S
+13	plein	plein	ADJ	ADJ	_	14	amod	_	prpos=Ag
+14	texte	texte	NOUN	NCS	Number=Sing	10	obl	_	prpos=Nc|SpaceAfter=No
+15	,	,	PUNCT	PON	_	10	punct	_	join=left|prpos=Fw
+16	lata	fero	VERB	FW	_	19	acl	_	Lang=la|prpos=Xe
+17	in	in	ADP	FW	_	18	case	_	Lang=la|prpos=Xe
+18	authorem	autor	NOUN	FW	_	16	obl	_	Lang=la|prpos=Xe|wordform=authore[m]
+19	sententia	sententia	NOUN	FW	_	24	nsubj	_	Lang=la|prpos=Xe|SpaceAfter=No
+20	,	,	PUNCT	PON	_	24	punct	_	join=left|prpos=Fw
+21	aduersus	adversus	ADP	FW	_	22	case	_	Lang=la|prpos=Xe
+22	reum	reus	NOUN	FW	_	24	obl	_	Lang=la|prpos=Xe|wordform=reu[m]
+23	executioni	executio	NOUN	FW	_	24	obl	_	Lang=la|prpos=Xe
+24	mandatur	mando	VERB	FW	_	10	ccomp	_	Lang=la|prpos=Xe|SpaceAfter=No
+25	,	,	PUNCT	PON	_	24	punct	_	join=left|prpos=Fw
+26	nec	nec	CCONJ	FW	ExtPos=CCONJ	32	cc	_	Lang=la|prpos=Xe
+27	solum	solum	ADV	FW	_	26	fixed	_	Lang=la|prpos=Xe
+28	res	res	NOUN	FW	_	32	nsubj	_	Lang=la|prpos=Xe
+29	controuersa	controversus	ADJ	FW	_	28	amod	_	Lang=la|prpos=Xe
+30	ab	ab	ADP	FW	_	31	case	_	Lang=la|prpos=Xe
+31	eo	is	PRON	FW	_	32	obl	_	Lang=la|prpos=Xe
+32	aufertur	aufero	VERB	FW	_	24	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
+33	,	,	PUNCT	PON	_	40	punct	_	join=left|prpos=Fw
+34	verum	verum	CCONJ	FW	ExtPos=CCONJ	40	cc	_	Lang=la|prpos=Xe
+35	etiam	etiam	ADV	FW	_	34	fixed	_	Lang=la|prpos=Xe
+36	litis	lis	NOUN	FW	_	37	nmod	_	Lang=la|prpos=Xe
+37	impendia	impendium	NOUN	FW	_	40	nsubj	_	Lang=la|prpos=Xe
+38	ab	ab	ADP	FW	_	39	case	_	Lang=la|prpos=Xe
+39	eo	is	PRON	FW	_	40	obl	_	Lang=la|prpos=Xe
+40	exiguntur	exigo	VERB	FW	_	24	conj	_	Lang=la|prpos=Xe|SpaceAfter=No
+41	,	,	PUNCT	PON	_	40	punct	_	join=left|prpos=Fw
+42	nisi	nisi	SCONJ	FW	_	47	mark	_	Lang=la|prpos=Xe
+43	rei	res	NOUN	FW	_	44	nmod	_	Lang=la|prpos=Xe
+44	facultates	facultas	NOUN	FW	_	47	nsubj	_	Lang=la|prpos=Xe
+45	eorum	is	PRON	FW	_	46	nmod	_	Lang=la|prpos=Xe
+46	solutioni	solutio	NOUN	FW	_	47	obl	_	Lang=la|prpos=Xe
+47	suppetant	suppeto	VERB	FW	_	40	advcl	_	Lang=la|prpos=Xe
+
+# sent_id = 1578_Terrien_1_24_1_2_1
+# source = Terrien
+# text = Le delay est ottroyé à celuy qui compare, pour auoir temps de soy conseiller, ou pour ce qu' il n' est prest de proceder et faire ce que la cause désire: comme le respit est ottroyé à l' absent: dont a esté cy dessus parlé.
+1	Le	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
+2	delay	délai	NOUN	NCS	Number=Sing	4	nsubj	_	prpos=Nc
+3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
+4	ottroyé	octroyer	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
+5	à	à	ADP	P	_	6	case	_	prpos=S
+6	celuy	celui	PRON	PRO	PronType=Dem	4	obl	_	prpos=Pd
+7	qui	qui	PRON	WPRO	PronType=Rel	8	nsubj	_	prpos=Pr
+8	compare	comparer	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	6	acl:relcl	_	prpos=Vvc|SpaceAfter=No
+9	,	,	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
+10	pour	pour	ADP	P	_	11	mark	_	prpos=S
+11	auoir	avoir	VERB	AX	VerbForm=Inf	4	advcl	_	prpos=Vun
+12	temps	temps	NOUN	NCS	Number=Sing	11	obj	_	prpos=Nc
+13	de	de	ADP	P	_	15	mark	_	prpos=S
+14	soy	se	PRON	PRO	PronType=Prs	15	expl	_	prpos=Pp
+15	conseiller	conseiller	VERB	VX	VerbForm=Inf	11	xcomp	_	prpos=Vvn|SpaceAfter=No
+16	,	,	PUNCT	PON	_	24	punct	_	join=left|prpos=Fw
+17	ou	ou	CCONJ	CONJO	_	24	cc	_	prpos=Cc
+18	pour	pour	ADP	P	ExtPos=SCONJ	24	mark	_	prpos=S
+19	ce	ce	PRON	PRO	PronType=Dem	18	fixed	_	prpos=Pd
+20	qu'	que	SCONJ	CONJS	_	18	fixed	_	prpos=Cs
+21	il	il	PRON	PRO	PronType=Prs	24	nsubj	_	join=left|prpos=Pp
+22	n'	ne	ADV	NEG	_	24	advmod	_	prpos=Rp
+23	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	24	cop	_	join=left|prpos=Vuc
+24	prest	prêt	ADJ	ADJ	_	11	conj	_	prpos=Ag
+25	de	de	ADP	P	_	26	mark	_	prpos=S
+26	proceder	procéder	VERB	VX	VerbForm=Inf	24	xcomp	_	prpos=Vvn
+27	et	et	CCONJ	CONJO	_	28	cc	_	prpos=Cc|wordform=[et]
+28	faire	faire	VERB	VX	VerbForm=Inf	26	conj	_	prpos=Vvn
+29	ce	ce	PRON	PRO	PronType=Dem	28	obj	_	prpos=Pd
+30	que	que	PRON	WPRO	PronType=Rel	33	obj	_	prpos=Pr
+31	la	le	DET	D	Definite=Def|PronType=Art	32	det	_	prpos=Da
+32	cause	cause	NOUN	NCS	Number=Sing	33	nsubj	_	prpos=Nc
+33	désire	désirer	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	29	acl:relcl	_	prpos=Vvc|SpaceAfter=No
+34	:	:	PUNCT	PON	_	39	punct	_	join=left|prpos=Fw
+35	comme	comme	SCONJ	CONJS	_	39	mark	_	prpos=Cs|wordform=co[m]me
+36	le	le	DET	D	Definite=Def|PronType=Art	37	det	_	prpos=Da
+37	respit	répit	NOUN	NCS	Number=Sing	39	nsubj	_	prpos=Nc
+38	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	39	aux:pass	_	prpos=Vuc
+39	ottroyé	octroyer	VERB	VPP	Tense=Past|VerbForm=Part	4	advcl	_	prpos=Ge
+40	à	à	ADP	P	_	42	case	_	prpos=S
+41	l'	le	DET	D	Definite=Def|PronType=Art	42	det	_	prpos=Da
+42	absent	absent	NOUN	NCS	Number=Sing	39	obl	_	join=left|prpos=Nc|SpaceAfter=No
+43	:	:	PUNCT	PON	_	49	punct	_	join=left|prpos=Fw
+44	dont	dont	PRON	WPRO	PronType=Rel	49	obl	_	prpos=Pr|wordform=do[n]t
+45	a	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	49	aux	_	prpos=Vuc
+46	esté	être	AUX	EPP	Tense=Past|VerbForm=Part	49	aux:pass	_	prpos=Ge
+47	cy	ci	ADV	ADV	_	49	advmod	_	prpos=Rg
+48	dessus	dessus	ADV	ADV	_	47	advmod	_	prpos=Rg
+49	parlé	parler	VERB	VPP	Tense=Past|VerbForm=Part	42	acl:relcl	_	prpos=Ge|SpaceAfter=No
+50	.	.	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_24_1_2_2
+# source = Terrien
+# text = Et tient le delay la cause entiere: et n' accepte Court, Iuge, siege ni auditoire: et ne couure grief ne tort fait.
+1	Et	et	CCONJ	CONJO	_	2	cc	_	prpos=Cc
+2	tient	tenir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	delay	délai	NOUN	NCS	Number=Sing	2	nsubj	_	prpos=Nc
+5	la	le	DET	D	Definite=Def|PronType=Art	6	det	_	prpos=Da
+6	cause	cause	NOUN	NCS	Number=Sing	2	obj	_	prpos=Nc
+7	entiere	entier	ADJ	ADJ	_	6	amod	_	prpos=Ag|SpaceAfter=No
+8	:	:	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
+9	et	et	CCONJ	CONJO	_	11	cc	_	prpos=Cc|wordform=[et]
+10	n'	ne	ADV	NEG	_	11	advmod	_	prpos=Rp
+11	accepte	accepter	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	2	conj	_	join=left|prpos=Vvc
+12	Court	cour	NOUN	NCS	Number=Sing	11	obj	_	prpos=Nc|SpaceAfter=No
+13	,	,	PUNCT	PON	_	12	punct	_	join=left|prpos=Fw
+14	Iuge	juge	NOUN	NCS	Number=Sing	12	conj	_	prpos=Nc|SpaceAfter=No
+15	,	,	PUNCT	PON	_	16	punct	_	join=left|prpos=Fw
+16	siege	siège	NOUN	NCS	Number=Sing	12	conj	_	prpos=Nc
+17	ni	ni	CCONJ	CONJO	_	18	cc	_	prpos=Cc
+18	auditoire	auditoire	NOUN	NCS	Number=Sing	12	conj	_	prpos=Nc|SpaceAfter=No
+19	:	:	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
+20	et	et	CCONJ	CONJO	_	22	cc	_	prpos=Cc|wordform=[et]
+21	ne	ne	ADV	ADV	_	22	advmod	_	prpos=Rg
+22	couure	couvrir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	11	conj	_	prpos=Vvc
+23	grief	grief	NOUN	NCS	Number=Sing	22	obj	_	prpos=Nc
+24	ne	ni	CCONJ	CONJO	_	25	cc	_	prpos=Cc
+25	tort	tort	NOUN	NCS	Number=Sing	23	conj	_	prpos=Nc
+26	fait	faire	VERB	VPP	Tense=Past|VerbForm=Part	23	acl	_	prpos=Ge|SpaceAfter=No
+27	.	.	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_24_1_2_3
+# source = Terrien
+# text = Et outre les cas dessusdits celuy qui appelle garant ne peut auoir delay: ne le porteur de clameur de marché de bourse du premier iour.
+1	Et	et	CCONJ	CONJO	_	11	cc	_	prpos=Cc
+2	outre	outre	ADP	P	_	4	case	_	prpos=S
+3	les	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	cas	cas	NOUN	NCPL	Number=Plur	11	obl	_	prpos=Nc
+5	dessusdits	dessusdit	ADJ	ADJ	_	4	amod	_	prpos=Ag
+6	celuy	celui	PRON	PRO	PronType=Dem	11	nsubj	_	prpos=Pd
+7	qui	qui	PRON	WPRO	PronType=Rel	8	nsubj	_	prpos=Pr
+8	appelle	appeler	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	6	acl:relcl	_	prpos=Vvc
+9	garant	garant	NOUN	NCS	Number=Sing	8	obj	_	prpos=Nc
+10	ne	ne	ADV	NEG	_	11	advmod	_	prpos=Rp
+11	peut	pouvoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+12	auoir	avoir	VERB	AX	VerbForm=Inf	11	xcomp	_	prpos=Vun
+13	delay	délai	NOUN	NCS	Number=Sing	12	obj	_	prpos=Nc|SpaceAfter=No
+14	:	:	PUNCT	PON	_	17	punct	_	join=left|prpos=Fw
+15	ne	ni	CCONJ	CONJO	_	17	cc	_	prpos=Cc
+16	le	le	DET	D	Definite=Def|PronType=Art	17	det	_	prpos=Da
+17	porteur	porteur	NOUN	NCS	Number=Sing	11	conj	_	prpos=Nc
+18	de	de	ADP	P	_	19	case	_	prpos=S
+19	clameur	clameur	NOUN	NCS	Number=Sing	17	nmod	_	prpos=Nc
+20	de	de	ADP	P	_	21	case	_	prpos=S
+21	marché	marché	NOUN	NCS	Number=Sing	19	nmod	_	prpos=Nc
+22	de	de	ADP	P	_	23	case	_	prpos=S
+23	bourse	bourse	NOUN	NCS	Number=Sing	21	nmod	_	prpos=Nc
+24-25	du	_	_	_	_	_	_	_	_
+24	de	de	ADP	P	_	27	case	_	prpos=S
+25	le	le	DET	P	Definite=Def|PronType=Art	27	det	_	prpos=Da
+26	premier	premier	ADJ	NUM	NumType=Ord	27	amod	_	prpos=Mo
+27	iour	jour	NOUN	NCS	Number=Sing	23	nmod	_	prpos=Nc|SpaceAfter=No
+28	.	.	PUNCT	PON	_	11	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_24_1_2_4
+# source = Terrien
+# text = Et si est mandé aux Iuges affiner les estats des decrets sans respit ne delay, par ordon. de la Court de l' an 1501.
+1	Et	et	CCONJ	CONJO	_	4	cc	_	prpos=Cc
+2	si	si	ADV	ADV	_	4	advmod	_	prpos=Rg
+3	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	prpos=Vuc
+4	mandé	mander	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
+5-6	aux	_	_	_	_	_	_	_	_
+5	à	à	ADP	P	_	7	case	_	prpos=S
+6	les	le	DET	D	Definite=Def|PronType=Art	7	det	_	prpos=Da
+7	Iuges	juge	NOUN	NCPL	Number=Plur	4	obl	_	prpos=Nc
+8	affiner	affiner	VERB	VX	VerbForm=Inf	4	xcomp	_	prpos=Vvn
+9	les	le	DET	D	Definite=Def|PronType=Art	10	det	_	prpos=Da
+10	estats	état	NOUN	NCPL	Number=Plur	8	obj	_	prpos=Nc
+11-12	des	_	_	_	_	_	_	_	_
+11	de	de	ADP	P	_	13	case	_	prpos=S
+12	les	le	DET	D	Definite=Def|PronType=Art	13	det	_	prpos=Da
+13	decrets	décret	NOUN	NCPL	Number=Plur	10	nmod	_	prpos=Nc
+14	sans	sans	ADP	P	_	15	case	_	prpos=S
+15	respit	répit	NOUN	NCS	Number=Sing	8	obl	_	prpos=Nc
+16	ne	ni	CCONJ	CONJO	_	17	cc	_	prpos=Cc
+17	delay	délai	NOUN	NCS	Number=Sing	15	conj	_	prpos=Nc|SpaceAfter=No
+18	,	,	PUNCT	PON	_	20	punct	_	join=left|prpos=Fw
+19	par	par	ADP	P	_	20	case	_	prpos=S
+20	ordon.	ordonnance	NOUN	NCS	Number=Sing	4	obl	_	prpos=Nc
+21	de	de	ADP	P	_	23	case	_	prpos=S
+22	la	le	DET	D	Definite=Def	23	det	_	prpos=Da
+23	Court	cour	NOUN	NCS	Number=Sing	20	nmod	_	prpos=Nc
+24	de	de	ADP	P	_	26	case	_	prpos=S
+25	l'	le	DET	D	Definite=Def	26	det	_	prpos=Da
+26	an	an	NOUN	NCS	Number=Sing	23	nmod	_	join=left|prpos=Nc
+27	1501	1501	NUM	NUM	NumType=Card	26	nmod	_	prpos=Mc|SpaceAfter=No
+28	.	.	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_24_1_2_5
+# source = Terrien
+# text = Item le delay se doit demander la cause entiere, sans auoir procedé pour le iour, en principal ni accessoire, et sans auoir entamé la cause en plaiderie.
+1	Item	item	ADV	ADV	_	5	advmod	_	prpos=Rg
+2	le	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
+3	delay	délai	NOUN	NCS	Number=Sing	5	nsubj	_	prpos=Nc
+4	se	se	PRON	PRO	PronType=Prs	6	expl	_	prpos=Pp
+5	doit	devoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+6	demander	demander	VERB	VX	VerbForm=Inf	5	xcomp	_	prpos=Vvn
+7	la	le	DET	D	Definite=Def|PronType=Art	8	det	_	prpos=Da
+8	cause	cause	NOUN	NCS	Number=Sing	6	obj	_	prpos=Nc
+9	entiere	entier	ADJ	ADJ	_	8	amod	_	prpos=Ag|SpaceAfter=No
+10	,	,	PUNCT	PON	_	13	punct	_	join=left|prpos=Fw
+11	sans	sans	ADP	P	_	13	case	_	prpos=S
+12	auoir	avoir	AUX	AX	VerbForm=Inf	13	aux	_	prpos=Vun
+13	procedé	procéder	VERB	VPP	Tense=Past|VerbForm=Part	6	obl	_	prpos=Ge
+14	pour	pour	ADP	P	_	16	case	_	prpos=S
+15	le	le	DET	D	Definite=Def|PronType=Art	16	det	_	prpos=Da
+16	iour	jour	NOUN	NCS	Number=Sing	13	obl	_	prpos=Nc|SpaceAfter=No
+17	,	,	PUNCT	PON	_	19	punct	_	join=left|prpos=Fw
+18	en	en	ADP	P	_	19	case	_	prpos=S
+19	principal	principal	NOUN	NCS	Number=Sing	13	obl	_	prpos=Nc
+20	ni	ni	CCONJ	CONJO	_	21	cc	_	prpos=Cc
+21	accessoire	accessoire	ADJ	ADJ	Number=Sing	19	conj	_	prpos=Ag|SpaceAfter=No
+22	,	,	PUNCT	PON	_	26	punct	_	join=left|prpos=Fw
+23	et	et	CCONJ	CONJO	_	26	cc	_	prpos=Cc|wordform=[et]
+24	sans	sans	ADP	P	_	26	case	_	prpos=S
+25	auoir	avoir	AUX	AX	VerbForm=Inf	26	aux	_	prpos=Vun
+26	entamé	entamer	VERB	VPP	Tense=Past|VerbForm=Part	13	conj	_	prpos=Ge
+27	la	le	DET	D	Definite=Def|PronType=Art	28	det	_	prpos=Da
+28	cause	cause	NOUN	NCS	Number=Sing	26	obj	_	prpos=Nc
+29	en	en	ADP	P	_	30	case	_	prpos=S
+30	plaiderie	plaiderie	NOUN	NCS	Number=Sing	26	obl	_	prpos=Nc|SpaceAfter=No
+31	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_24_1_2_6
+# source = Terrien
+# text = Iugé fut en l' Eschiq. de Pasq. tenu à Rouen l' an 1486. 1491. et 1495.
+1	Iugé	juger	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
+2	fut	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	1	aux:pass	_	prpos=Vuc
+3	en	en	ADP	P	_	5	case	_	prpos=S
+4	l'	le	DET	D	Definite=Def|PronType=Art	5	det	_	prpos=Da
+5	Eschiq.	échiquier	NOUN	NCS	Number=Sing	1	obl	_	join=left|prpos=Nc
+6	de	de	ADP	P	_	7	case	_	prpos=S
+7	Pasq.	pâque	NOUN	NCS	Number=Sing	5	nmod	_	prpos=Nc
+8	tenu	tenir	VERB	VPP	Tense=Past|VerbForm=Part	5	acl	_	prpos=Ge
+9	à	à	ADP	P	_	10	case	_	prpos=S
+10	Rouen	Rouen	PROPN	NPRS	Number=Sing	8	obl	_	prpos=Np
+11	l'	le	DET	D	Definite=Def|PronType=Art	12	det	_	prpos=Da
+12	an	an	NOUN	NCS	Number=Sing	8	obl	_	join=left|prpos=Nc
+13	1486.	1486	NUM	NUM	NumType=Card	12	nummod	_	prpos=Mc
+14	1491.	1491	NUM	NUM	NumType=Card	13	conj	_	prpos=Mc
+15	et	et	CCONJ	CONJO	_	16	cc	_	prpos=Cc|wordform=[et]
+16	1495	1495	NUM	NUM	NumType=Card	13	conj	_	prpos=Mc|SpaceAfter=No
+17	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_24_1_2_7
+# source = Terrien
+# text = Et a present n' ont lieu respit et delay auant la contestation par l' ordon. cy dessus mise au ti. pen.
+1	Et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc
+2	a	à	ADP	P	_	3	case	_	prpos=S
+3	present	présent	ADJ	ADJ	Number=Sing	5	obl	_	prpos=Ag
+4	n'	ne	ADV	NEG	_	5	advmod	_	prpos=Rp
+5	ont	avoir	VERB	AJ	Number=Plur|Person=3|VerbForm=Fin	0	root	_	join=left|prpos=Vuc
+6	lieu	lieu	NOUN	NCS	Number=Sing	5	obj	_	prpos=Nc
+7	respit	répit	NOUN	NCS	Number=Sing	5	nsubj	_	prpos=Nc
+8	et	et	CCONJ	CONJO	_	9	cc	_	prpos=Cc|wordform=[et]
+9	delay	délai	NOUN	NCS	Number=Sing	7	conj	_	prpos=Nc
+10	auant	avant	ADP	P	_	12	case	_	prpos=S
+11	la	le	DET	D	Definite=Def|PronType=Art	12	det	_	prpos=Da
+12	contestation	contestation	NOUN	NCS	Number=Sing	5	obl	_	prpos=Nc|wordform=contestatio[n]
+13	par	par	ADP	P	_	15	case	_	prpos=S
+14	l'	le	DET	D	Definite=Def|PronType=Art	15	det	_	prpos=Da
+15	ordon.	ordonnance	NOUN	NCS	Number=Sing	12	nmod	_	join=left|prpos=Nc
+16	cy	ci	ADV	ADV	_	18	advmod	_	prpos=Rg
+17	dessus	dessus	ADV	ADV	_	16	advmod	_	prpos=Rg
+18	mise	mettre	VERB	VPP	Tense=Past|VerbForm=Part	15	acl	_	prpos=Ge
+19-20	au	_	_	_	_	_	_	_	_
+19	à	à	ADP	P	_	21	case	_	prpos=S
+20	le	le	DET	P	Definite=Def|PronType=Art	21	det	_	prpos=Da
+21	ti.	titre	NOUN	NCS	Number=Sing	18	obl	_	prpos=Nc
+22	pen	pénultième	ADJ	ADJ	_	21	amod	_	prpos=Ag|SpaceAfter=No
+23	.	.	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_25_1_2_1
+# source = Terrien
+# text = Continuation couure grief et defaut, si ces mots n' y sont mis, sauf raisons et erremens:
+1	Continuation	continuation	NOUN	NCS	Number=Sing	2	nsubj	_	prpos=Nc
+2	couure	couvrir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+3	grief	grief	NOUN	NCS	Number=Sing	2	obj	_	prpos=Nc
+4	et	et	CCONJ	CONJO	_	5	cc	_	prpos=Cc|wordform=[et]
+5	defaut	défaut	NOUN	NCS	Number=Sing	3	conj	_	prpos=Nc|SpaceAfter=No
+6	,	,	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
+7	si	si	SCONJ	CONJS	_	13	mark	_	prpos=Cs
+8	ces	ce	DET	D	PronType=Dem	9	det	_	prpos=Dd
+9	mots	mot	NOUN	NCPL	Number=Plur	13	nsubj	_	prpos=Nc
+10	n'	ne	ADV	NEG	_	13	advmod	_	prpos=Rp
+11	y	y	PRON	PRO	PronType=Prs	13	obl	_	join=left|prpos=Pp
+12	sont	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	13	aux:pass	_	prpos=Vuc
+13	mis	mettre	VERB	VPP	Tense=Past|VerbForm=Part	2	advcl	_	prpos=Ge|SpaceAfter=No
+14	,	,	PUNCT	PON	_	16	punct	_	join=left|prpos=Fw
+15	sauf	sauf	ADP	P	_	16	case	_	prpos=S
+16	raisons	raison	NOUN	NCPL	Number=Plur	13	obl	_	prpos=Nc|wordform=raiso[n]s
+17	et	et	CCONJ	CONJO	_	18	cc	_	prpos=Cc|wordform=[et]
+18	erremens	errement	NOUN	NCPL	Number=Plur	16	conj	_	prpos=Nc|SpaceAfter=No|wordform=erreme[n]s
+19	:	:	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_25_1_2_2
+# source = Terrien
+# text = Et accepte Iuge, siege, Court et auditoire: et equipolle assignation, ou vaut confession de cause pendante.
+1	Et	et	CCONJ	CONJO	_	2	cc	_	prpos=Cc
+2	accepte	accepter	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+3	Iuge	juge	NOUN	NCS	Number=Sing	2	obj	_	prpos=Nc|SpaceAfter=No
+4	,	,	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
+5	siege	siège	NOUN	NCS	Number=Sing	3	conj	_	prpos=Nc|SpaceAfter=No
+6	,	,	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
+7	Court	cour	NOUN	NCS	Number=Sing	3	conj	_	prpos=Nc
+8	et	et	CCONJ	CONJO	_	9	cc	_	prpos=Cc|wordform=[et]
+9	auditoire	auditoire	NOUN	NCS	Number=Sing	7	conj	_	prpos=Nc|SpaceAfter=No
+10	:	:	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
+11	et	et	CCONJ	CONJO	_	12	cc	_	prpos=Cc|wordform=[et]
+12	equipolle	équipoller	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	2	conj	_	prpos=Vvc
+13	assignation	assignation	NOUN	NCS	Number=Sing	12	obj	_	prpos=Nc|SpaceAfter=No
+14	,	,	PUNCT	PON	_	12	punct	_	join=left|prpos=Fw
+15	ou	ou	CCONJ	CONJO	_	16	cc	_	prpos=Cc
+16	vaut	valoir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	12	conj	_	prpos=Vvc
+17	confession	confession	NOUN	NCS	Number=Sing	16	obj	_	prpos=Nc
+18	de	de	ADP	P	_	19	case	_	prpos=S
+19	cause	cause	NOUN	NCS	Number=Sing	17	nmod	_	prpos=Nc
+20	pendante	pendant	ADJ	ADJ	_	19	amod	_	prpos=Ag|SpaceAfter=No
+21	.	.	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
+
+# sent_id = 1578_Terrien_1_25_1_3_1
+# source = Terrien
+# text = Et notez pour regle generale touchant la procedure et ordre iudiciaire, qu' il faut tousiours suyure les derniers erremens, et qu' iceux derniers erremens couurent les premiers: et que procez ne retourne point.
+1	Et	et	CCONJ	CONJO	_	2	cc	_	prpos=Cc
+2	notez	noter	VERB	VJ	Number=Plur|Person=2|VerbForm=Fin	0	root	_	prpos=Vvc
+3	pour	pour	ADP	P	_	4	case	_	prpos=S
+4	regle	règle	NOUN	NCS	Number=Sing	2	obl	_	prpos=Nc
+5	generale	général	ADJ	ADJ	_	4	amod	_	prpos=Ag
+6	touchant	toucher	VERB	P	Tense=Pres|VerbForm=Part	4	acl	_	prpos=S
+7	la	le	DET	D	Definite=Def|PronType=Art	8	det	_	prpos=Da
+8	procedure	procédure	NOUN	NCS	Number=Sing	6	obj	_	prpos=Nc
+9	et	et	CCONJ	CONJO	_	10	cc	_	prpos=Cc|wordform=[et]
+10	ordre	ordre	NOUN	NCS	Number=Sing	8	conj	_	prpos=Nc
+11	iudiciaire	judiciaire	ADJ	ADJ	_	10	amod	_	prpos=Ag|SpaceAfter=No
+12	,	,	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
+13	qu'	que	SCONJ	CONJS	_	15	mark	_	prpos=Cs
+14	il	il	PRON	PRO	PronType=Prs	15	expl	_	join=left|prpos=Pp
+15	faut	falloir	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	prpos=Vvc
+16	tousiours	toujours	ADV	ADV	_	15	advmod	_	prpos=Rg
+17	suyure	suivre	VERB	VX	VerbForm=Inf	15	xcomp	_	prpos=Vvn
+18	les	le	DET	D	Definite=Def|PronType=Art	20	det	_	prpos=Da
+19	derniers	dernier	ADJ	ADJ	_	20	amod	_	prpos=Ag
+20	erremens	errement	NOUN	NCPL	Number=Plur	17	obj	_	prpos=Nc|SpaceAfter=No
+21	,	,	PUNCT	PON	_	27	punct	_	join=left|prpos=Fw
+22	et	et	CCONJ	CONJO	_	27	cc	_	prpos=Cc|wordform=[et]
+23	qu'	que	SCONJ	CONJS	_	27	mark	_	prpos=Cs
+24	iceux	icelui	DET	D	PronType=Dem	26	det	_	join=left|prpos=Dd
+25	derniers	dernier	ADJ	ADJ	_	26	amod	_	prpos=Ag
+26	erremens	errement	NOUN	NCPL	Number=Plur	27	nsubj	_	prpos=Nc|wordform=erreme[n]s
+27	couurent	couvrir	VERB	VJ	Number=Plur|Person=3|VerbForm=Fin	15	conj	_	prpos=Vvc
+28	les	le	DET	D	Definite=Def|PronType=Art	29	det	_	prpos=Da
+29	premiers	premier	ADJ	ADJNUM	NumType=Ord	27	obj	_	prpos=Mo|SpaceAfter=No
+30	:	:	PUNCT	PON	_	27	punct	_	join=left|prpos=Fw
+31	et	et	CCONJ	CONJO	_	35	cc	_	prpos=Cc|wordform=[et]
+32	que	que	SCONJ	CONJS	_	35	mark	_	prpos=Cs
+33	procez	procès	NOUN	NCS	Number=Sing	35	nsubj	_	prpos=Nc
+34	ne	ne	ADV	NEG	_	35	advmod	_	prpos=Rp
+35	retourne	retourner	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	27	conj	_	prpos=Vvc
+36	point	point	ADV	ADVNEG	_	35	advmod	_	prpos=Rg|SpaceAfter=No
+37	.	.	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
 
