@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_French-ALTS:
-commit 490a5f5a3ccf95e1343eb7d3352d4f9b832f4dad
-Merge: 434330c e79142b
+commit 1db929a2cb8b6607054d7b7894df72f27a9d3bed
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 19:25:19 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'fr_alts'
 Language code (from CoNLL-U file name) = 'fr'
@@ -25,45 +25,61 @@ Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fr --max-err=10 UD_French-ALTS/fr_alts-ud-dev.conllu
-[Line 10 Sent 1563-1569_Guern_1_1_95_1_2]: [L3 Warning pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 14 Sent 1563-1569_Guern_1_1_95_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'fut' lacks the 'Mood' feature
-[Line 25 Sent 1563-1569_Guern_1_1_95_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'pouvoet' lacks the 'Mood' feature
-[Line 28 Sent 1563-1569_Guern_1_1_95_1_2]: [L3 Warning pron-det-without-prontype] The word 'l'' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 31 Sent 1563-1569_Guern_1_1_95_1_2]: [L3 Warning pron-det-without-prontype] The word 'ung' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 41 Sent 1563-1569_Guern_1_1_95_1_3]: [L3 Warning verbform-fin-without-mood] Finite verb 'retyra' lacks the 'Mood' feature
-[Line 43 Sent 1563-1569_Guern_1_1_95_1_3]: [L3 Warning pron-det-without-prontype] The word 'ladite' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 46 Sent 1563-1569_Guern_1_1_95_1_3]: [L3 Warning verbform-fin-without-mood] Finite verb 'parla' lacks the 'Mood' feature
-[Line 56 Sent 1563-1569_Guern_1_1_95_1_4]: [L3 Warning verbform-fin-without-mood] Finite verb 'aperceult' lacks the 'Mood' feature
-[Line 67 Sent 1563-1569_Guern_1_1_95_1_5]: [L3 Warning verbform-fin-without-mood] Finite verb 'raporte' lacks the 'Mood' feature
-...suppressing further errors regarding Warning
+[Line 10 Sent 1563-1569_Guern_1_1_95_1_2]: [L3 WARNING pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 14 Sent 1563-1569_Guern_1_1_95_1_2]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fut' lacks the 'Mood' feature
+[Line 25 Sent 1563-1569_Guern_1_1_95_1_2]: [L3 WARNING verbform-fin-without-mood] Finite verb 'pouvoet' lacks the 'Mood' feature
+[Line 28 Sent 1563-1569_Guern_1_1_95_1_2]: [L3 WARNING pron-det-without-prontype] The word 'l'' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 31 Sent 1563-1569_Guern_1_1_95_1_2]: [L3 WARNING pron-det-without-prontype] The word 'ung' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 41 Sent 1563-1569_Guern_1_1_95_1_3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'retyra' lacks the 'Mood' feature
+[Line 43 Sent 1563-1569_Guern_1_1_95_1_3]: [L3 WARNING pron-det-without-prontype] The word 'ladite' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 46 Sent 1563-1569_Guern_1_1_95_1_3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'parla' lacks the 'Mood' feature
+[Line 56 Sent 1563-1569_Guern_1_1_95_1_4]: [L3 WARNING verbform-fin-without-mood] Finite verb 'aperceult' lacks the 'Mood' feature
+[Line 67 Sent 1563-1569_Guern_1_1_95_1_5]: [L3 WARNING verbform-fin-without-mood] Finite verb 'raporte' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 5264 Sent 1578_Terrien_1_23_15_1_5]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
 Warnings: 1085
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang fr --max-err=10 UD_French-ALTS/fr_alts-ud-test.conllu
-[Line 3 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 Warning pron-det-without-prontype] The word 'Le' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 8 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 Warning pron-det-without-prontype] The word 'le' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 12 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 Warning pron-det-without-prontype] The word 'l'' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 33 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'fut' lacks the 'Mood' feature
-[Line 36 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 Warning pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 42 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 Warning pron-det-without-prontype] The word 'le' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 45 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 Warning pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 47 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 Warning pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 50 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 Warning pron-det-without-prontype] The word 'l'' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 68 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
-...suppressing further errors regarding Warning
+[Line 3 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 WARNING pron-det-without-prontype] The word 'Le' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 8 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 WARNING pron-det-without-prontype] The word 'le' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 12 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 WARNING pron-det-without-prontype] The word 'l'' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 33 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fut' lacks the 'Mood' feature
+[Line 36 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 WARNING pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 42 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 WARNING pron-det-without-prontype] The word 'le' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 45 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 WARNING pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 47 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 WARNING pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 50 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 WARNING pron-det-without-prontype] The word 'l'' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 68 Sent 1563-1569_Guern_1_1_1_1_1]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 11915 Sent 1578_Terrien_1_2_9_2_1]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 14283 Sent 1578_Terrien_1_6_2_1_4]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 15075 Sent 1578_Terrien_1_6_11_1_3]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 15702 Sent 1578_Terrien_1_6_14_1_1]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 15919 Sent 1578_Terrien_1_6_14_1_5]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 16200 Sent 1578_Terrien_1_8_4_1_1]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 21380 Sent 1578_Terrien_1_18_3_1_1]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 21390 Sent 1578_Terrien_1_18_3_1_1]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 21398 Sent 1578_Terrien_1_18_3_1_1]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 21406 Sent 1578_Terrien_1_18_3_1_1]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+...suppressing further messages regarding WARNING/SYNTAX
 Warnings: 3278
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang fr --max-err=10 UD_French-ALTS/fr_alts-ud-train.conllu
-[Line 4 Sent 1563-1569_Guern_2_1_1_8_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'dit' lacks the 'Mood' feature
-[Line 10 Sent 1563-1569_Guern_2_1_1_8_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'partirent' lacks the 'Mood' feature
-[Line 16 Sent 1563-1569_Guern_2_1_1_8_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'furent' lacks the 'Mood' feature
-[Line 25 Sent 1563-1569_Guern_2_1_1_8_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'vienissent' lacks the 'Mood' feature
-[Line 36 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 Warning verbform-fin-without-mood] Finite verb 'dit' lacks the 'Mood' feature
-[Line 39 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 Warning verbform-fin-without-mood] Finite verb 'avoient' lacks the 'Mood' feature
-[Line 46 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 Warning verbform-fin-without-mood] Finite verb 'targerent' lacks the 'Mood' feature
-[Line 47 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 Warning pron-det-without-prontype] The word 'l'' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 54 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 Warning pron-det-without-prontype] The word 'leur' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 56 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 Warning verbform-fin-without-mood] Finite verb 'vendyt' lacks the 'Mood' feature
-...suppressing further errors regarding Warning
+[Line 4 Sent 1563-1569_Guern_2_1_1_8_2]: [L3 WARNING verbform-fin-without-mood] Finite verb 'dit' lacks the 'Mood' feature
+[Line 10 Sent 1563-1569_Guern_2_1_1_8_2]: [L3 WARNING verbform-fin-without-mood] Finite verb 'partirent' lacks the 'Mood' feature
+[Line 16 Sent 1563-1569_Guern_2_1_1_8_2]: [L3 WARNING verbform-fin-without-mood] Finite verb 'furent' lacks the 'Mood' feature
+[Line 25 Sent 1563-1569_Guern_2_1_1_8_2]: [L3 WARNING verbform-fin-without-mood] Finite verb 'vienissent' lacks the 'Mood' feature
+[Line 36 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'dit' lacks the 'Mood' feature
+[Line 39 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'avoient' lacks the 'Mood' feature
+[Line 46 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'targerent' lacks the 'Mood' feature
+[Line 47 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 WARNING pron-det-without-prontype] The word 'l'' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 54 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 WARNING pron-det-without-prontype] The word 'leur' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 56 Sent 1563-1569_Guern_2_1_1_8_3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'vendyt' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 33856 Sent 1578_Terrien_1_27_11_1_1]: [L3 WARNING fixed-gap] Gaps in fixed expression [103, 107] 'veu * * * qu''
+[Line 34498 Sent 1578_Terrien_1_27_12_1_1]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 42632 Sent 1578_Terrien_1_34_11_3_1]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 46495 Sent 1578_Terrien_1_39_2_2_3]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
 Warnings: 7639
 *** PASSED ***
 Validity: 1
