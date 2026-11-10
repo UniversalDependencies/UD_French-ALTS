@@ -86,7 +86,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Romanova, Natalia; Ziane, Rayan; Daoudi, Khensa; Brillet, Théo
+Contributors: Romanova, Natasha; Ziane, Rayan; Daoudi, Khensa; Brillet, Théo
 Contributing: here
 Contact: natalia.romanova@unicaen.fr
 ===============================================================================
